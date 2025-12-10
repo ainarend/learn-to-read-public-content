@@ -1,0 +1,62 @@
+{
+  "date": "2025-12-10",
+  "language": "et",
+  "title": "SÕBRAD MÄNGIVAD",
+  "generatedAt": "2025-12-10T11:25:45.796Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE REINU",
+      "type": "fox",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KARU KALLE",
+      "type": "bear",
+      "image": "char2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REBANE REINU JA KARU KALLE.",
+      "image": "page1.png"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD MÄNGIVAD KOOS PÄIKESE KÄES.",
+      "image": "page2.png"
+    },
+    {
+      "pageNumber": 3,
+      "text": "REBANE NÄEB ÜHT LILLE.",
+      "image": "page3.png"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LILL ON ILUS JA KOLLANE.",
+      "image": "page4.png"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KARU VAATAB KA LILLE.",
+      "image": "page5.png"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD NUUSUTAVAD KOOS LILLE.",
+      "image": "page6.png"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LILL LÕHNAB HÄSTI.",
+      "image": "page7.png"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD NAERATAVAD JA ON ÕNNELIKUD.",
+      "image": "page8.png"
+    }
+  ]
+}
