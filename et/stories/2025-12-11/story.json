@@ -1,0 +1,62 @@
+{
+  "date": "2025-12-11",
+  "language": "et",
+  "title": "KARU JA JÄNES",
+  "generatedAt": "2025-12-11T05:38:53.247Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KARU",
+      "type": "bear",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES",
+      "type": "rabbit",
+      "image": "char2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KARU JA JÄNES MÄNGIVAD.",
+      "image": "page1.png"
+    },
+    {
+      "pageNumber": 2,
+      "text": "PÄIKE PAISTAB SOOJALT.",
+      "image": "page2.png"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD LEIAVAD ILUSA LILLE.",
+      "image": "page3.png"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LILL ON VÄGA VÄRVILINE.",
+      "image": "page4.png"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KARU JA JÄNES ON RÕÕMSAD.",
+      "image": "page5.png"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD ISTUTAVAD LILLESEEMNEID.",
+      "image": "page6.png"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VARSTI KASVAVAD UUED LILLED.",
+      "image": "page7.png"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SÕBRAD NAERATAVAD KOOS.",
+      "image": "page8.png"
+    }
+  ]
+}
