@@ -1,0 +1,67 @@
+{
+  "date": "2025-12-11",
+  "language": "et",
+  "title": "MIKI JA PIKSIL",
+  "generatedAt": "2025-12-11T04:55:26.917Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KASS MIKI",
+      "type": "cat",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES PIKSIL",
+      "type": "rabbit",
+      "image": "char2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SEE ON KASS MIKI JA JÄNES PIKSIL.",
+      "image": "page1.png"
+    },
+    {
+      "pageNumber": 2,
+      "text": "MIKI JA PIKSIL ON SÕBRAD.",
+      "image": "page2.png"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD MÄNGIVAD KOOS.",
+      "image": "page3.png"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD NÄEVAD ÜHTE ILUSAT LIBLIKAT.",
+      "image": "page4.png"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LIBLIKAS LENDAB.",
+      "image": "page5.png"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MIKI JA PIKSIL JÄRGNEVAD LIBLIKALE.",
+      "image": "page6.png"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD JÕUAVAD SUURELE LILLEVÄLJALE.",
+      "image": "page7.png"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SEAL ON PALJU ILUSAID LILLI.",
+      "image": "page8.png"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MIKI JA PIKSIL ON RÕÕMSAD.",
+      "image": "page9.png"
+    }
+  ]
+}
