@@ -1,0 +1,62 @@
+{
+  "date": "2025-12-14",
+  "language": "et",
+  "title": "VÄRVILINE LEHETÖÖ",
+  "generatedAt": "2025-12-14T08:41:32.949Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORIKAS OLI",
+      "type": "squirrel",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL SASS",
+      "type": "hedgehog",
+      "image": "char2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ORIKAS JA SASS ON PARGIS.",
+      "image": "page1.png"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD VÄRVILISI LEHTI.",
+      "image": "page2.png"
+    },
+    {
+      "pageNumber": 3,
+      "text": "SASS KORJAB PUNASEID LEHTI.",
+      "image": "page3.png"
+    },
+    {
+      "pageNumber": 4,
+      "text": "ORIKAS KORJAB KOLLASEID LEHTI.",
+      "image": "page4.png"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD KORJAVAD VEEL LEHTI.",
+      "image": "page5.png"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD TEHKEVAD ILUSA PILDI.",
+      "image": "page6.png"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PILT ON VÄRVILINE JA SUUR.",
+      "image": "page7.png"
+    },
+    {
+      "pageNumber": 8,
+      "text": "ORIKAS JA SASS ON RÕÕMSAD.",
+      "image": "page8.png"
+    }
+  ]
+}
