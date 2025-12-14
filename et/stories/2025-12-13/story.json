@@ -1,0 +1,102 @@
+{
+  "date": "2025-12-13",
+  "language": "et",
+  "title": "KATI JA ANTS KÜPSEKÖÖGIS",
+  "generatedAt": "2025-12-14T21:50:23.893Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KATI",
+      "type": "human",
+      "description": "Väike inimene Kati, umbes 5-aastane tüdruk, heledate juustega patsid, kandmas sinist põlle ja punast T-särki, suured rõõmsad silmad ja naeratav nägu. Armas multifilmistiil, sõbralik ja uudishimulik.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ANTS",
+      "type": "human",
+      "description": "Väike inimene Ants, umbes 6-aastane poiss, lühikeste pruunide juustega, kandmas rohelist põlle ja kollast T-särki, laiad rõõmsad silmad ja mänguline näoilme. Armas multifilmistiil, abivalmis ja entusiastlik.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Hubane ja värviline multifilmistiilis köök. Heledad puidust kapid, suur töölaud keskel, valge ahi nurgas. Põrandal on ruuduline vaip, aknalaual väike taim. Köök on puhas, valgustatud ja kutsuv. Päevane aeg, ere valgus.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KATI JA ANTS ON KÖÖGIS.",
+      "scene": "Kati ja Ants seisavad rõõmsalt hubases köögis suure tööpinna ees. Mõlemal on seljas värvilised põlled. Nad vaatavad üksteisele naeratades otsa, käed on töölaua peal. Päikesepaisteline ja rõõmus atmosfäär. LANDSCAPE kompositsioon.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHTSID KÜPSISEID TEHA.",
+      "scene": "Kati ja Ants seisavad tööpinna ees köögis. Nende ees on kauss, lusikas ja paar koostisainet (jahupakk, suhkrutoos). Nad vaatavad koostisaineid uudishimulikult ja entusiastlikult, nende nägudel on ootusärevus. LANDSCAPE kompositsioon.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "KATI SEGAB JAHU.",
+      "scene": "Kati seisab köögi tööpinna ääres. Tal on käes suur lusikas ja ta segab hoolikalt jahutäit kausis. Antsu käsi ulatub kausi poole, justkui tahaks ta ka aidata. Mõlemad on keskendunud ja rõõmsameelsed. Taustal on näha teisi köögitarvikuid. LANDSCAPE kompositsioon.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "ANTS LISAB SUHKRUT.",
+      "scene": "Ants ulatab köögi tööpinnal kausi kohal väikese tassi, millest pudeneb valget suhkrut kaussi. Kati hoiab kaussi kinni ja vaatab Antsule julgustavalt otsa. Mõlemad naeratavad, tehes koostööd. LANDSCAPE kompositsioon.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD VORMISID KÜPSISEID.",
+      "scene": "Kati ja Ants on köögi tööpinna ääres. Nende ees on tainas ja küpsisevormid (näiteks tähe, südame ja ringi kujuga). Nad vormivad rõõmsalt tainast, Kati hoiab südamekujulist vormi, Ants tähekujulist. Mõlemad on loomeprotsessi süvenenud. LANDSCAPE kompositsioon.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KÜPSISED LÄHEVAD AHJU.",
+      "scene": "Kati ja Ants seisavad köögis lahti tehtud ahjuukse ees. Ants hoiab ettevaatlikult ahjuplaati, millel on reas toored küpsised. Kati osutab naeratades ahju. Mõlemad on elevil ja ettevaatlikud. LANDSCAPE kompositsioon.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KÜPSISED KÜPSEVAD KIIRESTI.",
+      "scene": "Stseen köögis, kus ahi on suletud. Ahju klaasukse taga on näha küpsevaid küpsiseid, mis hakkavad pruunistuma. Ahjust paistab õrn soe valgus ja suitsuvine (nagu soojus). Kati ja Ants vaatavad ahjuukse taha kannatamatult ja õnnelikult. LANDSCAPE kompositsioon.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MMM, MAITSVAD KÜPSISED!",
+      "scene": "Kati ja Ants seisavad köögi tööpinna ääres. Nende ees on taldrik värskelt küpsetatud, kuldpruunide küpsistega. Mõlemad hoiavad käes ühte küpsist, nende silmad on suured ja nägudel on õnnelikud naeratused, nautides lõhna. Aur tõuseb küpsistest. LANDSCAPE kompositsioon.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KATI JA ANTS JAGAVAD.",
+      "scene": "Kati ja Ants pakuvad küpsiseid, mis on taldrikul. Kati ulatab ühe küpsise Antsu poole ja Ants ulatab ühe küpsise Kati poole. Nende nägudel on jagamisrõõm ja sõbralikud naeratused. LANDSCAPE kompositsioon.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KÕIK OLID NII RÕÕMSAD.",
+      "scene": "Kati ja Ants istuvad köögi laua taga, ees on taldrik küpsistega ja piimaklaasid. Nad söövad küpsiseid ja naeratavad teineteisele. Köök on helge ja õnnelik, täis rahulolu ja sõprust. LANDSCAPE kompositsioon.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
