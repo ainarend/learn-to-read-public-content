@@ -1,0 +1,95 @@
+{
+  "date": "2025-12-15",
+  "language": "et",
+  "title": "ANNA JA TOOMAS EHITAVAD",
+  "generatedAt": "2025-12-14T21:56:26.431Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ANNA",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne tüdruk lühikeste heledate juustega. Seljas on tal erekollane kleit ja jalas sinised kingad. Tema suured, säravad silmad on täis uudishimu ja naeratus on alati näol. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "TOOMAS",
+      "type": "human",
+      "description": "Väike inimene, energiline poiss lühikeste pruunide juustega. Seljas on tal roheline T-särk ja hallid lühikesed püksid. Ta on alati valmis mängima ja tema silmad on täis rõõmu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "LIIVAKAST AIAS",
+      "description": "Päikeseline ja avar aed rohelise muruga. Keskel on suur, kollane liivakast puhta liivaga. Liivakasti kõrval on mõned laste mänguasjad ja väike ämber. Tagapool paistab õitsvaid lilli ja helesinine taevas. Värviline ja rõõmus atmosfäär. Multifilmistiil.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ANNA JA TOOMAS MÄNGISID.",
+      "scene": "Anna ja Toomas on liivakasti ääres, naeratavad ja vaatavad üksteisele otsa. Mõlemad seisavad liivakasti serval, valmis alustama. Päike paistab rõõmsalt. LANDSCAPE composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Anna ja Toomas seisavad liivakasti ääres, näoilmed mõtlikud, kuid põnevil. Anna osutab liivakasti poole, Toomas noogutab rõõmsalt. LANDSCAPE composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TAHTSID EHITADA.",
+      "scene": "Anna ja Toomas on mõlemad kükitamas liivakasti ääres. Neil on mõned väikesed kühvlid ja ämbrid nende ees. Nad vaatavad liiva ja paistavad innukad. LANDSCAPE composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "EHITAME LIIVALOSSI NÜÜD.",
+      "scene": "Anna ja Toomas naeravad ja plaksutavad käsi, kui nad otsustavad. Anna hoiab väikest punast ämbrit, Toomas väikest sinist kühvlit. LANDSCAPE composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD TÕID ÄMBRID.",
+      "scene": "Anna ja Toomas kannavad igaüks värvilist plastämbrist, mis on täis liiva. Nad liiguvad otsustavalt ja rõõmsalt liivakasti keskele. LANDSCAPE composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD KOGUVAD LIIVA.",
+      "scene": "Anna ja Toomas kühveldavad liiva oma väikeste kühvlitega ämbritesse. Mõlemad on süvenenud ja keskendunud oma tööle. Liiv on puhas ja kuldne. LANDSCAPE composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD TEGID HÄSTI.",
+      "scene": "Anna ja Toomas töötavad koos, et ehitada liivalossi. Nad kasutavad ämbreid ja kühvleid, et vormida liiva tornideks ja seinteks. Nende näod on rõõmsad ja uhked. LANDSCAPE composition.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LIIVALOSS ON VALMIS!",
+      "scene": "Suur ja ilus liivaloss seisab liivakastis. Sellel on mitu torni ja värav. Anna ja Toomas seisavad uhkelt lossi ees, käed puusas ja naeratavad laialt. LOSS on kena ja puhas. LANDSCAPE composition.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "ANNA JA TOOMAS NAERATAVAD.",
+      "scene": "Anna ja Toomas istuvad liivalossi kõrval, mõlemad naeratavad ja vaatavad oma loomingut. Nad hoiavad üksteisel käest kinni, näidates sõprust ja rahulolu. Päike paistab nende peale. LANDSCAPE composition.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
