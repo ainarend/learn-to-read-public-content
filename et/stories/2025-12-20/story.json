@@ -1,0 +1,95 @@
+{
+  "date": "2025-12-20",
+  "language": "et",
+  "title": "PÄIKESELINE JOONISTUS",
+  "generatedAt": "2025-12-19T22:11:34.636Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIIA",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk. Tal on heledad põsepuna roosad põsed ja naeratav nägu. Liial on seljas kollane kleit ja jalas sinised kingad. Tema pruunid juuksed on patsidesse põimitud. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MART",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane poiss. Tal on lühikesed pruunid juuksed ja rõõmsameelne uudishimulik näoilme. Mardil on seljas roheline T-särk ja pruunid lühikesed püksid. Jalas oranžid tossud. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline park",
+      "description": "Suur ja roheline päikeseline park, kus on kõrged puud ja mitmevärvilised lilled. Maapind on kaetud pehme rohelise muruga. Kauguses paistab väike värviline mänguväljak. Taevas on selge ja sinine, päike paistab soojalt. Atmosfäär on rõõmus ja rahulik. Multifilmistiil.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIIA JA MART LÄHEVAD PARKI.",
+      "scene": "Liia ja Mart kõnnivad rõõmsalt mööda päikeselist pargirada. Neil on käes joonistuspaberid ja värvipliiatsid. Mõlemad naeratavad, valmis mängima ja looma. LANDSCAPE composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Liia ja Mart istuvad pargis rohelisel murul, nende ees on paber ja värvipliiatsid. Nad vaatavad ringi, mõtiskledes, mida nad joonistada võiksid. Päike paistab soojalt. LANDSCAPE composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD HAKKAVAD JOONISTAMA.",
+      "scene": "Liia ja Mart on rõõmsalt keskendunud oma paberitele. Nende käes on värvipliiatsid ja nad hakkavad esimesi jooni vedama. Mõlemal on naeratus näol. LANDSCAPE composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MART JOONISTAB PUUD.",
+      "scene": "Mart on süvenenud oma joonistusse. Ta joonistab rohelist lehtedega puud. Liia vaatab teda naeratades ja rõõmsalt. LANDSCAPE composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LIIA JOONISTAB LILLE.",
+      "scene": "Liia joonistab oma paberile värvilist ja ilusat lille. Mart vaatab teda huviga. Mõlemad on rahulikult ametis oma kunstiga. LANDSCAPE composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD NÄEVAD LIBLIKAT.",
+      "scene": "Liia ja Mart vaatavad üles, nende näod on üllatunud ja rõõmsad. Nende kohal lendab graatsiliselt värviline liblikas. LANDSCAPE composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KA LIBLIKAS ON PABERIL.",
+      "scene": "Liia ja Mart joonistavad oma piltidele nüüd liblikaid. Nad on jälle keskendunud, kuid rõõmsad uue inspiratsiooni üle. Nende joonistused muutuvad veelgi värvilisemaks. LANDSCAPE composition.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NENDE PILDID ON ILUSAD.",
+      "scene": "Liia ja Mart hoiavad oma valmis joonistusi uhkelt käes, näidates neid üksteisele. Pildid on värvilised ja rõõmsameelsed, kujutades parki ja liblikat. LANDSCAPE composition.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LIIA JA MART ON ÕNNELIKUD.",
+      "scene": "Liia ja Mart istuvad pargis murul, naeratades teineteisele rahulikult. Nad on rahul oma kunstilise saavutusega ja sõprusega. Päike paistab nende peale. LANDSCAPE composition.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
