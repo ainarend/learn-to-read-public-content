@@ -51,7 +51,7 @@
     },
     {
       "pageNumber": 4,
-      "text": "NAD KOPUTAVAD PULKAGA.",
+      "text": "NAD KOPUTAVAD PULGAGA.",
       "scene": "Rebane Reinar hoiab väikest puupulka käpas. Jänes Juku hoiab lamedat kivi. Reinar koputab pulgaga vastu kivi ja neil on mõlemal lõbusad näoilmed. Väikesed helijooned näitavad koputamist. LANDSCAPE.",
       "image": "page4.png",
       "location_id": "loc1"
@@ -72,14 +72,14 @@
     },
     {
       "pageNumber": 7,
-      "text": "NAD OTSIVAD KÄBI.",
+      "text": "NAD OTSIVAD SEENT.",
       "scene": "Rebane Reinar ja Jänes Juku on nüüd metsataudiku servas, kus kasvavad kuused. Nad otsivad maapinnalt midagi uut. Reinar osutab männikäbile. LANDSCAPE.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "NAD RAPUTAVAD KÄBI.",
+      "text": "NAD KOPUTAVAT SEENT.",
       "scene": "Rebane Reinar hoiab käpas männikäbi ja raputab seda. Jänes Juku on tema kõrval ja kuulab. Männikäbist kostub vaikne sahisev heli. Mõlemad naeratavad. LANDSCAPE.",
       "image": "page8.png",
       "location_id": "loc1"
