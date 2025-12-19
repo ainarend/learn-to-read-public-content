@@ -1,0 +1,102 @@
+{
+  "date": "2025-12-19",
+  "language": "et",
+  "title": "METSA MUUSIKA",
+  "generatedAt": "2025-12-19T09:37:59.403Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE REINAR",
+      "type": "fox",
+      "description": "Väike oranž rebane koheva sabaga, seljas väike erkroheline vest. Tal on suured targad silmad ja sõbralik naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES JUKU",
+      "type": "rabbit",
+      "description": "Väike hall jänes pikkade kõrvadega, seljas väike sinine püksisärgike. Tal on sõbralikud uudishimulikud silmad ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "METSA LAGENDIK",
+      "description": "Helge ja päikeseline metsataudik rohelise muruga. Ümberringi kõrged puud roheliste lehtedega, maapinnal on mõned väikesed kivid ja kännud. Õhus on soe ja kutsuv tunne, õrn tuuleke liigutab lehti. Multifilmistiil.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REINAR JA JUKU ON METSAS.",
+      "scene": "Rebane Reinar ja Jänes Juku seisavad metsataudiku rohelisel murul. Nad vaatavad ringi uudishimulikult, päike paistab nende peale läbi puulehtede. Reinar osutab kuhugi eemale. Rõõmus meeleolu. LANDSCAPE.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Rebane Reinar ja Jänes Juku seisavad teineteise vastas, nende silmad säravad. Juku paneb käpad lõua alla, justkui mõeldes. Mõlema näol on rõõmus ja põnevil ilme. LANDSCAPE.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD OTSIVAD PULKA.",
+      "scene": "Rebane Reinar ja Jänes Juku kummarduvad metsataudiku muru poole. Nad otsivad midagi maa pealt, nende pilgud on keskendunud. Reinar osutab väikesele oksale. LANDSCAPE.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD KOPUTAVAD PULKAGA.",
+      "scene": "Rebane Reinar hoiab väikest puupulka käpas. Jänes Juku hoiab lamedat kivi. Reinar koputab pulgaga vastu kivi ja neil on mõlemal lõbusad näoilmed. Väikesed helijooned näitavad koputamist. LANDSCAPE.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD OTSIVAD LEHTE.",
+      "scene": "Rebane Reinar ja Jänes Juku jalutavad mööda metsataudikut. Nad vaatavad üles puude poole, otsides midagi lehestikust. Lehed on rohelised ja elavad. LANDSCAPE.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD RAPUTAVAD LEHTE.",
+      "scene": "Jänes Juku hoiab käpas suurt rohelist lehte. Ta raputab seda õrnalt ja leht teeb sahinat. Rebane Reinar naerab ja vaatab Jukut. Väikesed helijooned näitavad sahinat. LANDSCAPE.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD OTSIVAD KÄBI.",
+      "scene": "Rebane Reinar ja Jänes Juku on nüüd metsataudiku servas, kus kasvavad kuused. Nad otsivad maapinnalt midagi uut. Reinar osutab männikäbile. LANDSCAPE.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD RAPUTAVAD KÄBI.",
+      "scene": "Rebane Reinar hoiab käpas männikäbi ja raputab seda. Jänes Juku on tema kõrval ja kuulab. Männikäbist kostub vaikne sahisev heli. Mõlemad naeratavad. LANDSCAPE.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD TEEVAD HÄÄLI.",
+      "scene": "Rebane Reinar ja Jänes Juku seisavad koos, ühel käsi pulga ja kiviga, teisel käsi lehe ja käbiga. Nad teevad kõiki hääli korraga, nende näod on täis rõõmu ja lõbu. Muusikanoodid hõljuvad nende ümber. LANDSCAPE.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEE ON NALJAKAS MUUSIKA!",
+      "scene": "Rebane Reinar ja Jänes Juku tantsivad ja naeravad metsataudikul. Nende ümber on pulk, kivi, leht ja käbi. Nad on rõõmsad ja õnnelikud oma metsamuusika üle. Taustal paistab päike. LANDSCAPE.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
