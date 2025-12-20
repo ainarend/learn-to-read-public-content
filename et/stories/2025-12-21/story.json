@@ -1,0 +1,114 @@
+{
+  "date": "2025-12-21",
+  "language": "et",
+  "title": "METSA PEITUSMÄNG",
+  "generatedAt": "2025-12-20T22:13:25.840Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KÄBI",
+      "type": "squirrel",
+      "description": "Väike pruun orav suurte kohevate sabaga, seljas väike roheline vest, suured rõõmsameelsed silmad ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL",
+      "type": "hedgehog",
+      "description": "Väike hall siilike teravate ogadega, ninaots must ja läikiv, naeratab sõbralikult. Seljas väike sinine sall. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "METSARADA",
+      "description": "Lai ja leheline metsarada, kõrged rohelised puud ääristamas, päike paistab läbi lehtede, soe ja kutsuv mets. Multifilmistiil, maastikuvaade.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "PUUMAJAKE",
+      "description": "Värviline puidust puumajake, ehitatud puuokste vahele, rippredeliga, ümbritsetud roheliste lehtede ja okstega. Päike paistab. Multifilmistiil, maastikuvaade.",
+      "image": "loc2.png"
+    },
+    {
+      "id": "loc3",
+      "name": "PÄIKESELINE LAGENDIK",
+      "description": "Suur avatud lagendik keset metsa, täis rohelist rohtu ja värvilisi metsalilli, pehme päikesevalgus, rahulik ja rõõmus koht. Multifilmistiil, maastikuvaade.",
+      "image": "loc3.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KÄBI JA SIIL MÄNGIVAD.",
+      "scene": "Orav Käbi ja siil Siil seisavad metsarajal, vaatavad teineteisele otsa naeratades, käed kutsuvalt laiali. Päike paistab lehtede vahelt. Multifilmistiil.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD MÄNGIVAD PEITUST.",
+      "scene": "Siil Siil katab oma silmad käppadega, et lugema hakata. Orav Käbi vaatab talle üle õla ja naeratab salapäraselt, valmistudes peitma. Multifilmistiil.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "KÄBI OTSIS SIILI.",
+      "scene": "Orav Käbi kõnnib metsarajal, ringi vaadates, otsides sõber Siili. Tema nägu on keskendunud ja uudishimulik. Multifilmistiil.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SIIL PEIDAB PUUMAJAS.",
+      "scene": "Siil Siil piilub puumajakese aknast välja, naeratades vallatult. Ta on ennast hästi ära peitnud. Multifilmistiil.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KÄBI JALUTAB METSAS.",
+      "scene": "Orav Käbi jalutab metsarajal, pilk ülespoole suunatud, puude vahel. Päike valgustab teed. Multifilmistiil.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KÄBI NÄEB PUUMAJAKEST.",
+      "scene": "Orav Käbi seisatab metsaraja servas ja vaatab üles värvilisele puumajakesele. Tema silmad on suured üllatusest. Multifilmistiil.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SIIL NAERATAB PUUMAJAS.",
+      "scene": "Siil Siil piilub puumajakese uksest välja ja naeratab Käbile, kes on teda leidnud. Mõlemad on rõõmsad. Multifilmistiil.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KÄBI LEIAB SÕBRA SIILI.",
+      "scene": "Orav Käbi on roninud puumajakese juurde. Ta naeratab siil Siilile, kes on ukse avanud. Käbi on rõõmus, et sõbra leidis. Multifilmistiil.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON NÜÜD KOOS.",
+      "scene": "Orav Käbi ja siil Siil seisavad rõõmsalt puumajakese ees, teineteise kõrval, käppadest kinni hoides. Nad on õnnelikud koos mängides. Multifilmistiil.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "MÄNGIMINE ON NII LÕBUS!",
+      "scene": "Orav Käbi ja siil Siil jooksevad ja naeravad päikeselisel lagendikul, rohelises rohus. Ümberringi on lilled ja õnnelik õhkkond. Multifilmistiil.",
+      "image": "page10.png",
+      "location_id": "loc3"
+    }
+  ]
+}
