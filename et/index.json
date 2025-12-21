@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2025-12-21",
+  "latestDate": "2025-12-22",
   "stories": [
+    {
+      "date": "2025-12-22",
+      "title": "LIISA JA PEETRI LIIVAPALEEST",
+      "pageCount": 9,
+      "characters": [
+        "LIISA",
+        "PEETER"
+      ]
+    },
     {
       "date": "2025-12-21",
       "title": "METSA PEITUSMÄNG",

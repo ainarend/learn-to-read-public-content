@@ -1,0 +1,95 @@
+{
+  "date": "2025-12-22",
+  "language": "et",
+  "title": "LIISA JA PEETRI LIIVAPALEEST",
+  "generatedAt": "2025-12-21T22:11:03.334Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne tüdruk, heledate juuste ja suurte pruunide silmadega. Kandmas siniseid lühikesi pükse ja kollast T-särki. Sõbralik ja abivalmis. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, energiline poiss, lühikeste pruunide juuste ja säravate siniste silmadega. Kandmas rohelisi lühikesi pükse ja oranži T-särki. Naeratav ja mänguhimuline. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "PÄIKESELINE LIIVARAND",
+      "description": "Päikeseline liivarand, pehme kuldne liiv, sinine meri kauguses, mõned pilved taevas. Rannas on mõned värvilised merekarbid ja väike roheline labidas. Soe ja kutsuv atmosfäär. Multifilmistiil.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER RANNAS.",
+      "scene": "Liisa ja Peeter on saabunud päikeselisele rannale, nad vaatavad rõõmsalt ringi, sinine meri taustal ja kuldne liiv nende jalge all. Mõlemad naeratavad.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON PALEEST MÕTE.",
+      "scene": "Liisa ja Peeter vaatavad teineteisele suurte naeratustega otsa, neil on särav idee. Liisa osutab liiva poole ja Peeter noogutab õhinal.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD KAEVAVAD LIIVA KOKKU.",
+      "scene": "Liisa ja Peeter kaevavad hoolega liiva väikeste labidatega ja täidavad ämbreid. Liiv kuhjub nende ette suureks hunnikuks.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD EHITAVAD LIIVAST MÄED.",
+      "scene": "Liisa ja Peeter vormivad hoolikalt liiva, luues juba liivapaleele aluse ja esimesed väikesed mäed või tornid.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PALEEST KASVAB SUUREKS.",
+      "scene": "Liivapaleest on juba päris suur ja kõrge, Liisa ja Peeter lisavad veel liiva ja siluvad seda, et paleest veelgi suuremaks kasvaks. Päike paistab soojalt.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD PANEVAD KARPE PEALE.",
+      "scene": "Liisa ja Peeter kaunistavad liivapaleed, asetades ettevaatlikult värvilisi merekarpe ja kivikesi palee seintele ja tornidele. Nad on keskendunud ja rõõmsad.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LIIVAPALEEST ON VALMIS.",
+      "scene": "Liisa ja Peeter seisavad oma valminud liivapaleesti ees, mis on nüüd suur ja muljetavaldav. Nad vaatavad oma loomingut imetlusega.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LIISA JA PEETER NAEVAD.",
+      "scene": "Liisa ja Peeter naeravad rõõmsalt, osutades oma liivapaleele ja teineteisele. Nad on väga õnnelikud ja uhked oma töö üle.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MILLINE ILUS PALEEST!",
+      "scene": "Liisa ja Peeter seisavad uhkelt ja rõõmsalt oma väga suure ja ilusa liivapaleesti kõrval, mis särab päikese käes. Nad on mõlemad rahul ja naeratavad. Taustal sinetab meri.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
