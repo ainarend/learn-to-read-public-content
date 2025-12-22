@@ -1,0 +1,95 @@
+{
+  "date": "2025-12-23",
+  "language": "et",
+  "title": "PÄTSU JA NÖPSU MUUSIKA",
+  "generatedAt": "2025-12-22T22:10:43.489Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PÄTSU",
+      "type": "bear",
+      "description": "Väike pruun karu, pehmete ümarate kõrvadega, kandmas väikest sinist vesti. Suured säravad silmad ja sõbralik rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "NÖPSU",
+      "type": "rabbit",
+      "description": "Väike valge jänes, pikkade uudishimulike kõrvadega, kandmas väikest rohelist lipsu. Naerusuine ja energiline, suurte tumedate silmadega. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Hubane lastetuba",
+      "description": "Hubane ja värviline lastetuba, pehme kollane vaip katab põrandat, puidust mänguasjakast nurgas, seintel rõõmsad lastepärased pildid. Akna ees helesinised kardinad. Toas on laste pille – väike mängutrumm ja mängukitarr. Soe ja kutsuv atmosfäär. Multifilmistiil.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "PÄTSU JA NÖPSU ON TOAS.",
+      "scene": "Patsu (karu) ja Nöpsu (jänes) istuvad rõõmsalt kollasel vaibal hubases lastetoas, vaatavad üksteisele naeratades otsa. Nende ümber on mõned pehmed mänguasjad. Rõõmus meeleolu. LANDSCAPE kompositsioon.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON LAHE MÕTE.",
+      "scene": "Patsu (karu) ja Nöpsu (jänes) näevad välja põnevil, nad osutavad käpaga toa nurka, kus on näha mängupille. Nende peade kohal on kujutatud hõõguv lambipirn, mis sümboliseerib ideed. LANDSCAPE kompositsioon.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD MUUSIKAT.",
+      "scene": "Patsu (karu) ja Nöpsu (jänes) seisavad nüüd mängupillide ees. Üks osutab mängutrummile ja teine mängukitarrile, mõlemad naeratavad laialt ja on valmis muusikat tegema. Ootusärevus. LANDSCAPE kompositsioon.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PÄTSU VÕTAB TRUMMI.",
+      "scene": "Patsu (karu) hoiab käppades väikest mängutrummi ja trummipulki. Ta istub kollasel vaibal ja naeratab rõõmsalt. Nöpsu (jänes) vaatab teda kõrval seistes. LANDSCAPE kompositsioon.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NÖPSU VÕTAB KITARRI.",
+      "scene": "Nöpsu (jänes) hoiab käppades väikest mängukitarri. Ta istub kollasel vaibal ja naeratab rõõmsalt. Patsu (karu) vaatab teda kõrval istudes. LANDSCAPE kompositsioon.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD MÄNGIVAD HÄSTI.",
+      "scene": "Patsu (karu) lööb õrnalt mängutrummi ja Nöpsu (jänes) tinistab oma mängukitarri. Mõlemad on keskendunud ja rõõmsad, luues koos muusikat. LANDSCAPE kompositsioon.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "MUUSIKA ON NII MÕNUS.",
+      "scene": "Patsu (karu) ja Nöpsu (jänes) mängivad oma instrumentidel, õõtsuvad õrnalt rütmis, silmad kinni ja nägudel õndsad naeratused, nautides loodud muusikat. Rahulik ja õnnelik hetk. LANDSCAPE kompositsioon.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NÜÜD ON NENDE KONTSTERT.",
+      "scene": "Patsu (karu) mängutrummil ja Nöpsu (jänes) mängukitarri. Nad seisavad uhkelt, justkui väikesele lavale (näiteks tõstetud matile), esitades oma muusikat ja naeratades üksteisele. Publikuks on üks või kaks pehmet mänguasja. Kontserdi atmosfäär. LANDSCAPE kompositsioon.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON VÄGA ÕNNELIKUD.",
+      "scene": "Patsu (karu) ja Nöpsu (jänes) kallistavad teineteist õrnalt, instrumendid on nende kõrvale pandud. Nad säravad rõõmust ja rahulolust pärast oma edukat kontserti. Sõprus ja saavutus. LANDSCAPE kompositsioon.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
