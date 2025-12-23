@@ -1,0 +1,108 @@
+{
+  "date": "2025-12-24",
+  "language": "et",
+  "title": "NÖFFI JA TIIU VÄRVILINE LIND",
+  "generatedAt": "2025-12-23T22:11:56.368Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "NÖFF",
+      "type": "pig",
+      "description": "Väike roosa siga suurte roosade kõrvade ja väikese kõverdatud sabaga. Seljas on sinine ruuduline särk. Tal on suured rõõmsad silmad ja sõbralik naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "TIIU",
+      "type": "chicken",
+      "description": "Väike kollane kana pehme sulestikuga ja punase harjaga. Jalas on oranžid saapad. Tal on uudishimulikud silmad ja rõõmsameelne olek. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "MÄNGUTUBA",
+      "description": "Hubane ja valgusküllane lastetuba puidust põranda ja kollaste seintega. Toas on väike laud kahe tooliga, mille peal on kunstivahendid. Aknalaual on paar potilille. Õrn päikesevalgus paistab sisse. Multifilmistiil.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "AED",
+      "description": "Päikesepaisteline roheline aed täis värvilisi lilli ja põõsaid. Taustal on väikesed puud. Aias on roheline muru ja väike linnuvann. Sõbralik ja rahulik õhkkond. Multifilmistiil.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "NÖFF JA TIIU MÄNGIVAD.",
+      "scene": "Nöff ja Tiiu mängivad lõbusalt mängutoas põrandal. Nöff on põrandal istumas ja Tiiu seisab tema kõrval, mõlemal on naeratus näol ja nad näevad välja rõõmsad. LANDSCAPE composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Nöff ja Tiiu on mängutoas. Nöffil on idee, ta osutab rõõmsalt sõrmega üles ja Tiiu vaatab teda uudishimulikult, pea viltu. Mõlemad on elevil. LANDSCAPE composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD LÄHEVAD AEDA.",
+      "scene": "Nöff ja Tiiu kõnnivad rõõmsalt mööda rohelist aeda, päike paistab. Nad vaatavad ringi, uudishimulikud ja elevil. LANDSCAPE composition.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD NÄEVAD LINDUSID.",
+      "scene": "Nöff ja Tiiu on aias ja vaatavad taeva poole, kus lendab väike värviline lind. Nende näod on üllatunud ja vaimustuses. LANDSCAPE composition.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LIND ON VÄRVIKAS.",
+      "scene": "Detailne lähivaade värvikast linnust, kes istub lillepeenras. Nöff ja Tiiu vaatavad lindu kaugemalt, imetlusega. Lind on ilusate sulgedega. LANDSCAPE composition.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD TULEVAD TUBA.",
+      "scene": "Nöff ja Tiiu sisenevad tagasi mängutuppa, uksest sisse astudes. Neil on endiselt rõõmus ja ootusärev ilme näol. LANDSCAPE composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD HAKKAVAD VÄRVIMA.",
+      "scene": "Nöff ja Tiiu istuvad mängutoas laua taga, nende ees on paberid ja värvid. Nöff hoiab pintslit ja on valmis alustama, Tiiu vaatab paberit ootusärevalt. LANDSCAPE composition.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PILDIL ON ILUS LIND.",
+      "scene": "Nöff ja Tiiu hoiavad uhkelt üleval pilti, mille nad maalisid. Pildil on näha värvikas lind, sarnane sellele, mida nad aias nägid. Nad naeratavad uhkelt. LANDSCAPE composition.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NÖFF JA TIIU NAERAVAD.",
+      "scene": "Nöff ja Tiiu kallistavad teineteist mängutoas, naerdes rõõmsalt oma valminud pildi üle. Nad on õnnelikud oma tööga. LANDSCAPE composition.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEE ON NENDE KUNST.",
+      "scene": "Nöff ja Tiiu seisavad oma maali kõrval, mis on nüüd seinale riputatud. Nad vaatavad seda uhkusega. Toas on soe ja rõõmus meeleolu. LANDSCAPE composition.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
