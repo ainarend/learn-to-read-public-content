@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2025-12-24",
+  "latestDate": "2025-12-25",
   "stories": [
+    {
+      "date": "2025-12-25",
+      "title": "MARI JA JUKU PIKNIKUL",
+      "pageCount": 10,
+      "characters": [
+        "MARI",
+        "JUKU"
+      ]
+    },
     {
       "date": "2025-12-24",
       "title": "NÖFFI JA TIIU VÄRVILINE LIND",
