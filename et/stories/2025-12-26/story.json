@@ -1,0 +1,108 @@
+{
+  "date": "2025-12-26",
+  "language": "et",
+  "title": "VÕSU JA SIIMU LIIVALOSS",
+  "generatedAt": "2025-12-25T22:11:39.587Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "VÕSU",
+      "type": "badger",
+      "description": "Väike pruun mäger, lühikese saba ja musta ninaga. Tal on seljas roheline vest ja suured sõbralikud silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIMU",
+      "type": "squirrel",
+      "description": "Väike oranžikaspruun orav, koheva sabaga ja teravate kõrvadega. Tal on kaasas väike sinine ämber. Nutikas ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "RANNARADA",
+      "description": "Kitsas rada läbi rohelise metsa, mis viib randa. Päikesepaisteline päev, rohelised puud ja põõsad raja ääres. Valge liiv paistab kaugelt. Rahulik ja kutsuv atmosfäär. Multifilmistiil.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "LIIVARAND",
+      "description": "Lai liivarand sinise mere ääres, õrnade lainetega. Kollane liiv, kauguses päike paistab selges taevas. Mõned merekivid ja teokarbid liival. Rõõmus ja suvine atmosfäär. Multifilmistiil.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "VÕSU JA SIIMU LÄHEVAD RANDA.",
+      "scene": "VÕSU ja SIIMU kõnnivad rõõmsalt mööda rannarada, SIIMU hoiab käes sinist ämbrit ja VÕSU kannab väikest labidat. Nad vaatavad ootusärevusega eesolevat liivaranda. Päike paistab. LANDSCAPE composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON ÄGE MÕTE.",
+      "scene": "VÕSU ja SIIMU seisavad juba rannal, vaadates suurt liivast ala. SIIMU osutab innukalt liiva peale, VÕSU noogutab nõusolevalt. Mõlemad naeratavad. LANDSCAPE composition.",
+      "image": "page2.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD KAEVAVAD LIIVA.",
+      "scene": "VÕSU ja SIIMU kasutavad oma väikseid labidaid, et liiva kaevata ja hunnikusse panna. Nad on keskendunud ja rõõmsad. Ümberringi on liiv. LANDSCAPE composition.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SIIMU LEIAB KARBI.",
+      "scene": "SIIMU orav on liiva sees kaevates leidnud kauni teokarbi ja hoiab seda uhkelt käes, näidates seda VÕSU-le. VÕSU naeratab ja vaatab karpi. LANDSCAPE composition.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "VÕSU TOOB VEEL LIIVA.",
+      "scene": "VÕSU mäger veab suurt liivahunnikut väikesele künkale, et lossi alust ehitada. SIIMU aitab teda ämbriga, täites seda liivaga. Nad teevad koostööd. LANDSCAPE composition.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD EHITAVAD LOSSI.",
+      "scene": "VÕSU ja SIIMU vormivad liiva abil suurt liivalossi. Nad siluvad liiva ja lisavad detaile. Lossi seinad on juba näha, nende ümber on palju liiva. LANDSCAPE composition.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LOSSI TIPP ON KÕRGE.",
+      "scene": "Liivaloss on peaaegu valmis, sellel on kõrged tornid ja VÕSU ulatab SIIMU-le leitud teokarbi, et see torni tippu kaunistuseks panna. Mõlemad on elevil. LANDSCAPE composition.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "VÕSU JA SIIMU VAATAVAD.",
+      "scene": "VÕSU ja SIIMU seisavad veidi eemal ja imetlevad oma valmis liivalossi. Nende nägudel on uhkus ja rahulolu. Päike paistab eredalt. LANDSCAPE composition.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LIIVALOSS ON VALMIS!",
+      "scene": "Liivaloss on keskel, kaunilt kaunistatud teokarbiga ja täielikult valmis. VÕSU ja SIIMU seisavad lossi kõrval, mõlemad naeratavad laialt ja annavad üksteisele rõõmsalt käppa. LANDSCAPE composition.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA RÕÕMSAD.",
+      "scene": "VÕSU ja SIIMU istuvad liival lossi kõrval, rõõmsalt naeratades. Nad naudivad päikesepaistelist päeva ja oma tehtud tööd. Taustal sinine meri ja õrnad lained. LANDSCAPE composition.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
