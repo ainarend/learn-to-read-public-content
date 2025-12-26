@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2025-12-26",
+  "latestDate": "2025-12-27",
   "stories": [
+    {
+      "date": "2025-12-27",
+      "title": "KUSTI JA NIPSU LEHED",
+      "pageCount": 10,
+      "characters": [
+        "KUSTI",
+        "NIPSU"
+      ]
+    },
     {
       "date": "2025-12-26",
       "title": "VÕSU JA SIIMU LIIVALOSS",

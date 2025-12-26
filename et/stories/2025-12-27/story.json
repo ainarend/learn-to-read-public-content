@@ -1,0 +1,102 @@
+{
+  "date": "2025-12-27",
+  "language": "et",
+  "title": "KUSTI JA NIPSU LEHED",
+  "generatedAt": "2025-12-26T22:11:30.263Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KUSTI",
+      "type": "bear",
+      "description": "Väike pruun karu, pehme karvaga, suured ümarad kõrvad, kandmas sinist lühikeste varrukatega särki, sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "NIPSU",
+      "type": "rabbit",
+      "description": "Väike valge jänes suurte pikkade kõrvadega, lühike kohev saba, kandmas väikest rohelist mütsi, säravad silmad ja mänguline naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "VÄRVIKAS METSASERV",
+      "description": "Päikeseline sügisene metsapiir värviliste puudega (punased, oranžid, kollased lehed). Maapinnal on suur vaip kirevaid langenud lehti. Taamal on roheline rohi ja mõned kivikesed. Soe ja rõõmus sügispäev. Multifilmistiil.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KUSTI JA NIPSU METSAS.",
+      "scene": "KUSTI (pruun karu) ja NIPSU (valge jänes) seisavad sügisese metsa servas, ümbritsetud värvilistest lehtedest, vaatavad ringi uudishimulikult. Mõlemad naeratavad. Landscape composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "LEHED LANGEVAD MAHA.",
+      "scene": "KUSTI ja NIPSU vaatavad üles puude poole, kust langevad õrnalt alla erksavärvilised sügislehed. Maapinnal on juba palju lehti. Landscape composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD KOGUVAD LEHTI.",
+      "scene": "KUSTI ja NIPSU koguvad agaralt langenud lehti. KUSTI kasutab käppasid, NIPSU tassib väikseid lehti oma väikestes käppades. Lehti on igal pool. Landscape composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PALJU VÄRVILISI LEHTI.",
+      "scene": "Detailvaade kirevatest sügislehtedest (punane, oranž, kollane, pruun), mida KUSTI ja NIPSU on juba kokku kogunud väikestesse kuhjadesse. KUSTI osutab rõõmsalt lehtedele. Landscape composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD TEEVAD KUHI!",
+      "scene": "KUSTI ja NIPSU on suurt lehehunnikut tegemas. KUSTI lükkab lehti kokku, NIPSU toob veel ja viskab hunnikusse. Mõlemad on õhinas ja naeratavad. Landscape composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "SUUR PEHME KUHI.",
+      "scene": "KUSTI ja NIPSU seisavad suure pehme lehehunniku kõrval, mis on neist peaaegu sama kõrge. Nad vaatavad hunnikut uhkelt ja rõõmsalt. Landscape composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KUSTI HÜPPAB KUHI.",
+      "scene": "KUSTI (pruun karu) on just hüpanud suure lehehunniku keskele, lehed lendavad tema ümber õhku. NIPSU vaatab KUSTI tegevust kõrvalt ja naeratab ootusärevalt. Landscape composition.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NIPSU KA HÜPPAB.",
+      "scene": "NIPSU (valge jänes) on nüüd samuti hüpanud lehehunnikusse KUSTI kõrvale, mõlemad on lehtede sees ja naeravad. Lehti lendab õhus. Landscape composition.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON NÜÜD RÕÕMSAD.",
+      "scene": "KUSTI ja NIPSU istuvad lehehunnikus, näod rõõmsad ja õnnelikud, puhkavad pärast hüppamist. Päike paistab nende peale. Landscape composition.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SÕBRAD NAERAVAD KOOS.",
+      "scene": "KUSTI ja NIPSU hoiavad üksteise käppadest kinni ja naeratavad, seistes lehehunniku kõrval. Taustal sügisene mets. Nad on parimad sõbrad. Landscape composition.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
