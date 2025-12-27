@@ -44,7 +44,7 @@
     },
     {
       "pageNumber": 3,
-      "text": "NAD VEERETAVAD SUURT LUND.",
+      "text": "NAD VEERETAVAD LUND.",
       "scene": "JÄNES ja MÄGER veeretavad lumega kaetud aias suurt lumepalli. JÄNES lükkab lumepalli eest, MÄGER lükkab tagant. Mõlemad on pingutamas ja naeratavad rõõmsalt. Lumi on kohev ja kerge. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page3.png",
       "location_id": "loc1"
@@ -58,14 +58,14 @@
     },
     {
       "pageNumber": 5,
-      "text": "SEINAD ON NÜÜD KÕRGE.",
+      "text": "SEINAD ON NÜÜD KÕRGED.",
       "scene": "JÄNES ja MÄGER seisavad lumest ehitatud kõrgete seinte taga lumega kaetud aias. Seinad on nüüd piisavalt kõrged, et JÄNES ja MÄGER peaaegu nende taha peituvad. Mõlemad vaatavad rahulolevalt oma tehtud tööd. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "NAD TEEVAD KATUST.",
+      "text": "NAD TEEVAD KATUSE.",
       "scene": "JÄNES ja MÄGER on lumega kaetud aias, ehitamas oma lumest linnale katust. Nad sätivad suuremat lapikut lumetükki ehitatud seinte peale. JÄNES hoiab katust üleval, MÄGER toetab seda. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page6.png",
       "location_id": "loc1"
@@ -79,23 +79,16 @@
     },
     {
       "pageNumber": 8,
-      "text": "NAD MÄNGIVAD SEES.",
+      "text": "NAD MÄNGIVAD.",
       "scene": "JÄNES ja MÄGER mängivad oma lumelinna sees lumega kaetud aias. JÄNES piilub lumelinna ukseavast välja, MÄGER istub mugavalt lumepinnal lumelinna sees. Nad on rõõmsameelsed ja naudivad oma uut peidupaika. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "JÄNES JA MÄGER NAERAVAD.",
+      "text": "JÄNES JA MÄGER ON RÕÕMSAD.",
       "scene": "JÄNES ja MÄGER naeravad rõõmsalt oma lumelinna sees lumega kaetud aias. Mõlemal on suured avatud naeratused ja nad on õnnelikud. JÄNES viskab pisut lund õhku. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page9.png",
-      "location_id": "loc1"
-    },
-    {
-      "pageNumber": 10,
-      "text": "SEE ON NENDE LUMELINN.",
-      "scene": "JÄNES ja MÄGER seisavad õnnelikult oma valmis lumelinna ees lumega kaetud aias. JÄNES osutab oma esikäpaga uhkelt lumelinna poole. MÄGER noogutab rahulolevalt. Nad on uhked oma saavutuse üle. Taustal rohelised lumised kuused ja sinine taevas.",
-      "image": "page10.png",
       "location_id": "loc1"
     }
   ]
