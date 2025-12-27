@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-01",
+  "language": "et",
+  "title": "OLLI JA MATTI LUMESÕBER",
+  "generatedAt": "2025-12-27T21:03:24.053Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORAV OLLI",
+      "type": "squirrel",
+      "description": "Väike pruun orav suurte kohevate sabaga, seljas sinine vest, suured uudishimulikud silmad ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MÄGER MATTI",
+      "type": "badger",
+      "description": "Keskmise suurusega mustvalge mäger, kandmas punast salli, sõbralik naeratav nägu ja veidi kohmakas olek. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "VÄLJA LUMINE HOOV",
+      "description": "Valge lumega kaetud hoov. Taustal paistavad kuusepuud, mis on samuti lumega kaetud. Maapind on sile ja puhas valge lumi. Taevas on selge helesinine. Valgus on ere talvine päike. Multifilmistiil.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ORAV OLLI NÄEB LUND.",
+      "scene": "Orav Olli seisab lumega kaetud hoovis, vaadates suuri valgeid lumehangesid. Ta silmad on uudishimulikud ja näoilme rõõmus. Selge helesinine taevas ja lumised kuusepuud taustal. Ere talvine päike. Olli kannab sinist vesti.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "MÄGER MATTI ON KOOS.",
+      "scene": "Orav Olli ja Mäger Matti seisavad lumega kaetud hoovis, vaadates lund. Olli osutab lumisele maale. Matti naeratab sõbralikult. Selge helesinine taevas ja lumised kuusepuud taustal. Ere talvine päike. Olli kannab sinist vesti, Matti kannab punast salli.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Orav Olli ja Mäger Matti seisavad lumega kaetud hoovis. Matti on kummardunud ja Olli istub Matti õlal, mõlemal on näod rõõmsalt elevil. Selge helesinine taevas ja lumised kuusepuud taustal. Ere talvine päike. Olli kannab sinist vesti, Matti kannab punast salli.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD EHITAVAD SÕBRA.",
+      "scene": "Orav Olli ja Mäger Matti on lumega kaetud hoovis ja on hakanud lund kokku lükkama. Nad on ehitamas suurt lumehunnikut, mis hakkab meenutama lumememme keha. Mõlemad naeratavad innukalt. Selge helesinine taevas ja lumised kuusepuud taustal. Ere talvine päike. Olli kannab sinist vesti, Matti kannab punast salli.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD VÕTAVAD LUND.",
+      "scene": "Mäger Matti kummardub lumega kaetud hoovis ja võtab käppadega lund, samal ajal kui Orav Olli aitab tal lund kokku lükata. Nad on aktiivselt lund kogumas ja naeratavad. Selge helesinine taevas ja lumised kuusepuud taustal. Ere talvine päike. Olli kannab sinist vesti, Matti kannab punast salli.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD TEGID PALLID.",
+      "scene": "Orav Olli ja Mäger Matti seisavad lumega kaetud hoovis kahe suure lume-palli kõrval, mis moodustavad lumememme keha. Olli osutab pallidele, Matti naeratab uhkelt. Selge helesinine taevas ja lumised kuusepuud taustal. Ere talvine päike. Olli kannab sinist vesti, Matti kannab punast salli.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SÕBER ON PEAAEGU VALMIS.",
+      "scene": "Orav Olli ja Mäger Matti panevad lumememmele peale väiksema lumepalli, mis on selle pea. Lumememm on peaaegu valmis, ilma detailideta. Olli ja Matti vaatavad seda rahulolevalt ja naeratavad. Selge helesinine taevas ja lumised kuusepuud taustal. Ere talvine päike. Olli kannab sinist vesti, Matti kannab punast salli.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SÕBER ON NÜÜD VALMIS.",
+      "scene": "Orav Olli ja Mäger Matti seisavad rõõmsalt lumega kaetud hoovis oma valmis lumememme sõbra kõrval. Lumememmel on kaks oksa käteks, kaks musta kivi silmadeks ja porgand ninaks. Selge helesinine taevas ja lumised kuusepuud taustal. Ere talvine päike. Olli kannab sinist vesti, Matti kannab punast salli.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD TEGID SÕBRALE SOOVI.",
+      "scene": "Orav Olli ja Mäger Matti seisavad lumega kaetud hoovis oma valmis lumememme sõbra kõrval. Nad vaatavad lumememme poole, käpad/käed koos, silmad suletud, justkui tehes salajast uue aasta soovi. Nad on pühalikud, kuid õnnelikud. Selge helesinine taevas ja lumised kuusepuud taustal. Ere talvine päike. Olli kannab sinist vesti, Matti kannab punast salli.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "OLLI JA MATTI ON ÕNNELIKUD.",
+      "scene": "Orav Olli ja Mäger Matti naeratavad laialt lumega kaetud hoovis, kallistades oma valmis lumememme sõpra. Nad on väga õnnelikud ja uhked oma töö üle. Selge helesinine taevas ja lumised kuusepuud taustal. Ere talvine päike. Olli kannab sinist vesti, Matti kannab punast salli.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2025-12-31",
+  "latestDate": "2026-01-01",
   "stories": [
+    {
+      "date": "2026-01-01",
+      "title": "OLLI JA MATTI LUMESÕBER",
+      "pageCount": 10,
+      "characters": [
+        "ORAV OLLI",
+        "MÄGER MATTI"
+      ]
+    },
     {
       "date": "2025-12-31",
       "title": "LIISA JA MIHKLI PIDUKAUNISTUS",
