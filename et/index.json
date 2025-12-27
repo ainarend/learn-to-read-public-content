@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-01",
+  "latestDate": "2026-01-02",
   "stories": [
+    {
+      "date": "2026-01-02",
+      "title": "PEETER JA TRIINU KELGUSÕIT",
+      "pageCount": 10,
+      "characters": [
+        "PEETER",
+        "TRIINU"
+      ]
+    },
     {
       "date": "2026-01-01",
       "title": "OLLI JA MATTI LUMESÕBER",

@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-02",
+  "language": "et",
+  "title": "PEETER JA TRIINU KELGUSÕIT",
+  "generatedAt": "2025-12-27T21:22:54.673Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene Peeter, umbes 5-aastane poiss, heledate blondide juustega, suured sinised silmad, naerusuine ja energiline. Kandmas paksu sinist talvejopet, siniseid talvepükse, punast mütsi ja punaseid kindaid. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "TRIINU",
+      "type": "human",
+      "description": "Väike inimene Triinu, umbes 5-aastane tüdruk, lühikeste pruunide juustega, suured rohelised silmad, naerusuine ja seiklusjanuline. Kandmas paksu roosat talvejopet, roosasid talvepükse, sinist mütsi ja siniseid kindaid. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "LUMINE KÜNGAS",
+      "description": "Suur ja pehme valge lumine küngas, kaetud paksu puhta lumekihiga. Taustal on näha mõned üksikud lumega kaetud rohelised kuused ja selge sinine talvetaevas. Päike paistab eredalt, luues särava ja rõõmsa talvepäeva tunde. Maastik on pehmete, ümarate vormidega, mis on kaetud värske lumega. Multifilmistiil.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "PEETER JA TRIINU ON ÕUES.",
+      "scene": "Peeter ja Triinu seisavad lumisel künkal, ümbritsetud puhta valge lumega. Peeter kannab sinist talvejopet, punast mütsi ja kindaid. Triinu kannab roosat talvejopet, sinist mütsi ja kindaid. Mõlemad lapsed naeratavad rõõmsalt, nende pilgud on suunatud eemale, justkui midagi vaataksid. Taustal on näha lumised kuused ja selge sinine taevas. Rõõmsameelne ja energiline meeleolu.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD SUURT KÜNGAST.",
+      "scene": "Peeter ja Triinu seisavad lumisel künkal, ümbritsetud puhta valge lumega. Peeter kannab sinist talvejopet, punast mütsi ja kindaid. Triinu kannab roosat talvejopet, sinist mütsi ja kindaid. Nende pilgud on suunatud ette, vaadates suurt, pikka lumist nõlva, mis ulatub alla. Mõlemal lapsel on põnevil ja ootusärev näoilme. Taustal on näha lumised kuused ja selge sinine taevas.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON KOLLANE KELK.",
+      "scene": "Peeter ja Triinu seisavad lumisel künkal. Peeter hoiab käes suurt kollast kelku. Triinu seisab tema kõrval ja naeratab entusiastlikult. Mõlemad lapsed kannavad pakse talveriideid (Peeter sinises, Triinu roosas) ja kindaid. Nad vaatavad kelku ja teineteist rõõmsalt. Taustal on näha lumised kuused ja selge sinine taevas.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÄHEVAD ÜLES.",
+      "scene": "Peeter ja Triinu ronivad lumisest künkast üles, tirides kollast kelku lume järelt. Peeter on kelgu ees ja tirib seda, Triinu lükkab tagant ja toetab. Mõlemad on riides soojade talveriietega (Peeter sinises, Triinu roosas) ja pingutavad kergelt, kuid on siiski rõõmsameelsed. Taustal on näha lumised kuused ja selge sinine taevas.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PEETER JA TRIINU SÕIDAVAD.",
+      "scene": "Peeter ja Triinu istuvad koos kollase kelgu peal, laskudes lumisest künka nõlvast alla. Peeter istub ees, Triinu tema taga, mõlemad hoiavad kelgu külgedest kinni ja naeratavad laialt. Kelk libiseb mööda värsket lund. Nende riided on samad (Peeter sinises, Triinu roosas). Taustal on näha lumised kuused ja selge sinine taevas, mis möödub kiiresti.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KELK LIUGLEB KIIRESTI.",
+      "scene": "Peeter ja Triinu sõidavad kollase kelgu peal lumisest künkast alla veelgi kiiremini. Nende nägudel on näha puhast rõõmu ja kerget tuulepuhangut. Lumehelbed lendavad kelgu taga. Peeter ja Triinu hoiavad kelgust kõvasti kinni. Taustal möödub uduselt lumine maastik lumiste kuuskede ja sinise taevaga, andes edasi kiiruse tunnet.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SEE ON VÄGA LÕBUS.",
+      "scene": "Peeter ja Triinu on ikka veel kelgu peal alla libisemas, nende naer on suur ja rõõm on ilmne. Mõlemad on õhus veidi üleval, kelk lendab üle väikese lumise mühaka. Nende silmad on pärani rõõmust. Talveriietus on sama. Taustal lumine küngas lumiste kuuskede ja sinise taevaga. Meeleolu on ülev ja rõõmus.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD TULEVAD ALLA.",
+      "scene": "Peeter ja Triinu on jõudnud lumise künka jalamile. Kelk on peatunud. Mõlemad lapsed istuvad kelgul ja vaatavad üles künka tippu, kust nad just tulid. Nende näod on õnnelikud ja veidi õhetavad külmast õhust. Talveriided on samad. Taustal on näha lumine küngas lumiste kuuskede ja selge sinise taevaga.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PEETER JA TRIINU NAERAVAD.",
+      "scene": "Peeter ja Triinu seisavad künka all ja naeravad valjuhäälselt koos, vaadates teineteisele otsa. Kollane kelk on nende kõrval lume peal. Nende põsed on roosad ja silmad säravad rõõmust. Nad on ikka riides oma talveriietega. Taustal lumine maastik lumiste kuuskede ja sinise taevaga. Õnnelik ja mänguline meeleolu.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEE OLI TORE PÄEV.",
+      "scene": "Peeter ja Triinu seisavad käsikäes lumise künka jalamil, vaadates selget sinise taevaga talvemaastikku. Kollane kelk on nende taga. Mõlemad naeratavad rahulolevalt ja õnnelikult, käsi käes hoides. Päike paistab nende peale. Talveriided on endiselt seljas. Taustal on näha lumine küngas lumiste kuuskede ja sinise taevaga. Rahulik ja õnnelik lõpp.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
