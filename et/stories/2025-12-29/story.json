@@ -1,0 +1,102 @@
+{
+  "date": "2025-12-29",
+  "language": "et",
+  "title": "KETU JA OTT TEEJOOMINE",
+  "generatedAt": "2025-12-27T19:14:51.597Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KETU",
+      "type": "fox",
+      "description": "Väike oranž rebane, suur kohev saba, seljas roheline kootud kampsun, suured mustad uudishimulikud silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "OTT",
+      "type": "bear",
+      "description": "Suur pruun karu, seljas sinine kootud kampsun, väiksed ümarad kõrvad, sõbralik ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Hubane köök helekollaste seintega, puidust põrand, üks aken tagaseinas lumiste puudega vaates, puidust köögilaud keskel, valged kapid vasakul seinal, puidust toolid laua ümber. Soe lamp valgustab tuba. Multifilmistiil.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KETU JA OTT ON KÖÖGIS.",
+      "scene": "Ketu (fox) and Ott (bear) are standing in a cozy kitchen with light yellow walls and a wooden floor. Ott is holding a large blue empty mixing bowl. Ketu is looking at Ott, thinking. Warm lamplight fills the room. The kitchen has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, a wooden kitchen table in the center with wooden chairs around it, and white cabinets on the left wall.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Ketu (fox) and Ott (bear) are standing in the cozy kitchen. Ott is holding the blue empty mixing bowl. Ketu is pointing up with one paw, a lightbulb moment expression on her face. Ott looks at Ketu, curious and smiling. The kitchen has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, a wooden kitchen table in the center with wooden chairs around it, and white cabinets on the left wall.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD MARJAD.",
+      "scene": "Ketu (fox) and Ott (bear) are standing by the wooden kitchen counter. Ott is holding the large blue mixing bowl. Ketu is reaching into a small open bag of mixed red and blue berries (like blueberries and raspberries) on the counter, taking a handful of berries to put into the bowl. The kitchen has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, a wooden kitchen table in the center with wooden chairs around it, and white cabinets on the left wall.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD KEEDAVAD VETT.",
+      "scene": "Ketu (fox) and Ott (bear) are standing next to a simple white stove on the kitchen counter. Ott is carefully pouring water from a small blue pot into a larger clear glass teapot that is on the stove. Ketu watches, smiling. Steam is gently rising from the pot. The kitchen has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, a wooden kitchen table in the center with wooden chairs around it, and white cabinets on the left wall.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD SEGAVAD KOKKU.",
+      "scene": "Ketu (fox) and Ott (bear) are standing at the wooden kitchen counter. The clear glass teapot with hot water is next to the large blue mixing bowl on the counter. Ott is carefully pouring the hot water from the teapot into the blue mixing bowl which now contains the berries. Ketu is holding a wooden spoon, ready to stir. The kitchen has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, a wooden kitchen table in the center with wooden chairs around it, and white cabinets on the left wall.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TEEL ON SUUR AROM.",
+      "scene": "Ketu (fox) and Ott (bear) are standing at the wooden kitchen counter. The large blue mixing bowl is filled with warm berry tea, gently steaming. Ketu is stirring the tea with a wooden spoon, and Ott is leaning in, both characters sniffing the air with happy, content expressions, enjoying the wonderful aroma. The kitchen has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, a wooden kitchen table in the center with wooden chairs around it, and white cabinets on the left wall.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SEE ON VÄGA SOE.",
+      "scene": "Ketu (fox) and Ott (bear) are sitting at the wooden kitchen table on wooden chairs. Ott is holding a red mug of steaming berry tea. Ketu is holding a blue mug of steaming berry tea. Both characters are blowing gently on their mugs, steam visible, showing the tea is very warm. The kitchen has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, a wooden kitchen table in the center with wooden chairs around it, and white cabinets on the left wall.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD JOOVAD TEED.",
+      "scene": "Ketu (fox) and Ott (bear) are sitting at the wooden kitchen table on wooden chairs. Both characters are taking sips from their mugs of berry tea, their eyes closed in contentment, enjoying the warm drink. The large blue mixing bowl with leftover tea is also on the table. The kitchen has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, a wooden kitchen table in the center with wooden chairs around it, and white cabinets on the left wall.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KETU JA OTT ON ÕNNELIKUD.",
+      "scene": "Ketu (fox) and Ott (bear) are sitting at the wooden kitchen table. They have finished their tea, their mugs are now empty on the table. Both are smiling widely at each other, happy and content after their warm drink. The kitchen has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, a wooden kitchen table in the center with wooden chairs around it, and white cabinets on the left wall.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KOOS ON ALATI PAREM.",
+      "scene": "Ketu (fox) and Ott (bear) are sitting at the wooden kitchen table, looking out the window behind them. They are holding paws, still smiling, with a cozy and warm feeling. Empty mugs are on the table. Through the window, snow-covered trees are visible. The kitchen has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, a wooden kitchen table in the center with wooden chairs around it, and white cabinets on the left wall.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
