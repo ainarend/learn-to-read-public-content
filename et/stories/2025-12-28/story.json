@@ -1,0 +1,102 @@
+{
+  "date": "2025-12-28",
+  "language": "et",
+  "title": "LIISA JA PÕNNU LUMEHELBEID",
+  "generatedAt": "2025-12-27T15:05:36.593Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk, heleda nahaga. Tal on suured rõõmsad pruunid silmad ja lühikesed kuldsed patsid. Seljas on tal pehme roosa kampsun ja mugavad sinised püksid. Ta on alati naeratav ja abivalmis. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PÕNNU",
+      "type": "rabbit",
+      "description": "Väike lumivalge jänes suurte pikkade roosade kõrvadega, mis on veidi kaldu. Tal on pehme karv ja väike nina, mis vibreerib. Kaelas on väike erkroheline lipsuke. Ta on uudishimulik, sõbralik ja veidi vallatu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Hubane Lastetuba",
+      "description": "Hubane lastetuba pehme kollase vaibaga, millel on mängulised heledad täpid. Toas on väike puidust laud ja kaks madalat tooli, millel Liisa ja Põnnu istuvad. Akna taga on näha õrna talvist lund, mis paistab sisse õrna valgust. Seintel on paar värvilist lastejoonistust ja üks riiul väikeste raamatutega. Atmosfäär on soe, turvaline ja kutsuv. Multifilmistiil.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PÕNNU ON TOAS.",
+      "scene": "Liisa ja Põnnu istuvad hubases lastetoas madala puidust laua taga. Liisa naeratab ja Põnnu vaatab uudishimulikult. Õrn talvevalgus paistab aknast sisse. Sõbralik ja rahulik atmosfäär.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHTSID TOA KAUNISTADA.",
+      "scene": "Liisa ja Põnnu vaatavad üksteisele rõõmsalt otsa, silmis sära. Liisal on käes mõttepilv või väike sätendav idee. Põnnu noogutab vaimustatult. Rõõmus ja ootusärev meeleolu.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD PABERIT.",
+      "scene": "Liisa sirutab käe laual oleva valge paberipaki poole. Põnnu aitab oma käpaga paberit kinni hoida. Mõlemad on keskendunud ja tegutsevad koos. Abivalmis ja mänguline stseen.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA MURRAB PABERIT KOKKU.",
+      "scene": "Liisa hoiab valget paberilehte ja voldib seda ettevaatlikult pooleks. Põnnu istub laual tema kõrval ja jälgib tähelepanelikult Liisa käsi. Keskendunud ja uudishimulik õhkkond.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LIISA LÕIKAB KÄÄRIDEGA.",
+      "scene": "Liisa lõikab väikeste tömbiotsaliste kääridega volditud paberist kujundeid. Tema nägu on tõsine ja keskendunud. Põnnu istub tema lähedal ja piilub üle laua, näol uudishimulik ilme. Loominguline ja rahulik tegevus.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PÕNNU VAATAB HOOLIKALT.",
+      "scene": "Lähivaade Põnnust, kes jälgib Liisat. Tema suured kõrvad on ettepoole suunatud ja silmad on suured ja tähelepanelikud. Lausa tundub, et ta tahaks ise kääre proovida. Sõbralik ja kaasahaarav stseen.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LUMIHELBEID ON NÜÜD PALJU!",
+      "scene": "Laud on täis erineva suuruse ja kujuga paberist lumehelbeid. Liisa ja Põnnu vaatavad oma loomingut uhkusega. Mõned helbed on juba laiali laotatud. Saavutustunne ja rõõm.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD RIPUTAVAD LUMIHELBEID ÜLES.",
+      "scene": "Liisa seisab toolil ja riputab ühte paberist lumehelbest seinale. Põnnu ulatab talle maast veel ühe lumehelbe. Mõlemad teevad koostööd, toas on kerge pidulik meeleolu.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "TUBA ON NÜÜD VÄGA ILUS.",
+      "scene": "Lastetuba on kaunilt kaunistatud paberist lumehelvestega, mis rippuvad seintelt ja aknalt. Liisa ja Põnnu seisavad keset tuba ja imetlevad oma tööd. Tuba on särav ja pidulik. Rahulik ja ilus vaade.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "LIISA JA PÕNNU ON NII ÕNNELIKUD.",
+      "scene": "Liisa ja Põnnu kallistavad õrnalt, näod täis rõõmu ja rahulolu. Nende ümber on imeliselt kaunistatud tuba, mis särab. Soe ja südamlik lõpp. Suur sõprus ja õnn.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
