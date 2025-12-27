@@ -1,0 +1,102 @@
+{
+  "date": "2025-12-31",
+  "language": "et",
+  "title": "LIISA JA MIHKLI PIDUKAUNISTUS",
+  "generatedAt": "2025-12-27T19:56:52.130Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, umbes viieaastane tüdruk, heledad juuksed kahe patsis, roosa kleit ja valged sukapüksid. Suured rõõmsad silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MIHKEL",
+      "type": "human",
+      "description": "Väike inimene, umbes kuueaastane poiss, lühikesed pruunid juuksed, sinine pikkade varrukatega särk ja pruunid püksid. Rõõmus ja abivalmis, naeratav nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "MEIE TUBA",
+      "description": "Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Toas on väike puidust laud keskel ja kaks väikest puidust tooli. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus loob hubase meeleolu. Multifilmistiil.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA MIHKEL TOAS.",
+      "scene": "Liisa ja Mihkel istuvad kahel väiksel puidust toolil väikese puidust laua ääres. Liisa kannab roosat kleiti, Mihkel sinist särki. Nad vaatavad üksteisele rõõmsalt otsa. Laud on tühi. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TEAVAD PIDUPÄEVA.",
+      "scene": "Liisa ja Mihkel istuvad kahel väiksel puidust toolil väikese puidust laua ääres. Liisa kannab roosat kleiti, Mihkel sinist särki. Nad naeratavad ja vaatavad lauale, kus on hunnik värvilisi paberilehti. Nende silmis on ootus. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "ON VÄRVIKAS PABER.",
+      "scene": "Liisa ja Mihkel istuvad kahel väiksel puidust toolil väikese puidust laua ääres. Laual on suur hunnik eri värvi paberilehti: punane, sinine, kollane, roheline. Liisa osutab paberitele, Mihkel vaatab uudishimulikult. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÕIKAVAD RIBAD.",
+      "scene": "Liisa ja Mihkel istuvad kahel väiksel puidust toolil väikese puidust laua ääres. Laual on hunnik värvilisi paberilehti. Liisa hoiab käes lapsesõbralikke kääre ja lõikab hoolikalt kollasest paberist riba. Mihkel hoiab käes sinist paberilehte ja on valmis ka lõikama. Mõlemad on keskendunud ja rõõmsad. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD KLEEBEVAD KOKKU.",
+      "scene": "Liisa ja Mihkel istuvad kahel väiksel puidust toolil väikese puidust laua ääres. Laual on palju värvilisi paberiribasid. Liisa hoiab käes liimipulka ja kleebib kahte pabeririba kokku, et moodustada rõngas. Mihkel hoiab kinni valmivast paberketist, mis on juba mitmest rõngast koos. Mõlemad on rõõmsameelsed ja teevad koostööd. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TULEB PIKK AHEL.",
+      "scene": "Liisa ja Mihkel istuvad kahel väiksel puidust toolil väikese puidust laua ääres. Laual on liimipulk ja mõned paberiribad. Nende ees on pikk, värviline paberist ahel, mis ulatub üle laua. Liisa hoiab ahelat, Mihkel naeratab uhkelt oma kätetöö üle. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "AHEL ON VÄRVILINE.",
+      "scene": "Mihkel seisab püsti väikese puidust laua kõrval ja hoiab pika värvilise paberist ahela ühte otsa kõrgel õhus. Liisa seisab ka püsti ja imetleb ahela erinevaid värve. Ahel on täis punaseid, siniseid, kollaseid ja rohelisi rõngaid. Mõlemad on rõõmsad ja uhked. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD RIPUTAVAD ÜLES.",
+      "scene": "Liisa seisab toolil ja hoiab värvilise paberist ahela ühte otsa, kinnitades seda ettevaatlikult seinale lastejoonistuste kohale. Mihkel seisab tooli kõrval, hoiab ahela teist otsa ja vaatab Liisat abivalmilt. Ahel ripub ilusasti üle seina. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "TUBA NÜÜD ILUS!",
+      "scene": "Liisa ja Mihkel seisavad toas, imetledes oma kätetööd. Pikk ja värviline paberist ahel ripub ilusasti seinal, lisades toale pidulikku meeleolu. Liisa ja Mihkel naeratavad uhkelt. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "RÕÕMUS UUS AASTA!",
+      "scene": "Liisa ja Mihkel seisavad toas, mis on nüüd kaunistatud värvilise paberist ahelaga. Nad hoiavad üksteisel käest kinni ja vaatavad aknast välja lumise talvemaastiku poole. Mõlemad naeratavad laialt, oodates uut aastat. Tuba on valgusküllane ja rõõmus. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

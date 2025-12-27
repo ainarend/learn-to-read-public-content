@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2025-12-29",
+  "latestDate": "2025-12-31",
   "stories": [
+    {
+      "date": "2025-12-31",
+      "title": "LIISA JA MIHKLI PIDUKAUNISTUS",
+      "pageCount": 10,
+      "characters": [
+        "LIISA",
+        "MIHKEL"
+      ]
+    },
     {
       "date": "2025-12-29",
       "title": "KETU JA OTT TEEJOOMINE",
