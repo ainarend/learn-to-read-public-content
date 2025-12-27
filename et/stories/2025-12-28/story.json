@@ -1,100 +1,100 @@
 {
   "date": "2025-12-28",
   "language": "et",
-  "title": "MART JA ANNI VÄRVILINE VALGUS",
-  "generatedAt": "2025-12-27T16:11:55.908Z",
+  "title": "MARI JA PEETRI VÄRVILISED KETID",
+  "generatedAt": "2025-12-27T16:26:12.741Z",
   "characters": [
     {
       "id": "char1",
-      "name": "MART",
+      "name": "MARI",
       "type": "human",
-      "description": "Väike inimene, rõõmsameelne poiss. Tal on lühikesed pruunid juuksed ja suured sinised silmad. Kannab pehmet sinist kampsunit ja pruune pükse. Sõbralik ja abivalmis. Armas multifilmistiil.",
+      "description": "Väike inimene, tüdruk. Mari on rõõmsameelne tüdruk, kellel on blondid patsikesed punaste paeltega. Tal on seljas roosa pluus ja sinised traksipüksid. Tema suured, sõbralikud silmad ja naeratav nägu peegeldavad uudishimu. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "ANNI",
+      "name": "PEETER",
       "type": "human",
-      "description": "Väike inimene, uudishimulik tüdruk. Tal on pikad blondid patsid ja säravad rohelised silmad. Kannab roosat kleiti ja rohelisi retuuse. Rõõmus ja loov. Armas multifilmistiil.",
+      "description": "Väike inimene, poiss. Peeter on lahke poiss lühikeste pruunide juustega. Tal on seljas roheline sviiter ja pruunid püksid. Tema uudishimulikud silmad ja naeratav ilme näitavad rõõmsat meelt. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "HUBANE ELUTUBA",
-      "description": "Hubane lastesõbralik elutuba, kus on suur mugav oranž diivan, puidust diivanilaud ja suur aken, kust paistab õrn talvine valgus. Seinad on helekollased, põrandal pehme hall vaip. Mänguline ja kutsuv atmosfäär. Multifilmistiil.",
+      "name": "Hubane lastetuba",
+      "description": "Hubane lastetuba pehme kollase vaibaga. Keset tuba seisab suur puidust laud, millel on erinevad käsitöövahendid. Seintel rippuvad värvilised lastejoonistused. Akendest paistab talvine hämar valgus, luues sooja ja kutsuva atmosfääri. Multifilmistiil.",
       "image": "loc1.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "MART JA ANNI MÄNGIVAD.",
-      "scene": "Mart ja Anni istuvad hubase elutoa pehmel vaibal. Nende ümber on mõned lihtsad ehitusklotsid ja pehme tekk. Nad lükkavad õrnalt mänguautosid. Mõlemad naeratavad laialt. Aknast paistab sisse soe talvine valgus. Armas multifilmistiil.",
+      "text": "MARI JA PEETER TOAS.",
+      "scene": "Mari ja Peeter istuvad hubases lastetoas puidust laua ääres. Laual on hunnik värvilisi paberilehti, käärid ja liimipulk. Mari hoiab käes sinist paberilehte ja Peeter vaatab teda naeratades. Toas on soe ja kutsuv atmosfäär, aknast paistab talvine hämar valgus. Multifilmistiil.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NEIL ON HEA MÕTE.",
-      "scene": "Mart ja Anni istuvad hubases elutoas vaibal, vaatavad üksteisele otsa ja neil on eredad, elevil naeratused. Mart osutab mõtlikult akna poole ja Anni noogutab innukalt. Ehitusklotsid on endiselt läheduses. Armas multifilmistiil.",
+      "text": "NEIL ON SUUR MÕTE.",
+      "scene": "Mari ja Peeter istuvad rõõmsalt laua ääres, vahetades pilke ja naeratades. Mari hoiab käes erksavärvilist pabeririba ja Peeter osutab laual olevale värviliste paberite hunnikule. Nende näoilmed on elevust täis, justkui oleks neil suurepärane idee. Toas on palju värvilisi paberilehti, käärid ja liimipulk. Multifilmistiil.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD OTSIVAD PABERIT.",
-      "scene": "Mart ja Anni seisavad hubases elutoas madala riiuli juures. Mart ulatub värvilise pabervirna järele, samal ajal kui Anni vaatab käsitöötarvete karpi, mis on täidetud liimipulkade ja muu säraga. Nad on mõlemad keskendunud ja rõõmsad. Armas multifilmistiil.",
+      "text": "NAD TEEVAD KAUNEID KETTE.",
+      "scene": "Mari ja Peeter istuvad laua ääres ja tegutsevad usinalt. Mari liimib kokku paberiribasid, et moodustada paberiketi lüli. Peeter hoiab käes juba valminud väikest värvilist paberiketi juppi ja vaatab seda imetlusega. Laual on laiali värvilised paberiribad ja liimipulk. Multifilmistiil.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD LÕIKAVAD PABERIT.",
-      "scene": "Mart ja Anni istuvad hubases elutoas väikese puidust laua taga. Mart lõikab ettevaatlikult värvilist paberit nüri lastekääridega. Anni hoiab teist paberitükki ja vaatab Marti huviga. Laual on väikesed paberijäätmed. Armas multifilmistiil.",
+      "text": "LÕIKAVAD PABERIT HOOLEGA.",
+      "scene": "Mari ja Peeter on laua ääres keskendunult käsitööga ametis. Peeter hoiab ettevaatlikult kääre ja lõikab hoolikalt värvilisest paberist ribasid. Mari hoiab käes juba lõigatud paberiribasid. Laual on palju värvilisi paberijuppe ja kääre. Mõlemad on tõsised ja püüavad oma tööd hästi teha. Multifilmistiil.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD LIIMIVAD TÜKKE KOKKU.",
-      "scene": "Mart ja Anni istuvad väikese puidust laua taga. Anni hoiab liimipulka ja kannab hoolikalt liimi väljalõigatud paberikujule. Mart hoiab teist paberikuju, valmis seda külge kleepima. Nad loovad paberist kerakujulise eseme. Laual on värvilised paberijäätmed ja liim. Armas multifilmistiil.",
+      "text": "LIIMIVAD OSAD KOKKU.",
+      "scene": "Mari ja Peeter tegutsevad laua taga. Mari hoiab liimipulka ja liimib kokku kahte värvilist pabeririba, et moodustada paberiketi lüli. Peeter jälgib teda huviga, hoides käes järgmist pabeririba. Laual on valmimas paberikett ja laiali on erinevaid paberitükke. Multifilmistiil.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "SAI VÄRVIDEGA PALL.",
-      "scene": "Mart ja Anni hoiavad käes peaaegu valmis värvilist paberist kerakujulist laternat. See on tehtud paljudest erinevatest värvilistest paberitükkidest, mis on kokku kleebitud. Nad mõlemad näevad uhked ja õnnelikud välja, imetledes oma loomingut. Käsitöötarvetega laud on endiselt näha. Armas multifilmistiil.",
+      "text": "KETID ON VÄRVILISED.",
+      "scene": "Mari ja Peeter on uhked oma saavutuse üle. Nad hoiavad mõlemad käes pikki, säravaid ja värvilisi paberikette, mis koosnevad paljudest kokkuliimitud lülidest. Kettidel on eri värvi paberid – punane, sinine, roheline, kollane. Nende näod säravad rõõmust. Laual on näha veel käsitööjääke. Multifilmistiil.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "PALLI SISU SÄRAB.",
-      "scene": "Mart hoiab väikest, ohutut patareidega LED-valgustit ja asetab selle ettevaatlikult värvilise paberist kerakujulise laterna sisse. Anni jälgib pingsalt, silmad ootusest laiad. Valgus palli sees hakkab pehmelt hõõguma. Armas multifilmistiil.",
+      "text": "TOAS TULEB SÄRA.",
+      "scene": "Mari ja Peeter vaatavad rõõmsalt ringi oma toas. Mõned värvilised paberiketid on juba seinale või akna külge riputatud, tuues tuppa helgust ja sära. Üks kett on Peetri käes ja Mari osutab naeratades riputatud ketile. Toas on helge ja pidulik meeleolu. Multifilmistiil.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "PALL RIIBPA AKNAL.",
-      "scene": "Värviline paberist kerakujuline latern, millel on pehme sisemine kuma, ripub õrnalt hubase elutoa akna lähedal. Mart seisab väikesele, tugevale taburetile, reguleerides hoolikalt selle asendit. Anni seisab tema kõrval, vaadates laternat rõõmsa näoilmega. Armas multifilmistiil.",
+      "text": "PEETER RIPUTAB KETID.",
+      "scene": "Peeter seisab väikese tooli peal ja riputab üles viimast värvilist paberiketti. Mari seisab tema kõrval ja annab talle käest järgmise keti. Toa seinad on juba kaunistatud mitme paberiketiga, mis loovad rõõmsa ja piduliku õhkkonna. Peeter ulatub akna või seina poole, et kett kinnitada. Multifilmistiil.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "TUBA ON NÜÜD HELGE.",
-      "scene": "Hubane elutuba on pehmelt valgustatud akna lähedal rippuva värvilise paberist kerakujulise laterna kumaga. Mart ja Anni istuvad koos pehmel vaibal, vaadates ilusat, õrna valgust, mis tuba täidab. Mõlemal on rahulikud ja õnnelikud naeratused. Armas multifilmistiil.",
+      "text": "NAD OOTAVAD UUT AASTAT.",
+      "scene": "Mari ja Peeter seisavad oma kaunistatud toas, käest kinni hoides ja aknast välja vaadates. Aknast paistab talvine öö. Toas on rippuvad värvilised paberiketid. Nende näod on täis ootust ja elevust, nad vaatavad tulevikku ja rõõmustavad saabuvate pühade üle. Multifilmistiil.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "MART JA ANNI NAERATAVAD.",
-      "scene": "Mart ja Anni istuvad lähestikku hubases, pehmelt valgustatud elutoas vaibal, vaadates otse vaatajale suurte, soojade ja õnnelike naeratustega. Värviliselt hõõguv latern on taustal näha, heites õrna valgust. Nad on oma töö üle uhked. Armas multifilmistiil.",
+      "text": "MARI JA PEETER NAERATAVAD.",
+      "scene": "Mari ja Peeter seisavad kõrvuti oma ilusti kaunistatud toas, käed rõõmsalt külgedel või käest kinni hoides. Nad vaatavad otse vaatleja poole ja naeratavad laialt, rahulolevalt oma tehtud töö ja piduliku meeleolu üle. Toas on näha kõik valminud värvilised paberiketid. Mõlemad on väga õnnelikud. Multifilmistiil.",
       "image": "page10.png",
       "location_id": "loc1"
     }
