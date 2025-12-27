@@ -1,100 +1,100 @@
 {
   "date": "2025-12-28",
   "language": "et",
-  "title": "LIISA JA PÕNNU LUMEHELBEID",
-  "generatedAt": "2025-12-27T15:05:36.593Z",
+  "title": "MART JA ANNI VÄRVILINE VALGUS",
+  "generatedAt": "2025-12-27T16:11:55.908Z",
   "characters": [
     {
       "id": "char1",
-      "name": "LIISA",
+      "name": "MART",
       "type": "human",
-      "description": "Väike inimene, umbes 5-aastane tüdruk, heleda nahaga. Tal on suured rõõmsad pruunid silmad ja lühikesed kuldsed patsid. Seljas on tal pehme roosa kampsun ja mugavad sinised püksid. Ta on alati naeratav ja abivalmis. Armas multifilmistiil.",
+      "description": "Väike inimene, rõõmsameelne poiss. Tal on lühikesed pruunid juuksed ja suured sinised silmad. Kannab pehmet sinist kampsunit ja pruune pükse. Sõbralik ja abivalmis. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "PÕNNU",
-      "type": "rabbit",
-      "description": "Väike lumivalge jänes suurte pikkade roosade kõrvadega, mis on veidi kaldu. Tal on pehme karv ja väike nina, mis vibreerib. Kaelas on väike erkroheline lipsuke. Ta on uudishimulik, sõbralik ja veidi vallatu. Armas multifilmistiil.",
+      "name": "ANNI",
+      "type": "human",
+      "description": "Väike inimene, uudishimulik tüdruk. Tal on pikad blondid patsid ja säravad rohelised silmad. Kannab roosat kleiti ja rohelisi retuuse. Rõõmus ja loov. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "Hubane Lastetuba",
-      "description": "Hubane lastetuba pehme kollase vaibaga, millel on mängulised heledad täpid. Toas on väike puidust laud ja kaks madalat tooli, millel Liisa ja Põnnu istuvad. Akna taga on näha õrna talvist lund, mis paistab sisse õrna valgust. Seintel on paar värvilist lastejoonistust ja üks riiul väikeste raamatutega. Atmosfäär on soe, turvaline ja kutsuv. Multifilmistiil.",
+      "name": "HUBANE ELUTUBA",
+      "description": "Hubane lastesõbralik elutuba, kus on suur mugav oranž diivan, puidust diivanilaud ja suur aken, kust paistab õrn talvine valgus. Seinad on helekollased, põrandal pehme hall vaip. Mänguline ja kutsuv atmosfäär. Multifilmistiil.",
       "image": "loc1.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "LIISA JA PÕNNU ON TOAS.",
-      "scene": "Liisa ja Põnnu istuvad hubases lastetoas madala puidust laua taga. Liisa naeratab ja Põnnu vaatab uudishimulikult. Õrn talvevalgus paistab aknast sisse. Sõbralik ja rahulik atmosfäär.",
+      "text": "MART JA ANNI MÄNGIVAD.",
+      "scene": "Mart ja Anni istuvad hubase elutoa pehmel vaibal. Nende ümber on mõned lihtsad ehitusklotsid ja pehme tekk. Nad lükkavad õrnalt mänguautosid. Mõlemad naeratavad laialt. Aknast paistab sisse soe talvine valgus. Armas multifilmistiil.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NAD TAHTSID TOA KAUNISTADA.",
-      "scene": "Liisa ja Põnnu vaatavad üksteisele rõõmsalt otsa, silmis sära. Liisal on käes mõttepilv või väike sätendav idee. Põnnu noogutab vaimustatult. Rõõmus ja ootusärev meeleolu.",
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Mart ja Anni istuvad hubases elutoas vaibal, vaatavad üksteisele otsa ja neil on eredad, elevil naeratused. Mart osutab mõtlikult akna poole ja Anni noogutab innukalt. Ehitusklotsid on endiselt läheduses. Armas multifilmistiil.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD VÕTAVAD PABERIT.",
-      "scene": "Liisa sirutab käe laual oleva valge paberipaki poole. Põnnu aitab oma käpaga paberit kinni hoida. Mõlemad on keskendunud ja tegutsevad koos. Abivalmis ja mänguline stseen.",
+      "text": "NAD OTSIVAD PABERIT.",
+      "scene": "Mart ja Anni seisavad hubases elutoas madala riiuli juures. Mart ulatub värvilise pabervirna järele, samal ajal kui Anni vaatab käsitöötarvete karpi, mis on täidetud liimipulkade ja muu säraga. Nad on mõlemad keskendunud ja rõõmsad. Armas multifilmistiil.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "LIISA MURRAB PABERIT KOKKU.",
-      "scene": "Liisa hoiab valget paberilehte ja voldib seda ettevaatlikult pooleks. Põnnu istub laual tema kõrval ja jälgib tähelepanelikult Liisa käsi. Keskendunud ja uudishimulik õhkkond.",
+      "text": "NAD LÕIKAVAD PABERIT.",
+      "scene": "Mart ja Anni istuvad hubases elutoas väikese puidust laua taga. Mart lõikab ettevaatlikult värvilist paberit nüri lastekääridega. Anni hoiab teist paberitükki ja vaatab Marti huviga. Laual on väikesed paberijäätmed. Armas multifilmistiil.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "LIISA LÕIKAB KÄÄRIDEGA.",
-      "scene": "Liisa lõikab väikeste tömbiotsaliste kääridega volditud paberist kujundeid. Tema nägu on tõsine ja keskendunud. Põnnu istub tema lähedal ja piilub üle laua, näol uudishimulik ilme. Loominguline ja rahulik tegevus.",
+      "text": "NAD LIIMIVAD TÜKKE KOKKU.",
+      "scene": "Mart ja Anni istuvad väikese puidust laua taga. Anni hoiab liimipulka ja kannab hoolikalt liimi väljalõigatud paberikujule. Mart hoiab teist paberikuju, valmis seda külge kleepima. Nad loovad paberist kerakujulise eseme. Laual on värvilised paberijäätmed ja liim. Armas multifilmistiil.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "PÕNNU VAATAB HOOLIKALT.",
-      "scene": "Lähivaade Põnnust, kes jälgib Liisat. Tema suured kõrvad on ettepoole suunatud ja silmad on suured ja tähelepanelikud. Lausa tundub, et ta tahaks ise kääre proovida. Sõbralik ja kaasahaarav stseen.",
+      "text": "SAI VÄRVIDEGA PALL.",
+      "scene": "Mart ja Anni hoiavad käes peaaegu valmis värvilist paberist kerakujulist laternat. See on tehtud paljudest erinevatest värvilistest paberitükkidest, mis on kokku kleebitud. Nad mõlemad näevad uhked ja õnnelikud välja, imetledes oma loomingut. Käsitöötarvetega laud on endiselt näha. Armas multifilmistiil.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "LUMIHELBEID ON NÜÜD PALJU!",
-      "scene": "Laud on täis erineva suuruse ja kujuga paberist lumehelbeid. Liisa ja Põnnu vaatavad oma loomingut uhkusega. Mõned helbed on juba laiali laotatud. Saavutustunne ja rõõm.",
+      "text": "PALLI SISU SÄRAB.",
+      "scene": "Mart hoiab väikest, ohutut patareidega LED-valgustit ja asetab selle ettevaatlikult värvilise paberist kerakujulise laterna sisse. Anni jälgib pingsalt, silmad ootusest laiad. Valgus palli sees hakkab pehmelt hõõguma. Armas multifilmistiil.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "NAD RIPUTAVAD LUMIHELBEID ÜLES.",
-      "scene": "Liisa seisab toolil ja riputab ühte paberist lumehelbest seinale. Põnnu ulatab talle maast veel ühe lumehelbe. Mõlemad teevad koostööd, toas on kerge pidulik meeleolu.",
+      "text": "PALL RIIBPA AKNAL.",
+      "scene": "Värviline paberist kerakujuline latern, millel on pehme sisemine kuma, ripub õrnalt hubase elutoa akna lähedal. Mart seisab väikesele, tugevale taburetile, reguleerides hoolikalt selle asendit. Anni seisab tema kõrval, vaadates laternat rõõmsa näoilmega. Armas multifilmistiil.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "TUBA ON NÜÜD VÄGA ILUS.",
-      "scene": "Lastetuba on kaunilt kaunistatud paberist lumehelvestega, mis rippuvad seintelt ja aknalt. Liisa ja Põnnu seisavad keset tuba ja imetlevad oma tööd. Tuba on särav ja pidulik. Rahulik ja ilus vaade.",
+      "text": "TUBA ON NÜÜD HELGE.",
+      "scene": "Hubane elutuba on pehmelt valgustatud akna lähedal rippuva värvilise paberist kerakujulise laterna kumaga. Mart ja Anni istuvad koos pehmel vaibal, vaadates ilusat, õrna valgust, mis tuba täidab. Mõlemal on rahulikud ja õnnelikud naeratused. Armas multifilmistiil.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "LIISA JA PÕNNU ON NII ÕNNELIKUD.",
-      "scene": "Liisa ja Põnnu kallistavad õrnalt, näod täis rõõmu ja rahulolu. Nende ümber on imeliselt kaunistatud tuba, mis särab. Soe ja südamlik lõpp. Suur sõprus ja õnn.",
+      "text": "MART JA ANNI NAERATAVAD.",
+      "scene": "Mart ja Anni istuvad lähestikku hubases, pehmelt valgustatud elutoas vaibal, vaadates otse vaatajale suurte, soojade ja õnnelike naeratustega. Värviliselt hõõguv latern on taustal näha, heites õrna valgust. Nad on oma töö üle uhked. Armas multifilmistiil.",
       "image": "page10.png",
       "location_id": "loc1"
     }
