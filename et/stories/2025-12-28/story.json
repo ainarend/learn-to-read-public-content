@@ -1,100 +1,100 @@
 {
   "date": "2025-12-28",
   "language": "et",
-  "title": "KAAREL JA REINU JÄÄLATERNA",
-  "generatedAt": "2025-12-27T17:11:19.871Z",
+  "title": "JÄNES JA MÄGER EHITAVAD LUMELINNA",
+  "generatedAt": "2025-12-27T17:42:08.591Z",
   "characters": [
     {
       "id": "char1",
-      "name": "KAAREL",
-      "type": "bear",
-      "description": "Väike pruun karu, seljas soe sinine talvemantel ja punane sall, peas sinine müts, sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
+      "name": "JÄNES",
+      "type": "rabbit",
+      "description": "Väike valge jänes pikkade ja kohevate kõrvadega, kandmas väikest sinist salli kaelas, suured rõõmsad silmad ja sõbralik uudishimulik näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "REINU",
-      "type": "fox",
-      "description": "Väike oranž rebane, seljas roheline vest ja oranž müts, valge sabaots, säravad silmad ja rõõmus näoilme. Armas multifilmistiil.",
+      "name": "MÄGER",
+      "type": "badger",
+      "description": "Väike pruun-must mäger valge triibulise näoga, kandmas väikest rohelist mütsi peas, sõbralik ja naeratav nägu. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "LUMINE ÕUEALA",
-      "description": "Lumine õueala talvel, väike hubane puidust majake taustal lumise katusega, akendest kumab soe valgus. Mõned lumised kuused ja põõsad ümberringi, kaetud õrna lumekihiga. Maapind on kaetud paksu puhta lumega. Selge talvine päev sinise taevaga. Armas multifilmistiil.",
+      "name": "LUMINE AED",
+      "description": "Suur lumega kaetud aed. Valge värske kohev lumi katab maad ja madalaid põõsaid. Taamal on näha mõned rohelised kuused, mis on kergelt lumega kaetud. Selge sinine talvine taevas. Ere päikesevalgus, mis teeb lume säravaks. Hubane ja rahulik talve atmosfäär. Multifilmistiil.",
       "image": "loc1.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "KAAREL JA REINU MÄNGIVAD.",
-      "scene": "Kaarel, väike pruun karu sinises talvemantlis ja Reinu, väike oranž rebane rohelises vestis, mängivad rõõmsalt lumisel õuealal. Nad seisavad sügavas lumes ja naeratavad. Majake on taustal, selle lumiselt katuselt langeb õrnalt lund. Selge talvine päev. Armas multifilmistiil.",
+      "text": "JÄNES JA MÄGER ON LUMEHANGES.",
+      "scene": "JÄNES ja MÄGER seisavad lumega kaetud aias sügavas lumehanges. JÄNES on osaliselt lumme vajunud, MÄGER seisab tema kõrval, mõlemad vaatavad rõõmsalt ringi. Valge värske lumi katab kogu maapinna ja põõsad. Taustal on rohelised lumised kuused ja selge sinine taevas.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "NEIL ON HEA MÕTE.",
-      "scene": "Kaarel ja Reinu seisavad lumisel õuealal, vaadates üksteisele otsa säravate silmadega. Kaarel tõstab oma käpa õhku, nagu tal oleks äsja idee tulnud. Reinu noogutab innukalt. Taustal on lumine majake. Armas multifilmistiil.",
+      "scene": "JÄNES ja MÄGER seisavad lumega kaetud aias, vaatavad teineteisele otsa ja mõtlevad. Mõlema näoilme on uudishimulik ja inspireeritud, justkui oleks neil äsja hea idee tulnud. Ümberringi on sügav valge lumi. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD VÕTAVAD VETT.",
-      "scene": "Kaarel ja Reinu on lumisel õuealal. Kaarel hoiab väikeses ämbris vett. Reinu seisab tema kõrval ja vaatab uudishimulikult ämbrisse. Majake paistab taustal. Armas multifilmistiil.",
+      "text": "NAD VEERETAVAD SUURT LUND.",
+      "scene": "JÄNES ja MÄGER veeretavad lumega kaetud aias suurt lumepalli. JÄNES lükkab lumepalli eest, MÄGER lükkab tagant. Mõlemad on pingutamas ja naeratavad rõõmsalt. Lumi on kohev ja kerge. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD VALAVAD KAUSSI.",
-      "scene": "Kaarel hoiab ettevaatlikult ämbrit ja valab vett suurde läbipaistvasse kaussi, mis seisab lumel. Reinu jälgib tähelepanelikult, olles Kaarli kõrval. Lumine majake on taustal. Armas multifilmistiil.",
+      "text": "NAD EHITAVAD SEINA.",
+      "scene": "JÄNES ja MÄGER on lumega kaetud aias, ehitamas lumest seina. Nad asetavad hoolikalt üksteise peale lumepalle, moodustades algeliselt juba kõrge lumeseina. JÄNES hoiab ühte lumepalli, MÄGER sätib seda paika. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "KÜLM TEHA JÄÄD.",
-      "scene": "Kaarel ja Reinu seisavad lumisel õuealal, vaadates kaussi, kus vesi nüüd seisab. Ümberringi on paks lumi ja karge õhk. Kaarel on mähitud mantlisse, Reinu sabal on lund. Taustal on lumine majake. Armas multifilmistiil.",
+      "text": "SEINAD ON NÜÜD KÕRGE.",
+      "scene": "JÄNES ja MÄGER seisavad lumest ehitatud kõrgete seinte taga lumega kaetud aias. Seinad on nüüd piisavalt kõrged, et JÄNES ja MÄGER peaaegu nende taha peituvad. Mõlemad vaatavad rahulolevalt oma tehtud tööd. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "NAD OOTAVAD HOOLIKALT.",
-      "scene": "Kaarel ja Reinu istuvad lumel kausi kõrval. Nad vaatavad kannatlikult kaussi, kus vesi hakkab jäätuma. Nende näoilmed on ootusärevad. Majake seisab taustal, lumehelbed langevad õrnalt. Armas multifilmistiil.",
+      "text": "NAD TEEVAD KATUST.",
+      "scene": "JÄNES ja MÄGER on lumega kaetud aias, ehitamas oma lumest linnale katust. Nad sätivad suuremat lapikut lumetükki ehitatud seinte peale. JÄNES hoiab katust üleval, MÄGER toetab seda. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "NÜÜD ON JÄÄ VALMIS.",
-      "scene": "Kaarel ja Reinu vaatavad rõõmsalt kaussi, mis on nüüd täis läbipaistvat jääd. Kaarel osutab jäätunud veele. Reinu naeratab laialt. Majake taustal. Armas multifilmistiil.",
+      "text": "LUMELINN ON VALMIS!",
+      "scene": "JÄNES ja MÄGER seisavad uhkelt oma valmis lumelinna ees lumega kaetud aias. Lumelinn on nüüd täiesti valmis, katuse ja seintega. Mõlemad naeratavad laialt ja on oma loomingust vaimustuses. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "NAD VÕTAVAD JÄÄLATERNA.",
-      "scene": "Kaarel ja Reinu tõstavad lumelt ettevaatlikult ümmarguse jäälaterna, mis on kausist välja võetud. Jää on ilus ja läbipaistev. Nad hoiavad seda õrnalt kahekesi. Lumine majake on taustal. Armas multifilmistiil.",
+      "text": "NAD MÄNGIVAD SEES.",
+      "scene": "JÄNES ja MÄGER mängivad oma lumelinna sees lumega kaetud aias. JÄNES piilub lumelinna ukseavast välja, MÄGER istub mugavalt lumepinnal lumelinna sees. Nad on rõõmsameelsed ja naudivad oma uut peidupaika. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "SEE SÄRAB ILUSASTI.",
-      "scene": "Jäälaterna särab soojalt, kuna selle sees põleb väike küünal (ohutult asetatud, latern on piisavalt paks). Kaarel ja Reinu vaatavad laternat imetlusega, nende näod on valgustatud laterna pehmest kumast. On hämar õhtu. Majake taustal. Armas multifilmistiil.",
+      "text": "JÄNES JA MÄGER NAERAVAD.",
+      "scene": "JÄNES ja MÄGER naeravad rõõmsalt oma lumelinna sees lumega kaetud aias. Mõlemal on suured avatud naeratused ja nad on õnnelikud. JÄNES viskab pisut lund õhku. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "KAAREL JA REINU ON ÕNNELIKUD.",
-      "scene": "Kaarel ja Reinu seisavad lumisel õuealal, latern nende ees särades. Nad naeratavad õnnelikult ja vaatavad laternat, mis valgustab kaunist talveõhtut. Majake taustal. Armas multifilmistiil.",
+      "text": "SEE ON NENDE LUMELINN.",
+      "scene": "JÄNES ja MÄGER seisavad õnnelikult oma valmis lumelinna ees lumega kaetud aias. JÄNES osutab oma esikäpaga uhkelt lumelinna poole. MÄGER noogutab rahulolevalt. Nad on uhked oma saavutuse üle. Taustal rohelised lumised kuused ja sinine taevas.",
       "image": "page10.png",
       "location_id": "loc1"
     }
