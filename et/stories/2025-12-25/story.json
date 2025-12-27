@@ -36,70 +36,70 @@
   "pages": [
     {
       "pageNumber": 1,
-      "text": "MARI JA JUKU KOOS.",
+      "text": "MARI JA JUKU ON KÖÖGIS.",
       "scene": "Mari ja Juku seisavad rõõmsalt köögis, vaatavad teineteisele otsa, käed puusal, mõtlikud ilmed. Köögis on heledat puitu ja palju valgust. Nad ootavad oma järgmist seiklust. LANDSCAPE composition.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NEIL ON NÜÜD MÕTE.",
+      "text": "NEIL ON MÕTE.",
       "scene": "Mari ja Juku naeratavad laialt teineteisele köögis, silmad säravad, justkui neile oleks äsja pähe tulnud midagi toredat. Nad hoiavad käest kinni. LANDSCAPE composition.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "TEEME PIKNIKKU TÄNA.",
+      "text": "NAD PLAANIVAD PIKNIKKU.",
       "scene": "Mari ja Juku osutavad rõõmsalt köögilauale, kus on mõned toiduained: leib, juust ja õunad. Nad on elevil. LANDSCAPE composition.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "VALMISTAME VÕILEIBU KOOS.",
+      "text": "VALMISTAVAD VÕILEIBU.",
       "scene": "Mari ja Juku seisavad köögilaua taga, lõikavad mängult ohutute plastnoaga leiba ja juustu. Nad on keskendunud ja rõõmsad, valmistades võileibu. LANDSCAPE composition.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "PAKIME KORVI TÄIS.",
+      "text": "PAKIVAD KORVI.",
       "scene": "Mari ja Juku panevad valmis võileibu ja värvilisi puuvilju (näiteks punaseid õunu ja kollaseid banaane) suurde pruuni piknikukorvi. Korv on peaaegu täis. LANDSCAPE composition.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "LÄHEME PARKI KOOS.",
+      "text": "LÄHVAD PARKI.",
       "scene": "Mari ja Juku kõnnivad rõõmsalt päikeselises pargis rohelise muru peal. Jukul on käes piknikukorv, Mari naeratab tema kõrval. Nad vaatavad ootusärevalt ettepoole. LANDSCAPE composition.",
       "image": "page6.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 7,
-      "text": "LAOTAME TEKI MAHA.",
+      "text": "LAOTAVAD TEKI MAHA.",
       "scene": "Mari ja Juku laotavad pargi rohelisel murul maha värvilise ruudulise piknikuteki. Nad on hoos ja teevad seda koos. LANDSCAPE composition.",
       "image": "page7.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 8,
-      "text": "SÖÖME MAITSVAT SÜÜA.",
+      "text": "SÖÖVAD MAITSVAT SÖÖKI.",
       "scene": "Mari ja Juku istuvad rõõmsalt piknikutekil rohelises pargis. Nad söövad oma valmis võileibu ja naeravad koos. Päike paistab soojalt. LANDSCAPE composition.",
       "image": "page8.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 9,
-      "text": "PÄIKE PAISTAB MEILE.",
+      "text": "PÄIKE PAISTAB.",
       "scene": "Mari ja Juku on just söömise lõpetanud, vaatavad üles sinisesse taevasse, kus paistab erekollane päike. Nende näod on rahulolevad ja õnnelikud. LANDSCAPE composition.",
       "image": "page9.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 10,
-      "text": "SEE ON NII LÕBUS!",
+      "text": "NEIL ON LÕBUS",
       "scene": "Mari ja Juku kallistavad rõõmsalt teineteist piknikutekil pargis. Nende ümber on kaunis roheline loodus ja nad on väga õnnelikud. LANDSCAPE composition.",
       "image": "page10.png",
       "location_id": "loc2"

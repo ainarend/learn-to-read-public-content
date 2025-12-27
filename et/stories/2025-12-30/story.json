@@ -43,35 +43,35 @@
     },
     {
       "pageNumber": 2,
-      "text": "AKNAL ON LINNUD.",
+      "text": "ÕUES ON LINNUD.",
       "scene": "Kati ja Kristjan seisavad endiselt akna ees. Nüüd on aknast näha, kuidas mitu väikest pruuni lindu istuvad lumisel puuoksal. Kati osutab lindudele. Kristjan vaatab huviga. Elutuba on helekollaste seintega ja puidust põrandaga. Aknalaual on väike punane kaktus. Soe hubane valgus paistab tuppa.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "LINNUD VAJAVAD TOITU.",
+      "text": "LINNUD TAHAVAD TOITU.",
       "scene": "Kati ja Kristjan seisavad akna ees, vaadates linde aknast välja. Nad näevad, et linnud paistavad külmad ja ehk näljased. Kati mõtleb sügavalt. Kristjan noogutab mõtlikult. Elutuba on helekollaste seintega ja puidust põrandaga. Aknalaual on väike punane kaktus. Soe hubane valgus paistab tuppa.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD TAHAVAD AIDATA.",
+      "text": "LAPSED TAHAVAD AIDATA.",
       "scene": "Kati ja Kristjan on otsustanud linde aidata. Nad seisavad akna ees, mõlemal näol abivalmis ja rõõmus ilme. Kati vaatab Kristjanile otsa ja naeratab. Kristjan naeratab vastu. Elutuba on helekollaste seintega ja puidust põrandaga. Aknalaual on väike punane kaktus. Soe hubane valgus paistab tuppa.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD OTSIVAD PUULAUDU.",
+      "text": "NAD OTSIVAD JUPPE.",
       "scene": "Kati ja Kristjan on nüüd väljas lumises aias. Nad seisavad väikese punase aiamaja ees ja otsivad. Kati hoiab käes väikest puidust lauda. Kristjan vaatab samuti laudu hunnikust. Maa on kaetud lumega. Päike paistab eredalt lumisele aiale.",
       "image": "page5.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 6,
-      "text": "NAD EHITAVAD SÖÖGIMAJA.",
+      "text": "JA EHITAVAD SÖÖGIMAJA.",
       "scene": "Kati ja Kristjan ehitavad lumises aias lindudele söögimaja. Nad istuvad lumisel pingil aiamaja ees. Kati hoiab väikest puutükki ja Kristjan kinnitab teist tükki. Mõned tööriistad, näiteks väike haamer, on nende kõrval lumel. Neile on juba hakanud valmima väike puidust söögimaja raam. Päike paistab eredalt lumisele aiale.",
       "image": "page6.png",
       "location_id": "loc2"
@@ -85,7 +85,7 @@
     },
     {
       "pageNumber": 8,
-      "text": "NAD RIPUTAVAD SÖÖGIMAJA ÜLES.",
+      "text": "NING RIPUTAVAD MAJA ÜLES.",
       "scene": "Kati ja Kristjan ripuvad lumises aias valmis söögimaja suure lumise puu oksale. Kristjan ulatab söögimaja Kati poole, kes hoiab seda ja kinnitab oksa külge. Nende näod on pingutatud, kuid õnnelikud. Päike paistab eredalt lumisele aiale.",
       "image": "page8.png",
       "location_id": "loc2"

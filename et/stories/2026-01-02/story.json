@@ -44,7 +44,7 @@
     },
     {
       "pageNumber": 3,
-      "text": "NEIL ON KOLLANE KELK.",
+      "text": "SUURE KÜNKA.",
       "scene": "Peeter ja Triinu seisavad lumisel künkal. Peeter hoiab käes suurt kollast kelku. Triinu seisab tema kõrval ja naeratab entusiastlikult. Mõlemad lapsed kannavad pakse talveriideid (Peeter sinises, Triinu roosas) ja kindaid. Nad vaatavad kelku ja teineteist rõõmsalt. Taustal on näha lumised kuused ja selge sinine taevas.",
       "image": "page3.png",
       "location_id": "loc1"
@@ -79,14 +79,14 @@
     },
     {
       "pageNumber": 8,
-      "text": "NAD TULEVAD ALLA.",
+      "text": "NAD SÕIDAVAD UUESTI.",
       "scene": "Peeter ja Triinu on jõudnud lumise künka jalamile. Kelk on peatunud. Mõlemad lapsed istuvad kelgul ja vaatavad üles künka tippu, kust nad just tulid. Nende näod on õnnelikud ja veidi õhetavad külmast õhust. Talveriided on samad. Taustal on näha lumine küngas lumiste kuuskede ja selge sinise taevaga.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "PEETER JA TRIINU NAERAVAD.",
+      "text": "NAD MÄNGIVAD ÕUES.",
       "scene": "Peeter ja Triinu seisavad künka all ja naeravad valjuhäälselt koos, vaadates teineteisele otsa. Kollane kelk on nende kõrval lume peal. Nende põsed on roosad ja silmad säravad rõõmust. Nad on ikka riides oma talveriietega. Taustal lumine maastik lumiste kuuskede ja sinise taevaga. Õnnelik ja mänguline meeleolu.",
       "image": "page9.png",
       "location_id": "loc1"

@@ -30,7 +30,7 @@
   "pages": [
     {
       "pageNumber": 1,
-      "text": "KUSTI JA NIPSU METSAS.",
+      "text": "KUSTI JA NIPSU ON METSAS.",
       "scene": "KUSTI (pruun karu) ja NIPSU (valge jänes) seisavad sügisese metsa servas, ümbritsetud värvilistest lehtedest, vaatavad ringi uudishimulikult. Mõlemad naeratavad. Landscape composition.",
       "image": "page1.png",
       "location_id": "loc1"
@@ -58,35 +58,35 @@
     },
     {
       "pageNumber": 5,
-      "text": "NAD TEEVAD KUHI!",
+      "text": "NAD TEEVAD KUHJA!",
       "scene": "KUSTI ja NIPSU on suurt lehehunnikut tegemas. KUSTI lükkab lehti kokku, NIPSU toob veel ja viskab hunnikusse. Mõlemad on õhinas ja naeratavad. Landscape composition.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "SUUR PEHME KUHI.",
+      "text": "SUURE PEHME KUHJA.",
       "scene": "KUSTI ja NIPSU seisavad suure pehme lehehunniku kõrval, mis on neist peaaegu sama kõrge. Nad vaatavad hunnikut uhkelt ja rõõmsalt. Landscape composition.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "KUSTI HÜPPAB KUHI.",
+      "text": "KUSTI HÜPPAB KUHJA.",
       "scene": "KUSTI (pruun karu) on just hüpanud suure lehehunniku keskele, lehed lendavad tema ümber õhku. NIPSU vaatab KUSTI tegevust kõrvalt ja naeratab ootusärevalt. Landscape composition.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "NIPSU KA HÜPPAB.",
+      "text": "NIPSU HÜPPAB KA.",
       "scene": "NIPSU (valge jänes) on nüüd samuti hüpanud lehehunnikusse KUSTI kõrvale, mõlemad on lehtede sees ja naeravad. Lehti lendab õhus. Landscape composition.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "NAD ON NÜÜD RÕÕMSAD.",
+      "text": "NAD ON RÕÕMSAD.",
       "scene": "KUSTI ja NIPSU istuvad lehehunnikus, näod rõõmsad ja õnnelikud, puhkavad pärast hüppamist. Päike paistab nende peale. Landscape composition.",
       "image": "page9.png",
       "location_id": "loc1"

@@ -57,21 +57,21 @@
     },
     {
       "pageNumber": 4,
-      "text": "NAD NÄEVAD LINDUSID.",
+      "text": "NAD NÄEVAD LINDE.",
       "scene": "Nöff ja Tiiu on aias ja vaatavad taeva poole, kus lendab väike värviline lind. Nende näod on üllatunud ja vaimustuses. LANDSCAPE composition.",
       "image": "page4.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 5,
-      "text": "LIND ON VÄRVIKAS.",
+      "text": "LIND ON VÄRVILINE.",
       "scene": "Detailne lähivaade värvikast linnust, kes istub lillepeenras. Nöff ja Tiiu vaatavad lindu kaugemalt, imetlusega. Lind on ilusate sulgedega. LANDSCAPE composition.",
       "image": "page5.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 6,
-      "text": "NAD TULEVAD TUBA.",
+      "text": "NAD TULEVAD TUPPA.",
       "scene": "Nöff ja Tiiu sisenevad tagasi mängutuppa, uksest sisse astudes. Neil on endiselt rõõmus ja ootusärev ilme näol. LANDSCAPE composition.",
       "image": "page6.png",
       "location_id": "loc1"
@@ -99,7 +99,7 @@
     },
     {
       "pageNumber": 10,
-      "text": "SEE ON NENDE KUNST.",
+      "text": "SEE ON NENDE PILT.",
       "scene": "Nöff ja Tiiu seisavad oma maali kõrval, mis on nüüd seinale riputatud. Nad vaatavad seda uhkusega. Toas on soe ja rõõmus meeleolu. LANDSCAPE composition.",
       "image": "page10.png",
       "location_id": "loc1"
