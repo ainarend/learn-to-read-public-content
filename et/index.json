@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-05",
+  "latestDate": "2026-01-06",
   "stories": [
+    {
+      "date": "2026-01-06",
+      "title": "MART JA KRISTIINE LUMELINNUS",
+      "pageCount": 10,
+      "characters": [
+        "MART",
+        "KRISTIINE"
+      ]
+    },
     {
       "date": "2026-01-05",
       "title": "LIISA JA JUKU LUMEHELBED",
