@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-02",
+  "latestDate": "2026-01-04",
   "stories": [
+    {
+      "date": "2026-01-04",
+      "title": "ANNA JA KASPARI SOE KAKAO",
+      "pageCount": 10,
+      "characters": [
+        "ANNA",
+        "KASPAR"
+      ]
+    },
     {
       "date": "2026-01-02",
       "title": "PEETER JA TRIINU KELGUSÕIT",

@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-04",
+  "language": "et",
+  "title": "ANNA JA KASPARI SOE KAKAO",
+  "generatedAt": "2025-12-28T22:11:44.778Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ANNA",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne tüdruk. Blondid juuksed kahe patsi. Seljas roosa kampsun ja sinised püksid. Suured uudishimulikud silmad. Sõbralik ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KASPAR",
+      "type": "human",
+      "description": "Väike inimene, uudishimulik poiss. Lühikesed pruunid juuksed. Seljas sinine kampsun ja hallid püksid. Suured säravad silmad. Sõbralik ja abivalmis näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Hubane tuba",
+      "description": "Cozy children's room, light yellow walls, wooden floor. A small, simple wooden table with two small wooden chairs. A large window on the back wall shows a gentle snowy landscape with bare trees and soft falling snow. On the left wall, a simple, red-painted bookshelf. Warm, soft lamplight from a ceiling fixture fills the room, creating a cozy atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ANNA JA KASPAR ON TOAS.",
+      "scene": "Anna sits on a small wooden chair at a small wooden table, looking thoughtfully. Kaspar sits on another small wooden chair next to her, looking at Anna with a curious expression. The cozy children's room has light yellow walls, a wooden floor, and a large window on the back wall showing a gentle snowy landscape. A red bookshelf is on the left wall. Warm lamplight fills the room. Both Anna and Kaspar are wearing their usual clothes.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON SOE MÕTE.",
+      "scene": "Anna and Kaspar are sitting at the small wooden table in the cozy room. Anna looks excited, raising a finger as if explaining an idea. Kaspar is smiling and nodding, listening intently. The room maintains its light yellow walls, wooden floor, and a window showing snowy trees. The red bookshelf is on the left wall. Warm lamplight creates a cozy atmosphere. Both are in their usual clothes.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEHA KAKAOD.",
+      "scene": "Anna and Kaspar are standing next to the small wooden table. Anna is holding a small, silver cooking pot with a handle. Kaspar is holding a bag of cocoa powder and smiling, ready to help. The cozy room is visible behind them, with its light yellow walls, wooden floor, window showing the snowy view, and the red bookshelf. Warm lamplight fills the space. Both are in their usual clothes.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD SEGAVAD HOOLIKALT.",
+      "scene": "Anna is carefully stirring a wooden spoon in the small silver cooking pot that rests on the small wooden table. Kaspar is watching her with an eager smile, holding a small carton of milk. A small puddle of spilled milk on the table next to them indicates their activity. The cozy room is behind them, with light yellow walls, wooden floor, window showing the snowy view, and red bookshelf. Warm lamplight. Both are in their usual clothes.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KAKAO HAKKAB AURAMA.",
+      "scene": "Anna and Kaspar are leaning closer to the small silver cooking pot on the small wooden table. Wisps of steam are gently rising from the cocoa in the pot. Anna points at the steam with a surprised but happy expression. Kaspar is looking at the steam with wide eyes. The cozy room's light yellow walls, wooden floor, snowy window view, and red bookshelf are clearly visible. Warm lamplight. Both are in their usual clothes.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD VALAVAD KLAASI.",
+      "scene": "Anna is carefully pouring the steaming cocoa from the small silver cooking pot into a clear glass mug held by Kaspar. Kaspar is concentrating, making sure to hold the mug steady. A small amount of cocoa has spilled onto the wooden table. The cozy room setting, with its light yellow walls, wooden floor, snowy window view, and red bookshelf, remains consistent. Warm lamplight. Both are in their usual clothes.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NÜÜD ON KAKAO VALMIS.",
+      "scene": "Anna and Kaspar are smiling brightly. Each is holding a clear glass mug filled with steaming hot cocoa. They are standing proudly next to the small wooden table, which now has no cooking items on it. The cozy room background with light yellow walls, wooden floor, snowy window view, and red bookshelf is visible. Warm lamplight. Both are in their usual clothes.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD LÄHEVAD AKNA JUURDE.",
+      "scene": "Anna and Kaspar are walking towards the large window on the back wall of the cozy room, each carefully holding their steaming glass of cocoa. They look curious. The window shows a gentle snowy landscape with bare trees and soft falling snow. The light yellow walls, wooden floor, and red bookshelf are visible. Warm lamplight. Both are in their usual clothes.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NÄEVAD TALVELINDE PUUL.",
+      "scene": "Anna and Kaspar are standing at the large window in the cozy room, looking out. They are holding their cocoa mugs. Outside, on a snow-dusted branch of a bare tree, two small, cheerful winter birds are perched. Anna points excitedly at the birds, and Kaspar smiles, watching them. The light yellow walls, wooden floor, and red bookshelf are visible. Warm lamplight. Both are in their usual clothes.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SOE KAKAO MAITSEB HÄSTI!",
+      "scene": "Anna and Kaspar are sitting on their small wooden chairs at the small wooden table, each happily sipping their hot cocoa from their clear glass mugs. They both have contented smiles on their faces. The window behind them still shows the snowy trees. The light yellow walls, wooden floor, and red bookshelf are visible. Warm lamplight. Both are in their usual clothes.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
