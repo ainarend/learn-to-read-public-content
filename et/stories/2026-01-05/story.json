@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-05",
+  "language": "et",
+  "title": "LIISA JA JUKU LUMEHELBED",
+  "generatedAt": "2025-12-28T22:56:31.462Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledate juustega patsid, seljas soe roosa kampsun, sinised püksid. Tal on suured rõõmsad silmad ja armas naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikesed pruunid juuksed, seljas soe sinine kampsun, hallid püksid. Tal on suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "MÄNGUNURK",
+      "description": "Cozy children's play corner in a bright living room. Soft yellow walls, a light wooden floor with a colorful round rug in the center. A small, child-sized wooden table with two small chairs sits on the rug. A single large window on the back wall shows a gentle snowy landscape outside. On the left wall, there's a low white shelf filled with colorful children's books and a few plush toys. Warm, natural light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA JUKU TOAS.",
+      "scene": "Liisa and Juku are sitting comfortably on the colorful round rug in their cozy play corner. Liisa is looking at Juku with a happy expression, and Juku is looking towards the window, which shows a gentle snowy landscape outside. The small wooden table and chairs are in the background. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD MÕTLEVAD IDEE.",
+      "scene": "Liisa and Juku are sitting at the small wooden table in their cozy play corner. Liisa is holding her chin thoughtfully, looking at Juku. Juku is looking up, a lightbulb moment expression on his face. The table is empty. A gentle snowy landscape is visible outside the window. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PABER ON LAUAL.",
+      "scene": "Liisa and Juku are sitting at the small wooden table. Liisa is placing a stack of white paper onto the table from a small pile next to her. Juku is watching her with eager eyes. The colorful round rug is visible on the light wooden floor. A gentle snowy landscape is visible outside the window. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA LÕIKAB HULGA.",
+      "scene": "Liisa is sitting at the small wooden table, carefully holding small child-safe scissors and cutting a folded piece of white paper to create a snowflake pattern. Several other cut paper snowflakes are already scattered on the table around her. Juku is watching intently, leaning slightly forward. A gentle snowy landscape is visible outside the window. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "JUKU VOLTIB PABERIT.",
+      "scene": "Juku is sitting at the small wooden table, diligently folding a new piece of white paper into a triangle shape, preparing it for cutting. Liisa is holding a freshly cut paper snowflake, admiring it with a smile. More cut snowflakes are on the table. A gentle snowy landscape is visible outside the window. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "HULGA HELBEID TULEB.",
+      "scene": "Liisa and Juku are both sitting at the small wooden table, surrounded by many beautiful paper snowflakes they have cut. Liisa is holding up a large, intricate snowflake. Juku is holding another snowflake and smiling proudly. A gentle snowy landscape is visible outside the window. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD KAUNISTAVAD TUBA.",
+      "scene": "Liisa is carefully taping a paper snowflake onto the soft yellow wall of their cozy play corner, reaching up slightly. Juku is holding another paper snowflake, waiting for his turn, looking excited. The small wooden table is visible nearby. A gentle snowy landscape is visible outside the window. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "HELBED RIIPUVAD ILUSASTI.",
+      "scene": "Liisa and Juku are standing back slightly, admiring the walls of their cozy play corner, which are now decorated with many paper snowflakes hanging beautifully. Several snowflakes are visible on the yellow wall and near the window. A gentle snowy landscape is visible outside the window. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "TUBA ON NÜÜD TALV.",
+      "scene": "A wider shot of the cozy children's play corner. The soft yellow walls are adorned with numerous paper snowflakes of various sizes. Liisa and Juku are standing together in the middle of the room, looking around at their decorations with content smiles. A gentle snowy landscape is still visible outside the window, enhancing the winter theme. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "LIISA JA JUKU ON RÕÕMSAD.",
+      "scene": "Liisa and Juku are standing close together in their beautifully decorated cozy play corner, both smiling brightly and giving each other a high-five. The paper snowflakes on the wall and the snowy view outside create a very happy and festive winter atmosphere. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

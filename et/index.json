@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-04",
+  "latestDate": "2026-01-05",
   "stories": [
+    {
+      "date": "2026-01-05",
+      "title": "LIISA JA JUKU LUMEHELBED",
+      "pageCount": 10,
+      "characters": [
+        "LIISA",
+        "JUKU"
+      ]
+    },
     {
       "date": "2026-01-04",
       "title": "ANNA JA KASPARI SOE KAKAO",
