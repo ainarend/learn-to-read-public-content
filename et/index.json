@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-09",
+  "latestDate": "2026-01-10",
   "stories": [
+    {
+      "date": "2026-01-10",
+      "title": "JÄNES JA REBANE UISUTAVAD",
+      "pageCount": 10,
+      "characters": [
+        "JÄNES",
+        "REBANE"
+      ]
+    },
     {
       "date": "2026-01-09",
       "title": "KARU JA KETTU LUMEKOOBAS",

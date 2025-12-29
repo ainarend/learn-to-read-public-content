@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-10",
+  "language": "et",
+  "title": "JÄNES JA REBANE UISUTAVAD",
+  "generatedAt": "2025-12-29T01:55:56.156Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JÄNES",
+      "type": "rabbit",
+      "description": "Väike valge jänes suurte pikkade kõrvadega, millel on roosad otsad. Tal on seljas soe sinine müts ja erkroheline sall. Suured uudishimulikud silmad ja sõbralik naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "REBANE",
+      "type": "fox",
+      "description": "Väike oranž rebane koheva sabaga. Tal on seljas soe kollane müts ja lilla sall. Terased, kuid sõbralikud silmad ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "JÄÄVÄLI",
+      "description": "A vast, smooth, frozen pond surrounded by snow-covered pine trees and hills in the background. The ice is clear and reflective. A light layer of fresh snow dusts the edges of the pond and tree branches. The sky is a soft, light blue, suggesting a sunny winter day. The atmosphere is peaceful and joyful. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JÄNES JA REBANE ON VÄLJAS.",
+      "scene": "JÄNES (valge jänes sinise mütsi ja rohelise salliga) ja REBANE (oranž rebane kollase mütsi ja lilla salliga) seisavad lumehangede vahel. Nad vaatavad enda ette laia, siledat jäävälja. Ümberringi on lumega kaetud männipuud ja künkad. Taevas on hele sinine. Mõlemal on uudishimulik ja veidi ootusärev nägu. Cute cartoonish style, bright cheerful colors, landscape orientation.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD JÄÄD.",
+      "scene": "JÄNES ja REBANE seisavad jäävälja serval. Nende pilgud on suunatud läikivale ja siledale jääle, mis peegeldab õrnalt taevast. Jääl on kerge värske lume kiht. Puud ja künkad on lumega kaetud. Nende näod on rõõmsameelsed ja entusiastlikud. Cute cartoonish style, bright cheerful colors, landscape orientation.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD PANEVAD UISUD JALGA.",
+      "scene": "JÄNES ja REBANE istuvad jäävälja serval lume peal. Mõlemal on jalgadel uisud. JÄNES (valge jänes) on just oma uisud jalga pannud ja vaatab neid suurte silmadega. REBANE (oranž rebane) on kummardunud ja seob oma uiskude paelu. Jää on sile ja läikiv. Ümberringi on lumised puud. Cute cartoonish style, bright cheerful colors, landscape orientation.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "JÄNES LIBISEB JÄÄL.",
+      "scene": "JÄNES (valge jänes sinise mütsi ja rohelise salliga) on nüüd jää peal ja püüab uisutada. Ta on tasakaalu kaotamas ja libiseb ettepoole, käed õhus tasakaalu hoidmiseks. Tema näol on veidi üllatunud, kuid naljakas ilme. REBANE (oranž rebane kollase mütsi ja lilla salliga) seisab lähedal ja vaatab Jänest kerge mure, kuid ka lõbusa ilmega. Jääväli on lai ja sile. Cute cartoonish style, bright cheerful colors, landscape orientation.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "REBANE HOIAB TEMA KÄTT.",
+      "scene": "REBANE (oranž rebane kollase mütsi ja lilla salliga) ulatab oma käe JÄNESele (valge jänes sinise mütsi ja rohelise salliga), kes on ikka veel veidi ebastabiilselt uiskudel püsti. JÄNES haarab Rebase käest kinni. Mõlemad seisavad ettevaatlikult jääl. Nende näod väljendavad sõbralikku abi ja püüdlust. Jääväli on lai ja sile. Cute cartoonish style, bright cheerful colors, landscape orientation.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD HOIAVAD KÄEST.",
+      "scene": "JÄNES ja REBANE uisutavad nüüd koos, hoides üksteisel käest kinni. Nad liiguvad aeglaselt üle jää. JÄNES (valge jänes) tundub nüüd kindlamalt uiskudel. REBANE (oranž rebane) naeratab talle julgustavalt. Ümberringi on lumega kaetud puud. Jää on sile ja peegeldav. Cute cartoonish style, bright cheerful colors, landscape orientation.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD UISUTAVAD KOOS.",
+      "scene": "JÄNES ja REBANE uisutavad rõõmsalt koos, endiselt käest kinni hoides. Nad on nüüd paremini tasakaalus ja liiguvad sujuvamalt. Mõlemad naeratavad ja nende pilk on ees. Taustal on lumised männipuud. Jää on hele ja kutsuv. Cute cartoonish style, bright cheerful colors, landscape orientation.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "UISUTAMINE ON NÜÜD LÕBUS.",
+      "scene": "JÄNES ja REBANE uisutavad nüüd kiiremini ja naeratavad laialt, endiselt käest kinni. Nad nautisid teineteise seltskonda ja uisutamist. JÄNES (valge jänes) vaatab REBASele (oranž rebane) otsa ja naerab. REBANE naeratab vastu. Jääväli on lai ja särav. Cute cartoonish style, bright cheerful colors, landscape orientation.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "JÄÄ ON NII SÄRAV.",
+      "scene": "JÄNES ja REBANE on peatunud jäävälja keskel, uisud jalga. Nad vaatavad üles taeva poole ja siis alla säravale jääle. Jää peegeldab pehmet sinist talvevalgust. Nende näod on täis imetlust ja rahulolu. Ümberringi on rahulik talvine maastik lumiste puudega. Cute cartoonish style, bright cheerful colors, landscape orientation.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA ÕNNELIKUD.",
+      "scene": "JÄNES ja REBANE seisavad jääväljal, andes üksteisele rõõmsa kallistuse. Mõlemad on laiade naeratustega ja rahulolevate nägudega. Jää on endiselt sile ja särav. Lumised puud moodustavad kauni tausta. Atmosfäär on sõbralik, soe ja õnnelik. Cute cartoonish style, bright cheerful colors, landscape orientation.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
