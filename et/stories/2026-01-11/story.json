@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-11",
+  "language": "et",
+  "title": "KATI JA MART LUMEHELVEID TEHA",
+  "generatedAt": "2025-12-29T02:44:28.227Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KATI",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledad juuksed, säravad suured silmad. Kandmas roosat kampsunit ja siniseid pükse. Sõbralik ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MART",
+      "type": "human",
+      "description": "Väike inimene, poiss, pruunid juuksed, naeratav ja veidi mõtlik nägu. Kandmas sinist särki ja rohelisi pükse. Abivalmis ja uudishimulik. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KATI JA MARTI TOAS",
+      "description": "Cozy children's room with light blue walls, a warm wooden floor, and a large window on the back wall showing a gentle snowy winter scene outside. A sturdy wooden table is in the center, surrounded by two small wooden chairs. There's a small red rug under the table. No other wall decorations. Warm, soft light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KATI JA MART ON TOAS.",
+      "scene": "Kati and Mart are sitting at the sturdy wooden table in the center of their cozy room. Kati is in a small wooden chair on one side, and Mart is in a small wooden chair on the opposite side. The room has light blue walls, a warm wooden floor, and a red rug under the table. A large window on the back wall shows a gentle snowy winter scene outside. They are looking thoughtfully around the room. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD VAATAVAD AKNALE.",
+      "scene": "Kati and Mart are still sitting at the wooden table. They both look towards the large window on the back wall, which clearly shows a gentle snowy winter scene outside. Their expressions are curious. The room has light blue walls, a warm wooden floor, and a red rug under the table. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "AKEN ON VEEL TÜHI.",
+      "scene": "Kati and Mart are standing near the large window on the back wall, which shows a gentle snowy winter scene outside. Kati points gently at the window, and Mart nods. The window glass is plain, without any decorations. The room has light blue walls, a warm wooden floor, and a red rug on the floor. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NEIL TULEB MÕTE.",
+      "scene": "Kati and Mart are standing by the wooden table in their room. Kati smiles brightly and taps her chin, looking at Mart. Mart smiles back, pointing at the window with an excited expression. The room has light blue walls, a warm wooden floor, and a red rug under the table. The large window shows a snowy winter scene outside. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD VÕTAVAD PABERIT.",
+      "scene": "Kati and Mart are now sitting at the wooden table. Kati reaches for a stack of white paper placed on the table. Mart looks at the paper with an eager smile. The room has light blue walls, a warm wooden floor, and a red rug under the table. The large window shows a snowy winter scene outside. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LÕIKAVAD PABERIT.",
+      "scene": "Kati and Mart are focused, sitting at the wooden table. Kati is carefully cutting a folded piece of white paper with child-safe scissors. Mart is also cutting another folded piece of white paper with his own child-safe scissors. Several small paper scraps are on the table. The room has light blue walls, a warm wooden floor, and a red rug under the table. The large window shows a snowy winter scene outside. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PABERIST SAAB LUMEHELVE.",
+      "scene": "Kati and Mart are holding up a beautifully cut paper snowflake, both smiling proudly at their creation. Another finished snowflake is next to them on the table. The room has light blue walls, a warm wooden floor, and a red rug under the table. The large window shows a snowy winter scene outside. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD PANEKSID AKNALE.",
+      "scene": "Kati and Mart are carefully sticking the white paper snowflakes onto the large window glass. Several snowflakes are already gently placed on the window, and they are adding more. The snowy winter scene is visible outside the window. The room has light blue walls, a warm wooden floor, and a red rug. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "AKEN ON NÜÜD ILUS.",
+      "scene": "Kati and Mart stand back from the window, admiring their work. The large window is now beautifully decorated with many white paper snowflakes, showing the snowy winter scene outside. Both children have big, happy smiles. The room has light blue walls, a warm wooden floor, and a red rug. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA RÕÕMSAD.",
+      "scene": "Kati and Mart are hugging each other gently, beaming with pride and happiness, standing in front of their beautifully decorated window with white paper snowflakes. The snowy winter scene outside completes the cozy atmosphere. The room has light blue walls, a warm wooden floor, and a red rug. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

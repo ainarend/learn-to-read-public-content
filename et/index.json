@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-10",
+  "latestDate": "2026-01-11",
   "stories": [
+    {
+      "date": "2026-01-11",
+      "title": "KATI JA MART LUMEHELVEID TEHA",
+      "pageCount": 10,
+      "characters": [
+        "KATI",
+        "MART"
+      ]
+    },
     {
       "date": "2026-01-10",
       "title": "JÄNES JA REBANE UISUTAVAD",
