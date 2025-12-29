@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-08",
+  "latestDate": "2026-01-09",
   "stories": [
+    {
+      "date": "2026-01-09",
+      "title": "KARU JA KETTU LUMEKOOBAS",
+      "pageCount": 10,
+      "characters": [
+        "KARU",
+        "KETTU"
+      ]
+    },
     {
       "date": "2026-01-08",
       "title": "ORI JA REINU LINNUSÖÖJA",
