@@ -1,0 +1,108 @@
+{
+  "date": "2026-01-08",
+  "language": "et",
+  "title": "ORI JA REINU LINNUSÖÖJA",
+  "generatedAt": "2025-12-29T00:26:48.519Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORI",
+      "type": "squirrel",
+      "description": "Väike oranž orav suurte ümarate kõrvadega, koheva saba ja erkude silmadega. Seljas on tal väike sinine vest. Tal on uudishimulik ja rõõmus näoilme, mis on armas multifilmistiilis.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "REINU",
+      "type": "fox",
+      "description": "Väike punakas-pruun rebane pika koheva saba ja teravate kõrvadega. Kaela ümber on tal roheline sall. Tal on sõbralik naeratav nägu ja südamlikud silmad, mis on armas multifilmistiilis.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "HUBANE TUBA",
+      "description": "Cozy living room with light blue walls, a soft light grey rug on the wooden floor, a large window on the back wall showing snowy evergreen trees outside, a low light-colored wooden craft table in the center. There's a small green armchair in one corner. Warm, inviting light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "LUMINE AED",
+      "description": "Snowy winter garden with tall evergreen trees lightly covered in snow, a small wooden fence in the background. Fresh, undisturbed white snow blankets the ground. A sturdy, branchy oak tree stands prominently in the foreground. Bright, clear winter light. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ORI JA REINU TOAS.",
+      "scene": "Ori, a cute orange squirrel, and Reinu, a cute reddish-brown fox, are standing in their cozy living room. Ori is looking thoughtfully out the window at the snowy trees. Reinu is smiling, looking at Ori. The room has light blue walls, a soft grey rug on a wooden floor, a large window showing snowy evergreen trees, and a low wooden craft table in the center. Warm light fills the room. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Ori and Reinu are standing excitedly in their cozy living room, both looking at each other with happy, determined expressions. Ori is gesturing with a paw towards the window. Reinu nods with a big smile. The room has light blue walls, a soft grey rug on a wooden floor, a large window showing snowy evergreen trees, and a low wooden craft table in the center. Warm light fills the room. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEHA LINNUSÖÖJA.",
+      "scene": "Ori, the squirrel, and Reinu, the fox, are now at the low wooden craft table in their cozy living room. On the table are various craft supplies like a bowl and some pinecones. Ori is looking at the supplies with a thoughtful expression. Reinu is pointing to a pinecone with a paw, smiling. The room has light blue walls, a soft grey rug on a wooden floor, and a large window showing snowy evergreen trees. Warm light fills the room. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "REINU LEIAB NÖÖRI.",
+      "scene": "Reinu, the fox, is happily holding up a piece of twine or string with one paw, looking very pleased. Ori, the squirrel, is looking at the string with a nod of approval. They are still at the low wooden craft table in their cozy living room. Pinecones and a bowl are on the table. The room has light blue walls, a soft grey rug on a wooden floor, and a large window showing snowy evergreen trees. Warm light fills the room. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "ORI SEGA SEEMNEID.",
+      "scene": "Ori, the squirrel, is standing at the low wooden craft table, actively stirring a bowl of bird seeds with a small spoon. Reinu, the fox, watches him with an encouraging smile. Pinecones and the string are also on the table. The cozy living room has light blue walls, a soft grey rug on a wooden floor, and a large window showing snowy evergreen trees. Warm light fills the room. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD TÄIDAVAD KÄBID.",
+      "scene": "Ori, the squirrel, and Reinu, the fox, are both sitting at the low wooden craft table, carefully pressing the mixed bird seeds into the crevices of several pinecones. There are a few finished pinecone bird feeders on the table already. The bowl of seeds and the string are also visible. The cozy living room has light blue walls, a soft grey rug on a wooden floor, and a large window showing snowy evergreen trees. Warm light fills the room. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LINNUSÖÖJA ON VALMIS.",
+      "scene": "Ori, the squirrel, and Reinu, the fox, are proudly holding up a pinecone bird feeder, which is covered in seeds and has a string attached. They both have big, happy smiles. Several other finished bird feeders are on the low wooden craft table. The cozy living room has light blue walls, a soft grey rug on a wooden floor, and a large window showing snowy evergreen trees. Warm light fills the room. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD VIIVAD SÖÖJA VÄLJA.",
+      "scene": "Ori, the squirrel, is carefully carrying a seed-covered pinecone bird feeder with its string. Reinu, the fox, is walking beside him, looking excited. They are now outside in the snowy winter garden, walking towards a sturdy oak tree. There is fresh white snow on the ground and evergreen trees in the background. Bright, clear winter light. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "VÄIKESED LINNUD TULEVAD.",
+      "scene": "Ori, the squirrel, and Reinu, the fox, are standing near the sturdy oak tree, looking up with big smiles. A small bird has landed on the pinecone bird feeder, which is now tied to a branch of the oak tree. More small, colorful birds are flying towards the feeder. The snowy winter garden has fresh white snow and evergreen trees in the background. Bright, clear winter light. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "ORI JA REINU NAERAVAD.",
+      "scene": "Ori, the squirrel, and Reinu, the fox, are laughing joyfully, pointing at the bird feeder on the sturdy oak tree. Several small, colorful birds are now happily pecking at the seeds on the feeder. The snowy winter garden is peaceful, with fresh white snow on the ground and evergreen trees in the background. Bright, clear winter light. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

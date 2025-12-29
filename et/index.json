@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-06",
+  "latestDate": "2026-01-08",
   "stories": [
+    {
+      "date": "2026-01-08",
+      "title": "ORI JA REINU LINNUSÖÖJA",
+      "pageCount": 10,
+      "characters": [
+        "ORI",
+        "REINU"
+      ]
+    },
     {
       "date": "2026-01-06",
       "title": "MART JA KRISTIINE LUMELINNUS",
