@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-11",
+  "latestDate": "2026-01-03",
   "stories": [
+    {
+      "date": "2026-01-03",
+      "title": "PALLI JA TRIINU LUMELOSS",
+      "pageCount": 8,
+      "characters": [
+        "PALLI",
+        "TRIINU"
+      ]
+    },
     {
       "date": "2026-01-11",
       "title": "KATI JA MART LUMEHELVEID TEHA",

@@ -1,0 +1,88 @@
+{
+  "date": "2026-01-03",
+  "language": "et",
+  "title": "PALLI JA TRIINU LUMELOSS",
+  "generatedAt": "2025-12-30T23:28:28.470Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PALLI",
+      "type": "human",
+      "description": "Väike inimene umbes 5-aastane, sõbraliku ja rõõmsameelse näoilmega, ümarate põskedega. Tal on seljas paks sinine talvejope, punane müts tutiga ja punased kindad. Jalanõud on soojad talvesaapad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "TRIINU",
+      "type": "human",
+      "description": "Väike inimene umbes 5-aastane, naeratava ja uudishimuliku näoilmega, väikeste tedretähnidega. Tal on seljas paks roheline talvejope, roosa müts tutiga ja roosad kindad. Jalanõud on soojad talvesaapad. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "LUMINE HOOV",
+      "description": "A wide-open snowy backyard on a bright winter day. The ground is covered in deep, pristine white snow. In the background, there are a few snow-covered evergreen trees and a low wooden fence. The sky is a clear, light blue. Gentle hills of snow are visible. The atmosphere is peaceful and bright. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "PALLI JA TRIINU ON ÕUES.",
+      "scene": "Palli and Triinu stand together in a wide-open snowy backyard. The ground is covered in deep white snow. Palli wears a blue winter jacket, red hat, and red gloves. Triinu wears a green winter jacket, pink hat, and pink gloves. They are looking around with curious, happy expressions. Snow-covered evergreen trees and a wooden fence are in the background under a clear blue sky. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "PALJU PALJU LUND ON.",
+      "scene": "Palli and Triinu are standing in the snowy backyard, surrounded by deep, pristine white snow. Palli, in his blue jacket and red hat, points with his red-gloved hand at the snow. Triinu, in her green jacket and pink hat, looks at the snow with a big smile. The background shows snow-covered evergreen trees and a wooden fence under a clear blue sky. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD SUURE LUMEPALLI.",
+      "scene": "Palli and Triinu are kneeling in the deep snow, working together to roll a very large snowball. Palli, in his blue jacket and red hat, pushes the snowball from one side. Triinu, in her green jacket and pink hat, pushes from the other side. They are both smiling and focused on their task. The snowy backyard with trees and a fence is visible in the background. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD TEEVAD TEISE PALLI.",
+      "scene": "Palli and Triinu are now rolling a second, slightly smaller snowball in the deep snow. Palli, in his blue jacket and red hat, is pushing this new snowball. Triinu, in her green jacket and pink hat, is helping to guide it. The first large snowball they made is visible nearby. They look happy and determined. The snowy backyard with trees and a fence is in the background. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD EHITAVAD LUMELOSSI.",
+      "scene": "Palli and Triinu are busy building their snow castle. They have stacked the two large snowballs, forming a base. They are now adding smaller snow blocks to create walls. Palli, in his blue jacket and red hat, places a snow block. Triinu, in her green jacket and pink hat, is shaping another block. The snow castle is beginning to take form. The snowy backyard with trees and a fence is in the background. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LOSS KASVAB SUUREKS.",
+      "scene": "Palli and Triinu are standing proudly next to their nearly finished snow castle. The castle is now quite large, with tall walls and an opening. Palli, in his blue jacket and red hat, is patting a wall. Triinu, in her green jacket and pink hat, is looking up at the castle with an amazed expression. The snowy backyard with trees and a fence is in the background. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD ISTUVAD LOSSIS.",
+      "scene": "Palli and Triinu are sitting comfortably inside their finished snow castle. The castle has thick snow walls, creating a cozy space. Palli, in his blue jacket and red hat, is leaning against a snow wall. Triinu, in her green jacket and pink hat, is sitting cross-legged next to him. They are both smiling and looking out from the castle opening. The snowy backyard is visible outside. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PALLI JA TRIINU ON RÕÕMSAD.",
+      "scene": "Palli and Triinu are sitting inside their snow castle, looking very happy and content. Palli, in his blue jacket and red hat, has his arm around Triinu's shoulder, both smiling broadly. Triinu, in her green jacket and pink hat, is waving excitedly. The sturdy snow walls of their castle surround them, and the snowy backyard with trees and a fence is visible in the background under a clear blue sky. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
