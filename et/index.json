@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-03",
+  "latestDate": "2026-01-07",
   "stories": [
+    {
+      "date": "2026-01-07",
+      "title": "LIISA JA SOE TEKK",
+      "pageCount": 9,
+      "characters": [
+        "LIISA",
+        "TIIGER"
+      ]
+    },
     {
       "date": "2026-01-03",
       "title": "PALLI JA TRIINU LUMELOSS",

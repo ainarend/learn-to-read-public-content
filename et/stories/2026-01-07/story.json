@@ -1,0 +1,101 @@
+{
+  "date": "2026-01-07",
+  "language": "et",
+  "title": "LIISA JA SOE TEKK",
+  "generatedAt": "2025-12-30T23:41:44.495Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, roosade põskedega, suurte rõõmsate silmadega. Tal on seljas sinine pikkade varrukatega pluus ja rohelised püksid. Juuksed on lühikesed ja pruunid. Sõbralik ja uudishimulik, alati valmis aitama. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "TIIGER",
+      "type": "tiger",
+      "description": "Väike oranž tiigrikutsikas, mustade triipudega, suurte roheliste silmadega. Tal on väikesed ümarad kõrvad ja lühike saba. Sõbralik ja mänguline, aga vahel ka veidi arglik. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "LIISA TUBA",
+      "description": "Cozy children's room with light yellow walls, a light wooden floor, and a single large window on the back wall showing a gentle snowy landscape outside with a few bare trees. A small wooden crafting table is in the center with two small wooden chairs. There's a red toy chest against the right wall. The room is tidy and filled with warm, soft light. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "LIISA NARIVODI KÜLJES",
+      "description": "A cozy corner in Liisa's room with a low bunk bed mattress covered in a soft, fluffy blue blanket, creating a comfortable 'nest' on the floor. The light yellow walls and wooden floor from 'LIISA TUBA' are consistent. There's a small fluffy white rug next to the bed. Soft, warm light fills the corner. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA NÄGI TIIGRIT.",
+      "scene": "Liisa, a human child, stands by the large window in her cozy room with light yellow walls and a wooden floor, looking outside. She sees Tiiger, a small orange tiger cub, sitting outside in the snow, looking a little chilly and slightly huddled. The window shows a gentle snowy landscape. Liisa has a thoughtful, concerned expression. The room is filled with warm, soft light. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "TAL OLI SOE MÕTE.",
+      "scene": "Liisa, the human child, now stands next to her small wooden crafting table in her cozy room. She has a bright, kind smile and a warm, determined expression, looking towards a pile of colorful fabrics on the table. Tiiger is not visible in this scene. The light yellow walls and wooden floor are visible. Warm, soft light fills the room. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LIISA VÕTTIS KANGAD.",
+      "scene": "Liisa, the human child, is at her small wooden crafting table in her cozy room. She is reaching for several pieces of colorful, soft fabric (e.g., blue, green, yellow squares) spread out on the table. Tiiger, the small orange tiger cub, is sitting quietly on the wooden floor next to the table, watching Liisa with curious eyes. The light yellow walls and wooden floor are visible. Warm, soft light fills the room. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "TA LÕIKAS SUURI TÜKKE.",
+      "scene": "Liisa, the human child, is sitting on a small wooden chair at her crafting table. She is carefully cutting a piece of colorful fabric with child-safe scissors. Several neatly cut, large fabric squares are already on the table. Tiiger, the small orange tiger cub, is still sitting on the floor nearby, watching Liisa with interest. The light yellow walls and wooden floor are visible. Warm, soft light fills the room. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "TA ÕMBLES NEED KOKKU.",
+      "scene": "Liisa, the human child, is sitting on a small wooden chair at her crafting table. She is holding a large, child-safe needle with thick colorful yarn, carefully making simple stitches to join two pieces of fabric together. The partially formed colorful blanket lies on the table. Tiiger, the small orange tiger cub, is still sitting on the floor, observing Liisa's work. The light yellow walls and wooden floor are visible. Warm, soft light fills the room. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TEKK KASVAS SUUREKS.",
+      "scene": "Liisa, the human child, stands proudly next to her crafting table, holding up a large, colorful, soft blanket that is clearly growing in size. She has a happy and accomplished expression. Tiiger, the small orange tiger cub, is standing on the floor nearby, looking up at the blanket with an excited, wagging tail. The light yellow walls and wooden floor are visible. Warm, soft light fills the room. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SEE OLI NÜÜD VALMIS!",
+      "scene": "Liisa, the human child, beams with joy as she holds up the finished, brightly colored, soft blanket. It is perfectly made and looks very cozy. Tiiger, the small orange tiger cub, is looking up at the blanket with bright, happy eyes, a big smile on his face. They are both in Liisa's room. The light yellow walls and wooden floor are visible. Warm, soft light fills the room. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "TIIGER OOTAS VÄIKESES PESAS.",
+      "scene": "Tiiger, the small orange tiger cub, is curled up snugly in a 'nest' made of a soft blue blanket and pillows on the low bunk bed mattress in a cozy corner of Liisa's room. He looks a little sleepy but also a bit cold. The light yellow walls and wooden floor are visible, along with a small fluffy white rug. Soft, warm light fills the corner. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SÕBER OLI NÜÜD SOE.",
+      "scene": "Liisa, the human child, is gently placing the new, colorful, soft blanket she made over Tiiger, the small orange tiger cub, who is now looking very cozy and happy in his 'nest' by the bunk bed. Tiiger's eyes are half-closed in comfort. Liisa is smiling warmly, happy to have helped her friend. The light yellow walls and wooden floor are visible, along with a small fluffy white rug. Soft, warm light fills the corner. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}
