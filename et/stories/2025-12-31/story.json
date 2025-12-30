@@ -1,100 +1,100 @@
 {
   "date": "2025-12-31",
   "language": "et",
-  "title": "LIISA JA PEETER TELK",
-  "generatedAt": "2025-12-30T23:05:44.423Z",
+  "title": "LIISA JA MIHKLI PIDUKAUNISTUS",
+  "generatedAt": "2025-12-27T19:56:52.130Z",
   "characters": [
     {
       "id": "char1",
       "name": "LIISA",
       "type": "human",
-      "description": "Väike inimene, tüdruk punaste põskedega, heledad juuksed kahe patsi. Seljas roosa pikkade varrukatega pluus ja sinised püksid. Tal on rõõmus ja uudishimulik näoilme. Armas multifilmistiil.",
+      "description": "Väike inimene, umbes viieaastane tüdruk, heledad juuksed kahe patsis, roosa kleit ja valged sukapüksid. Suured rõõmsad silmad ja naeratav nägu. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "PEETER",
+      "name": "MIHKEL",
       "type": "human",
-      "description": "Väike inimene, poiss lühikeste pruunide juustega. Seljas sinine pikkade varrukatega pluus ja rohelised püksid. Tal on sõbralik ja entusiastlik näoilme. Armas multifilmistiil.",
+      "description": "Väike inimene, umbes kuueaastane poiss, lühikesed pruunid juuksed, sinine pikkade varrukatega särk ja pruunid püksid. Rõõmus ja abivalmis, naeratav nägu. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "LIISA JA PEETER TUBA",
-      "description": "Cozy children's room with light yellow walls, a soft light blue rug on the wooden floor. There is a single large window on the back wall showing a gentle snowy winter evening with a few bare trees visible outside. A small, simple wooden bookshelf is against the left wall. A soft, warm lamp light glows from a small lamp on a bedside table in the corner. Cartoon style.",
+      "name": "MEIE TUBA",
+      "description": "Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Toas on väike puidust laud keskel ja kaks väikest puidust tooli. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus loob hubase meeleolu. Multifilmistiil.",
       "image": "loc1.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "LIISA JA PEETER MÄNGIVAD.",
-      "scene": "Liisa and Peeter are playing with colorful building blocks on the soft light blue rug in the center of the cozy children's room. They are sitting on the floor, smiling and engaged. The room has light yellow walls, a single large window on the back wall showing a snowy winter evening, a small wooden bookshelf on the left wall, and a soft lamp light. Both children wear their consistent clothing.",
+      "text": "LIISA JA MIHKEL ON TOAS.",
+      "scene": "Liisa ja Mihkel istuvad kahel väiksel puidust toolil väikese puidust laua ääres. Liisa kannab roosat kleiti, Mihkel sinist särki. Nad vaatavad üksteisele rõõmsalt otsa. Laud on tühi. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NEIL ON SUUR MÕTE.",
-      "scene": "Liisa and Peeter look at each other with bright, excited smiles, their eyes wide with a new idea. They are still sitting on the light blue rug, surrounded by their building blocks in the cozy children's room. The room has light yellow walls, a single large window on the back wall showing a snowy winter evening, a small wooden bookshelf on the left wall, and a soft lamp light. Both children wear their consistent clothing.",
+      "text": "NAD TEAVAD PIDUPÄEVAST.",
+      "scene": "Liisa ja Mihkel istuvad kahel väiksel puidust toolil väikese puidust laua ääres. Liisa kannab roosat kleiti, Mihkel sinist särki. Nad naeratavad ja vaatavad lauale, kus on hunnik värvilisi paberilehti. Nende silmis on ootus. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD TOOVAD TEKE.",
-      "scene": "Liisa and Peeter are cheerfully pulling a large, soft blue blanket from a wicker basket near the corner of the cozy children's room. They are both holding parts of the blanket, looking eager. The room has light yellow walls, a soft light blue rug, a single large window on the back wall showing a snowy winter evening, a small wooden bookshelf on the left wall, and a soft lamp light. Both children wear their consistent clothing.",
+      "text": "NAD LEIDSID VÄRVIPABERIT.",
+      "scene": "Liisa ja Mihkel istuvad kahel väiksel puidust toolil väikese puidust laua ääres. Laual on suur hunnik eri värvi paberilehti: punane, sinine, kollane, roheline. Liisa osutab paberitele, Mihkel vaatab uudishimulikult. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD TOOVAD PADI.",
-      "scene": "Liisa and Peeter are now carrying several soft, colorful pillows in their arms, walking towards the center of the room where the blue blanket is starting to be laid out on the light blue rug. They are smiling. The cozy children's room has light yellow walls, a single large window on the back wall showing a snowy winter evening, a small wooden bookshelf on the left wall, and a soft lamp light. Both children wear their consistent clothing.",
+      "text": "NAD LÕIKAVAD RIBAD.",
+      "scene": "Liisa ja Mihkel istuvad kahel väiksel puidust toolil väikese puidust laua ääres. Laual on hunnik värvilisi paberilehti. Liisa hoiab käes lapsesõbralikke kääre ja lõikab hoolikalt kollasest paberist riba. Mihkel hoiab käes sinist paberilehte ja on valmis ka lõikama. Mõlemad on keskendunud ja rõõmsad. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD EHITAVAD TELKI.",
-      "scene": "Liisa and Peeter are busily constructing a small fort or tent in the center of the room, using the blue blanket draped over two small, simple wooden chairs. Pillows are being placed inside the fort on the light blue rug. They are focused and collaborating on their project. The cozy children's room has light yellow walls, a single large window on the back wall showing a snowy winter evening, a small wooden bookshelf on the left wall, and a soft lamp light. Both children wear their consistent clothing.",
+      "text": "JA KLEEBEVAD KOKKU.",
+      "scene": "Liisa ja Mihkel istuvad kahel väiksel puidust toolil väikese puidust laua ääres. Laual on palju värvilisi paberiribasid. Liisa hoiab käes liimipulka ja kleebib kahte pabeririba kokku, et moodustada rõngas. Mihkel hoiab kinni valmivast paberketist, mis on juba mitmest rõngast koos. Mõlemad on rõõmsameelsed ja teevad koostööd. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "TELK ON VALMIS!",
-      "scene": "Liisa and Peeter stand proudly next to their newly built cozy tent/fort in the center of the room. The blue blanket is neatly draped over two small chairs, forming an inviting enclosed space with colorful pillows inside on the light blue rug. They are both smiling brightly at their creation. The cozy children's room has light yellow walls, a single large window on the back wall showing a snowy winter evening, a small wooden bookshelf on the left wall, and a soft lamp light. Both children wear their consistent clothing.",
+      "text": "TULEB PIKK KETT.",
+      "scene": "Liisa ja Mihkel istuvad kahel väiksel puidust toolil väikese puidust laua ääres. Laual on liimipulk ja mõned paberiribad. Nende ees on pikk, värviline paberist ahel, mis ulatub üle laua. Liisa hoiab ahelat, Mihkel naeratab uhkelt oma kätetöö üle. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "NAD TOOVAD RAAMATU.",
-      "scene": "Peeter is carefully selecting a colorful picture book from the small wooden bookshelf on the left wall of the cozy children's room. Liisa stands next to him, pointing at a book with a happy expression. The finished tent is visible in the background in the center of the room. The room has light yellow walls, a soft light blue rug, a single large window on the back wall showing a snowy winter evening, and a soft lamp light. Both children wear their consistent clothing.",
+      "text": "KETT ON VÄRVILINE.",
+      "scene": "Mihkel seisab püsti väikese puidust laua kõrval ja hoiab pika värvilise paberist ahela ühte otsa kõrgel õhus. Liisa seisab ka püsti ja imetleb ahela erinevaid värve. Ahel on täis punaseid, siniseid, kollaseid ja rohelisi rõngaid. Mõlemad on rõõmsad ja uhked. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "NAD ISTUVAD TELGIS.",
-      "scene": "Liisa and Peeter are sitting comfortably inside their cozy tent/fort, nestled amongst the colorful pillows on the light blue rug. The blue blanket forms the walls of their private space. They are both looking at the picture book together. The cozy children's room's light yellow walls and soft lamp light are visible around the tent. The window shows the snowy winter evening. Both children wear their consistent clothing.",
+      "text": "NAD KAUNISTAVAD TUBA.",
+      "scene": "Liisa seisab toolil ja hoiab värvilise paberist ahela ühte otsa, kinnitades seda ettevaatlikult seinale lastejoonistuste kohale. Mihkel seisab tooli kõrval, hoiab ahela teist otsa ja vaatab Liisat abivalmilt. Ahel ripub ilusasti üle seina. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "NAD VAATAVAD PILTE.",
-      "scene": "Liisa and Peeter are completely engrossed, pointing at the vibrant pictures in the book they are sharing. They are still sitting side-by-side inside their cozy tent/fort, which is made from a blue blanket and pillows. Their faces show wonder and enjoyment. The cozy children's room's light yellow walls and soft lamp light are visible around the tent. The window shows the snowy winter evening. Both children wear their consistent clothing.",
+      "text": "TUBA ON ILUS!",
+      "scene": "Liisa ja Mihkel seisavad toas, imetledes oma kätetööd. Pikk ja värviline paberist ahel ripub ilusasti seinal, lisades toale pidulikku meeleolu. Liisa ja Mihkel naeratavad uhkelt. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "LIISA JA PEETER ON RÕÕMSAD.",
-      "scene": "Liisa and Peeter are smiling warmly, snuggled together in their cozy tent/fort, which is made from a blue blanket and pillows. The picture book is open on their laps, showing happy illustrations. They look content and happy. The cozy children's room's light yellow walls, soft light blue rug, and the snowy winter evening visible through the window complete the warm scene. The soft lamp light adds to the cozy atmosphere. Both children wear their consistent clothing.",
+      "text": "HEAD UUT AASTAT!",
+      "scene": "Liisa ja Mihkel seisavad toas, mis on nüüd kaunistatud värvilise paberist ahelaga. Nad hoiavad üksteisel käest kinni ja vaatavad aknast välja lumise talvemaastiku poole. Mõlemad naeratavad laialt, oodates uut aastat. Tuba on valgusküllane ja rõõmus. Nad kannavad samu riideid. Hubane lastetuba kollaste seintega, puidust põrand, üks suur ristkülikukujuline aken tagaseinas, millest paistab talvine lumevaip ja mõned lumised puud. Laes ripub lihtne ümmargune lamp. Seintel on mõned heledad lastejoonistused. Soe ja pehme valgus.",
       "image": "page10.png",
       "location_id": "loc1"
     }
