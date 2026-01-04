@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-07",
+  "latestDate": "2026-01-11",
   "stories": [
+    {
+      "date": "2026-01-11",
+      "title": "KASS MIU JA KARU RUKS AITAVAD LINDE",
+      "pageCount": 10,
+      "characters": [
+        "KASS MIU",
+        "KARU RUKS"
+      ]
+    },
     {
       "date": "2026-01-07",
       "title": "LIISA JA SOE TEKK",

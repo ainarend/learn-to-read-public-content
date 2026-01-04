@@ -1,102 +1,108 @@
 {
   "date": "2026-01-11",
   "language": "et",
-  "title": "KATI JA MART LUMEHELVEID TEHA",
-  "generatedAt": "2025-12-29T02:44:28.227Z",
+  "title": "KASS MIU JA KARU RUKS AITAVAD LINDE",
+  "generatedAt": "2026-01-04T22:13:31.281Z",
   "characters": [
     {
       "id": "char1",
-      "name": "KATI",
-      "type": "human",
-      "description": "Väike inimene, tüdruk, heledad juuksed, säravad suured silmad. Kandmas roosat kampsunit ja siniseid pükse. Sõbralik ja rõõmus näoilme. Armas multifilmistiil.",
+      "name": "KASS MIU",
+      "type": "cat",
+      "description": "Väike hall kass suurte roheliste silmadega, kandmas väikest sinist salli, suured uudishimulikud kõrvad ja sõbralik naeratus. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "MART",
-      "type": "human",
-      "description": "Väike inimene, poiss, pruunid juuksed, naeratav ja veidi mõtlik nägu. Kandmas sinist särki ja rohelisi pükse. Abivalmis ja uudishimulik. Armas multifilmistiil.",
+      "name": "KARU RUKS",
+      "type": "bear",
+      "description": "Väike pruun karu suurte ümarate kõrvadega, kandmas väikest punast mütsi, suur nina ja rõõmsameelne naeratus. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "KATI JA MARTI TOAS",
-      "description": "Cozy children's room with light blue walls, a warm wooden floor, and a large window on the back wall showing a gentle snowy winter scene outside. A sturdy wooden table is in the center, surrounded by two small wooden chairs. There's a small red rug under the table. No other wall decorations. Warm, soft light fills the room. Cartoon style.",
+      "name": "Elutuba",
+      "description": "Cozy children's living room with light blue walls, soft green rug on the wooden floor, a large window on the back wall showing snowy trees outside, a low round wooden table in the center, and a small, soft grey armchair. Warm lamp light. Cartoon style.",
       "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Lumi Aed",
+      "description": "Peaceful snowy garden with tall evergreen trees lightly covered in fresh white snow. A small, sturdy wooden bird feeder is visible on a tree branch. Gentle snow falling. Bright but soft winter daylight. Cartoon style.",
+      "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "KATI JA MART ON TOAS.",
-      "scene": "Kati and Mart are sitting at the sturdy wooden table in the center of their cozy room. Kati is in a small wooden chair on one side, and Mart is in a small wooden chair on the opposite side. The room has light blue walls, a warm wooden floor, and a red rug under the table. A large window on the back wall shows a gentle snowy winter scene outside. They are looking thoughtfully around the room. Cartoon style.",
+      "text": "KASS MIU JA KARU RUKS.",
+      "scene": "Kass Miu and Karu Ruks are sitting comfortably on a soft grey armchair in a cozy children's living room with light blue walls, a soft green rug on the wooden floor. They are looking at a book together. Miu is wearing a blue scarf and Ruks a red hat. Warm lamp light illuminates the scene. A large window on the back wall shows snowy trees outside.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NAD VAATAVAD AKNALE.",
-      "scene": "Kati and Mart are still sitting at the wooden table. They both look towards the large window on the back wall, which clearly shows a gentle snowy winter scene outside. Their expressions are curious. The room has light blue walls, a warm wooden floor, and a red rug under the table. Cartoon style.",
+      "text": "NAD NÄEVAD LINDE ÕUES.",
+      "scene": "Kass Miu and Karu Ruks are standing by a large window in their cozy living room, looking out. Miu points with a paw towards the snowy trees outside. Ruks looks curious. Miu wears a blue scarf, Ruks a red hat. Snowy trees are visible through the window. Light blue walls, green rug, wooden floor are visible. Warm lamp light.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "AKEN ON VEEL TÜHI.",
-      "scene": "Kati and Mart are standing near the large window on the back wall, which shows a gentle snowy winter scene outside. Kati points gently at the window, and Mart nods. The window glass is plain, without any decorations. The room has light blue walls, a warm wooden floor, and a red rug on the floor. Cartoon style.",
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Kass Miu and Karu Ruks are sitting at a low round wooden table in their cozy living room, looking at each other with happy, thoughtful expressions. Miu has a paw on her chin, Ruks is smiling brightly. Miu wears a blue scarf, Ruks a red hat. Light blue walls, green rug, wooden floor are visible. Snowy trees are visible through the window. Warm lamp light.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NEIL TULEB MÕTE.",
-      "scene": "Kati and Mart are standing by the wooden table in their room. Kati smiles brightly and taps her chin, looking at Mart. Mart smiles back, pointing at the window with an excited expression. The room has light blue walls, a warm wooden floor, and a red rug under the table. The large window shows a snowy winter scene outside. Cartoon style.",
+      "text": "NAD OTSIVAD ASJU.",
+      "scene": "Kass Miu and Karu Ruks are carefully looking through a small open basket filled with various craft supplies (like pinecones, strings, small berries) on the low round wooden table in their cozy living room. Miu holds up a pinecone. Ruks is looking into the basket. Miu wears a blue scarf, Ruks a red hat. Light blue walls, green rug, wooden floor are visible. Snowy trees are visible through the window. Warm lamp light.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD VÕTAVAD PABERIT.",
-      "scene": "Kati and Mart are now sitting at the wooden table. Kati reaches for a stack of white paper placed on the table. Mart looks at the paper with an eager smile. The room has light blue walls, a warm wooden floor, and a red rug under the table. The large window shows a snowy winter scene outside. Cartoon style.",
+      "text": "NAD TEEVAD LINNUDELE PALLE.",
+      "scene": "Kass Miu and Karu Ruks are sitting at the low round wooden table in their cozy living room, actively molding soft, round 'bird food balls' with their paws. There are some finished balls on a plate next to them. Miu wears a blue scarf, Ruks a red hat. Light blue walls, green rug, wooden floor are visible. Snowy trees are visible through the window. Warm lamp light.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "NAD LÕIKAVAD PABERIT.",
-      "scene": "Kati and Mart are focused, sitting at the wooden table. Kati is carefully cutting a folded piece of white paper with child-safe scissors. Mart is also cutting another folded piece of white paper with his own child-safe scissors. Several small paper scraps are on the table. The room has light blue walls, a warm wooden floor, and a red rug under the table. The large window shows a snowy winter scene outside. Cartoon style.",
+      "text": "NAD SIDUVAD NÖÖRE KÜLGE.",
+      "scene": "Kass Miu and Karu Ruks are sitting at the low round wooden table in their cozy living room. They are carefully tying short pieces of string (nööre) around the 'bird food balls' they made. Miu holds a ball with a string, Ruks is tying a knot. Miu wears a blue scarf, Ruks a red hat. Light blue walls, green rug, wooden floor are visible. Snowy trees are visible through the window. Warm lamp light.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "PABERIST SAAB LUMEHELVE.",
-      "scene": "Kati and Mart are holding up a beautifully cut paper snowflake, both smiling proudly at their creation. Another finished snowflake is next to them on the table. The room has light blue walls, a warm wooden floor, and a red rug under the table. The large window shows a snowy winter scene outside. Cartoon style.",
+      "text": "NAD LÄHEVAD ÕUE.",
+      "scene": "Kass Miu and Karu Ruks are standing just inside the open front door of their cozy living room. They are dressed in warm winter clothes: Miu wears a blue scarf and a small blue winter coat, Ruks wears a red hat and a small red winter coat. Each holds a 'bird food ball' with a string. They look excited, stepping towards the snowy garden visible outside the door. Light blue walls, green rug, wooden floor are visible inside.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "NAD PANEKSID AKNALE.",
-      "scene": "Kati and Mart are carefully sticking the white paper snowflakes onto the large window glass. Several snowflakes are already gently placed on the window, and they are adding more. The snowy winter scene is visible outside the window. The room has light blue walls, a warm wooden floor, and a red rug. Cartoon style.",
+      "text": "NAD RIIPUTAVAD PUULE.",
+      "scene": "Kass Miu and Karu Ruks are outside in a peaceful snowy garden. Miu, standing on tiptoes, is carefully hanging a 'bird food ball' with a string onto a low branch of a snow-covered evergreen tree. Ruks is looking up, holding another 'bird food ball'. Both are dressed in warm winter clothes (Miu in blue scarf and coat, Ruks in red hat and coat). Gentle snow is falling.",
       "image": "page8.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 9,
-      "text": "AKEN ON NÜÜD ILUS.",
-      "scene": "Kati and Mart stand back from the window, admiring their work. The large window is now beautifully decorated with many white paper snowflakes, showing the snowy winter scene outside. Both children have big, happy smiles. The room has light blue walls, a warm wooden floor, and a red rug. Cartoon style.",
+      "text": "LINNUD TULEVAD SÖÖMA.",
+      "scene": "Kass Miu and Karu Ruks are standing a little distance away in the snowy garden, watching happily. A few small, colorful birds are flying towards and landing on the 'bird food balls' hanging from the snow-covered evergreen tree branches. Miu and Ruks are smiling. Both are dressed in warm winter clothes. Gentle snow is falling.",
       "image": "page9.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 10,
-      "text": "NAD ON VÄGA RÕÕMSAD.",
-      "scene": "Kati and Mart are hugging each other gently, beaming with pride and happiness, standing in front of their beautifully decorated window with white paper snowflakes. The snowy winter scene outside completes the cozy atmosphere. The room has light blue walls, a warm wooden floor, and a red rug. Cartoon style.",
+      "text": "KÕIK ON NÜÜD ÕNNELIKUD.",
+      "scene": "Kass Miu and Karu Ruks are standing side-by-side in the snowy garden, waving happily towards the tree where the birds are now pecking at the food balls. They are smiling broadly. Birds are visible on the tree. Both are dressed in warm winter clothes. Gentle snow is falling.",
       "image": "page10.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     }
   ]
 }
