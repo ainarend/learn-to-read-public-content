@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-12",
+  "language": "et",
+  "title": "ANNA JA PEETER TEAVAD LUMEHELMI",
+  "generatedAt": "2026-01-04T23:15:29.208Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ANNA",
+      "type": "human",
+      "description": "Väike inimene, umbes viieaastane tüdruk, heledad lühikesed juuksed, suured sinised silmad. Kannab roosat kampsunit ja siniseid pükse. Tal on sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, umbes kuueaastane poiss, lühikesed pruunid juuksed, suured rohelised silmad. Kannab sinist kampsunit ja halle pükse. Tal on rõõmsameelne ja abivalmis näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Laste tuba",
+      "description": "Cozy children's room with light yellow walls, a light wooden floor, and a single large window on the back wall showing a snowy winter landscape with bare trees and soft falling snow. A small round wooden table with two child-sized wooden chairs is in the center of the room. A simple, colorful rug is under the table. No wall decorations to start. Warm, soft natural light comes from the window. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ANNA JA PEETER ON TOAS.",
+      "scene": "Anna and Peeter are standing near the window in their cozy children's room. Anna points outside with a curious expression. Peeter looks towards the window with a thoughtful smile. The room has light yellow walls, a light wooden floor, and a large window showing a snowy winter landscape with bare trees and soft falling snow. Warm light fills the room. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "VÄLJAS ON KÜLM TALV.",
+      "scene": "Anna and Peeter are both looking out the large window of their cozy children's room. Anna has her hand pressed lightly against the glass, and Peeter shivers playfully, rubbing his arms. Outside, a snowy winter landscape with bare trees and soft falling snow is visible. The room has light yellow walls and a light wooden floor. Warm light fills the room. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Anna and Peeter are sitting at the small round wooden table in their cozy children's room. Anna is whispering excitedly to Peeter, who is listening with wide eyes and a big smile. A large window on the back wall shows a snowy winter landscape. The room has light yellow walls, a light wooden floor, and a simple colorful rug under the table. Warm light fills the room. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD PABERIT JA KÄÄRE.",
+      "scene": "Anna and Peeter are at the small round wooden table in their cozy children's room. Anna is holding a stack of white paper, and Peeter is carefully picking up a pair of child-safe scissors from the table. Both look ready to start their activity. A large window shows a snowy winter landscape in the background. The room has light yellow walls, a light wooden floor, and a simple colorful rug. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "ANNA LÕIKAB PABERIT HOOLEGA.",
+      "scene": "Anna is sitting at the small round wooden table in her cozy children's room, focused on carefully cutting folded white paper with child-safe scissors. Peeter is watching her with interest, holding a piece of folded paper, ready to start. The table has some paper scraps. The large window on the back wall shows a snowy winter landscape. The room has light yellow walls, a light wooden floor, and a colorful rug. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PEETER TEHA LUMEHELME.",
+      "scene": "Peeter is carefully unfolding a newly cut white paper snowflake at the small round wooden table in his cozy children's room. His eyes are wide with excitement as the snowflake reveals its intricate pattern. Anna watches him with a pleased smile. Paper scraps are on the table. The large window shows a snowy winter landscape. The room has light yellow walls, a light wooden floor, and a colorful rug. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD TEAVAD PALJU LUMEHELMI.",
+      "scene": "Anna and Peeter are both busy at the small round wooden table in their cozy children's room. Anna is cutting another folded paper with scissors, while Peeter is unfolding a new paper snowflake. Several finished white paper snowflakes of different designs are scattered on the table around them. The large window shows a snowy winter landscape. The room has light yellow walls, a light wooden floor, and a colorful rug. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD RIPUTAVAD AKNALE LUMEHELMI.",
+      "scene": "Anna and Peeter are standing on a small, sturdy wooden stool in front of the large window in their cozy children's room. Anna is carefully taping a finished white paper snowflake to the window glass, while Peeter hands her another one. A few snowflakes are already attached to the window. The snowy winter landscape is visible outside. The room has light yellow walls and a light wooden floor. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "AKEN NÜÜD NII ILUS!",
+      "scene": "Anna and Peeter are standing back from the window in their cozy children's room, admiring their work. The large window is now adorned with many beautiful white paper snowflakes, creating a festive winter scene. Anna claps her hands in delight, and Peeter smiles proudly. The snowy winter landscape is still visible outside, complemented by their indoor decorations. The room has light yellow walls and a light wooden floor. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "ANNA JA PEETER ON RÕÕMSAD.",
+      "scene": "Anna and Peeter are standing together in their cozy children's room, holding hands and smiling brightly at the camera, with their beautifully decorated window full of white paper snowflakes in the background. The window shows a soft, snowy winter day. They are happy with their winter art. The room has light yellow walls and a light wooden floor. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

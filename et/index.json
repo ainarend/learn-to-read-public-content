@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-11",
+  "latestDate": "2026-01-12",
   "stories": [
+    {
+      "date": "2026-01-12",
+      "title": "ANNA JA PEETER TEAVAD LUMEHELMI",
+      "pageCount": 10,
+      "characters": [
+        "ANNA",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-01-11",
       "title": "KASS MIU JA KARU RUKS AITAVAD LINDE",
