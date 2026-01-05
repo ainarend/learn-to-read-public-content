@@ -37,28 +37,28 @@
     },
     {
       "pageNumber": 2,
-      "text": "PALJU VALGET LUMEVAIPA!",
+      "text": "ÕUES ON PALJU LUND!",
       "scene": "Mart and Kristiine are standing in a magical winter garden covered in deep, soft white snow. Tall pine trees with snow-covered branches are visible in the background. The sky is bright blue. Mart points with his yellow-gloved hand at the pristine snow around them, and Kristiine looks on with wide, happy eyes. They both wear their blue and pink winter jackets, pants, hats, and gloves.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NEIL ON HEA MÕTE.",
+      "text": "NEIL TULEB HEA MÕTE.",
       "scene": "Mart and Kristiine, both wearing their blue and pink winter jackets, pants, hats, and gloves, are standing close together in the snowy garden, looking at each other and smiling mischievously. Mart whispers something to Kristiine, who has a thoughtful and excited expression. The deep white snow covers the ground, and snow-covered pine trees are in the background.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "TEEME SUURE LUMELINNA.",
+      "text": "TEEME SUURE LUMELOSSI.",
       "scene": "Mart and Kristiine are enthusiastically looking at a small, gently sloping hill on the left side of the magical snowy garden. Mart points towards the hill with his yellow-gloved hand, and Kristiine claps her green-gloved hands together in excitement. They are both smiling widely, ready to start their project. They wear their blue and pink winter jackets, pants, hats, and gloves.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD VEERETAVAD LUMEPALLE.",
+      "text": "LAPSED VEERETAVAD LUMEPALLE.",
       "scene": "Mart and Kristiine are both kneeling in the deep, soft white snow in the garden. Mart is rolling a small snowball with his yellow-gloved hands, pushing it along the snow to make it bigger. Kristiine is doing the same next to him, gently patting and shaping a small snowball with her green-gloved hands. Snow-covered pine trees are in the background. They wear their blue and pink winter jackets, pants, hats, and gloves.",
       "image": "page5.png",
       "location_id": "loc1"
@@ -72,21 +72,21 @@
     },
     {
       "pageNumber": 7,
-      "text": "NAD EHITAVAD KÕRGET SEINA.",
+      "text": "LAPSED LAOVAD KÕRGET SEINA.",
       "scene": "Mart and Kristiine are stacking the large snowballs they made. One large snowball is already placed on the snow, forming the base of a wall. Mart is carefully placing another large snowball on top of it, with Kristiine standing next to him, pointing to where the next snowball should go. They are building a part of a snow castle wall. Snow-covered pine trees are in the background. They wear their blue and pink winter jackets, pants, hats, and gloves.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "LUMELOSS ON NÜÜD VALMIS.",
+      "text": "LUMELOSS SAI VALMIS.",
       "scene": "Mart and Kristiine are standing proudly in front of a simple, sturdy snow castle wall they have built. The wall is made of stacked snowballs, forming a protective barrier. They are smiling broadly and looking at their completed creation. The snow-covered garden and pine trees are in the background. They wear their blue and pink winter jackets, pants, hats, and gloves.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "NAD ON VÄGA ÕNNELIKUD.",
+      "text": "LAPSED ON VÄGA ÕNNELIKUD.",
       "scene": "Mart and Kristiine are standing inside their newly built snow castle, which has low walls made of stacked snow. They are high-fiving each other with their gloved hands, their faces beaming with joy and satisfaction. The snow-covered garden and pine trees are visible beyond the castle walls. They wear their blue and pink winter jackets, pants, hats, and gloves.",
       "image": "page9.png",
       "location_id": "loc1"
