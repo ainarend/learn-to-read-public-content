@@ -51,16 +51,16 @@
     },
     {
       "pageNumber": 4,
-      "text": "LIISA LÕIKAB.",
-      "scene": "Liisa is sitting at the small wooden table, carefully holding small child-safe scissors and cutting a folded piece of white paper to create a snowflake pattern. Several other cut paper snowflakes are already scattered on the table around her. Juku is watching intently, leaning slightly forward. A gentle snowy landscape is visible outside the window. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
-      "image": "page4.png",
+      "text": "JUKU VOLDIB PABERIT.",
+      "scene": "Juku is sitting at the small wooden table, diligently folding a new piece of white paper into a triangle shape, preparing it for cutting. Liisa is holding a freshly cut paper snowflake, admiring it with a smile. More cut snowflakes are on the table. A gentle snowy landscape is visible outside the window. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
+      "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "JUKU VOLDIB PABERIT.",
-      "scene": "Juku is sitting at the small wooden table, diligently folding a new piece of white paper into a triangle shape, preparing it for cutting. Liisa is holding a freshly cut paper snowflake, admiring it with a smile. More cut snowflakes are on the table. A gentle snowy landscape is visible outside the window. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
-      "image": "page5.png",
+      "text": "LIISA LÕIKAB.",
+      "scene": "Liisa is sitting at the small wooden table, carefully holding small child-safe scissors and cutting a folded piece of white paper to create a snowflake pattern. Several other cut paper snowflakes are already scattered on the table around her. Juku is watching intently, leaning slightly forward. A gentle snowy landscape is visible outside the window. Liisa is wearing a pink sweater and blue pants. Juku is wearing a blue sweater and grey pants.",
+      "image": "page4.png",
       "location_id": "loc1"
     },
     {
