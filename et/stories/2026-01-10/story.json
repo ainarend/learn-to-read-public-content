@@ -30,21 +30,21 @@
   "pages": [
     {
       "pageNumber": 1,
-      "text": "JÄNES JA REBANE ON VÄLJAS.",
+      "text": "JÄNES JA REBANE ON ÕUES.",
       "scene": "JÄNES (valge jänes sinise mütsi ja rohelise salliga) ja REBANE (oranž rebane kollase mütsi ja lilla salliga) seisavad lumehangede vahel. Nad vaatavad enda ette laia, siledat jäävälja. Ümberringi on lumega kaetud männipuud ja künkad. Taevas on hele sinine. Mõlemal on uudishimulik ja veidi ootusärev nägu. Cute cartoonish style, bright cheerful colors, landscape orientation.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NAD NÄEVAD JÄÄD.",
+      "text": "NAD OTSUSTASID UISUTAMA MINNA.",
       "scene": "JÄNES ja REBANE seisavad jäävälja serval. Nende pilgud on suunatud läikivale ja siledale jääle, mis peegeldab õrnalt taevast. Jääl on kerge värske lume kiht. Puud ja künkad on lumega kaetud. Nende näod on rõõmsameelsed ja entusiastlikud. Cute cartoonish style, bright cheerful colors, landscape orientation.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD PANEVAD UISUD JALGA.",
+      "text": "SÕBRAD PANEVAD UISUD JALGA.",
       "scene": "JÄNES ja REBANE istuvad jäävälja serval lume peal. Mõlemal on jalgadel uisud. JÄNES (valge jänes) on just oma uisud jalga pannud ja vaatab neid suurte silmadega. REBANE (oranž rebane) on kummardunud ja seob oma uiskude paelu. Jää on sile ja läikiv. Ümberringi on lumised puud. Cute cartoonish style, bright cheerful colors, landscape orientation.",
       "image": "page3.png",
       "location_id": "loc1"
@@ -72,28 +72,28 @@
     },
     {
       "pageNumber": 7,
-      "text": "NAD UISUTAVAD KOOS.",
+      "text": "REBANE JULGUSTAB JÄNEST.",
       "scene": "JÄNES ja REBANE uisutavad rõõmsalt koos, endiselt käest kinni hoides. Nad on nüüd paremini tasakaalus ja liiguvad sujuvamalt. Mõlemad naeratavad ja nende pilk on ees. Taustal on lumised männipuud. Jää on hele ja kutsuv. Cute cartoonish style, bright cheerful colors, landscape orientation.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "UISUTAMINE ON NÜÜD LÕBUS.",
+      "text": "NAD UISUTAVAD KOOS.",
       "scene": "JÄNES ja REBANE uisutavad nüüd kiiremini ja naeratavad laialt, endiselt käest kinni. Nad nautisid teineteise seltskonda ja uisutamist. JÄNES (valge jänes) vaatab REBASele (oranž rebane) otsa ja naerab. REBANE naeratab vastu. Jääväli on lai ja särav. Cute cartoonish style, bright cheerful colors, landscape orientation.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "JÄÄ ON NII SÄRAV.",
+      "text": "UISUTAMINE ON VÄGA TORE",
       "scene": "JÄNES ja REBANE on peatunud jäävälja keskel, uisud jalga. Nad vaatavad üles taeva poole ja siis alla säravale jääle. Jää peegeldab pehmet sinist talvevalgust. Nende näod on täis imetlust ja rahulolu. Ümberringi on rahulik talvine maastik lumiste puudega. Cute cartoonish style, bright cheerful colors, landscape orientation.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "NAD ON VÄGA ÕNNELIKUD.",
+      "text": "JA TEEB TUJU HEAKS.",
       "scene": "JÄNES ja REBANE seisavad jääväljal, andes üksteisele rõõmsa kallistuse. Mõlemad on laiade naeratustega ja rahulolevate nägudega. Jää on endiselt sile ja särav. Lumised puud moodustavad kauni tausta. Atmosfäär on sõbralik, soe ja õnnelik. Cute cartoonish style, bright cheerful colors, landscape orientation.",
       "image": "page10.png",
       "location_id": "loc1"
