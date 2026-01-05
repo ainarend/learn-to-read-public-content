@@ -1,19 +1,19 @@
 {
   "date": "2026-01-09",
   "language": "et",
-  "title": "KARU JA KETTU LUMEKOOBAS",
+  "title": "MÕMMI JA KELLI LUMEKOOBAS",
   "generatedAt": "2025-12-29T01:11:25.182Z",
   "characters": [
     {
       "id": "char1",
-      "name": "KARU",
+      "name": "MÕMMI",
       "type": "bear",
       "description": "Väike pruun karu, pehmete suurte kõrvadega, kandmas väikest sinist salli ja punaseid kindaid. Tal on sõbralik naeratus ja lahked silmad. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "KETTU",
+      "name": "KELLI",
       "type": "fox",
       "description": "Väike oranž rebane, koheva sabaga, kandmas väikest rohelist mütsi ja kollaseid kindaid. Tal on uudishimulik näoilme ja säravad silmad. Armas multifilmistiil.",
       "image": "char2.png"
@@ -36,7 +36,7 @@
   "pages": [
     {
       "pageNumber": 1,
-      "text": "KARU JA KETTU ON TOAS.",
+      "text": "MÕMMI JA KELLI ON TOAS.",
       "scene": "Karu and Kettu are sitting in two comfy armchairs near the stone fireplace in their cozy cabin living room. Karu is in one armchair with a blue scarf and red gloves, Kettu is in the other with a green hat and yellow gloves. A warm fire crackles in the fireplace. The room has light brown wooden walls and a wooden floor with a rug.",
       "image": "page1.png",
       "location_id": "loc1"
@@ -50,56 +50,56 @@
     },
     {
       "pageNumber": 3,
-      "text": "NEIL ON MÕNUS MÕTE.",
+      "text": "NEIL ON TORE MÕTE.",
       "scene": "Karu and Kettu are standing next to each other in their cozy cabin living room, smiling conspiratorially and whispering. Karu has a blue scarf and red gloves, Kettu has a green hat and yellow gloves. They are pointing towards the window. The room has light brown wooden walls, a wooden floor with a rug, and a stone fireplace.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD LÄHEVAD VÄLJA.",
+      "text": "SÕBRAD LÄHEVAD ÕUE,",
       "scene": "Karu and Kettu, bundled in their winter clothes (Karu with blue scarf and red gloves, Kettu with green hat and yellow gloves), are stepping out of their small wooden cabin into the deep snow of the forest clearing. Snowy pine trees surround them under a bright blue sky.",
       "image": "page4.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 5,
-      "text": "NAD TEHA LUMEKOOBA.",
+      "text": "ET EHITADA LUMEKOOBAST.",
       "scene": "Karu and Kettu are actively pushing and piling up fresh white snow in the snowy forest clearing. Karu (blue scarf, red gloves) uses his paws to push snow, Kettu (green hat, yellow gloves) is helping to shape the beginnings of a snow cave. Snowy pine trees are in the background under a bright blue sky, with the cabin partially visible.",
       "image": "page5.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 6,
-      "text": "KOOS ON LÕBUS TEHA.",
+      "text": "KOOS ON LÕBUS EHITADA.",
       "scene": "Karu and Kettu are happily working together to build a snow cave in the snowy forest clearing. Karu (blue scarf, red gloves) is shaping the snow with his paws, and Kettu (green hat, yellow gloves) is piling more snow. They are both smiling and laughing. Snowy pine trees are in the background under a bright blue sky, with the cabin partially visible.",
       "image": "page6.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 7,
-      "text": "LUMEKOOBAS ON VALMIS.",
+      "text": "LUMEKOOBAS SAIGI VALMIS.",
       "scene": "Karu and Kettu are standing proudly in front of their newly finished, small snow cave in the snowy forest clearing. The snow cave has a cozy opening. Karu (blue scarf, red gloves) and Kettu (green hat, yellow gloves) are admiring their work with big smiles. Snowy pine trees are in the background under a bright blue sky, with the cabin partially visible.",
       "image": "page7.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 8,
-      "text": "NAD ISTUVAD SISSE.",
+      "text": "SÕBRAD MÄNGIVAD LUMEKOOPAS.",
       "scene": "Karu (blue scarf, red gloves) and Kettu (green hat, yellow gloves) are sitting comfortably inside the small, cozy snow cave they built in the snowy forest clearing. They are smiling, enjoying the small shelter. Snowy pine trees are visible outside the cave entrance under a bright blue sky.",
       "image": "page8.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 9,
-      "text": "NÜÜD JOOVAD SOOJA TEED.",
+      "text": "TOAS JOOVAD SOOJA TEED.",
       "scene": "Karu and Kettu are back inside their cozy cabin living room. They are sitting in the armchairs near the stone fireplace, each holding a warm cup of tea. Karu has a blue scarf and red gloves, Kettu has a green hat and yellow gloves. A fire crackles. The room has light brown wooden walls, a wooden floor with a rug.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "SEE ON HEA PÄEV!",
+      "text": "KÜLL OLI HEA PÄEV!",
       "scene": "Karu and Kettu are sitting cozily in their armchairs by the crackling fireplace in their cabin living room, looking content and happy. Karu (blue scarf, red gloves) and Kettu (green hat, yellow gloves) are smiling at each other. Warm lamp light fills the room with light brown wooden walls, a wooden floor with a rug.",
       "image": "page10.png",
       "location_id": "loc1"
