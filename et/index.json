@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-18",
+  "latestDate": "2026-01-19",
   "stories": [
+    {
+      "date": "2026-01-19",
+      "title": "JUKU JA REET TALVEPÄEVAL",
+      "pageCount": 10,
+      "characters": [
+        "JUKU",
+        "REET"
+      ]
+    },
     {
       "date": "2026-01-18",
       "title": "ETI JA VALGE LUMEONN",

@@ -1,0 +1,108 @@
+{
+  "date": "2026-01-19",
+  "language": "et",
+  "title": "JUKU JA REET TALVEPÄEVAL",
+  "generatedAt": "2026-01-11T22:57:21.975Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene poiss, seljas soe sinine talvejope, punane müts ja kindad. Rõõmsameelne ja uudishimulik. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "REET",
+      "type": "human",
+      "description": "Väike inimene tüdruk, seljas soe roosa talvejope, kollane müts ja kindad. Sõbralik ja naeratav. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Juku ja Reeti tuba",
+      "description": "Cozy children's room with light blue walls, soft grey carpet, single window on back wall showing snowy trees outside, a small wooden shelf with a few children's books, and a colorful rug on the floor. Warm light from a small lamp on the shelf. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Külmunud tiik talvises metsas",
+      "description": "A serene frozen pond in a peaceful winter forest. The pond ice is smooth and slightly reflective. Snow covers the ground around the pond and the branches of pine trees and bare deciduous trees. A few small, smooth grey stones are visible near the pond's edge. Bright but soft winter daylight. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUKU JA REET MÄNGIVAD.",
+      "scene": "Juku and Reet are in their cozy room. Juku is sitting on the floor, playing with colorful building blocks. Reet is kneeling next to him, gently stacking a block. Both are wearing indoor clothes. The room has light blue walls, soft grey carpet, a single window on the back wall showing snowy trees outside, a small wooden shelf with a few children's books, and a colorful rug on the floor. Warm light from a small lamp on the shelf. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD LÄHEVAD ÕUE.",
+      "scene": "Juku and Reet are standing near the door in their cozy room, fully dressed in winter clothes (Juku in blue jope, red müts; Reet in pink jope, yellow müts). They are smiling, looking excited to go outside. The room has light blue walls, soft grey carpet, a single window on the back wall showing snowy trees outside, a small wooden shelf with a few children's books, and a colorful rug on the floor. Warm light from a small lamp on the shelf. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "ON ILUS TALVEPÄEV.",
+      "scene": "Juku and Reet are walking on a snow-covered path towards a frozen pond in a peaceful winter forest. They are dressed in warm winter clothes. Juku points at something in the distance. Reet looks ahead with a happy expression. Pine trees with snow on their branches are visible in the background under bright but soft winter daylight. The ground is covered in white snow. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "JÄÄ ON JÄÄPANGAS.",
+      "scene": "Juku and Reet stand at the edge of a smooth, reflective frozen pond. They are dressed in warm winter clothes and looking down at the ice with curious expressions. Snow covers the ground around the pond and the branches of pine trees and bare deciduous trees. Bright but soft winter daylight illuminates the scene. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD NÄEVAD OMA PILTI.",
+      "scene": "Juku and Reet are kneeling close to the edge of the smooth, reflective frozen pond, pointing at their own reflections in the ice. They are smiling. They are dressed in warm winter clothes. Snow covers the ground around the pond and the branches of pine trees and bare deciduous trees. Bright but soft winter daylight illuminates the scene. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PILT ON VÄGA ILUS.",
+      "scene": "Juku and Reet are still kneeling by the smooth, reflective frozen pond, admiring their reflections. They both have wide, happy smiles. Juku gestures towards the reflection. They are dressed in warm winter clothes. Snow covers the ground around the pond and the branches of pine trees and bare deciduous trees. Bright but soft winter daylight illuminates the scene. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD OTSIVAD KIVE.",
+      "scene": "Juku and Reet are now standing near the edge of the frozen pond, bending down to search for small, smooth grey stones in the snow and fallen leaves near the bank. Juku holds one small stone in his gloved hand. Reet is looking closely at the ground. They are dressed in warm winter clothes. Snow covers the ground around the pond and the branches of pine trees and bare deciduous trees. Bright but soft winter daylight illuminates the scene. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KIVID ON JÄÄL.",
+      "scene": "Juku and Reet are carefully placing small, smooth grey stones onto the surface of the smooth, reflective frozen pond. Several stones are already arranged on the ice. They are focused on their task and dressed in warm winter clothes. Snow covers the ground around the pond and the branches of pine trees and bare deciduous trees. Bright but soft winter daylight illuminates the scene. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "JÄÄ SÄRAB ILUSASTI.",
+      "scene": "Juku and Reet are standing back from the frozen pond, admiring the small, smooth grey stones they placed on the ice. The stones sparkle beautifully on the reflective ice surface under the soft winter daylight. They are looking at their creation with awe and satisfaction, dressed in warm winter clothes. Snow covers the ground around the pond and the branches of pine trees and bare deciduous trees. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "JUKU JA REET ON RÕÕMSAD.",
+      "scene": "Juku and Reet are standing by the frozen pond, holding hands and smiling brightly. The sparkling stones are still visible on the ice in the background. They are clearly happy with their winter play, dressed in warm winter clothes. Snow covers the ground around the pond and the branches of pine trees and bare deciduous trees. Bright but soft winter daylight illuminates the scene. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
