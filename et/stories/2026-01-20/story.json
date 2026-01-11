@@ -1,0 +1,95 @@
+{
+  "date": "2026-01-20",
+  "language": "et",
+  "title": "SÄDE JA OSSY SOE SALL",
+  "generatedAt": "2026-01-11T23:42:21.485Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SÄDE",
+      "type": "hedgehog",
+      "description": "Väike hall siil suurte tumedate silmadega. Tal on pehmed okkad ja rõõmus nägu. Seljas on väike punane vest. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OSSY",
+      "type": "squirrel",
+      "description": "Väike pruun orav koheva sabaga. Tal on suured säravad silmad ja sõbralik naeratus. Seljas on väike roheline kampsun. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "SÄDE KODU",
+      "description": "Cozy small forest dwelling. Wooden walls and floor. A single small round window on the back wall showing soft snow outside. A small wooden table in the center with two tiny wooden stools. A simple woven rug on the floor. A small shelf with a few colorful yarn balls on the right wall. Warm, soft light from a small lamp. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SÄDE JA OSSY ON KODUS.",
+      "scene": "Siil Säde and Orav Ossy are sitting at a small wooden table inside their cozy forest dwelling. Siil Säde, wearing a red vest, looks a bit chilly. Orav Ossy, wearing a green sweater, is looking at Siil Säde with a concerned expression. The room has wooden walls, a single small round window showing snow outside, and a simple woven rug on the floor. Warm light fills the room.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON KÜLM TALVEPÄEV.",
+      "scene": "Siil Säde (red vest) and Orav Ossy (green sweater) are still sitting at the small wooden table. They both look slightly shivering, perhaps rubbing their paws together to keep warm. Soft snow is visible outside the small round window on the back wall. The cozy forest dwelling is warm, but they still feel the chill of winter.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Siil Säde (red vest) and Orav Ossy (green sweater) are looking at each other at the small wooden table, eyes wide with a sudden, joyful idea. They point upwards towards a small shelf on the right wall where colorful balls of yarn are stored. They have excited smiles.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD OTSIVAD PEHMET LÕNGA.",
+      "scene": "Siil Säde (red vest) and Orav Ossy (green sweater) are standing near the small shelf on the right wall. They are reaching up with their paws towards the colorful balls of yarn, smiling eagerly. The cozy wooden walls and floor of their dwelling are visible.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD PUNUVAD SOOJA SALLI.",
+      "scene": "Siil Säde (red vest) and Orav Ossy (green sweater) are now sitting back at the small wooden table. They are holding a long, colorful piece of yarn between them, actively working on it with their paws, as if braiding or hand-weaving a simple scarf. They look focused and happy. Yarn balls are on the table next to them.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "SALL KASVAB PIKAKS.",
+      "scene": "Siil Säde (red vest) and Orav Ossy (green sweater) are still sitting at the small wooden table, continuing to work on the long, colorful braided yarn. The scarf is visibly longer now, draping over the table as they pull and weave. They look pleased with their progress, smiling at their creation. Yarn balls are still on the table.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SALL ON VALMIS!",
+      "scene": "Siil Säde (red vest) and Orav Ossy (green sweater) are holding up the finished, colorful long scarf with their paws. They are standing triumphantly next to the small wooden table, smiling proudly. The cozy room is warm and inviting.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD PANEVAD SALLI KAELA.",
+      "scene": "Siil Säde (red vest) and Orav Ossy (green sweater) are standing up, each wearing one end of the long colorful scarf wrapped around their necks. The scarf is shared between them, making them feel warm and cozy. They look happy and comfortable in their forest dwelling.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SÄDE JA OSSY ON RÕÕMSAD.",
+      "scene": "Siil Säde (red vest) and Orav Ossy (green sweater) are standing happily together, snuggled close in their shared warm, colorful scarf, smiling brightly. The cozy forest dwelling, with its wooden walls, window showing snow, and warm lighting, is a comforting backdrop. They are very pleased with their warm creation.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
