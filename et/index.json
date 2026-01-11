@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-12",
+  "latestDate": "2026-01-18",
   "stories": [
+    {
+      "date": "2026-01-18",
+      "title": "ETI JA VALGE LUMEONN",
+      "pageCount": 10,
+      "characters": [
+        "REBANE ETI",
+        "JÄNES VALGE"
+      ]
+    },
     {
       "date": "2026-01-12",
       "title": "ANNA JA PEETER TEAVAD LUMEHELMI",

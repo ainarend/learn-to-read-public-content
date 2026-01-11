@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-18",
+  "language": "et",
+  "title": "ETI JA VALGE LUMEONN",
+  "generatedAt": "2026-01-11T22:11:41.105Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE ETI",
+      "type": "fox",
+      "description": "Väike oranž rebane pehme sabaga, seljas sinine sall ja pisikesed pruunid kindad. Suured sõbralikud silmad ja rõõmus naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES VALGE",
+      "type": "rabbit",
+      "description": "Väike valge jänes pikkade kõrvadega, seljas roheline müts ja pisikesed punased saapad. Elavad uudishimulikud silmad ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "LUMINE VÄLI",
+      "description": "Vast-fallen pristine white snow covers a wide, gentle field. In the background, there are a few snow-covered pine trees and distant, softly rounded hills under a bright, clear winter sky. The ground is entirely white with snow. The atmosphere is bright, crisp, and peaceful. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ETI JA VALGE ON LUMES.",
+      "scene": "REBANE ETI and JÄNES VALGE are standing side-by-side in a wide, pristine snowy field. Eti is wearing a blue scarf and brown mittens, Valge a green hat and red boots. They are looking around, smiling cheerfully. In the background, there are a few snow-covered pine trees and distant, softly rounded hills under a bright, clear winter sky. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "REBANE ETI and JÄNES VALGE are still standing in the pristine snowy field. Eti is gently nudging Valge with her elbow, and both are looking at each other with wide, excited smiles, as if sharing a secret idea. Eti is wearing a blue scarf and brown mittens, Valge a green hat and red boots. In the background, there are a few snow-covered pine trees and distant, softly rounded hills under a bright, clear winter sky. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD LUMEPALLE.",
+      "scene": "REBANE ETI and JÄNES VALGE are kneeling in the pristine snowy field, each carefully shaping a small, round snowball with their paws/hands. Their expressions are focused and happy. Eti is wearing a blue scarf and brown mittens, Valge a green hat and red boots. In the background, there are a few snow-covered pine trees and distant, softly rounded hills under a bright, clear winter sky. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PALLID KASVAVAD SUUREKS.",
+      "scene": "REBANE ETI and JÄNES VALGE are now pushing two much larger snowballs across the pristine snowy field. They are working together, one pushing each large snowball, their faces showing effort and determination, but also smiles. Eti is wearing a blue scarf and brown mittens, Valge a green hat and red boots. In the background, there are a few snow-covered pine trees and distant, softly rounded hills under a bright, clear winter sky. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD EHITAVAD LUMEONNI.",
+      "scene": "REBANE ETI and JÄNES VALGE are stacking the large snowballs to start forming the walls of a small snow fort or igloo in the pristine snowy field. One large snowball is already in place, and they are working to lift another one onto it. They are collaborating, both smiling. Eti is wearing a blue scarf and brown mittens, Valge a green hat and red boots. In the background, there are a few snow-covered pine trees and distant, softly rounded hills under a bright, clear winter sky. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "ONN ON KÕRGE.",
+      "scene": "REBANE ETI and JÄNES VALGE are standing proudly beside a nearly completed snow fort, which now has high walls and an entrance. They are looking up at their creation with wide, satisfied smiles. Eti is wearing a blue scarf and brown mittens, Valge a green hat and red boots. The fort is built from stacked snowballs, creating a sturdy structure. In the background, there are a few snow-covered pine trees and distant, softly rounded hills under a bright, clear winter sky. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PÄIKE NAERATAB ONNI.",
+      "scene": "REBANE ETI and JÄNES VALGE are sitting inside their partially enclosed snow fort, looking out at the bright sun. They are cozy and happy, the sunbeam casting a warm glow inside the fort. Eti is wearing a blue scarf and brown mittens, Valge a green hat and red boots. The snow fort is clearly built from stacked snowballs. In the background outside the fort entrance, there are a few snow-covered pine trees and distant, softly rounded hills under a bright, clear winter sky. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD MÄNGIVAD ONNIS.",
+      "scene": "REBANE ETI and JÄNES VALGE are happily playing inside their finished snow fort. Eti is pretending to peek out from a small opening in the snow wall, while Valge is laughing, perhaps making a playful snowball to toss gently inside. Eti is wearing a blue scarf and brown mittens, Valge a green hat and red boots. The snow fort is clearly built from stacked snowballs. In the background outside the fort entrance, there are a few snow-covered pine trees and distant, softly rounded hills under a bright, clear winter sky. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MÄNG ON VÄGA LÕBUS.",
+      "scene": "REBANE ETI and JÄNES VALGE are playing a simple game inside the snow fort. Eti is giggling and gently chasing Valge around the inner space of the fort. Both have wide, joyful smiles, their bodies in motion. Eti is wearing a blue scarf and brown mittens, Valge a green hat and red boots. The snow fort is clearly built from stacked snowballs. In the background outside the fort entrance, there are a few snow-covered pine trees and distant, softly rounded hills under a bright, clear winter sky. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "ETI JA VALGE ON ÕNNELIKUD.",
+      "scene": "REBANE ETI and JÄNES VALGE are standing together in front of their completed snow fort, arms around each other's shoulders (or just standing close). They are looking proudly at their creation, with beaming, contented smiles. The sun is setting slightly, casting a warm, golden glow on the snowy field and the fort. Eti is wearing a blue scarf and brown mittens, Valge a green hat and red boots. In the background, there are a few snow-covered pine trees and distant, softly rounded hills under a beautiful, soft winter sky. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
