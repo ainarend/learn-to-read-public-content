@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-20",
+  "latestDate": "2026-01-22",
   "stories": [
+    {
+      "date": "2026-01-22",
+      "title": "MIISU JA MUKI TALVEKAUNISTUS",
+      "pageCount": 10,
+      "characters": [
+        "KASS MIISU",
+        "KOER MUKI"
+      ]
+    },
     {
       "date": "2026-01-20",
       "title": "SÄDE JA OSSY SOE SALL",

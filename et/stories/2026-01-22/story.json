@@ -1,0 +1,108 @@
+{
+  "date": "2026-01-22",
+  "language": "et",
+  "title": "MIISU JA MUKI TALVEKAUNISTUS",
+  "generatedAt": "2026-01-12T00:27:04.699Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KASS MIISU",
+      "type": "cat",
+      "description": "Väike hall triibuline kass, pehme kasukaga. Tal on suured rohelised silmad ja väike roosa nina. Seljas on tal väike punane sall. Sõbralik ja uudishimulik. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KOER MUKI",
+      "type": "dog",
+      "description": "Pruun väike koer, lontis kõrvade ja lühikese sabaga. Tal on kollane kaelarihm. Suured pruunid silmad ja rõõmus naeratav nägu. Rahulik ja lahke. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "ELUTUBA",
+      "description": "Cozy living room with light yellow walls, a warm wooden floor, and a large window on the back wall showing a peaceful snowy landscape outside. A small round wooden table is in the center with two small wooden chairs. A soft green rug is under the table. There are no other wall decorations. Warm, inviting atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "VÄLISVAADE AKNAST",
+      "description": "Outside view of a cozy house with a prominent window on the front. The garden is covered in deep white snow, with bare trees visible in the background. A clear blue winter sky. Peaceful and quiet atmosphere. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MIISU JA MUKI TOAS.",
+      "scene": "KASS MIISU sits on a small wooden chair at the round wooden table, looking towards the large window with a thoughtful expression. KOER MUKI is lying on the soft green rug beside the table, looking at MIISU. The cozy living room has light yellow walls, a wooden floor, and a peaceful snowy landscape visible through the window. Warm and cozy atmosphere. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ON TALV JA PAKANE.",
+      "scene": "KASS MIISU and KOER MUKI both look towards the large window, observing the snowy landscape outside. MIISU is sitting at the small wooden table, and MUKI is lying on the soft green rug. Snow is falling gently outside the window. The cozy living room environment is consistent. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "KASS MIISU is looking at KOER MUKI with a bright, enthusiastic smile, as if sharing an idea. MIISU is sitting at the small wooden table. MUKI's ears are perked up, and he looks interested, sitting upright on the soft green rug beside the table. The cozy living room environment is consistent. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD PABERI.",
+      "scene": "KASS MIISU is holding a stack of colorful papers on the small round wooden table. KOER MUKI is sitting upright on the soft green rug beside the table, watching MIISU with interest. The cozy living room environment is consistent. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD LÕIKAVAD LUMEHELBEID.",
+      "scene": "KASS MIISU is carefully cutting out a paper snowflake from a piece of colorful paper using child-safe scissors, focused on the task at the small round wooden table. Several already-cut colorful paper snowflakes are scattered on the table. KOER MUKI is observing her intently, leaning slightly over the table from the soft green rug. The cozy living room environment is consistent. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "HELBEID ON PALJU.",
+      "scene": "The small round wooden table is now covered with many different colorful paper snowflakes that KASS MIISU and KOER MUKI have cut out. KASS MIISU is holding up a particularly pretty snowflake with a proud smile. KOER MUKI is sitting next to the table on the soft green rug, smiling proudly at the collection of snowflakes. The cozy living room environment is consistent. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD PANEKSE AKNALE.",
+      "scene": "KASS MIISU is carefully sticking a colorful paper snowflake onto the lower part of the large window glass, reaching comfortably. KOER MUKI is watching from the soft green rug, tail wagging gently, looking up at MIISU. The snowy landscape outside is visible through the window. The cozy living room environment is consistent. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "AKEN NÜÜD SÄRAB.",
+      "scene": "The house's prominent window is seen from outside, now beautifully decorated with many colorful paper snowflakes. The snow-covered garden and bare trees are visible in the background. The colorful snowflakes on the window glisten slightly in the clear winter light. The overall view is bright and cheerful. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NENDE KODU ON KAUNIS.",
+      "scene": "A slightly wider shot of the house's decorated window from outside, emphasizing the warmth and beauty it brings to the snowy landscape. The colorful paper snowflakes are prominent on the window. The house looks inviting and cozy in the winter setting, against the backdrop of snow and bare trees under a clear blue winter sky. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "MIISU JA MUKI ON RÕÕMSAD.",
+      "scene": "KASS MIISU and KOER MUKI are sitting together on the soft green rug in front of their beautifully decorated window, looking out at the snowy garden. They are snuggled close, smiling happily, enjoying the beautiful view and their cozy, decorated home. Their faces express contentment and joy. The cozy living room environment is consistent. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
