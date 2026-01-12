@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-22",
+  "latestDate": "2026-01-23",
   "stories": [
+    {
+      "date": "2026-01-23",
+      "title": "ORAV OLLI TALVINE MÄNG",
+      "pageCount": 10,
+      "characters": [
+        "ORAV OLLI",
+        "JÄNES JENNI"
+      ]
+    },
     {
       "date": "2026-01-22",
       "title": "MIISU JA MUKI TALVEKAUNISTUS",
