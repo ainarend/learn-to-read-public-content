@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-23",
+  "latestDate": "2026-01-24",
   "stories": [
+    {
+      "date": "2026-01-24",
+      "title": "LIISA JA PEETER TALVELUMES",
+      "pageCount": 9,
+      "characters": [
+        "LIISA",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-01-23",
       "title": "ORAV OLLI TALVINE MÄNG",

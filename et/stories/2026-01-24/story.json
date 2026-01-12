@@ -1,0 +1,101 @@
+{
+  "date": "2026-01-24",
+  "language": "et",
+  "title": "LIISA JA PEETER TALVELUMES",
+  "generatedAt": "2026-01-12T01:57:56.473Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne tüdruk. Tal on heledad juuksed, mis on patsis. Seljas on tal roosa talvejope, sinised püksid ja roosad kindad. Tal on suured rõõmsad silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, sõbralik poiss. Tal on lühikesed pruunid juuksed. Seljas on tal sinine talvejope, pruunid püksid ja rohelised kindad. Tal on suured uudishimulikud silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KODU ELUTUBA",
+      "description": "Cozy living room with light blue walls, wooden floor covered with a soft round red rug, a large window on the back wall showing a snowy winter landscape with trees. In the center, there is a small round wooden table with two small chairs. A simple wooden bookshelf with a few children's books is on the left wall. Warm, soft light from the window. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "LUMINE TAGAAED",
+      "description": "Snowy backyard garden with gentle hills of white snow. Bare winter trees are sparsely dotted around, covered in snow. A simple wooden fence borders the back. Bright but soft winter daylight. Fresh footprints in the snow. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER NÄEVAD LUND.",
+      "scene": "Liisa and Peeter, both wearing their regular clothes (not winter gear yet), are standing near the large window in the cozy living room (loc1). They are looking out at the snowy landscape with excited expressions. Liisa points excitedly outside with one hand. Peeter looks out with wide, happy eyes.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD LUME MÄNGIMA.",
+      "scene": "Liisa and Peeter are now standing near the entrance in the cozy living room (loc1), putting on their warm winter clothes. Liisa is zipping up her pink jacket. Peeter is pulling on his green gloves. They both look very excited and happy, eager to go outside.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LÄHEME LUMME MÄNGIMA!",
+      "scene": "Liisa and Peeter are now outside in the snowy backyard garden (loc2). They are standing in fresh white snow, wearing their full winter gear. They are looking around with big smiles, enjoying the snowy scene. Snow is gently covering the trees and ground, and there are fresh footprints in the snow from where they just walked.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA TEEB LUMINGLI.",
+      "scene": "Liisa is lying on her back in the fresh snow in the snowy backyard garden (loc2), moving her arms and legs to make a snow angel. She is smiling happily. Peeter stands nearby, wearing his winter clothes, watching Liisa and smiling broadly. The snowy landscape is bright and cheerful.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PEETER VISKAB LUND.",
+      "scene": "Peeter is gleefully throwing a small handful of snow into the air in the snowy backyard garden (loc2). He is wearing his winter clothes and has a wide, happy grin. Liisa, having finished her snow angel, is sitting up in the snow nearby and laughing at Peeter's play. The ground is covered in white snow.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD ON NÜÜD KÜLMAD.",
+      "scene": "Liisa and Peeter are standing closer together in the snowy backyard garden (loc2). They are both wearing their winter clothes, but they are slightly huddled and shivering a little, rubbing their gloved hands together. They look a bit chilly but still have gentle, happy expressions on their rosy-cheeked faces.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LÄHEME KOJU TUBA!",
+      "scene": "Liisa and Peeter are now just inside the door of the cozy living room (loc1). They are taking off their winter jackets and hats. Their cheeks are rosy from the cold outside, but they look warm and happy to be indoors again. The warm, soft light of the room welcomes them.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "TEE TEHA TEE!",
+      "scene": "Liisa and Peeter are standing next to the small round wooden table in the cozy living room (loc1). On the table, there is a small teapot and two empty mugs. Peeter holds a tea bag in his hand, looking at it curiously. Liisa is looking at the teapot with an eager expression. They both appear ready to make warm tea.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NÜÜD ON SOE TEE!",
+      "scene": "Liisa and Peeter are sitting comfortably at the small round wooden table in the cozy living room (loc1). Each child is holding a mug of warm, steaming tea. They are smiling warmly and looking happy and cozy, enjoying their drink after playing in the snow. The room feels very inviting and warm.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
