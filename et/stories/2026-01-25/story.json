@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-25",
+  "language": "et",
+  "title": "KATI JA MART EHITAVAD MAJA",
+  "generatedAt": "2026-01-12T02:41:37.229Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KATI",
+      "type": "human",
+      "description": "Väike inimene tüdruk, heledad lühikesed juuksed, sinised silmad, kandmas roosat pusa ja siniseid pükse. Sõbralik ja uudishimulik, rõõmsameelse näoga. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MART",
+      "type": "human",
+      "description": "Väike inimene poiss, lühikesed pruunid juuksed, pruunid silmad, kandmas rohelist pusa ja halli pükse. Rõõmsameelne ja abivalmis, lahke näoilmega. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KATI JA MARDI TUBA",
+      "description": "Cozy children's play room with light yellow walls, a soft blue rug on the floor, a single large window on the back wall showing snowy trees outside. A small light brown wooden toy chest is on the right wall. The room is tidy with no other fixed furniture. Warm, gentle light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KATI JA MART TOAS.",
+      "scene": "Kati and Mart are sitting on the blue rug in the middle of their play room. Kati is looking thoughtfully at Mart, and Mart is looking back at Kati with a curious expression. The light yellow walls, large window showing snowy trees, and a small wooden toy chest on the right are visible. They are wearing their regular clothes. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON SUUR MÕTE.",
+      "scene": "Kati and Mart are now both smiling brightly, looking at each other excitedly. Kati has her hand up as if she's just had an idea. Mart's eyes are wide with interest. They are still sitting on the blue rug. The room details (light yellow walls, window with snowy trees, toy chest) are consistent. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD OTSIVAD TEKKE.",
+      "scene": "Kati and Mart are standing near the small wooden toy chest on the right side of the room. Kati is pulling a soft, colorful blanket out of the chest. Mart is looking into the chest, reaching for another blanket. They are both smiling. The blue rug, yellow walls, and window are consistent. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD PADJAD.",
+      "scene": "Kati and Mart are now each holding a soft, fluffy pillow. Kati has a light blue pillow and Mart has a green one. They are standing in the middle of the blue rug, looking happy and purposeful. The room details are consistent. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD EHITAVAD MAJA.",
+      "scene": "Kati and Mart are actively building a fort in the center of the blue rug. They are using the blankets and pillows to construct a small, cozy 'house'. One blanket is draped over an imaginary frame, and Mart is holding another blanket up. Kati is placing a pillow to support a wall. The room details are consistent. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MAJA ON NÜÜD VALMIS.",
+      "scene": "The blanket fort is now mostly built, resembling a small, child-sized tent or house on the blue rug. Kati and Mart stand proudly beside their creation, smiling. The fort is made of colorful blankets and supported by pillows. The room background remains consistent. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD PUHVIVAD PADI.",
+      "scene": "Kati is kneeling at the entrance of the blanket fort, holding a soft pillow and playfully fluffing it. Mart is peeking inside the fort with an inviting smile. The fort is cozy and ready. The blue rug and room background are consistent. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD LÄHEVAD MAJA SISSE.",
+      "scene": "Kati and Mart are carefully crawling into the small opening of their blanket fort. Kati is leading, and Mart is following right behind her. They both have excited smiles. The cozy fort is visible, and the room background is consistent. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KOOS ON VÄGA MÕNUS.",
+      "scene": "Kati and Mart are now comfortably settled inside their blanket fort. They are sitting close together, looking out from the entrance with relaxed and happy expressions. The fort interior looks soft and inviting. The room background is still visible beyond the fort opening. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEAL ON NÜÜD HEA MÄNGIDA.",
+      "scene": "Kati and Mart are happily playing inside their blanket fort. Kati is holding a small toy car, and Mart is holding a soft teddy bear. They are both smiling and looking at their toys. The fort is cozy around them, and the room background is consistent outside the fort opening. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

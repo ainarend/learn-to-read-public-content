@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-24",
+  "latestDate": "2026-01-25",
   "stories": [
+    {
+      "date": "2026-01-25",
+      "title": "KATI JA MART EHITAVAD MAJA",
+      "pageCount": 10,
+      "characters": [
+        "KATI",
+        "MART"
+      ]
+    },
     {
       "date": "2026-01-24",
       "title": "LIISA JA PEETER TALVELUMES",
