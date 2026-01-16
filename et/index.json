@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-25",
+  "latestDate": "2026-01-16",
   "stories": [
+    {
+      "date": "2026-01-16",
+      "title": "KUSTI JA RENI LINNUMAJA",
+      "pageCount": 10,
+      "characters": [
+        "KARU KUSTI",
+        "REBANE RENI"
+      ]
+    },
     {
       "date": "2026-01-25",
       "title": "KATI JA MART EHITAVAD MAJA",

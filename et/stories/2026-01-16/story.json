@@ -1,0 +1,108 @@
+{
+  "date": "2026-01-16",
+  "language": "et",
+  "title": "KUSTI JA RENI LINNUMAJA",
+  "generatedAt": "2026-01-16T16:26:30.227Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KARU KUSTI",
+      "type": "bear",
+      "description": "Väike pruun karu, pehme karvaga, ümarate kõrvadega. Kannab rohelist salli kaela ümber. Tal on suured sõbralikud silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "REBANE RENI",
+      "type": "fox",
+      "description": "Väike oranžikas-punane rebane, koheva sabaga. Kannab sinist mütsi peas. Tal on teravad, kuid sõbralikud silmad ja uudishimulik ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KUSTI JA RENI TUBA",
+      "description": "Cozy, warm wooden cabin interior. Light brown wooden walls and a matching wooden floor. A single, large window on the back wall shows a snowy winter landscape outside. In the center, there's a sturdy, rustic wooden table with two small wooden chairs. On the left wall, there is a simple wooden shelf with a few children's books and a small plant. A warm, glowing fireplace is on the right wall, radiating warmth. Soft, inviting light. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "LUMINE AED",
+      "description": "A serene, snowy winter garden outside a cozy wooden cabin. Ground covered in soft, white snow. Several snow-covered evergreen trees are scattered around, with one prominent tree in the center-left. The wooden cabin is partially visible in the background, emitting warm light from its windows. Clear, bright winter sky with gentle light. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KUSTI JA RENI TOAS.",
+      "scene": "Karu Kusti sits on a small wooden chair at the rustic wooden table, looking thoughtful. Rebane Reni sits on another small wooden chair opposite Kusti, gently tapping his paw on the table. The cozy wooden cabin room is warm with light from the fireplace and window. Snowy winter landscape visible outside the window. Both characters have a neutral but peaceful expression.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NÄEVAD VÄIKESI LINDE.",
+      "scene": "Karu Kusti and Rebane Reni are both looking towards the large window on the back wall, their expressions showing gentle curiosity. Through the window, several small cartoon birds are visible flitting among the snowy trees. They are sitting at the rustic wooden table. The cozy wooden cabin room is warm with light from the fireplace and window.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LINNUD VAJAVAD ABI.",
+      "scene": "Karu Kusti and Rebane Reni look at each other with a slightly concerned but determined expression, having just seen the birds outside. Kusti gestures gently towards the window. They are sitting at the rustic wooden table. The cozy wooden cabin room is warm with light from the fireplace and window.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "TEEME LINDUDELE MAJA.",
+      "scene": "Karu Kusti and Rebane Reni are smiling brightly, Kusti pointing enthusiastically towards the rustic wooden table, indicating a new idea. Reni nods in agreement, looking excited. They are sitting at the rustic wooden table. The cozy wooden cabin room is warm with light from the fireplace and window.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KOGUVAD VÄIKESEID KLOTSE.",
+      "scene": "Karu Kusti and Rebane Reni are kneeling on the wooden floor next to the rustic wooden table. They are surrounded by various small, simple wooden blocks of different shapes and sizes, gathering them into a neat pile. Their expressions are focused and happy. The cozy wooden cabin room is warm with light from the fireplace and window.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "EHITAVAD MAJA VALMIS.",
+      "scene": "Karu Kusti and Rebane Reni are actively building a small, simple wooden birdhouse/bird feeder on top of the rustic wooden table. Kusti is carefully holding two wooden blocks together, while Reni is gently pressing another piece into place. Several other wooden blocks are scattered around. They look concentrated and happy. The cozy wooden cabin room is warm with light from the fireplace and window.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PANEVAD SEEMNED SISSE.",
+      "scene": "Karu Kusti is carefully pouring tiny brown bird seeds from a small cloth bag into the opening of the newly built, simple wooden birdhouse/bird feeder, which sits on the rustic wooden table. Rebane Reni watches with an eager, happy smile. The birdhouse is now complete. The cozy wooden cabin room is warm with light from the fireplace and window.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KANNAMES MAJA VÄLJA.",
+      "scene": "Karu Kusti and Rebane Reni are carefully carrying the finished small wooden birdhouse/bird feeder out of the cabin. Kusti holds the bottom, and Reni supports the side. They are walking through a serene, snowy winter garden, approaching a large, snow-covered evergreen tree. The wooden cabin is partially visible behind them. Clear winter sky. The ground is covered in soft white snow.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "RIPUTAVAD MAJA PUU OTSA.",
+      "scene": "Karu Kusti is carefully standing on a small, sturdy snowdrift or low branch, reaching up to gently hang the small wooden birdhouse/bird feeder from a branch of a snow-covered evergreen tree. Rebane Reni stands nearby, looking up encouragingly and offering support. They are in the serene, snowy winter garden. Clear winter sky. The ground is covered in soft white snow.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "LINNUD TULEVAD SÖÖMA. KUSTI JA RENI RÕÕMSAD.",
+      "scene": "Several small, colorful cartoon birds are happily flitting around and pecking seeds from the newly hung wooden birdhouse/bird feeder on the snow-covered evergreen tree. Karu Kusti and Rebane Reni are standing a little distance away, watching the birds with big, joyful smiles. They are happy and proud of their work. The serene, snowy winter garden is peaceful and bright under the winter sky.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
