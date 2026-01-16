@@ -1,0 +1,108 @@
+{
+  "date": "2026-01-21",
+  "language": "et",
+  "title": "JULI JA HELE UISUTAMAS",
+  "generatedAt": "2026-01-16T17:16:05.395Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JÄNES JULI",
+      "type": "rabbit",
+      "description": "Väike valge jänes pikkade ümarate kõrvadega, kandmas väikest sinist vesti ja punaseid kindaid, suured sõbralikud pruunid silmad ja naeratav rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "HIIR HELE",
+      "type": "mouse",
+      "description": "Väike hall hiir suurte ümarate kõrvadega, kandmas väikest roosat vesti ja rohelisi kindaid, uudishimulikud säravad silmad ja rõõmsameelne naeratav näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "JULI JA HELE KODU",
+      "description": "Cozy and warm burrow living room with light brown earthen walls, a small round wooden table in the center with two tiny chairs, a small window showing snowy landscape outside, and a soft knitted rug on the floor. Soft, warm lamp light. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "JÄÄTUND TIIGI ÄÄRES",
+      "description": "A bright, sunny winter scene with a large smooth frozen pond in the center. Snow-covered trees and bushes surround the pond. The sky is clear blue with soft clouds. Gentle rolling snow hills in the background. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JULI JA HELE MÕTLEVAD.",
+      "scene": "JÄNES JULI ja HIIR HELE istuvad hubaselt oma kodus. Juli istub väikese ümmarguse puidust laua taga toolil, Hele seisab tema kõrval. Mõlemad vaatavad aknast välja, kust paistab lumine maastik. Juli kannab oma sinist vesti ja punaseid kindaid. Hele kannab roosat vesti ja rohelisi kindaid. Toal on heledad pruunid mullaseinad, pehme kootud vaip ja soe lambivalgus. Armas multifilmistiil.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD UISUTADA.",
+      "scene": "JÄNES JULI ja HIIR HELE on ikka oma kodus. Juli ja Hele seisavad akna juures ja osutavad lumisele väljale, kus nad kujutavad ette uisutamist. Juli kannab sinist vesti ja punaseid kindaid, Hele roosat vesti ja rohelisi kindaid. Tuba on hubane heledate pruunide mullaseinte ja sooja lambivalgusega. Armas multifilmistiil.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD PANEKSE VESTID SELGA.",
+      "scene": "JÄNES JULI ja HIIR HELE on oma kodus, valmistuvad välja minema. Juli sätib oma sinist vesti ja punaseid kindaid, Hele sätib oma roosat vesti ja rohelisi kindaid. Nad on laua juures. Tuba on heledate pruunide mullaseinte, kootud vaiba ja sooja lambivalgusega. Armas multifilmistiil.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÄHEVAD TIIGI ÄÄRDE.",
+      "scene": "JÄNES JULI ja HIIR HELE kõnnivad lumisel rajal, mis viib jäätunud tiigi poole. Juli kannab sinist vesti ja punaseid kindaid. Hele kannab roosat vesti ja rohelisi kindaid. Tiigi ümber on lumised puud ja põõsad. Taevas on selge sinine. Armas multifilmistiil.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD PANEKSE UISUD JALGA.",
+      "scene": "JÄNES JULI ja HIIR HELE istuvad jäätunud tiigi kaldal lumel, pannes jalga oma väikeseid uiske. Juli kannab sinist vesti ja punaseid kindaid. Hele kannab roosat vesti ja rohelisi kindaid. Tiik on sile ja jäine, ümber on lumised puud. Päike paistab. Armas multifilmistiil.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "JULI PROOVIB ESIMEST KORDA.",
+      "scene": "JÄNES JULI seisab jäätunud tiigi jääl uiskudega, natuke kohmakalt. Ta proovib esimesi samme teha, käed tasakaalu hoidmiseks laiali. Hele seisab tema kõrval ja vaatab innukalt. Juli kannab sinist vesti ja punaseid kindaid. Hele kannab roosat vesti ja rohelisi kindaid. Tiigi ümber on lumised puud. Armas multifilmistiil.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "HELE AITAB JULIT.",
+      "scene": "JÄNES JULI ja HIIR HELE uisutavad jäätunud tiigil. Hele ulatab Julile käe, et aidata tal tasakaalu hoida. Juli hoiab Hele käest ja naeratab. Juli kannab sinist vesti ja punaseid kindaid. Hele kannab roosat vesti ja rohelisi kindaid. Lumised puud ümbritsevad tiiki. Armas multifilmistiil.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD UISUTAVAD KOOS!",
+      "scene": "JÄNES JULI ja HIIR HELE uisutavad rõõmsalt jäätunud tiigil, hoides kätest kinni ja naeratades. Nende liigutused on nüüd palju sujuvamad. Juli kannab sinist vesti ja punaseid kindaid. Hele kannab roosat vesti ja rohelisi kindaid. Päikeseline talvine maastik lumiste puudega ümberringi. Armas multifilmistiil.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SEE ON VÄGA LÕBUS!",
+      "scene": "JÄNES JULI ja HIIR HELE uisutavad naerdes jäätunud tiigi keskel. Nad teevad lõbusaid pöördeid ja liuglemisi. Juli kannab sinist vesti ja punaseid kindaid. Hele kannab roosat vesti ja rohelisi kindaid. Päike paistab eredalt üle lumiste puude ja sinise taeva. Armas multifilmistiil.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA RÕÕMSAD!",
+      "scene": "JÄNES JULI ja HIIR HELE seisavad jäätunud tiigi jääl, käed ümber teineteise, ja vaatavad õnnelikult päikeseloojangut. Nad on väga rõõmsad ja uhked oma uisutamisoskuste üle. Juli kannab sinist vesti ja punaseid kindaid. Hele kannab roosat vesti ja rohelisi kindaid. Lumised puud ja selge sinine taevas pakuvad kaunist tausta. Armas multifilmistiil.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
