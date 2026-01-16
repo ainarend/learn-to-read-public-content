@@ -1,0 +1,95 @@
+{
+  "date": "2026-01-17",
+  "language": "et",
+  "title": "JUSS JA SIILU SOOJAD KINDASTE",
+  "generatedAt": "2026-01-16T17:05:04.369Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUSS",
+      "type": "rabbit",
+      "description": "Väike valge jänes pikkade ümarate kõrvadega, kandmas väikest sinist vesti, suured rõõmsad silmad ja uudishimulik nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIILU",
+      "type": "hedgehog",
+      "description": "Väike pruun siil lühikeste okastega, kandmas väikest rohelist salli, suured tumedad silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KODUNE KÄSITÖÖTUBA",
+      "description": "Cozy cottage living room with light blue painted walls, wooden floor, a large window on the back wall showing a snowy landscape outside with white trees and gentle falling snow. A warm stone fireplace with a gentle fire is on the right side of the room. A large, comfy red armchair is on the left side of the room. A small, simple wooden crafting table with some colorful yarn balls, knitting needles, and fabric scraps is in the center of the room. A soft, warm lamp light illuminates the room from above. No additional wall decorations. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUSS JA SIILU ON TOAS.",
+      "scene": "Juss, a small white rabbit with long ears and a blue vest, sits comfortably in the red armchair. Siilu, a small brown hedgehog with short quills and a green scarf, is sitting on the wooden floor beside the armchair, looking around the cozy cottage living room. A warm fire crackles in the stone fireplace on the right. Through the large window on the back wall, a snowy landscape is visible. The room has light blue walls and a wooden floor. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES ON VÄGA KÜLM.",
+      "scene": "Juss, the white rabbit, and Siilu, the brown hedgehog, are both looking out the large window on the back wall. Juss has a slightly surprised expression, and Siilu points a small paw towards the falling snow outside. The snowy landscape and falling snow are clearly visible through the window. The cozy cottage living room, with its light blue walls, wooden floor, red armchair, and fireplace, remains consistent. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TAHAVAD SOOJA.",
+      "scene": "Juss, the white rabbit, shivers playfully, wrapping his paws around himself while sitting in the red armchair. Siilu, the brown hedgehog, sits on the floor beside him, rubbing his tiny paws together and looking a little chilly. A warm fire burns in the fireplace. The cozy cottage living room with its light blue walls, wooden floor, and snowy view from the window remains consistent. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD TEAVAD ÜHT MÕTET.",
+      "scene": "Juss, the white rabbit, and Siilu, the brown hedgehog, are now sitting at the small wooden crafting table in the center of the room. Juss has a thoughtful expression, and Siilu excitedly taps a paw on the table next to some colorful yarn balls. A red armchair is visible on the left, and the fireplace on the right. The window shows the snowy landscape. The room has light blue walls and a wooden floor. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "TEEVAD SOOJAD KINDASTE.",
+      "scene": "Juss, the white rabbit, is holding two knitting needles with some colorful yarn, attempting to knit, with a focused expression. Siilu, the brown hedgehog, is sitting opposite him at the wooden crafting table, carefully sorting through different colored yarn balls. Fabric scraps are also on the table. The red armchair and fireplace are visible. The snowy view from the window. The room has light blue walls and a wooden floor. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KINDASTE VALMIVAD HOOLIKALT.",
+      "scene": "Juss, the white rabbit, and Siilu, the brown hedgehog, are diligently working on their mittens at the wooden crafting table. Juss is carefully knitting a small, colorful mitten. Siilu is holding a tiny sewing needle and some fabric, concentrating. Several colorful yarn balls and fabric scraps are around them on the table. The red armchair and fireplace are visible. The snowy view from the window. The room has light blue walls and a wooden floor. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PISIKESED KINDASTE ON VALMIS!",
+      "scene": "Juss, the white rabbit, and Siilu, the brown hedgehog, are triumphantly holding up a pair of finished, small, colorful knitted mittens at the wooden crafting table. Both characters have big, happy smiles on their faces. The crafting table still has some yarn and needles. The red armchair and fireplace are visible. The snowy view from the window. The room has light blue walls and a wooden floor. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NÜÜD ON NENDE KÄED SOOJAD.",
+      "scene": "Juss, the white rabbit, and Siilu, the brown hedgehog, are both proudly wearing their newly made, colorful mittens. Juss is wiggling his mitted paws happily, and Siilu is doing the same. They are standing near the fireplace, feeling the warmth from the gentle fire. The red armchair is on the left. The snowy view from the window. The room has light blue walls and a wooden floor. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "JUSS JA SIILU ON ÕNNELIKUD.",
+      "scene": "Juss, the white rabbit, and Siilu, the brown hedgehog, are embracing each other in a warm, friendly hug, both still wearing their colorful mittens and smiling broadly. They are standing in the cozy cottage living room, feeling very happy. The red armchair, wooden crafting table, and fireplace are visible in the background. The snowy view from the window. The room has light blue walls and a wooden floor. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
