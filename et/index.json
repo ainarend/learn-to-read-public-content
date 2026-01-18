@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-26",
+  "latestDate": "2026-01-27",
   "stories": [
+    {
+      "date": "2026-01-27",
+      "title": "LUME MAJA",
+      "pageCount": 10,
+      "characters": [
+        "JUKU",
+        "LIISA"
+      ]
+    },
     {
       "date": "2026-01-26",
       "title": "REBAS JA MÄGER TOIDAVAD LINDE",
