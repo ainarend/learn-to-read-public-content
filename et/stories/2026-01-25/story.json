@@ -1,100 +1,100 @@
 {
   "date": "2026-01-25",
   "language": "et",
-  "title": "KATI JA MART EHITAVAD MAJA",
-  "generatedAt": "2026-01-12T02:41:37.229Z",
+  "title": "MARI JA MIILU TÄHED",
+  "generatedAt": "2026-01-18T22:12:05.950Z",
   "characters": [
     {
       "id": "char1",
-      "name": "KATI",
+      "name": "MARI",
       "type": "human",
-      "description": "Väike inimene tüdruk, heledad lühikesed juuksed, sinised silmad, kandmas roosat pusa ja siniseid pükse. Sõbralik ja uudishimulik, rõõmsameelse näoga. Armas multifilmistiil.",
+      "description": "Väike inimene, helepruunide juustega tüdruk. Seljas on roosa kampsun ja sinised püksid. Tal on suured rõõmsad silmad ja sõbralik nägu. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "MART",
+      "name": "MIILU",
       "type": "human",
-      "description": "Väike inimene poiss, lühikesed pruunid juuksed, pruunid silmad, kandmas rohelist pusa ja halli pükse. Rõõmsameelne ja abivalmis, lahke näoilmega. Armas multifilmistiil.",
+      "description": "Väike inimene, lühikeste tumepruunide juustega poiss. Seljas on sinine kampsun ja hallid püksid. Tal on säravad silmad ja uudishimulik naeratus. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "KATI JA MARDI TUBA",
-      "description": "Cozy children's play room with light yellow walls, a soft blue rug on the floor, a single large window on the back wall showing snowy trees outside. A small light brown wooden toy chest is on the right wall. The room is tidy with no other fixed furniture. Warm, gentle light fills the room. Cartoon style.",
+      "name": "Lastetuba",
+      "description": "Children's cozy bedroom with light blue painted walls, a soft gray carpet, a single window on the back wall showing dark winter trees and a few snowflakes gently falling, a small light wooden round table in the center, and two small wooden chairs. A yellow star-shaped night light is on a small shelf on the right wall. Warm and inviting atmosphere. Cartoon style.",
       "image": "loc1.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "KATI JA MART TOAS.",
-      "scene": "Kati and Mart are sitting on the blue rug in the middle of their play room. Kati is looking thoughtfully at Mart, and Mart is looking back at Kati with a curious expression. The light yellow walls, large window showing snowy trees, and a small wooden toy chest on the right are visible. They are wearing their regular clothes. Cartoon style.",
+      "text": "MARI JA MIILU TOAS.",
+      "scene": "Mari and Miilu are in a children's cozy bedroom. Mari sits on a small wooden chair at a small light wooden round table, smiling. Miilu stands next to her, looking at her with a happy expression. The room has light blue painted walls, a soft gray carpet, and a single window on the back wall showing dark winter trees and a few snowflakes gently falling. A yellow star-shaped night light is on a small shelf on the right wall. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE composition.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NEIL ON SUUR MÕTE.",
-      "scene": "Kati and Mart are now both smiling brightly, looking at each other excitedly. Kati has her hand up as if she's just had an idea. Mart's eyes are wide with interest. They are still sitting on the blue rug. The room details (light yellow walls, window with snowy trees, toy chest) are consistent. Cartoon style.",
+      "text": "ON KOHE ÕHTU KÄES.",
+      "scene": "Mari and Miilu are still in their cozy bedroom. Mari sits on a small wooden chair at a small light wooden round table, looking out the window with a thoughtful expression. Miilu stands next to her, also looking towards the window. Through the single window on the back wall, dark winter trees are visible, and more snowflakes gently fall. The room has light blue painted walls, a soft gray carpet, and a yellow star-shaped night light on a small shelf on the right wall. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE composition.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD OTSIVAD TEKKE.",
-      "scene": "Kati and Mart are standing near the small wooden toy chest on the right side of the room. Kati is pulling a soft, colorful blanket out of the chest. Mart is looking into the chest, reaching for another blanket. They are both smiling. The blue rug, yellow walls, and window are consistent. Cartoon style.",
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Mari and Miilu are in their cozy bedroom. Mari sits on a small wooden chair at a small light wooden round table, looking at Miilu with a big, excited smile. Miilu stands next to her, looking happy and nodding, suggesting an idea. The room has light blue painted walls, a soft gray carpet, and a single window on the back wall showing dark winter trees and a few snowflakes gently falling. A yellow star-shaped night light is on a small shelf on the right wall. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE composition.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD VÕTAVAD PADJAD.",
-      "scene": "Kati and Mart are now each holding a soft, fluffy pillow. Kati has a light blue pillow and Mart has a green one. They are standing in the middle of the blue rug, looking happy and purposeful. The room details are consistent. Cartoon style.",
+      "text": "TEEME ILUSAID TÄHTI.",
+      "scene": "Mari and Miilu are in their cozy bedroom. Mari sits on a small wooden chair at a small light wooden round table, pointing excitedly at the table. Miilu sits on the other small wooden chair opposite her, looking at Mari with a happy, eager expression. The room has light blue painted walls, a soft gray carpet, and a single window on the back wall showing dark winter trees and a few snowflakes gently falling. A yellow star-shaped night light is on a small shelf on the right wall. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE composition.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD EHITAVAD MAJA.",
-      "scene": "Kati and Mart are actively building a fort in the center of the blue rug. They are using the blankets and pillows to construct a small, cozy 'house'. One blanket is draped over an imaginary frame, and Mart is holding another blanket up. Kati is placing a pillow to support a wall. The room details are consistent. Cartoon style.",
+      "text": "NAD VÕTAVAD PABERIT.",
+      "scene": "Mari and Miilu are in their cozy bedroom. Mari sits on a small wooden chair at a small light wooden round table, holding a stack of colorful, shimmering paper sheets in her hands, smiling. Miilu sits opposite her, reaching out to take a sheet of paper. The room has light blue painted walls, a soft gray carpet, and a single window on the back wall showing dark winter trees and a few snowflakes gently falling. A yellow star-shaped night light is on a small shelf on the right wall. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE composition.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "MAJA ON NÜÜD VALMIS.",
-      "scene": "The blanket fort is now mostly built, resembling a small, child-sized tent or house on the blue rug. Kati and Mart stand proudly beside their creation, smiling. The fort is made of colorful blankets and supported by pillows. The room background remains consistent. Cartoon style.",
+      "text": "PABER LÄIGIB NÜÜD.",
+      "scene": "Mari and Miilu are in their cozy bedroom. Mari sits on a small wooden chair at a small light wooden round table, gently applying glitter glue onto a colorful piece of paper, which is now sparkling. Miilu sits opposite her, holding another piece of paper and a small container of glitter, smiling. Various craft supplies like colorful paper and glitter are spread on the table. The room has light blue painted walls, a soft gray carpet, and a single window on the back wall showing dark winter trees and a few snowflakes gently falling. A yellow star-shaped night light is on a small shelf on the right wall. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE composition.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "NAD PUHVIVAD PADI.",
-      "scene": "Kati is kneeling at the entrance of the blanket fort, holding a soft pillow and playfully fluffing it. Mart is peeking inside the fort with an inviting smile. The fort is cozy and ready. The blue rug and room background are consistent. Cartoon style.",
+      "text": "NAD LÕIKAVAD TÄHED VÄLJA.",
+      "scene": "Mari and Miilu are in their cozy bedroom. Mari sits on a small wooden chair at a small light wooden round table, carefully cutting a star shape from a piece of sparkling paper with child-safe scissors. Miilu sits opposite her, holding a finished cut-out paper star, looking at it proudly. Colorful paper scraps and craft supplies are on the table. The room has light blue painted walls, a soft gray carpet, and a single window on the back wall showing dark winter trees and a few snowflakes gently falling. A yellow star-shaped night light is on a small shelf on the right wall. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE composition.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "NAD LÄHEVAD MAJA SISSE.",
-      "scene": "Kati and Mart are carefully crawling into the small opening of their blanket fort. Kati is leading, and Mart is following right behind her. They both have excited smiles. The cozy fort is visible, and the room background is consistent. Cartoon style.",
+      "text": "TÄHED ON NII ILUSAD!",
+      "scene": "Mari and Miilu are in their cozy bedroom. Mari and Miilu are both sitting at the small light wooden round table, admiring several beautiful, colorful, sparkling paper stars laid out on the table. They are both smiling brightly, looking at their creations. The room has light blue painted walls, a soft gray carpet, and a single window on the back wall showing dark winter trees and a few snowflakes gently falling. A yellow star-shaped night light is on a small shelf on the right wall. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE composition.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "KOOS ON VÄGA MÕNUS.",
-      "scene": "Kati and Mart are now comfortably settled inside their blanket fort. They are sitting close together, looking out from the entrance with relaxed and happy expressions. The fort interior looks soft and inviting. The room background is still visible beyond the fort opening. Cartoon style.",
+      "text": "NAD PANEVAAD TÄHED ÜLES.",
+      "scene": "Mari and Miilu are in their cozy bedroom. Mari stands on a small stool next to the light blue wall, carefully hanging a string of paper stars on the wall with tape. Miilu stands below her, holding up more paper stars to give to Mari, looking up excitedly. The light wooden round table is nearby. The room has light blue painted walls, a soft gray carpet, and a single window on the back wall showing dark winter trees and a few snowflakes gently falling. A yellow star-shaped night light is on a small shelf on the right wall. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE composition.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "SEAL ON NÜÜD HEA MÄNGIDA.",
-      "scene": "Kati and Mart are happily playing inside their blanket fort. Kati is holding a small toy car, and Mart is holding a soft teddy bear. They are both smiling and looking at their toys. The fort is cozy around them, and the room background is consistent outside the fort opening. Cartoon style.",
+      "text": "TOAS ON PALJU VALGUST.",
+      "scene": "Mari and Miilu are in their cozy bedroom. Mari and Miilu are standing together, admiring the numerous colorful, sparkling paper stars they have hung on the light blue walls. The stars gently shimmer. Both children are smiling happily. The room is softly illuminated by the star decorations and the yellow star-shaped night light on a small shelf on the right wall. The single window on the back wall shows the dark winter trees and snowflakes still gently falling. The light wooden round table and two small wooden chairs are visible. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE composition.",
       "image": "page10.png",
       "location_id": "loc1"
     }
