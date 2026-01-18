@@ -1,0 +1,108 @@
+{
+  "date": "2026-01-26",
+  "language": "et",
+  "title": "REBAS JA MÄGER TOIDAVAD LINDE",
+  "generatedAt": "2026-01-18T22:56:56.535Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBAS POISSU",
+      "type": "fox",
+      "description": "Väike oranžikaspruun rebane, pehme karvaga, teravate kõrvadega. Kannab väikest sinist salli. Suured rohelised uudishimulikud silmad ja rõõmsameelne naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MÄGRA TÖPS",
+      "type": "badger",
+      "description": "Väike mustvalge mäger, triibulise näoga, tömbi nina. Kannab väikest punast mütsi. Suured pruunid sõbralikud silmad ja lahke naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "HUBANE TUBA",
+      "description": "A cozy, warm children's room with light yellow walls and a warm wooden floor. There is a single rectangular window on the back wall showing snowy trees outside. A simple light wooden table is in the center with two small wooden chairs. Warm sunlight streams in from the window. No other decorations on the walls or floor. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "LUMINE AED",
+      "description": "A bright, snowy winter garden directly outside a cozy house. The ground is covered in fresh, white snow. Bare tree branches are visible in the background, dusted with snow. A section of the house wall, with a small window, is visible. The air looks crisp and bright. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REBAS JA MÄGER ON TOAS.",
+      "scene": "Rebas Poissu (a small orange-brown fox with a blue scarf) and Mägra Töps (a small black and white badger with a red hat) are sitting on small wooden chairs at a light wooden table in a cozy, warm room. They look content. The room has light yellow walls, a wooden floor, and a single window on the back wall showing snowy trees outside. Warm sunlight streams in from the window. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD LUMES LINDE.",
+      "scene": "Rebas Poissu (a small orange-brown fox with a blue scarf) and Mägra Töps (a small black and white badger with a red hat) are standing by the window, looking out with curious expressions. Through the window, several small, colorful birds are visible on the snowy ground. The room has light yellow walls, a wooden floor, and a single window on the back wall showing snowy trees outside. Warm sunlight streams in from the window. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LINNUD ON NÄLJASED.",
+      "scene": "Rebas Poissu (a small orange-brown fox with a blue scarf) and Mägra Töps (a small black and white badger with a red hat) are still looking out the window at the small, colorful birds on the snowy ground, now with a slightly concerned but determined expression. The room has light yellow walls, a wooden floor, and a single window on the back wall showing snowy trees outside. Warm sunlight streams in from the window. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "TEEME LINDUDELE SÖÖKI!",
+      "scene": "Rebas Poissu (a small orange-brown fox with a blue scarf) and Mägra Töps (a small black and white badger with a red hat) are standing excitedly at a light wooden table in the cozy room. Rebas Poissu points with a paw towards the table, where an empty colorful mixing bowl and a bag of birdseed are visible. Mägra Töps smiles, nodding. The room has light yellow walls, a wooden floor, and a single window on the back wall showing snowy trees outside. Warm sunlight streams in from the window. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD SEGAVAD SEEMNEID.",
+      "scene": "Rebas Poissu (a small orange-brown fox with a blue scarf) and Mägra Töps (a small black and white badger with a red hat) are sitting at the light wooden table. Rebas Poissu is holding a small wooden spoon and stirring a mix of birdseed in a colorful bowl. Mägra Töps is carefully pouring more birdseed from a small bag into the bowl. There is also a small container of melted suet or peanut butter on the table. The room has light yellow walls, a wooden floor, and a single window on the back wall showing snowy trees outside. Warm sunlight streams in from the window. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "SEEMNED PANEVAD VORMI.",
+      "scene": "Rebas Poissu (a small orange-brown fox with a blue scarf) and Mägra Töps (a small black and white badger with a red hat) are carefully pressing the mixed birdseed and suet/peanut butter mixture into small, fun-shaped molds (like a star and a heart) on the light wooden table. Mägra Töps is using their paws to press firmly, while Rebas Poissu holds a mold steady. The room has light yellow walls, a wooden floor, and a single window on the back wall showing snowy trees outside. Warm sunlight streams in from the window. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SÖÖK ON NÜÜD VALMIS.",
+      "scene": "Rebas Poissu (a small orange-brown fox with a blue scarf) and Mägra Töps (a small black and white badger with a red hat) are proudly looking at several finished birdseed shapes (stars, hearts) placed on a small plate on the light wooden table. They both smile happily. The room has light yellow walls, a wooden floor, and a single window on the back wall showing snowy trees outside. Warm sunlight streams in from the window. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD VIIVAD SÖÖGI ÕUE.",
+      "scene": "Rebas Poissu (a small orange-brown fox with a blue scarf) and Mägra Töps (a small black and white badger with a red hat) are outside in a snowy winter garden. They are near the wall of their cozy home, which has a small window matching the one from inside. Rebas Poissu holds one of the birdseed shapes carefully in his paw, and Mägra Töps holds another. The ground is covered in fresh, white snow, and there are bare trees in the background. The air looks crisp and bright. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LINNUD SÖÖVAD RÕÕMSALT.",
+      "scene": "Close-up of the birdseed shapes (star and heart) hanging from a tree branch (or a hook on the house wall, consistent with loc2) in the snowy garden. Several small, colorful birds (like blue tits, sparrows, robins) are happily pecking at the birdseed. Rebas Poissu (a small orange-brown fox with a blue scarf) and Mägra Töps (a small black and white badger with a red hat) are watching from a short distance, smiling contentedly. The ground is covered in fresh, white snow. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "REBAS JA MÄGER ON ÕNNELIKUD.",
+      "scene": "Rebas Poissu (a small orange-brown fox with a blue scarf) and Mägra Töps (a small black and white badger with a red hat) are standing together in the snowy garden, looking at the birds enjoying the food. They are holding paws/arms, beaming with pride and happiness. The birds are still eating in the background. The ground is covered in fresh, white snow, and there are bare trees. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
