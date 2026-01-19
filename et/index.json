@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-30",
+  "latestDate": "2026-01-31",
   "stories": [
+    {
+      "date": "2026-01-31",
+      "title": "LIISA JA MART KELGUTAVAD",
+      "pageCount": 9,
+      "characters": [
+        "LIISA",
+        "MART"
+      ]
+    },
     {
       "date": "2026-01-30",
       "title": "KARU JA REBASE VALGUS",
