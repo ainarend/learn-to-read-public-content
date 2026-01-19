@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-27",
+  "latestDate": "2026-01-29",
   "stories": [
+    {
+      "date": "2026-01-29",
+      "title": "ANNA JA PEETER TEEVAD KAKAOD",
+      "pageCount": 10,
+      "characters": [
+        "ANNA",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-01-27",
       "title": "LUME MAJA",

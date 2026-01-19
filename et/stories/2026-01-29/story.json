@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-29",
+  "language": "et",
+  "title": "ANNA JA PEETER TEEVAD KAKAOD",
+  "generatedAt": "2026-01-19T00:27:59.355Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ANNA",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledad lühikesed juuksed, suured sinised silmad, sõbralik naeratus. Kannab sooja roosat kampsunit ja siniseid teksapükse. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, poiss, pruunid lühikesed juuksed, suured rohelised silmad, uudishimulik ilme. Kannab sooja sinist kampsunit ja pruune pükse. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Cozy kitchen with light yellow walls, a warm wooden floor, and a single window on the back wall showing a gentle snowy landscape outside. A small round wooden table is in the center. There are simple light-colored wooden cabinets along one wall. No wall decorations. Warm, soft light from the window. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ANNA JA PEETER ON KÖÖGIS.",
+      "scene": "Anna and Peeter stand in a cozy kitchen. Anna points towards the simple light-colored wooden cabinets, smiling excitedly. Peeter looks at her with curiosity. The kitchen has light yellow walls, a warm wooden floor, and a single window on the back wall showing a gentle snowy landscape outside. A small round wooden table is in the center. Simple light-colored wooden cabinets are along one wall. Anna wears a pink sweater and blue jeans, Peeter a blue sweater and brown pants.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON MÕNUS MÕTE.",
+      "scene": "Anna and Peeter stand in a cozy kitchen. Anna claps her hands together with a joyful smile, looking at Peeter. Peeter nods, smiling back, clearly sharing the good idea. The kitchen has light yellow walls, a warm wooden floor, and a single window on the back wall showing a gentle snowy landscape outside. A small round wooden table is in the center. Simple light-colored wooden cabinets are along one wall. Anna wears a pink sweater and blue jeans, Peeter a blue sweater and brown pants.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD KAKAO JOOKI.",
+      "scene": "Anna and Peeter are in a cozy kitchen. Anna is reaching for a large blue mixing bowl on the simple light-colored wooden cabinet counter. Peeter is looking into the cabinet, as if searching for something. They both have excited smiles. The kitchen has light yellow walls, a warm wooden floor, and a single window on the back wall showing a gentle snowy landscape outside. A small round wooden table is in the center. Simple light-colored wooden cabinets are along one wall. Anna wears a pink sweater and blue jeans, Peeter a blue sweater and brown pants.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "VÕTAVAD SUURE KANNU.",
+      "scene": "Anna holds a large, red, colorful jug in her hands, carefully placing it on the small round wooden table in the cozy kitchen. Peeter watches her, looking ready to help, with an eager expression. The kitchen has light yellow walls, a warm wooden floor, and a single window on the back wall showing a gentle snowy landscape outside. Simple light-colored wooden cabinets are along one wall. Anna wears a pink sweater and blue jeans, Peeter a blue sweater and brown pants.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PANEVAD PIIMA KANNU.",
+      "scene": "Anna carefully pours white milk from a carton into the large, red, colorful jug that sits on the small round wooden table. Peeter watches closely, holding another carton of milk ready, with a focused expression. They are in the cozy kitchen with light yellow walls, a warm wooden floor, a single window showing a snowy landscape, and simple light-colored wooden cabinets. Anna wears a pink sweater and blue jeans, Peeter a blue sweater and brown pants.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LISAVAD KA KAKAO PULBRIT.",
+      "scene": "Peeter holds a small brown tin of cocoa powder and is carefully spooning some into the red, colorful jug of milk on the small round wooden table. Anna watches him, holding a long wooden mixing spoon, smiling. They are in the cozy kitchen with light yellow walls, a warm wooden floor, a single window showing a snowy landscape, and simple light-colored wooden cabinets. Anna wears a pink sweater and blue jeans, Peeter a blue sweater and brown pants.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SEGAVAD HOOLIKALT SEGU.",
+      "scene": "Anna is stirring the mixture in the red, colorful jug with a long wooden spoon, making sure everything is mixed well. Peeter leans in slightly, watching the stirring process with curiosity and a smile. The jug is on the small round wooden table in the cozy kitchen with light yellow walls, a warm wooden floor, a single window showing a snowy landscape, and simple light-colored wooden cabinets. Anna wears a pink sweater and blue jeans, Peeter a blue sweater and brown pants.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KAKAO ON NÜÜD SOE.",
+      "scene": "The red, colorful jug of steaming hot cocoa sits on the small round wooden table in the cozy kitchen. Anna and Peeter are standing next to the table, looking at the cocoa with happy, expectant faces. The kitchen has light yellow walls, a warm wooden floor, a single window showing a snowy landscape, and simple light-colored wooden cabinets. Anna wears a pink sweater and blue jeans, Peeter a blue sweater and brown pants.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD JOOVAD KAKAO ÄRA.",
+      "scene": "Anna and Peeter are happily drinking hot cocoa from two small, blue and yellow, colorful mugs. The red, colorful jug is also on the small round wooden table. They both have content smiles. They are in the cozy kitchen with light yellow walls, a warm wooden floor, a single window showing a snowy landscape, and simple light-colored wooden cabinets. Anna wears a pink sweater and blue jeans, Peeter a blue sweater and brown pants.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEE ON NII MAITSEV!",
+      "scene": "Anna and Peeter, having finished their cocoa, are holding their empty, colorful mugs and looking at each other with wide, delighted smiles, perhaps with a tiny cocoa mustache on their lips. They look very satisfied and happy. The red, colorful jug is still on the small round wooden table. They are in the cozy kitchen with light yellow walls, a warm wooden floor, a single window showing a snowy landscape, and simple light-colored wooden cabinets. Anna wears a pink sweater and blue jeans, Peeter a blue sweater and brown pants.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
