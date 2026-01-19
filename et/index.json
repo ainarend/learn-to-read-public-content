@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-29",
+  "latestDate": "2026-01-30",
   "stories": [
+    {
+      "date": "2026-01-30",
+      "title": "KARU JA REBASE VALGUS",
+      "pageCount": 10,
+      "characters": [
+        "KARU POISS",
+        "REBASE TÜDRUK"
+      ]
+    },
     {
       "date": "2026-01-29",
       "title": "ANNA JA PEETER TEEVAD KAKAOD",

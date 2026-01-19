@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-30",
+  "language": "et",
+  "title": "KARU JA REBASE VALGUS",
+  "generatedAt": "2026-01-19T01:10:23.843Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KARU POISS",
+      "type": "bear",
+      "description": "Väike pruun karupoiss, pehme karvaga, kandmas väikest sinist salli, suured sõbralikud silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "REBASE TÜDRUK",
+      "type": "fox",
+      "description": "Väike oranž rebasekutsikas, koheva sabaga, kandmas roosat põlle, teravad uudishimulikud kõrvad ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Karu ja Rebase Kodu",
+      "description": "Cozy children's den with light green walls, wooden floor, a single large window on the back wall showing a snowy landscape outside. A small wooden table and two small chairs are in the center. A small wooden shelf with a few books is on the left wall. Plain walls with no other decorations. Warm light from the window. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KARU JA REBAS ON KODUS.",
+      "scene": "Karu Poiss and Rebase Tüdruk are sitting at a small wooden table in their cozy den. The den has light green walls and a wooden floor. A single large window on the back wall shows a snowy landscape outside. A small wooden shelf with a few books is on the left wall. Karu Poiss is looking at Rebase Tüdruk. Rebase Tüdruk is smiling. They are both looking thoughtful. Warm light from the window. Landscape composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES ON PIME TALV.",
+      "scene": "Karu Poiss and Rebase Tüdruk are still sitting at the small wooden table in their cozy den. The den has light green walls and a wooden floor. A single large window on the back wall shows a dark, snowy landscape outside, emphasizing the night and winter cold. A small wooden shelf with a few books is on the left wall. Karu Poiss shivers slightly and Rebase Tüdruk points towards the dark window with a pensive expression. The room feels a bit dim. Landscape composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Karu Poiss and Rebase Tüdruk are sitting at the small wooden table in their cozy den. The den has light green walls and a wooden floor. A single large window on the back wall shows a dark, snowy landscape outside. A small wooden shelf with a few books is on the left wall. Karu Poiss claps his paws together excitedly, and Rebase Tüdruk beams with a bright, happy smile, pointing a paw upwards as if having an idea. The mood is cheerful. Landscape composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD TEEVAD ILUSAID LAMPE.",
+      "scene": "Karu Poiss and Rebase Tüdruk are sitting at the small wooden table in their cozy den. The den has light green walls and a wooden floor. A single large window on the back wall shows a dark, snowy landscape outside. A small wooden shelf with a few books is on the left wall. On the table between them is a pile of colorful paper sheets (red, blue, yellow). Karu Poiss holds up a colorful paper sheet. Rebase Tüdruk gestures towards the paper with an enthusiastic expression. Landscape composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD VÕTAVAD VÄRVILISE PABERI.",
+      "scene": "Karu Poiss and Rebase Tüdruk are sitting at the small wooden table in their cozy den. The den has light green walls and a wooden floor. A single large window on the back wall shows a dark, snowy landscape outside. A small wooden shelf with a few books is on the left wall. Karu Poiss is picking up a bright yellow sheet of paper from the pile on the table. Rebase Tüdruk is reaching for a blue sheet of paper, both focused on the task. Landscape composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LÕIKAVAD PABERIT HOOLEGA.",
+      "scene": "Karu Poiss and Rebase Tüdruk are sitting at the small wooden table in their cozy den. The den has light green walls and a wooden floor. A single large window on the back wall shows a dark, snowy landscape outside. A small wooden shelf with a few books is on the left wall. Karu Poiss is carefully cutting strips from a yellow paper sheet with child-safe scissors. Rebase Tüdruk is doing the same with a blue paper sheet, concentrating hard. Paper scraps are on the table. Landscape composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD LIIMIVAD KOKKU LAMBID.",
+      "scene": "Karu Poiss and Rebase Tüdruk are sitting at the small wooden table in their cozy den. The den has light green walls and a wooden floor. A single large window on the back wall shows a dark, snowy landscape outside. A small wooden shelf with a few books is on the left wall. Karu Poiss is applying glue to the edges of his yellow paper strips, starting to form a round paper lantern. Rebase Tüdruk is carefully pressing her blue paper strips together, already having a partially formed blue paper lantern. A small glue stick is on the table. Landscape composition.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LAMBID ON NÜÜD VALMIS.",
+      "scene": "Karu Poiss and Rebase Tüdruk are proudly holding up their newly finished paper lanterns. Karu Poiss holds a yellow paper lantern, and Rebase Tüdruk holds a blue paper lantern. They are both smiling brightly at their creations. The lanterns look beautiful and handcrafted. The den still has light green walls, wooden floor, and the window showing the dark snowy scene. A small wooden shelf with a few books is on the left wall. Landscape composition.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "TUBA ON NII VALGUST TÄIS.",
+      "scene": "The cozy den is now beautifully lit by the paper lanterns. The yellow and blue paper lanterns (and possibly a third, red one, if made) are hanging from the ceiling, casting a warm, soft glow around the room. Karu Poiss and Rebase Tüdruk are standing, looking up at the glowing lanterns, their faces illuminated and full of wonder. The dark snowy outside scene is still visible through the window, contrasting with the warm light inside. The den still has light green walls, wooden floor, and the wooden shelf. Landscape composition.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KARU JA REBAS ON RÕÕMSAD.",
+      "scene": "Karu Poiss and Rebase Tüdruk are happily playing a simple board game at the small wooden table, bathed in the warm, soft light of their handmade paper lanterns hanging from the ceiling. They are both smiling broadly, clearly enjoying their cozy, brightly lit den. The den still has light green walls, wooden floor, and the window showing the dark snowy scene, and the wooden shelf. The atmosphere is joyful and peaceful. Landscape composition.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
