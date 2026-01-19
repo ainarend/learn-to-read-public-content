@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-01-31",
+  "latestDate": "2026-02-01",
   "stories": [
+    {
+      "date": "2026-02-01",
+      "title": "SIIM JA MIIA LINNUD",
+      "pageCount": 10,
+      "characters": [
+        "SIIM",
+        "MIIA"
+      ]
+    },
     {
       "date": "2026-01-31",
       "title": "LIISA JA MART KELGUTAVAD",
