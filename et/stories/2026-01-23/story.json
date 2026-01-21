@@ -30,7 +30,7 @@
   "pages": [
     {
       "pageNumber": 1,
-      "text": "ORAV OLLI JA JÄNES JENNI.",
+      "text": "ORAV OLLI JA JÄNES JENNI ON ÕUES.",
       "scene": "Orav Olli, a small brown squirrel with a bushy tail, wearing a warm green scarf and tiny brown mittens, stands next to Jänes Jenni, a small white rabbit with long ears, wearing thick blue boots and a warm blue hat. They are both standing at the very edge of a pristine, snow-covered forest. The ground is deep in white snow. They are looking at the snowy landscape with wide, excited eyes. Tall pine trees heavy with snow are in the background. Cartoon style.",
       "image": "page1.png",
       "location_id": "loc1"
@@ -51,14 +51,14 @@
     },
     {
       "pageNumber": 4,
-      "text": "NAD MAITSVAD LUND.",
+      "text": "NAD MAITSEVAD LUND.",
       "scene": "Orav Olli and Jänes Jenni are both bending down playfully. Olli has a tiny bit of snow on his mittened paw, bringing it towards his mouth with a curious expression. Jenni has a small amount of snow on her blue-gloved hand and is also looking at it curiously, about to taste. The snow around them is still deep and white. Tall pine trees heavy with snow are in the background. Cartoon style.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD TEEVAD LUMES RADU.",
+      "text": "NAD TEEVAD LUMES JÄLGI.",
       "scene": "Orav Olli and Jänes Jenni are walking happily through the deep snow, leaving a clear path of footprints behind them. Olli is walking in front, Jenni follows closely. They are both smiling and looking at the path they are creating. Tall pine trees heavy with snow are in the background. Cartoon style.",
       "image": "page5.png",
       "location_id": "loc1"
@@ -79,21 +79,21 @@
     },
     {
       "pageNumber": 8,
-      "text": "MÄNG ON NII LÕBUS.",
+      "text": "ÕUES ON NII LÕBUS.",
       "scene": "Orav Olli and Jänes Jenni are side-by-side, standing in the snow. Olli has a playful snowball in his mittened paw (not throwing, just holding). Jenni is looking at him with a big, happy smile. They both look content and joyful. The created path is visible in the background. Tall pine trees heavy with snow are in the background. Cartoon style.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "NAD ON VÄGA SÕBRAD.",
+      "text": "NAD ON SUURED SÕBRAD.",
       "scene": "Orav Olli and Jänes Jenni are standing close together in the snow. Olli gently pats Jenni's arm with his mittened paw. Jenni leans slightly towards Olli, and they are both smiling at each other warmly, showing affection and friendship. Tall pine trees heavy with snow are in the background. Cartoon style.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "TALV ON NII TORE.",
+      "text": "TALVEL ON NII TORE.",
       "scene": "Orav Olli and Jänes Jenni are sitting together in the snow, leaning against each other slightly. They both have peaceful, content, and happy expressions, looking up at the sky, enjoying the beautiful winter day with a few gentle snowflakes falling. Tall pine trees heavy with snow are in the background. Cartoon style.",
       "image": "page10.png",
       "location_id": "loc1"
