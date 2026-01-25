@@ -1,108 +1,102 @@
 {
   "date": "2026-02-01",
   "language": "et",
-  "title": "SIIM JA MIIA LINNUD",
-  "generatedAt": "2026-01-19T02:41:02.082Z",
+  "title": "JÄNES JA ORAV EHITAVAD MAJA",
+  "generatedAt": "2026-01-25T22:14:15.721Z",
   "characters": [
     {
       "id": "char1",
-      "name": "SIIM",
-      "type": "squirrel",
-      "description": "Väike erk oranž orav, pika koheva sabaga, seljas sinine kootud vest, suured sõbralikud silmad, uudishimulik näoilme. Armas multifilmistiil.",
+      "name": "JÄNES SALL",
+      "type": "rabbit",
+      "description": "Väike valge jänes, pikad kõrvad, seljas pehme sinine kampsun ja kaelas väike punane sall. Suured sõbralikud silmad ja rõõmus näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "MIIA",
-      "type": "mouse",
-      "description": "Väike hall hiir suurte ümarate kõrvadega, seljas roheline kootud kleit, väiksed roosad käpad, õrn ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "name": "ORAV OSS",
+      "type": "squirrel",
+      "description": "Väike oranž orav, kohev saba, seljas roheline vest ja peas väike pruun müts. Suured uudishimulikud silmad ja mänguline naeratus. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "SIIM JA MIIA TUBA",
-      "description": "Cozy children's room with light yellow walls, wooden floor, a single small window on the back wall showing snowy trees outside. A small wooden table is in the center, surrounded by two small wooden chairs. A simple wooden shelf with a few books is on the left wall. Warm, soft light fills the room. Cartoon style.",
+      "name": "Hubane lastetuba",
+      "description": "Cozy children's room with light yellow walls and a warm wooden floor. There is a large single window on the back wall, showing a snowy winter landscape outside with bare trees. A simple blue rug is on the floor in the center. A small wooden toy box is against the right wall. The room is tidy and filled with soft, warm light from the window. Cartoon style.",
       "image": "loc1.png"
-    },
-    {
-      "id": "loc2",
-      "name": "AED LUMEGA",
-      "description": "Peaceful winter garden covered in fresh, white snow. Tall green pine trees with snow on branches in the background. A few bare deciduous trees in the midground. The ground is a smooth blanket of snow. Bright, clear winter daylight. Cartoon style.",
-      "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "SIIM JA MIIA MÕTLEVAD.",
-      "scene": "Siim the squirrel and Miia the mouse sit at a small wooden table in their cozy room. Siim looks thoughtfully out the window, and Miia rests her chin on her hand, looking contemplative. Warm sunlight streams from the window. The room has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, and a wooden shelf on the left wall. Cartoon style.",
+      "text": "JÄNES JA ORAV TOAS.",
+      "scene": "Jänes Sall and Orav Oss are standing in the middle of a cozy children's room, looking around. Jänes Sall has its paws together in front of it, and Orav Oss is tapping its chin thoughtfully. The room has light yellow walls, a wooden floor, a blue rug in the center, a wooden toy box on the right, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "TALV ON ÕUES KÜLM.",
-      "scene": "Siim the squirrel and Miia the mouse are looking out the window in their cozy room. Outside, snowy trees are visible. Miia shivers slightly, and Siim points towards the snowy view, both with gentle, concerned expressions. The room has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, and a wooden shelf on the left wall. Cartoon style.",
+      "text": "VÄLJAS ON KÜLM TALV.",
+      "scene": "Jänes Sall and Orav Oss are standing by the window of the cozy children's room, looking out at the snowy winter landscape with bare trees. They both shiver slightly and pull their sweaters/vests tighter, making a 'brrr' gesture. The room has light yellow walls, a wooden floor, a blue rug in the center, and a wooden toy box on the right. They wear their consistent clothing.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "LINNUD VAJAVAD ABI.",
-      "scene": "Siim the squirrel and Miia the mouse are still at the wooden table in their room, now looking at each other with determined, kind expressions. Siim gestures with a paw as if suggesting an idea, and Miia nods in agreement. The room has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, and a wooden shelf on the left wall. Cartoon style.",
+      "text": "TEEME KOOS MAJA.",
+      "scene": "Jänes Sall and Orav Oss are smiling at each other in the cozy children's room. Jänes Sall claps its paws together excitedly, and Orav Oss points an excited paw up, suggesting an idea. The room has light yellow walls, a wooden floor, a blue rug in the center, a wooden toy box on the right, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD TEEVAD PESAKASTI.",
-      "scene": "Siim the squirrel and Miia the mouse are actively making a bird feeder (pesakast) at the wooden table. Siim holds a small piece of wood, and Miia carefully glues another part with a tiny bottle of glue. Simple wooden pieces and tools are on the table. Both look focused and happy. The room has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, and a wooden shelf on the left wall. Cartoon style.",
+      "text": "NAD OTSIVAD TEKKE.",
+      "scene": "Jänes Sall and Orav Oss are looking into the slightly open wooden toy box in the cozy children's room. Jänes Sall is reaching inside, and Orav Oss is peering over its shoulder, both looking curious and determined. The room has light yellow walls, a wooden floor, a blue rug in the center, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD PANEVAAD SEEMNEID.",
-      "scene": "Siim the squirrel and Miia the mouse stand at the wooden table. They have finished making a small, simple wooden bird feeder (pesakast). Miia carefully pours small bird seeds from a colorful pouch into the feeder, while Siim watches intently, smiling. The room has light yellow walls, a wooden floor, a single window on the back wall showing snowy trees, and a wooden shelf on the left wall. Cartoon style.",
+      "text": "NAD LEIAVAD PADJAD.",
+      "scene": "Jänes Sall and Orav Oss are each holding a soft, colorful pillow. Jänes Sall holds a blue pillow, and Orav Oss holds a green pillow. They are smiling happily at each other in the cozy children's room. The room has light yellow walls, a wooden floor, a blue rug in the center, a wooden toy box on the right, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "NAD LÄHEVAD VÄLJA.",
-      "scene": "Siim the squirrel and Miia the mouse are bundled up in tiny scarves and mittens, standing at the opened door of their house, which leads into a snowy garden. They are about to step out, looking excited. Siim holds the finished bird feeder (pesakast) gently. The garden is covered in fresh, white snow with pine trees in the background. Cartoon style.",
+      "text": "NAD EHITAVAD MAJA.",
+      "scene": "Jänes Sall and Orav Oss are actively building a fort in the middle of the cozy children's room. They are holding up a large colorful blanket together, trying to drape it over some stacked pillows. The room has light yellow walls, a wooden floor, a blue rug in the center, a wooden toy box on the right, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page6.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "PESAKAST ON PUUS.",
-      "scene": "Siim the squirrel and Miia the mouse are in the peaceful winter garden covered in snow. They are carefully hanging the simple wooden bird feeder (pesakast) on a branch of a bare deciduous tree. Siim reaches up to the branch, and Miia steadies the feeder from below. Snow covers the ground and pine trees are in the background. Bright, clear winter daylight. Cartoon style.",
+      "text": "MAJA ON PEHME.",
+      "scene": "The blanket fort is now mostly built in the middle of the cozy children's room. It's a soft, inviting structure made of colorful blankets and pillows. Jänes Sall is gently patting the side of the blanket fort, and Orav Oss is looking at it with a satisfied smile. The room has light yellow walls, a wooden floor, a blue rug in the center, a wooden toy box on the right, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page7.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "VÄIKESED LINNUD TULEVAD.",
-      "scene": "Siim the squirrel and Miia the mouse stand a little distance from the tree in the snowy garden, pointing excitedly. Several small, colorful birds are flying towards the newly hung bird feeder (pesakast) on the tree. Snow covers the ground and pine trees are in the background. Bright, clear winter daylight. Cartoon style.",
+      "text": "NAD LÄHEVAD MAJJA.",
+      "scene": "Jänes Sall and Orav Oss are carefully crawling into the opening of the blanket fort in the middle of the cozy children's room. They are both smiling, looking excited to enter their newly built fort. The room has light yellow walls, a wooden floor, a blue rug in the center, a wooden toy box on the right, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page8.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "LINNUD SÖÖVAD SEEMNEID.",
-      "scene": "Siim the squirrel and Miia the mouse are observing from a small distance in the snowy garden, smiling happily. A few small, colorful birds are now happily perched on and inside the bird feeder (pesakast) on the tree, pecking at the seeds. Snow covers the ground and pine trees are in the background. Bright, clear winter daylight. Cartoon style.",
+      "text": "MAJA ON SOE JA HEA.",
+      "scene": "Jänes Sall and Orav Oss are inside the cozy blanket fort, which is made of colorful blankets and pillows. They are sitting comfortably on the pillows, looking warm and happy. Jänes Sall has its paws resting on its lap, and Orav Oss is leaning against a pillow. A peek of the cozy children's room with its light yellow walls and wooden floor is visible outside the fort opening. They wear their consistent clothing.",
       "image": "page9.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "SIIM JA MIIA NAERATAVAD.",
-      "scene": "Siim the squirrel and Miia the mouse are standing together in the peaceful snowy garden, looking at the bird feeder and the happy birds (visible in the distance). They are smiling broadly and holding paws, filled with satisfaction. Snow covers the ground and pine trees are in the background. Bright, clear winter daylight. Cartoon style.",
+      "text": "SÕBRAD ON ÕNNELIKUD.",
+      "scene": "Jänes Sall and Orav Oss are still inside the cozy blanket fort, made of colorful blankets and pillows. They are snuggled together, laughing and giving each other a friendly high-five. The interior of the fort looks very comfortable and inviting, with soft light. A peek of the cozy children's room with its light yellow walls and wooden floor is visible outside the fort opening. They wear their consistent clothing.",
       "image": "page10.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     }
   ]
 }
