@@ -1,0 +1,102 @@
+{
+  "date": "2026-02-02",
+  "language": "et",
+  "title": "KAI JA LEO LUMEHELVEID TEGNA",
+  "generatedAt": "2026-01-25T22:55:48.899Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KAI",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne tüdruk, heledate juustega, kannab roosat kampsunit ja sinist pükse. Tal on suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LEO",
+      "type": "human",
+      "description": "Väike inimene, energiline poiss, tumedate juustega, kannab sinist kampsunit ja rohelisi pükse. Tal on säravad silmad ja õnnelik naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "MÄNGUTUBA",
+      "description": "Cozy children's playroom with light blue walls, a wooden floor, a single large window on the back wall showing a snowy winter landscape, a small light wooden craft table in the center, and two small wooden chairs. There is a simple red toy box on the right wall. Warm, soft light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KAI JA LEO TOAS.",
+      "scene": "Kai and Leo are sitting at the light wooden craft table in their cozy playroom. Kai, a girl with light hair wearing a pink sweater and blue pants, looks a bit bored. Leo, a boy with dark hair wearing a blue sweater and green pants, also looks a bit restless. Their expressions are friendly. The room has light blue walls, a wooden floor, a window showing a snowy winter landscape, and a red toy box.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "VÄLJAS SAJAB LUND.",
+      "scene": "Kai and Leo are still at the light wooden craft table in their cozy playroom. They are both looking out the large window, pointing at the visibly falling snow with excited but slightly wistful expressions. The snowy winter landscape is clear through the window. Kai wears her pink sweater and blue pants, Leo wears his blue sweater and green pants. The room features light blue walls, a wooden floor, and a red toy box.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Kai and Leo are sitting at the light wooden craft table in their cozy playroom. They are now looking at each other, their faces brightening with a sudden, good idea. Both are smiling widely and excitedly. Kai wears her pink sweater and blue pants, Leo wears his blue sweater and green pants. The room features light blue walls, a wooden floor, a window showing a snowy winter landscape, and a red toy box.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "VÕTAME VALGE PABERI.",
+      "scene": "Kai and Leo are at the light wooden craft table in their cozy playroom. Kai, wearing her pink sweater and blue pants, holds up a stack of white paper with a cheerful smile. Leo, wearing his blue sweater and green pants, is reaching for a pair of child-safe scissors lying on the table, also smiling excitedly. The room features light blue walls, a wooden floor, a window showing a snowy winter landscape, and a red toy box.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LÕIKAME HOOLIKALT PABERIT.",
+      "scene": "Kai and Leo are sitting at the light wooden craft table in their cozy playroom, focused on their activity. Each is carefully cutting folded white paper with child-safe scissors, making intricate cuts to create snowflakes. They both have concentrated and happy expressions. Kai wears her pink sweater and blue pants, Leo wears his blue sweater and green pants. The room features light blue walls, a wooden floor, a window showing a snowy winter landscape, and a red toy box.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TEE LUMEHELBEID.",
+      "scene": "Kai and Leo are sitting at the light wooden craft table in their cozy playroom. They are holding up their partly finished, folded and cut white paper, looking excited and proud. They are just about to unfold them to reveal the snowflake shapes. Some small cut paper scraps are scattered on the table. Kai wears her pink sweater and blue pants, Leo wears his blue sweater and green pants. The room features light blue walls, a wooden floor, a window showing a snowy winter landscape, and a red toy box.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PALJU ILUSAID HELBEID!",
+      "scene": "Kai and Leo are sitting at the light wooden craft table in their cozy playroom, beaming with pride. Each is holding up their fully unfolded, intricate paper snowflake, showing off their creations. Several finished white paper snowflakes are scattered on the table around them. Kai wears her pink sweater and blue pants, Leo wears his blue sweater and green pants. The room features light blue walls, a wooden floor, a window showing a snowy winter landscape, and a red toy box.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KAUNISTAME AKNA ÄÄRE.",
+      "scene": "Kai and Leo are standing near the large window in their cozy playroom. They are carefully placing their newly made white paper snowflakes along the window sill and gently taping some to the window pane. They are working together and smiling happily. Kai wears her pink sweater and blue pants, Leo wears his blue sweater and green pants. The room features light blue walls, a wooden floor, a window showing a snowy winter landscape, and a red toy box.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NÜÜD ON NII ILUS.",
+      "scene": "Kai and Leo are standing back slightly from the decorated window in their cozy playroom, admiring their handiwork. Their faces show satisfied smiles as they look at the many white paper snowflakes neatly placed on the window sill and attached to the window pane. The room looks cheerful with the new decorations. Kai wears her pink sweater and blue pants, Leo wears his blue sweater and green pants. The room features light blue walls, a wooden floor, a window showing a snowy winter landscape, and a red toy box.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KAI JA LEO ON RÕÕMSAD!",
+      "scene": "Kai and Leo are celebrating their accomplishment in their cozy, now beautifully decorated playroom. They are giving each other a joyful high-five, beaming with happiness. The decorated window with its many white paper snowflakes is clearly visible in the background. Kai wears her pink sweater and blue pants, Leo wears his blue sweater and green pants. The room features light blue walls, a wooden floor, a window showing a snowy winter landscape, and a red toy box.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-01",
+  "latestDate": "2026-02-02",
   "stories": [
+    {
+      "date": "2026-02-02",
+      "title": "KAI JA LEO LUMEHELVEID TEGNA",
+      "pageCount": 10,
+      "characters": [
+        "KAI",
+        "LEO"
+      ]
+    },
     {
       "date": "2026-02-01",
       "title": "JÄNES JA ORAV EHITAVAD MAJA",
