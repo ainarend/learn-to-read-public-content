@@ -1,0 +1,108 @@
+{
+  "date": "2026-02-03",
+  "language": "et",
+  "title": "KUSTI JA REETA LINNUDE KODU",
+  "generatedAt": "2026-01-25T23:42:09.213Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KUSTI",
+      "type": "bear",
+      "description": "Väike pruun karupoeg, ümarate kõrvade ja pehme karvaga. Seljas soe tumesinine kampsun. Suured sõbralikud silmad ja alati naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "REETA",
+      "type": "fox",
+      "description": "Väike oranž rebane, teravate kõrvade ja koheva sabaga. Seljas roheline sall ja pisikesed punased kindad. Nutikas ja rõõmsameelne ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KODUNE TUBA",
+      "description": "Cozy children's living room with light blue walls, soft grey carpet, and a large window on the back wall showing a snowy landscape with frosty trees. A small wooden table with two child-sized chairs is in the center. A colorful rug is under the table. Soft, warm lamp light from a standing lamp in the corner. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "LUMINE AED",
+      "description": "Serene snowy garden with a thick blanket of fresh white snow on the ground and trees. Pine trees are covered in snow in the background. A few bare branches of a deciduous tree in the foreground. Soft grey winter sky. No visible walls or fences. Peaceful and quiet atmosphere. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KUSTI JA REETA VAATAVAD.",
+      "scene": "Kusti, a small brown bear wearing a warm dark blue sweater, and Reeta, a small orange fox wearing a green scarf and tiny red mittens, are standing side-by-side at a large window in a cozy living room. They are looking outside at a snowy landscape with frosty trees. Both have friendly, curious expressions. The room has light blue walls, soft grey carpet, a colorful rug, and a small wooden table with chairs. Warm lamp light fills the room. Landscape composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "LUMEGA ON VÄGA KÜLM.",
+      "scene": "Kusti, a small brown bear wearing a warm dark blue sweater, and Reeta, a small orange fox wearing a green scarf and tiny red mittens, are still standing at the window in a cozy living room, looking outside. Reeta points gently towards tiny birds visible through the window in the snowy landscape. Both characters look a little concerned but determined. The room has light blue walls, soft grey carpet, a colorful rug, and a small wooden table with chairs. Warm lamp light fills the room. Landscape composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "TEEME LINNUDELE KODU.",
+      "scene": "Kusti, a small brown bear wearing a warm dark blue sweater, and Reeta, a small orange fox wearing a green scarf and tiny red mittens, are now standing by the small wooden table in their cozy living room. They are looking at each other with bright, excited smiles. Reeta gestures with her paw as if she has a brilliant idea. The room has light blue walls, soft grey carpet, a colorful rug, and a large window showing a snowy landscape. Warm lamp light fills the room. Landscape composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD PUITLAUA.",
+      "scene": "Kusti, a small brown bear wearing a warm dark blue sweater, is holding a small, flat wooden board in his paws. Reeta, a small orange fox wearing a green scarf and tiny red mittens, is standing beside him, holding a tiny toy hammer and smiling. They are next to the small wooden table in their cozy living room, ready to start their project. The room has light blue walls, soft grey carpet, a colorful rug, and a large window showing a snowy landscape. Warm lamp light fills the room. Landscape composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD EHITAVAD LINNUMAJA.",
+      "scene": "Kusti, a small brown bear wearing a warm dark blue sweater, and Reeta, a small orange fox wearing a green scarf and tiny red mittens, are busy at the small wooden table in their cozy living room. They are carefully assembling a small wooden birdhouse. Kusti holds pieces of wood together, and Reeta gently taps with her toy hammer. Several small wooden pieces are scattered on the table. Both are focused and happy. The room has light blue walls, soft grey carpet, a colorful rug, and a large window showing a snowy landscape. Warm lamp light fills the room. Landscape composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "ILUS LINNUMAJA ON VALMIS.",
+      "scene": "A small, complete, beautifully crafted wooden birdhouse stands proudly on the small wooden table in the cozy living room. Kusti, a small brown bear wearing a warm dark blue sweater, and Reeta, a small orange fox wearing a green scarf and tiny red mittens, are standing beside it, admiring their handiwork with proud, happy smiles. The room has light blue walls, soft grey carpet, a colorful rug, and a large window showing a snowy landscape. Warm lamp light fills the room. Landscape composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "TÄIDAME LINNUMAJA TOIDUGA.",
+      "scene": "Kusti, a small brown bear wearing a warm dark blue sweater, is carefully pouring bird seeds from a small bag into the newly built wooden birdhouse, which is resting on the small wooden table. Reeta, a small orange fox wearing a green scarf and tiny red mittens, watches him with an excited, anticipating smile. The cozy living room environment remains consistent. The room has light blue walls, soft grey carpet, a colorful rug, and a large window showing a snowy landscape. Warm lamp light fills the room. Landscape composition.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD VIIVAD MAJA VÄLJA.",
+      "scene": "Kusti, a small brown bear wearing a warm dark blue sweater, and Reeta, a small orange fox wearing a green scarf and tiny red mittens, are walking through a serene snowy garden. Kusti is carefully carrying the wooden birdhouse, now filled with seeds. Reeta walks beside him, looking forward with a hopeful smile. Thick white snow covers the ground and trees. Soft grey winter sky. Landscape composition.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LINNUD NÄEVAD UUT KODU.",
+      "scene": "The wooden birdhouse is now hanging from a snow-covered branch of a deciduous tree in the serene snowy garden. Several tiny, colorful cartoon birds are flying towards it, or already perched on its edge, happily pecking at the seeds. Kusti, a small brown bear wearing a warm dark blue sweater, and Reeta, a small orange fox wearing a green scarf and tiny red mittens, are standing a little distance away, watching the birds with gentle, joyful smiles. Thick white snow covers the ground and trees. Soft grey winter sky. Landscape composition.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KÕIK ON NÜÜD RÕÕMSAD.",
+      "scene": "Kusti, a small brown bear wearing a warm dark blue sweater, and Reeta, a small orange fox wearing a green scarf and tiny red mittens, are standing in the serene snowy garden, looking at the birdhouse in the distance, which now has many happy birds eating from it. Kusti and Reeta are holding hands, beaming with pride and joy. Thick white snow covers the ground and trees. Soft grey winter sky. Landscape composition.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-02",
+  "latestDate": "2026-02-03",
   "stories": [
+    {
+      "date": "2026-02-03",
+      "title": "KUSTI JA REETA LINNUDE KODU",
+      "pageCount": 10,
+      "characters": [
+        "KUSTI",
+        "REETA"
+      ]
+    },
     {
       "date": "2026-02-02",
       "title": "KAI JA LEO LUMEHELVEID TEGNA",
