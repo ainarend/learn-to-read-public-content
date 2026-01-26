@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-06",
+  "latestDate": "2026-02-07",
   "stories": [
+    {
+      "date": "2026-02-07",
+      "title": "MARI JA PEETER LINNUDELE",
+      "pageCount": 10,
+      "characters": [
+        "MARI",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-02-06",
       "title": "REBAS JA JÄNES LUMELIUG",
