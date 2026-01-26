@@ -30,7 +30,7 @@
   "pages": [
     {
       "pageNumber": 1,
-      "text": "KARU JA REBAS ON KODUS.",
+      "text": "KARU JA REBANE ON KODUS.",
       "scene": "Karu Poiss and Rebase Tüdruk are sitting at a small wooden table in their cozy den. The den has light green walls and a wooden floor. A single large window on the back wall shows a snowy landscape outside. A small wooden shelf with a few books is on the left wall. Karu Poiss is looking at Rebase Tüdruk. Rebase Tüdruk is smiling. They are both looking thoughtful. Warm light from the window. Landscape composition.",
       "image": "page1.png",
       "location_id": "loc1"
@@ -44,7 +44,7 @@
     },
     {
       "pageNumber": 3,
-      "text": "NEIL ON HEA MÕTE.",
+      "text": "NEILE TULEB MÕTE.",
       "scene": "Karu Poiss and Rebase Tüdruk are sitting at the small wooden table in their cozy den. The den has light green walls and a wooden floor. A single large window on the back wall shows a dark, snowy landscape outside. A small wooden shelf with a few books is on the left wall. Karu Poiss claps his paws together excitedly, and Rebase Tüdruk beams with a bright, happy smile, pointing a paw upwards as if having an idea. The mood is cheerful. Landscape composition.",
       "image": "page3.png",
       "location_id": "loc1"
