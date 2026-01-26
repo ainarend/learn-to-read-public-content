@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-07",
+  "latestDate": "2026-02-08",
   "stories": [
+    {
+      "date": "2026-02-08",
+      "title": "TIINA JA ANTS TELKIS",
+      "pageCount": 10,
+      "characters": [
+        "TIINA",
+        "ANTS"
+      ]
+    },
     {
       "date": "2026-02-07",
       "title": "MARI JA PEETER LINNUDELE",

@@ -1,0 +1,102 @@
+{
+  "date": "2026-02-08",
+  "language": "et",
+  "title": "TIINA JA ANTS TELKIS",
+  "generatedAt": "2026-01-26T02:41:50.541Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "TIINA",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledad blondid juuksed kahe patsis, seljas roosa soe kampsun ja sinised püksid. Suured sõbralikud silmad ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ANTS",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikesed pruunid juuksed, seljas sinine soe kampsun ja hallid püksid. Suured uudishimulikud silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Elutuba",
+      "description": "Cozy living room with light blue walls, a soft gray rug covering most of the wooden floor. There is a large window on the back wall showing dark, snowy trees outside, indicating evening. A comfortable yellow sofa is on the left side, two small wooden chairs are near the center, and a small wooden coffee table in the center. A tall green potted plant stands in one corner. Warm, soft lamp light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "TIINA JA ANTS MÕTLEVAD.",
+      "scene": "Tiina and Ants sit cross-legged on the gray rug in the cozy living room, looking at each other with thoughtful expressions. Tiina has her finger on her chin, and Ants is looking up. The room has light blue walls, a large window showing dark snowy trees outside. A yellow sofa is on the left, a small wooden coffee table in the center, and a tall green potted plant in the corner. Warm lamp light fills the room. They are wearing their cozy sweaters and pants.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES ON PIME.",
+      "scene": "Tiina and Ants are standing near the large window in the living room, looking out at the dark, snowy trees visible through it. Their faces show a hint of boredom, but also a spark of an idea. The cozy living room has light blue walls, a gray rug, a yellow sofa, a small wooden coffee table, and a tall green potted plant. Warm lamp light fills the room. They are wearing their cozy sweaters and pants.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Tiina and Ants are standing in the living room, excitedly looking at each other, bright smiles on their faces. Tiina claps her hands lightly, and Ants points a finger up in a eureka moment. The cozy living room has light blue walls, a gray rug, a yellow sofa, a small wooden coffee table, and a tall green potted plant. Warm lamp light fills the room. They are wearing their cozy sweaters and pants.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD TEKKE.",
+      "scene": "Tiina and Ants are at the yellow sofa in the living room. Tiina is pulling a large, soft patterned blanket off the back of the sofa, while Ants is reaching for a fluffy pillow from the sofa cushions. They are both smiling, starting their project. The cozy living room has light blue walls, a gray rug, a large window showing dark snowy trees outside, a small wooden coffee table, and a tall green potted plant. Warm lamp light fills the room. They are wearing their cozy sweaters and pants.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD EHITAVAD TELKI.",
+      "scene": "Tiina and Ants are actively building a blanket fort in the living room. They are draping a large, soft patterned blanket over the two small wooden chairs that are now positioned closer together. Tiina holds one corner of the blanket, while Ants holds another. They are focused and smiling. The cozy living room has light blue walls, a gray rug, a large window showing dark snowy trees outside, a yellow sofa, a small wooden coffee table, and a tall green potted plant. Warm lamp light fills the room. They are wearing their cozy sweaters and pants.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "SISU ON NII PEHME.",
+      "scene": "Tiina and Ants are inside their newly built blanket fort, which is constructed from blankets draped over the two small wooden chairs. The inside is filled with soft pillows and blankets on the rug, making it cozy. Tiina is patting a soft pillow, and Ants is leaning back happily against another, both smiling. The fort entrance is visible. The cozy living room background elements (light blue walls, window with snowy view, yellow sofa, coffee table, potted plant) are partially visible around the fort. Warm lamp light glows softly from inside and around the fort. They are wearing their cozy sweaters and pants.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD VIIVAD RAAMATU.",
+      "scene": "Tiina is kneeling by the blanket fort entrance, holding a colorful children's picture book in her hands, ready to bring it inside. Ants is already inside the fort, peeking out and eagerly reaching for the book. The blanket fort, made from blankets over wooden chairs, is a prominent feature. The cozy living room (light blue walls, gray rug, window with snowy view, yellow sofa, coffee table, potted plant) is visible in the background. Warm lamp light. They are wearing their cozy sweaters and pants.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MINEVAD TELKI SISSE.",
+      "scene": "Tiina is now crawling into the entrance of the blanket fort, holding the colorful children's picture book. Ants is fully inside the fort, making space for Tiina, looking at her with a welcoming smile. The fort is cozy with pillows and blankets. The cozy living room (light blue walls, gray rug, window with snowy view, yellow sofa, coffee table, potted plant) is visible in the background. Warm lamp light. They are wearing their cozy sweaters and pants.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD LUGED RAAMATUT.",
+      "scene": "Tiina and Ants are sitting comfortably side-by-side inside the cozy blanket fort, surrounded by pillows and blankets. Tiina is holding the colorful children's picture book open, and both are looking at the pages with interest, smiling softly. The fort's interior is snug. The cozy living room elements (light blue walls, window with snowy view) are dimly visible outside the fort. Warm lamp light. They are wearing their cozy sweaters and pants.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "TIINA JA ANTS ON RÕÕMSAD.",
+      "scene": "Tiina and Ants are still inside their cozy blanket fort, now looking at each other and laughing happily. The colorful children's picture book is closed and resting between them. They are surrounded by soft pillows and blankets. The cozy living room background is dimly visible. Warm lamp light. They are wearing their cozy sweaters and pants. The atmosphere is warm, joyful, and peaceful.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
