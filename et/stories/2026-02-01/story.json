@@ -30,7 +30,7 @@
   "pages": [
     {
       "pageNumber": 1,
-      "text": "JÄNES JA ORAV TOAS.",
+      "text": "JÄNES JA ORAV ON TOAS.",
       "scene": "Jänes Sall and Orav Oss are standing in the middle of a cozy children's room, looking around. Jänes Sall has its paws together in front of it, and Orav Oss is tapping its chin thoughtfully. The room has light yellow walls, a wooden floor, a blue rug in the center, a wooden toy box on the right, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page1.png",
       "location_id": "loc1"
@@ -44,14 +44,14 @@
     },
     {
       "pageNumber": 3,
-      "text": "TEEME KOOS MAJA.",
+      "text": "SÕBRAD HAKKAVAD ONNI EHITAMA.",
       "scene": "Jänes Sall and Orav Oss are smiling at each other in the cozy children's room. Jänes Sall claps its paws together excitedly, and Orav Oss points an excited paw up, suggesting an idea. The room has light yellow walls, a wooden floor, a blue rug in the center, a wooden toy box on the right, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD OTSIVAD TEKKE.",
+      "text": "NAD OTSIVAD SAHTLIST.",
       "scene": "Jänes Sall and Orav Oss are looking into the slightly open wooden toy box in the cozy children's room. Jänes Sall is reaching inside, and Orav Oss is peering over its shoulder, both looking curious and determined. The room has light yellow walls, a wooden floor, a blue rug in the center, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page4.png",
       "location_id": "loc1"
@@ -65,28 +65,28 @@
     },
     {
       "pageNumber": 6,
-      "text": "NAD EHITAVAD MAJA.",
+      "text": "LAPSED EHITAVAD ONNI.",
       "scene": "Jänes Sall and Orav Oss are actively building a fort in the middle of the cozy children's room. They are holding up a large colorful blanket together, trying to drape it over some stacked pillows. The room has light yellow walls, a wooden floor, a blue rug in the center, a wooden toy box on the right, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "MAJA ON PEHME.",
+      "text": "ONN SAI VALMIS.",
       "scene": "The blanket fort is now mostly built in the middle of the cozy children's room. It's a soft, inviting structure made of colorful blankets and pillows. Jänes Sall is gently patting the side of the blanket fort, and Orav Oss is looking at it with a satisfied smile. The room has light yellow walls, a wooden floor, a blue rug in the center, a wooden toy box on the right, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "NAD LÄHEVAD MAJJA.",
+      "text": "NAD LÄHEVAD ONNI.",
       "scene": "Jänes Sall and Orav Oss are carefully crawling into the opening of the blanket fort in the middle of the cozy children's room. They are both smiling, looking excited to enter their newly built fort. The room has light yellow walls, a wooden floor, a blue rug in the center, a wooden toy box on the right, and a window showing snowy trees. They wear their consistent clothing.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "MAJA ON SOE JA HEA.",
+      "text": "MAJA ON VAHVA.",
       "scene": "Jänes Sall and Orav Oss are inside the cozy blanket fort, which is made of colorful blankets and pillows. They are sitting comfortably on the pillows, looking warm and happy. Jänes Sall has its paws resting on its lap, and Orav Oss is leaning against a pillow. A peek of the cozy children's room with its light yellow walls and wooden floor is visible outside the fort opening. They wear their consistent clothing.",
       "image": "page9.png",
       "location_id": "loc1"
