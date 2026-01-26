@@ -1,0 +1,95 @@
+{
+  "date": "2026-02-06",
+  "language": "et",
+  "title": "REBAS JA JÄNES LUMELIUG",
+  "generatedAt": "2026-01-26T01:12:45.099Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBAS",
+      "type": "fox",
+      "description": "Väike oranž rebane, suur kohev saba ja teravad kõrvad. Tal on seljas roheline sall ja ta nägu on alati sõbralik ja uudishimulik. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES",
+      "type": "rabbit",
+      "description": "Väike hall jänes, pikad kõrvad ja lühike kohev saba. Tal on seljas sinine vest ja ta nägu on alati rõõmus ja elav. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "LUMINE METSALAGENDIK",
+      "description": "A serene, wide-open snowy forest clearing. The ground is covered in fresh, soft white snow. Tall evergreen trees with snow-dusted branches surround the clearing in the background. The sky is a soft, pale blue with gentle sunlight. No specific furniture or structures, just natural snow and trees. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REBAS JA JÄNES MÄNGIVAD.",
+      "scene": "Rebas (fox) and Jänes (rabbit) are in a wide-open snowy forest clearing. The ground is covered in soft white snow. Tall evergreen trees with snow-dusted branches are in the background. Rebas and Jänes are smiling, looking at each other happily, ready to play. The sky is a soft, pale blue. Rebas wears a green scarf and Jänes wears a blue vest.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "LUMEGA ON NII LÕBUS.",
+      "scene": "Rebas (fox) and Jänes (rabbit) are still in the snowy forest clearing. Rebas is playfully making a snowball with his paws, looking at Jänes. Jänes is looking at the snow around them with a wide, happy smile, a playful idea forming in their eyes. The clearing is surrounded by snow-dusted evergreen trees. Rebas wears a green scarf and Jänes wears a blue vest.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Rebas (fox) and Jänes (rabbit) are in the snowy forest clearing. Both are smiling brightly and pointing excitedly with their paws at a small, untouched hill of snow in the clearing. They look eager and ready to start building something. The clearing and trees are covered in snow. Rebas wears a green scarf and Jänes wears a blue vest.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD EHITAVAD LIUGU.",
+      "scene": "Rebas (fox) and Jänes (rabbit) are actively working together in the snowy forest clearing. They are piling up snow, starting to form a larger mound for a snow slide. Rebas is pushing snow with his front paws, and Jänes is patting down a section of the snow mound. The evergreen trees are in the background. Rebas wears a green scarf and Jänes wears a blue vest.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD KORJAVAD LUND.",
+      "scene": "Rebas (fox) and Jänes (rabbit) are continuing to build their snow slide in the snowy forest clearing. They are gathering more snow from around the clearing, bringing it to their growing snow mound. Rebas has a small pile of snow on his back, and Jänes is scooping up snow with his paws. Rebas wears a green scarf and Jänes wears a blue vest.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LIUG KASVAB SUUREKS.",
+      "scene": "In the snowy forest clearing, the snow mound has now become a clear, large snow slide shape. Rebas (fox) is on top of the slide, smoothing the snow surface with his paws. Jänes (rabbit) is patting down the sides of the slide at the bottom. They look focused and happy with their progress. Rebas wears a green scarf and Jänes wears a blue vest.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LIUG ON VALMIS!",
+      "scene": "Rebas (fox) and Jänes (rabbit) stand proudly beside their completed snow slide in the snowy forest clearing. The slide is now a smooth, inviting slope of snow, ready for use. Both characters are smiling widely, looking very pleased with their creation. Rebas wears a green scarf and Jänes wears a blue vest.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD LASKUVAD ALLA.",
+      "scene": "Rebas (fox) and Jänes (rabbit) are actively sliding down their newly built snow slide in the snowy forest clearing. They are laughing and having a lot of fun, with happy expressions on their faces. A small trail of snow follows them as they slide. Rebas wears a green scarf and Jänes wears a blue vest.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NII MÕNUS ON LIUGEDA.",
+      "scene": "Rebas (fox) and Jänes (rabbit) are at the bottom of the snow slide in the snowy forest clearing, looking back up at it with happy, playful expressions. They are clearly enjoying the slide and perhaps thinking about going for another round. Rebas wears a green scarf and Jänes wears a blue vest.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}

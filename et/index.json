@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-05",
+  "latestDate": "2026-02-06",
   "stories": [
+    {
+      "date": "2026-02-06",
+      "title": "REBAS JA JÄNES LUMELIUG",
+      "pageCount": 9,
+      "characters": [
+        "REBAS",
+        "JÄNES"
+      ]
+    },
     {
       "date": "2026-02-05",
       "title": "ANNA JA ELI JÄÄKAUSS",
