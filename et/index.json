@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-03",
+  "latestDate": "2026-02-05",
   "stories": [
+    {
+      "date": "2026-02-05",
+      "title": "ANNA JA ELI JÄÄKAUSS",
+      "pageCount": 10,
+      "characters": [
+        "ANNA",
+        "ELI"
+      ]
+    },
     {
       "date": "2026-02-03",
       "title": "KUSTI JA REETA LINNUDE KODU",
