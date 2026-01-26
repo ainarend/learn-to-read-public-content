@@ -30,70 +30,70 @@
   "pages": [
     {
       "pageNumber": 1,
-      "text": "JUKU JA LIISA MÄNGIVAD.",
+      "text": "JUKU JA LIISA MÄNGIVAD ÕUES.",
       "scene": "Juku, wearing a blue winter jacket, red hat, and red gloves, and Liisa, wearing a pink winter jacket, purple hat, and purple gloves, are happily playing in a snowy backyard garden. They are standing in the fresh, white snow, smiling brightly. Bare trees are in the background, dusted with snow. The sky is a clear winter blue. Landscape composition.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NEIL ON MÕTE.",
+      "text": "NEILE TULEB MÕTE.",
       "scene": "Juku and Liisa are standing close together in the snowy garden, looking at a small pile of snow with big, excited smiles on their faces. Juku points towards the snow with his gloved hand. They both wear their winter jackets, hats, and gloves. The snowy ground and bare, snow-dusted trees are visible in the background under a clear blue sky. Landscape composition.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD KOGUVAD LUND.",
+      "text": "NAD KOGUVAD PALJU LUND",
       "scene": "Juku and Liisa are actively gathering snow in the snowy garden. Juku is using a small red shovel to scoop snow into a growing pile, while Liisa is using her gloved hands to add more snow. They are both focused and smiling. They wear their winter jackets, hats, and gloves. Bare, snow-dusted trees and the snowy ground are in the background. Landscape composition.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD TEKITAVAD SEINA.",
+      "text": "JA EHITAVAD SEINA.",
       "scene": "Juku and Liisa are carefully shaping a wall out of the snow pile in the snowy garden. Juku is pressing snow firmly with his gloved hands, forming a solid base. Liisa is adding more snow to the top of the wall. They look concentrated and happy. They wear their winter jackets, hats, and gloves. The snowy ground and bare trees are in the background. Landscape composition.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "MAJA KASVAB SUUREKS.",
+      "text": "LUMEST MAJA KASVAB SUUREKS.",
       "scene": "Juku and Liisa stand proudly next to a nearly finished, large snow house with thick walls. They are admiring their creation, smiling. The snow house has an opening for an entrance. They wear their winter jackets, hats, and gloves. The snowy ground and bare, snow-dusted trees are visible in the background. Landscape composition.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "NAD TOOVAD ASJU.",
+      "text": "NAD TOOVAD TEKKE.",
       "scene": "Juku and Liisa are walking towards their snow house in the snowy garden. Juku is carrying a soft, colorful blanket folded in his arms. Liisa is carrying a cozy pillow. Both are smiling, excited to furnish their snow house. They wear their winter jackets, hats, and gloves. The snowy ground and bare trees are in the background. Landscape composition.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "PADI JA TEKK.",
+      "text": "SÕBRAD ASETAVAD TEKI MAHA.",
       "scene": "Juku and Liisa are inside the entrance of their newly built snow house. Liisa is placing the colorful blanket on the snow floor, while Juku is fluffing the cozy pillow. The inside of the snow house is simple and white. They wear their winter jackets, hats, and gloves. A glimpse of the snowy garden is seen outside the entrance. Landscape composition.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "NAD ISTUVAD SEES.",
+      "text": "NAD ISTUVAD LUMEONNIS.",
       "scene": "Juku and Liisa are sitting comfortably inside their snow house, snuggled on the colorful blanket with the cozy pillow. They are looking at each other and smiling, enjoying their cozy spot. They wear their winter jackets, hats, and gloves. The white snow walls of the house surround them. A glimpse of the snowy garden is seen outside the entrance. Landscape composition.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "MAJA ON MÕNUS.",
+      "text": "ONNIS ON MÕNUS.",
       "scene": "Juku and Liisa are sitting comfortably inside their snow house, looking out of the entrance towards the snowy garden. They have warm, happy expressions, feeling cozy and content in their creation. They wear their winter jackets, hats, and gloves. The white snow walls and the colorful blanket are visible. Landscape composition.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "JUKU JA LIISA NAERAVAD.",
+      "text": "JUKU JA LIISA ON RÕÕMSAD.",
       "scene": "Juku and Liisa are laughing joyfully while sitting inside their cozy snow house. They are hugging each other lightly, filled with happiness. They wear their winter jackets, hats, and gloves. The colorful blanket and pillow are visible. The snow house entrance shows the beautiful snowy garden outside. Landscape composition.",
       "image": "page10.png",
       "location_id": "loc1"
