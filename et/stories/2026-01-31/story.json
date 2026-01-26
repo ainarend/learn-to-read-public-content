@@ -36,63 +36,63 @@
   "pages": [
     {
       "pageNumber": 1,
-      "text": "LIISA JA MART TOAS.",
+      "text": "LIISA JA MART ON TOAS.",
       "scene": "Liisa, a small human girl with blonde hair and rosy cheeks, is standing in the cozy children's living room with light blue walls and a warm wooden floor. She is wearing indoor clothes (a simple long-sleeved shirt and trousers). Mart, a small human boy with short brown hair, is standing next to her. They are both looking out the large window on the back wall, which shows a snowy winter landscape with bare trees. They are smiling. A small, colorful round rug is on the floor, and a red fabric armchair is in the right corner.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NAD NÄEVAD LUND.",
+      "text": "NAD NÄEVAD AKNAST LUMESADU.",
       "scene": "Liisa, a small human girl with blonde hair and rosy cheeks, and Mart, a small human boy with short brown hair, are standing in the cozy children's living room. They are both wearing indoor clothes. They are pointing excitedly out the large window at the snow outside. Mart is bouncing a little in anticipation. A small, colorful round rug is on the floor, and a red fabric armchair is in the right corner.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "TAHAME LUND MÄNGIDA!",
+      "text": "LAPSED PANEVAD RIIDESSE!",
       "scene": "Liisa, a small human girl with blonde hair and rosy cheeks, is standing in the cozy children's living room, holding a pair of pink mittens. Mart, a small human boy with short brown hair, is standing close to her. They are both wearing indoor clothes and looking at each other with big smiles and excited expressions, eager to play outside. A small, colorful round rug is on the floor, and a red fabric armchair is in the right corner.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "LÄHME KELGUTAMA!",
+      "text": "ET MINNA KELGUTAMA!",
       "scene": "Liisa, a small human girl with blonde hair and rosy cheeks, wearing a warm pink winter snowsuit with small blue snowflakes, a warm pink hat, and pink mittens, is standing near the door in the cozy children's living room. Mart, a small human boy with short brown hair, wearing a warm blue winter snowsuit with small white stars, a warm blue hat, and blue mittens, is standing next to her. They are holding hands and smiling broadly, ready to go outside. A small, colorful round rug is on the floor, and a red fabric armchair is in the right corner.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NEIL ON KELK.",
+      "text": "NEIL ON PUNANE KELK.",
       "scene": "Liisa, a small human girl with blonde hair and rosy cheeks, wearing a warm pink winter snowsuit with small blue snowflakes, a warm pink hat, and pink mittens, is standing at the bottom of a gentle snowy hill. Mart, a small human boy with short brown hair, wearing a warm blue winter snowsuit with small white stars, a warm blue hat, and blue mittens, is holding the rope of a bright red plastic sled. They are both smiling excitedly. The hill is covered in pristine white snow, with snow-covered pine trees in the background. The sky is bright pale blue.",
       "image": "page5.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 6,
-      "text": "NAD TÕMBAMAD KELKU.",
+      "text": "MART TÕMBAB LIISAT.",
       "scene": "Liisa, a small human girl with blonde hair and rosy cheeks, wearing a warm pink winter snowsuit with small blue snowflakes, a warm pink hat, and pink mittens, is pushing the back of a bright red plastic sled. Mart, a small human boy with short brown hair, wearing a warm blue winter snowsuit with small white stars, a warm blue hat, and blue mittens, is pulling the sled's rope up a gentle snowy hill. They are both looking up the hill with determined and happy smiles. The hill is covered in pristine white snow, with snow-covered pine trees in the background. The sky is bright pale blue.",
       "image": "page6.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 7,
-      "text": "KELK SÕIDAB ALLA!",
+      "text": "LAPSED SÕIDAVAD MÄEST ALLA!",
       "scene": "Liisa, a small human girl with blonde hair and rosy cheeks, wearing a warm pink winter snowsuit with small blue snowflakes, a warm pink hat, and pink mittens, is sitting on a bright red plastic sled, laughing happily. Mart, a small human boy with short brown hair, wearing a warm blue winter snowsuit with small white stars, a warm blue hat, and blue mittens, is sitting in front of her on the same sled, also laughing. The sled is sliding quickly down the gentle snowy hill, with a gentle spray of snow behind it. Their hats are slightly askew. The sky is bright pale blue.",
       "image": "page7.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 8,
-      "text": "NAD NAERAVAD RÕÕMSALT.",
+      "text": "NAD ON RÕÕMSAD.",
       "scene": "Liisa, a small human girl with blonde hair and rosy cheeks, wearing a warm pink winter snowsuit with small blue snowflakes, a warm pink hat, and pink mittens, is sitting in the snow at the bottom of a gentle snowy hill, next to a bright red plastic sled. Mart, a small human boy with short brown hair, wearing a warm blue winter snowsuit with small white stars, a warm blue hat, and blue mittens, is sitting next to her. They are both looking at each other, still laughing and smiling broadly, with a few small snowflakes on their snowsuits. The sky is bright pale blue.",
       "image": "page8.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 9,
-      "text": "KELK ON NII LÕBUS.",
+      "text": "KELGUTADA ON NII TORE.",
       "scene": "Liisa, a small human girl with blonde hair and rosy cheeks, wearing a warm pink winter snowsuit with small blue snowflakes, a warm pink hat, and pink mittens, is standing at the bottom of a gentle snowy hill, holding one side of the bright red plastic sled's rope. Mart, a small human boy with short brown hair, wearing a warm blue winter snowsuit with small white stars, a warm blue hat, and blue mittens, is holding the other side of the rope. They are both looking back up the hill with happy, contented smiles, ready to go again. The sky is bright pale blue.",
       "image": "page9.png",
       "location_id": "loc2"
