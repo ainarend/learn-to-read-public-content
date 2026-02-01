@@ -1,0 +1,95 @@
+{
+  "date": "2026-02-10",
+  "language": "et",
+  "title": "MARI JA PEETRI SÕPRUSKAART",
+  "generatedAt": "2026-02-01T23:40:08.646Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk. Tal on lühikesed pruunid juuksed, suured pruunid silmad ja rõõmus naeratus. Seljas on tal roosa pluus ja sinised püksid. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane poiss. Tal on lühikesed blondid juuksed, suured sinised silmad ja sõbralik ilme. Seljas on tal roheline kampsun ja beežid püksid. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Mängutuba",
+      "description": "Cozy children's playroom with light blue walls, a soft yellow rug covering most of a light wooden floor. A small, round, light wooden table is in the center with two small chairs. A single window on the back wall shows a gentle snowy landscape outside. A small, colorful toy box sits in a corner. The room is brightly lit with warm, cheerful light. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MARI JA PEETER MÄNGIVAD.",
+      "scene": "Mari and Peeter are sitting on the yellow rug in the playroom, playing with colorful building blocks scattered around them. Mari is holding a red block, and Peeter is stacking blue blocks. Both are smiling. The playroom has light blue walls, a small round wooden table with two chairs, and a window showing a snowy landscape. A colorful toy box is in the corner. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Mari and Peeter are still sitting on the yellow rug in the playroom, looking at each other with bright, thoughtful smiles, a lightbulb moment implied. Colorful building blocks are still scattered around them. The playroom has light blue walls, a small round wooden table with two chairs, and a window showing a snowy landscape. A colorful toy box is in the corner. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD OTSIVAD PABERIT.",
+      "scene": "Mari and Peeter are now standing near the colorful toy box in the corner of the playroom, rummaging through it. Mari is pulling out a sheet of red paper, and Peeter is looking inside with a curious expression. The playroom has light blue walls, a soft yellow rug, a small round wooden table with two chairs, and a window showing a snowy landscape. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÕIKAVAD PABERIT.",
+      "scene": "Mari and Peeter are sitting at the small round wooden table in the playroom. Mari is carefully cutting a piece of colorful paper with child-safe scissors, while Peeter is holding another piece of paper, watching intently. Cut paper scraps are on the table. The playroom has light blue walls, a soft yellow rug, and a window showing a snowy landscape. A colorful toy box is in the corner. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD LIIMIVAD VÄRVE.",
+      "scene": "Mari and Peeter are sitting at the small round wooden table in the playroom. Mari is holding a glue stick and carefully applying glue to a small, cut-out colorful shape on a larger piece of paper. Peeter is holding a different colored paper shape, ready to glue it. Colorful paper scraps are on the table. The playroom has light blue walls, a soft yellow rug, and a window showing a snowy landscape. A colorful toy box is in the corner. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD JOONISTAVAD SÜDAME.",
+      "scene": "Mari and Peeter are sitting at the small round wooden table in the playroom. Mari is drawing a big heart shape on the partially completed card with a red crayon. Peeter is holding a blue crayon, smiling, ready to add more details. The table has the card, colorful paper pieces, and crayons. The playroom has light blue walls, a soft yellow rug, and a window showing a snowy landscape. A colorful toy box is in the corner. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KAART ON NÜÜD VALMIS!",
+      "scene": "Mari and Peeter are sitting at the small round wooden table in the playroom, holding up a beautifully decorated handmade card with a big heart on it. They are both smiling proudly at their creation. Colorful paper scraps and crayons are on the table. The playroom has light blue walls, a soft yellow rug, and a window showing a snowy landscape. A colorful toy box is in the corner. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SEE ON SÕBRALE KINGITUS.",
+      "scene": "Mari and Peeter are standing near the door of the playroom, still holding the finished, decorated card. They are looking at the card with happy and thoughtful expressions, imagining giving it to a friend. The playroom has light blue walls, a soft yellow rug, a small round wooden table with two chairs, and a window showing a snowy landscape. A colorful toy box is in the corner. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MARI JA PEETER ON ÕNNELIKUD.",
+      "scene": "Mari and Peeter are standing in the middle of the playroom, high-fiving each other with big, joyful smiles. The handmade card is on the small wooden table. They are happy about their accomplishment. The playroom has light blue walls, a soft yellow rug, a small round wooden table with two chairs, and a window showing a snowy landscape. A colorful toy box is in the corner. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}

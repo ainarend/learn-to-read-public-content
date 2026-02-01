@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-09",
+  "latestDate": "2026-02-10",
   "stories": [
+    {
+      "date": "2026-02-10",
+      "title": "MARI JA PEETRI SÕPRUSKAART",
+      "pageCount": 9,
+      "characters": [
+        "MARI",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-02-09",
       "title": "PÄSS JA REINU LUMIHELBED",
