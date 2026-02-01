@@ -1,0 +1,102 @@
+{
+  "date": "2026-02-09",
+  "language": "et",
+  "title": "PÄSS JA REINU LUMIHELBED",
+  "generatedAt": "2026-02-01T22:55:37.694Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PÄSS",
+      "type": "badger",
+      "description": "Väike pruun mäger mustade triipudega, kandmas väikest punast salli, sõbralik ja naeratav näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "REINU",
+      "type": "fox",
+      "description": "Väike punakaspruun rebane koheva sabaga, kandmas väikest rohelist salli, uudishimulik ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Pässi ja Reinu soe urg",
+      "description": "A cozy, warm underground den with earthy brown walls and a soft mossy green floor. A small round wooden table is in the center, accompanied by two small wooden chairs. A simple shelf is carved into the back wall, holding a few smooth river rocks and green leaves. A small, round, sturdy wooden entrance door is visible in the background. Soft, warm glow from a hidden light source, creating a cozy atmosphere. Cute cartoonish children's book style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "PÄSS JA REINU URG.",
+      "scene": "Päss, a small brown badger with black stripes and a red scarf, is sitting comfortably on one of the small wooden chairs at the round wooden table. Reinu, a small red-brown fox with a bushy tail and a green scarf, is sitting on the other chair. They are both looking around their cozy, warm underground den with content expressions. The den has earthy brown walls, a mossy green floor, and a simple shelf with rocks and leaves on the back wall. A round wooden door is visible in the background. Cute cartoonish children's book style. LANDSCAPE orientation.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHTSID ILU.",
+      "scene": "Päss and Reinu are still sitting at the wooden table in their cozy den. Päss is looking thoughtfully, and Reinu is looking up with an idea spark in their eyes, playfully pointing a paw towards the empty walls, indicating they want to decorate. The cozy den environment remains consistent with earthy brown walls, mossy green floor, and wooden furniture. Cute cartoonish children's book style. LANDSCAPE orientation.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD OTSIVAD PABERIT.",
+      "scene": "Päss and Reinu are standing up from their chairs in the den. Päss is looking towards the carved shelf on the back wall, and Reinu is playfully peeking under the wooden table, as if searching for something. They are looking for paper to start their project. The cozy den environment remains consistent. Cute cartoonish children's book style. LANDSCAPE orientation.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD MURRAVAD PABERIT.",
+      "scene": "Päss and Reinu are now sitting back at the wooden table in their den. Päss is holding a piece of white paper and carefully folding it into a triangle shape. Reinu is watching intently, holding another piece of white paper, about to fold it too. The table is clear except for the paper. The cozy den environment remains consistent. Cute cartoonish children's book style. LANDSCAPE orientation.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KÄÄRID LÕIKAVAD PABERIT.",
+      "scene": "Päss and Reinu are sitting at the wooden table in their den. Päss is holding small child-safe scissors and carefully cutting patterns into a folded piece of white paper. Reinu is holding their own folded paper, watching Päss with an excited expression. Small paper scraps are beginning to accumulate on the table. The cozy den environment remains consistent. Cute cartoonish children's book style. LANDSCAPE orientation.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LUMIHELBE PABER VALMIS.",
+      "scene": "Päss is proudly holding up a freshly cut paper snowflake, carefully unfolded to reveal its intricate design. Reinu is smiling, holding their own cut and folded paper, ready to unfold it. Several small paper scraps are on the wooden table. The cozy den environment remains consistent. Cute cartoonish children's book style. LANDSCAPE orientation.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PALJU LUMIHELBEID TEHTUD.",
+      "scene": "The wooden table in the den is now covered with many beautiful, intricately cut paper snowflakes of various sizes. Päss and Reinu are both sitting happily at the table, surrounded by their creations, admiring their work. The cozy den environment remains consistent. Cute cartoonish children's book style. LANDSCAPE orientation.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD RIPUTAVAD ÜLES.",
+      "scene": "Päss is carefully reaching up to attach a paper snowflake to the earthy brown wall of the den, using a tiny piece of natural string or adhesive. Reinu is holding another snowflake, looking up, ready to help or choose the next spot. Some snowflakes are already subtly attached to the walls in the background. The wooden table is still visible. The cozy den environment remains consistent. Cute cartoonish children's book style. LANDSCAPE orientation.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "URG ON NÜÜD ILUS.",
+      "scene": "Päss and Reinu are standing in the center of their den, looking around with proud smiles. Many beautiful paper snowflakes are now hanging gracefully from the earthy brown walls and subtly from the ceiling of the den, creating a festive and cozy atmosphere. The wooden table and chairs are still in place. The cozy den environment remains consistent. Cute cartoonish children's book style. LANDSCAPE orientation.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "PÄSS JA REINU RÕÕMSAD.",
+      "scene": "Päss and Reinu are sitting back in their small wooden chairs at the table, looking at each other and smiling brightly, surrounded by their snowflake decorations. They are very happy with their beautiful, decorated den. The den is beautifully adorned with the paper snowflakes they made. The cozy den environment remains consistent. Cute cartoonish children's book style. LANDSCAPE orientation.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-08",
+  "latestDate": "2026-02-09",
   "stories": [
+    {
+      "date": "2026-02-09",
+      "title": "PÄSS JA REINU LUMIHELBED",
+      "pageCount": 10,
+      "characters": [
+        "PÄSS",
+        "REINU"
+      ]
+    },
     {
       "date": "2026-02-08",
       "title": "LUMELINNUSE MÄNG",
