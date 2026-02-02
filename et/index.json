@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-13",
+  "latestDate": "2026-02-14",
   "stories": [
+    {
+      "date": "2026-02-14",
+      "title": "REINU JA RUUTU LINNUPALLID",
+      "pageCount": 10,
+      "characters": [
+        "REINU",
+        "RUUTU"
+      ]
+    },
     {
       "date": "2026-02-13",
       "title": "KAAREL JA SISSI LUMELOSS",

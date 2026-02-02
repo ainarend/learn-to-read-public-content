@@ -1,0 +1,108 @@
+{
+  "date": "2026-02-14",
+  "language": "et",
+  "title": "REINU JA RUUTU LINNUPALLID",
+  "generatedAt": "2026-02-02T01:55:52.153Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REINU",
+      "type": "fox",
+      "description": "Väike oranž rebane, suured teravad kõrvad, paks kohev saba. Seljas roheline kootud kampsun. Sõbralik ja nutikas näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "RUUTU",
+      "type": "rabbit",
+      "description": "Väike valge jänes, pikad ümarad kõrvad, lühike saba. Seljas sinine kootud sall. Rõõmus ja abivalmis näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Cozy kitchen with light yellow walls, a light wooden floor, and a single window on the back wall showing a snowy garden outside. A sturdy wooden table is in the center with two small wooden chairs. There's a simple shelf with jars on the right wall. Warm, soft light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "LUMINE AED",
+      "description": "A peaceful snowy garden covered in fresh white snow. Tall pine trees with snow-laden branches line the background. A small, snow-covered wooden fence is in the middle distance. Gentle snowflakes are falling. The atmosphere is calm and bright with soft winter light. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REINU JA RUUTU ON KÖÖGIS.",
+      "scene": "Reinu (the fox, wearing a green sweater) and Ruutu (the rabbit, wearing a blue scarf) are standing in a cozy kitchen with light yellow walls and a light wooden floor. The wooden table is in the center. They are looking at each other, smiling warmly. Warm, soft light fills the room from the window. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES ON NÜÜD KÜLM.",
+      "scene": "Reinu (the fox, wearing a green sweater) and Ruutu (the rabbit, wearing a blue scarf) are standing next to the window in the cozy kitchen. They are looking out the window, which shows a snowy garden with pine trees. Their expressions are thoughtful, perhaps a little chilly. Warm, soft light from inside. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TAHAVAD LINDE AIDATA.",
+      "scene": "Reinu (the fox, wearing a green sweater) and Ruutu (the rabbit, wearing a blue scarf) are now at the wooden table in the kitchen. On the table are various ingredients: a bowl of bird seeds, some melted fat in a smaller bowl, and a mixing spoon. Reinu points to the seeds, and Ruutu nods, smiling, showing they have an idea to help. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SEGAVAD KOKKU SEEMNEID.",
+      "scene": "Reinu (the fox, wearing a green sweater) holds a wooden spoon and stirs the bird seeds and melted fat in a large blue mixing bowl on the wooden table in the kitchen. Ruutu (the rabbit, wearing a blue scarf) watches intently, perhaps holding a small bag of extra seeds, both focused on the task. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "TEHTUD ON PALLID.",
+      "scene": "Reinu (the fox, wearing a green sweater) and Ruutu (the rabbit, wearing a blue scarf) are at the wooden table in the kitchen. The mixing bowl is pushed aside. They are carefully using their paws to roll the seed mixture into small, round balls. A few finished seed balls are already on a tray on the table. Both are concentrating. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PALLID NÜÜD TAHKESTUVAD.",
+      "scene": "Reinu (the fox, wearing a green sweater) and Ruutu (the rabbit, wearing a blue scarf) are carefully placing the tray of seed balls near the open window in the cozy kitchen. The snowy garden is visible outside. They gently place the tray on the windowsill to let the cold air help the balls harden. Their expressions are hopeful. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PALLID ON NÜÜD TUGEVAD.",
+      "scene": "Reinu (the fox, wearing a green sweater) and Ruutu (the rabbit, wearing a blue scarf) are back at the wooden table in the kitchen. The seed balls on the tray are now clearly firm and solid. Reinu carefully picks one up to inspect it, and Ruutu smiles, pleased with their work. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "VIIKEM NAD VÄLJA KOOS.",
+      "scene": "Reinu (the fox, wearing a green sweater) and Ruutu (the rabbit, wearing a blue scarf) are holding the tray of hardened seed balls. They are standing near the kitchen door, looking at each other with excitement, about to step into the snowy garden. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "RIPUTAVAD PALLID PUU OTSA.",
+      "scene": "Reinu (the fox, wearing a green sweater) and Ruutu (the rabbit, wearing a blue scarf) are now in the snowy garden. Reinu is carefully reaching up to hang a seed ball from a snow-laden branch of a pine tree. Ruutu stands beside him, holding the tray with the remaining seed balls, looking up with a happy expression. Gentle snowflakes are falling. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "LINNUD ON NÜÜD RÕÕMSAD.",
+      "scene": "Reinu (the fox, wearing a green sweater) and Ruutu (the rabbit, wearing a blue scarf) are standing a short distance away in the snowy garden, looking at the pine tree. Several small, colorful birds are happily pecking at the seed balls hanging from the branches. Reinu and Ruutu are smiling, happy to see the birds enjoying their treat. Gentle snowflakes are falling. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
