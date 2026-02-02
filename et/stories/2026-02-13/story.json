@@ -1,0 +1,108 @@
+{
+  "date": "2026-02-13",
+  "language": "et",
+  "title": "KAAREL JA SISSI LUMELOSS",
+  "generatedAt": "2026-02-02T01:10:57.800Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SISSI",
+      "type": "rabbit",
+      "description": "Väike valge jänes suurte pikkade kõrvadega ja roosa ninaga, seljas soe sinine mantel ja sinised labakindad. Silmad on suured ja sõbralikud, suunurgad on ülespoole. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KAAREL",
+      "type": "badger",
+      "description": "Väike hall mäger mustade ja valgete triipudega näol. Seljas roheline müts tutiga ja punane sall kaelas, seljas soe pruun jope. Ta on tugev ja uudishimulik, sõbraliku näoilmega. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KAARELI KODU",
+      "description": "Cozy living room with light yellow painted walls, a warm wooden floor, and a large window on the back wall showing a beautiful snowy landscape outside with evergreen trees. A soft green rug is on the floor. There is a small, low wooden table in the center of the room with a few colorful blocks. A comfy, simple blue armchair is in one corner. Warm, inviting light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "LUMINE AED",
+      "description": "A snowy winter garden covered in deep, pristine white snow. A few snow-covered evergreen trees are visible in the background. The sky is a clear, bright blue with gentle sunlight. A low, simple wooden fence runs along the far edge of the garden. Cheerful winter atmosphere. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KAAREL JA SISSI MÄNGIVAD.",
+      "scene": "Kaarel, väike hall mäger rohelise mütsi ja punase salliga, istub põrandal rohelise vaiba peal. Tema ees on väike puidust laud. Sissi, väike valge jänes sinise mantli ja kinnastega, istub samuti põrandal, laua teisel pool. Nad mõlemad naeratavad ja vaatavad laual olevaid värvilisi ehitusklotse. Suurest aknast paistab sisse talvine lumi. Tuba on Kaareli kodu elutuba, helekollaste seintega.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TEAVAD HEAD MÕTET.",
+      "scene": "Kaarel ja Sissi istuvad endiselt põrandal rohelise vaiba peal, laua ümber. Kaarel, väike hall mäger, hoiab ühte ehitusklotsi käes ja Sissi, väike valge jänes, vaatab talle otsa, mõlemal on peas 'a-ha!' hetke näoilme. Nad on õnnelikud ja põnevil, teades head mõtet. Suurest aknast paistab sisse talvine lumi. Tuba on Kaareli kodu elutuba, helekollaste seintega.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD LÄHEVAD ÕUE.",
+      "scene": "Kaarel, väike hall mäger rohelise mütsi ja punase salliga, seisab õues sügavas lumes. Ta hoiab ühte väikest punast labidat. Sissi, väike valge jänes sinise mantli ja kinnastega, seisab tema kõrval, naeratades. Nende ümber on palju valget lund. Taamal on lumised igihaljad puud ja selge sinine taevas. See on lumine aed.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD KAEVAVAD LUND.",
+      "scene": "Kaarel, väike hall mäger rohelise mütsi ja punase salliga, kaevab lund punase labidaga. Ta on kummardunud ja lükkab lund kuhja. Sissi, väike valge jänes sinise mantli ja kinnastega, seisab tema kõrval, kaevates lund väikeste siniste labakinnastega. Nad on sügavas lumes lumises aias, taamal on lumised puud ja selge sinine taevas.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD TEGID SUURE PLOKI.",
+      "scene": "Kaarel, väike hall mäger rohelise mütsi ja punase salliga, ja Sissi, väike valge jänes sinise mantli ja kinnastega, seisavad uhkelt valmis tehtud suure lumepolki kõrval. Plokk on ruudukujuline ja tihedast lumest. Nende ümber on sügav lumi lumises aias, taamal on lumised puud ja selge sinine taevas.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KAAREL TOOB VEEL LUND.",
+      "scene": "Kaarel, väike hall mäger rohelise mütsi ja punase salliga, on kummardunud ja lükkab punase labidaga suurt hunnikut lund edasi. Ta pingutab, et lund teisaldada. Sissi, väike valge jänes sinise mantli ja kinnastega, seisab lähedal, oodates ja vaadates. Nende ümber on sügav lumi lumises aias, taamal on lumised puud ja selge sinine taevas. Väike lumepolk on juba nähtaval.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SISSI EHITAB SEINA.",
+      "scene": "Sissi, väike valge jänes sinise mantli ja kinnastega, tõstab ettevaatlikult väikese lumepolki ja asetab selle teise lumepolki peale, alustades lumelossi seina ehitamist. Kaarel, väike hall mäger rohelise mütsi ja punase salliga, seisab tema kõrval ja annab talle veel lund. Nad on sügavas lumes lumises aias, taamal on lumised puud ja selge sinine taevas. Osaliselt ehitatud lumelossi sein on nähtaval.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LUMELOSS ON VALMIS!",
+      "scene": "Kaarel, väike hall mäger rohelise mütsi ja punase salliga, ja Sissi, väike valge jänes sinise mantli ja kinnastega, seisavad uhkelt valmis ehitatud lumelossi ees. Lumeloss on keskmise suurusega, lumepolkidest ehitatud ja sellel on väike sissepääs. Mõlemad tegelased naeratavad ja on väga rahul. Nende ümber on sügav lumi lumises aias, taamal on lumised puud ja selge sinine taevas.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD MÄNGIVAD LOSSI SEES.",
+      "scene": "Kaarel, väike hall mäger rohelise mütsi ja punase salliga, ja Sissi, väike valge jänes sinise mantli ja kinnastega, on lumelossi sees. Nad piiluvad välja losse sissepääsust, naeratades ja mängides. Loss on piisavalt suur, et nad saaksid seal mugavalt istuda. Nende ümber on sügav lumi lumises aias, taamal on lumised puud ja selge sinine taevas.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KAAREL JA SISSI ON RÕÕMSAD.",
+      "scene": "Kaarel, väike hall mäger rohelise mütsi ja punase salliga, ja Sissi, väike valge jänes sinise mantli ja kinnastega, istuvad lumelossi sissepääsu ees lumes. Nad on lähestikku ja naeratavad rõõmsalt, vaadates otse ette. Nad on mängimisest väsinud, kuid väga õnnelikud. Nende ümber on sügav lumi lumises aias, taamal on lumised puud ja selge sinine taevas. Valmis lumeloss on nähtaval nende taga.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

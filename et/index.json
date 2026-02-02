@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-12",
+  "latestDate": "2026-02-13",
   "stories": [
+    {
+      "date": "2026-02-13",
+      "title": "KAAREL JA SISSI LUMELOSS",
+      "pageCount": 10,
+      "characters": [
+        "SISSI",
+        "KAAREL"
+      ]
+    },
     {
       "date": "2026-02-12",
       "title": "LIISA JA JUKU LINNUD",
