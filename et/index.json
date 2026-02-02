@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-14",
+  "latestDate": "2026-02-15",
   "stories": [
+    {
+      "date": "2026-02-15",
+      "title": "OLLI JA MIKU PESA",
+      "pageCount": 10,
+      "characters": [
+        "ORAV OLLI",
+        "MÄGER MIKU"
+      ]
+    },
     {
       "date": "2026-02-14",
       "title": "REINU JA RUUTU LINNUPALLID",

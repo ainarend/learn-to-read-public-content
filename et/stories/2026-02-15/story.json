@@ -1,0 +1,102 @@
+{
+  "date": "2026-02-15",
+  "language": "et",
+  "title": "OLLI JA MIKU PESA",
+  "generatedAt": "2026-02-02T02:40:54.114Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORAV OLLI",
+      "type": "squirrel",
+      "description": "Väike pruun orav suurte kohevate saba ja säravate silmadega, kandmas väikest sinist vesti. Sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MÄGER MIKU",
+      "type": "badger",
+      "description": "Väike hall-musta triibuline mäger, lühikese saba ja suurte käppadega, kandmas rohelist salli. Rahulik ja lahke näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Hubane Elutuba",
+      "description": "Cozy children's living room with light green walls, a soft fluffy grey rug on a wooden floor, a large comfortable beige sofa, and a wide window on the back wall showing snowy trees outside under a soft winter sky. There's a small round wooden coffee table in front of the sofa. Warm, soft light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "OLLI JA MIKU MÄNGIVAD.",
+      "scene": "Orav Olli and Mäger Miku are sitting on a soft grey rug in a cozy living room, surrounded by some colorful wooden blocks. They are smiling and looking at each other, engaged in quiet play. The room has light green walls, a beige sofa, and a wide window showing snowy trees. Warm light. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES ON KÜLM TALV.",
+      "scene": "Orav Olli and Mäger Miku are standing near the wide window in the cozy living room, looking outside at the snowy trees under a soft winter sky. They are wearing their winter clothes (Olli's blue vest, Miku's green scarf). They have slightly thoughtful but cheerful expressions, observing the cold. The room has light green walls, a soft grey rug, and a beige sofa. Warm light. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "OLLIL ON HEA MÕTE.",
+      "scene": "Orav Olli is standing in the cozy living room, his paw raised slightly, looking at Mäger Miku with a bright, excited smile, as if sharing a new idea. Mäger Miku is looking at Olli, curious and attentive. The living room environment is consistent, with light green walls, soft grey rug, beige sofa, and a window showing snowy trees. Warm light. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "TEEME SUURE PESA!",
+      "scene": "Orav Olli and Mäger Miku are now both excitedly gesturing towards the space between the sofa and the window in the cozy living room, their faces full of joyful anticipation. They are imagining building something big. The room environment is consistent. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD TOOVAD TEKKE.",
+      "scene": "Orav Olli is pulling a soft, colorful blanket from the beige sofa, while Mäger Miku is holding another folded blanket, both working together in the cozy living room. They are smiling, actively engaged in gathering materials. The room environment is consistent. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD PANEVA PADISED.",
+      "scene": "Orav Olli and Mäger Miku are arranging several soft, colorful pillows and cushions on the floor next to the sofa, starting to form the walls of their fort. They are carefully placing them, cooperating. The room environment is consistent. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PESA ON VALMIS NÜÜD.",
+      "scene": "Orav Olli and Mäger Miku are standing proudly next to a newly constructed, cozy fort (PESA) made of blankets draped over furniture and pillows, in the cozy living room. The fort has a small opening. They are both smiling brightly at their creation. The room environment is consistent. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD RONIVAD SISSE.",
+      "scene": "Orav Olli and Mäger Miku are carefully crawling into the opening of their blanket fort (PESA), their heads just visible as they disappear inside. They have excited and happy expressions. The fort is visible in the cozy living room. The room environment is consistent. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "OLLI JA MIKU MÄNGIVAD.",
+      "scene": "Inside the cozy blanket fort (PESA), Orav Olli and Mäger Miku are sitting comfortably, surrounded by soft pillows and blankets. They are playing with a small, soft toy, giggling and smiling, clearly enjoying their hideaway. A peek of the cozy living room is visible outside the fort opening. The room environment is consistent. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA ÕNNELIKUD.",
+      "scene": "Orav Olli and Mäger Miku are peeking out from the opening of their blanket fort (PESA), their faces beaming with big, happy smiles. They look content and joyful, having had a wonderful time. The fort is in the cozy living room. The room environment is consistent. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
