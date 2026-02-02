@@ -1,0 +1,101 @@
+{
+  "date": "2026-02-12",
+  "language": "et",
+  "title": "LIISA JA JUKU LINNUD",
+  "generatedAt": "2026-02-02T00:25:36.060Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne tüdruk. Tal on heledad blondid juuksed, mis on seotud kaheks patsid. Seljas on erkroosa talvejope ja sinised püksid. Tal on suured rõõmsad silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, uudishimulik poiss. Tal on lühikesed pruunid juuksed, peas sinine talvemüts. Seljas on soe sinine talvejope ja oranžid kindad. Tal on suured säravad silmad ja lai rõõmus naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Cozy kitchen with light yellow walls, a light wooden floor, and a large window on the back wall showing a snowy garden with a big tree. There's a simple light wooden table in the center with two small wooden chairs. The kitchen has subtle wooden cabinets along one wall. Warm sunlight streams from the window. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "LUMINE AED",
+      "description": "Snowy garden outside the cozy house. A thick layer of white snow covers the ground and tree branches. A large, old deciduous tree stands prominently with a few bare branches. The scene is bright and cheerful under a clear winter sky. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA JUKU ON TOAS.",
+      "scene": "Liisa and Juku are standing inside a cozy kitchen. Liisa is wearing a pink sweater and blue pants. Juku is wearing a green sweater and brown pants. They are looking out of a large window that shows a snowy garden with a big tree. The kitchen has light yellow walls, a light wooden floor, and a simple wooden table. Warm sunlight streams into the room. Both have curious, friendly expressions. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES ON VÄGA KÜLM.",
+      "scene": "Liisa and Juku are still standing by the large window in the cozy kitchen, looking out at the snowy garden. Liisa (pink sweater) points towards the snow outside with a thoughtful expression. Juku (green sweater) looks at her, nodding. The snowy garden with the big tree is clearly visible through the window. The kitchen has light yellow walls, a light wooden floor, and a simple wooden table. Warm sunlight streams into the room. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TAHAVAD LINDE AIDATA.",
+      "scene": "Liisa and Juku are now sitting at the simple wooden table in the cozy kitchen. Liisa (pink sweater) is drawing a bird on a piece of paper with a crayon. Juku (green sweater) is holding a small book about birds and looking at it with interest. The window showing the snowy garden is in the background. The kitchen has light yellow walls and a light wooden floor. Warm sunlight fills the room. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD TEEVAD LINNUTOITU.",
+      "scene": "Liisa and Juku are standing at the simple wooden table in the cozy kitchen. Liisa (pink sweater) holds a small, colorful bag of bird seeds. Juku (green sweater) is holding a large blue mixing bowl on the table. Both are smiling, ready to start. The window showing the snowy garden is in the background. The kitchen has light yellow walls, a light wooden floor, and subtle wooden cabinets. Warm sunlight illuminates the scene. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SEGAVAD TERAD KOKKU.",
+      "scene": "Liisa and Juku are actively mixing bird food at the simple wooden table in the cozy kitchen. Liisa (pink sweater) is carefully pouring bird seeds from a bag into the blue mixing bowl. Juku (green sweater) is using a wooden spoon to stir the seeds in the bowl. Some seeds are spilled on the table. They both look focused and happy. The window showing the snowy garden is in the background. The kitchen has light yellow walls and a light wooden floor. Warm sunlight streams in. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TOIT ON NÜÜD VALMIS.",
+      "scene": "Liisa and Juku are smiling proudly at the simple wooden table in the cozy kitchen. On the table, next to the blue mixing bowl full of bird food, is a small, decorated bird feeder filled with the prepared food. Liisa (pink sweater) has her hands on her hips, while Juku (green sweater) points at the feeder. The window showing the snowy garden is in the background. The kitchen has light yellow walls and a light wooden floor. Warm sunlight illuminates the scene. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD LÄHEVAD ÕUE.",
+      "scene": "Liisa and Juku are now dressed in their winter clothes and are walking towards the back door, visible in the cozy kitchen. Liisa is wearing her pink winter jacket and blue pants, and Juku is wearing his blue winter jacket, blue winter hat, and orange mittens. Juku is carefully carrying the small bird feeder with the food. Liisa is looking back at Juku, smiling. The snowy garden is still visible through the window. The kitchen has light yellow walls and a light wooden floor. Warm sunlight streams in. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LINNUD SÖÖVAD HEAMEELEGA.",
+      "scene": "Liisa (pink winter jacket) and Juku (blue winter jacket and hat) are standing in the snowy garden, watching as several small, colorful birds happily peck at the bird food in the feeder. The bird feeder is hanging from a branch of the large, old tree. The ground and tree branches are covered in thick white snow. The scene is bright and cheerful under a clear winter sky. Liisa and Juku are smiling. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LIISA JA JUKU ON ÕNNELIKUD.",
+      "scene": "Liisa (pink winter jacket) and Juku (blue winter jacket and hat) are standing in the snowy garden, looking up at the bird feeder hanging from the large tree. The birds are still happily eating. Liisa and Juku are holding hands and beaming with joy. Their breath is slightly visible in the cold air. The snowy garden with the large tree is covered in thick white snow, under a clear, bright winter sky. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}
