@@ -1,101 +1,100 @@
 {
   "date": "2026-02-15",
   "language": "et",
-  "title": "OLLI JA MIKU PESA",
-  "generatedAt": "2026-02-02T02:40:54.114Z",
+  "title": "LIISA JA PEETER LUMEINGLID",
+  "generatedAt": "2026-02-08T22:10:54.532Z",
   "characters": [
     {
       "id": "char1",
-      "name": "ORAV OLLI",
-      "type": "squirrel",
-      "description": "Väike pruun orav suurte kohevate saba ja säravate silmadega, kandmas väikest sinist vesti. Sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk, helepunane kootud müts tutiga, seljas soe sinine talvejope, jalas tumesinised talvepüksid ja rohelised labakindad. Tal on sõbralik ja naeratav nägu, suured uudishimulikud silmad. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "MÄGER MIKU",
-      "type": "badger",
-      "description": "Väike hall-musta triibuline mäger, lühikese saba ja suurte käppadega, kandmas rohelist salli. Rahulik ja lahke näoilme. Armas multifilmistiil.",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane poiss, sinine kootud müts tutiga, seljas soe punane talvejope, jalas tumepruunid talvepüksid ja kollased labakindad. Tal on rõõmsameelne ja energiline nägu, suur naeratus. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "Hubane Elutuba",
-      "description": "Cozy children's living room with light green walls, a soft fluffy grey rug on a wooden floor, a large comfortable beige sofa, and a wide window on the back wall showing snowy trees outside under a soft winter sky. There's a small round wooden coffee table in front of the sofa. Warm, soft light fills the room. Cartoon style.",
+      "name": "HUBANE TUBA",
+      "description": "Cozy children's living room with light blue walls, a soft colorful rug on a light wooden floor. A large window on the back wall shows a pristine snowy winter scene with snow-covered trees and soft falling snowflakes. A small, child-sized wooden table with two small chairs is in the center. A wooden bookshelf filled with colorful children's books is on the right wall. Warm, soft lamp light creates a cozy atmosphere. Cartoon style.",
       "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "LUMINE PARK",
+      "description": "A vast, peaceful snowy park covered in pristine white snow, several inches deep. Gentle snow-covered evergreen trees dot the background, creating a serene winter forest edge. A clear, bright blue winter sky overhead. The ground is entirely covered in undisturbed fresh white snow. Bright, crisp winter daylight. Cartoon style.",
+      "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "OLLI JA MIKU MÄNGIVAD.",
-      "scene": "Orav Olli and Mäger Miku are sitting on a soft grey rug in a cozy living room, surrounded by some colorful wooden blocks. They are smiling and looking at each other, engaged in quiet play. The room has light green walls, a beige sofa, and a wide window showing snowy trees. Warm light. Cartoon style.",
+      "text": "LIISA JA PEETER MÕTLEVAD.",
+      "scene": "Liisa and Peeter, both dressed in their indoor clothes (Liisa in a pink long-sleeved shirt and blue pants, Peeter in a green long-sleeved shirt and grey pants), are standing in the cozy living room (loc1). They are looking thoughtfully out the large window on the back wall. The window clearly shows a snowy winter scene outside with snow-covered trees. They both have curious, slightly pensive expressions. The room has light blue walls, a colorful rug, and a small wooden table with chairs. Warm lamp light fills the room. Cartoon style.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "ÕUES ON KÜLM TALV.",
-      "scene": "Orav Olli and Mäger Miku are standing near the wide window in the cozy living room, looking outside at the snowy trees under a soft winter sky. They are wearing their winter clothes (Olli's blue vest, Miku's green scarf). They have slightly thoughtful but cheerful expressions, observing the cold. The room has light green walls, a soft grey rug, and a beige sofa. Warm light. Cartoon style.",
+      "text": "NAD NÄEVAD LUND.",
+      "scene": "Liisa and Peeter, still in their indoor clothes in the cozy living room (loc1), are now pointing excitedly out the large window on the back wall. Their faces are lit up with joy and anticipation as they clearly see the pristine white snow falling gently outside and covering the trees. They are smiling broadly. The room has light blue walls, a colorful rug, and a small wooden table with chairs. Warm lamp light fills the room. Cartoon style.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "OLLIL ON HEA MÕTE.",
-      "scene": "Orav Olli is standing in the cozy living room, his paw raised slightly, looking at Mäger Miku with a bright, excited smile, as if sharing a new idea. Mäger Miku is looking at Olli, curious and attentive. The living room environment is consistent, with light green walls, soft grey rug, beige sofa, and a window showing snowy trees. Warm light. Cartoon style.",
+      "text": "LÄHME ÕUE MÄNGIMA!",
+      "scene": "Liisa (wearing her red hat, blue jope, blue pants, and green mittens) and Peeter (wearing his blue hat, red jope, brown pants, and yellow mittens) are bundled up and standing just outside the cozy living room door, ready to go outside. They are full of energy and smiling brightly, looking eager to step into the snowy park. The snowy park (loc2) is visible behind them, full of deep white snow. Cartoon style.",
       "image": "page3.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 4,
-      "text": "TEEME SUURE PESA!",
-      "scene": "Orav Olli and Mäger Miku are now both excitedly gesturing towards the space between the sofa and the window in the cozy living room, their faces full of joyful anticipation. They are imagining building something big. The room environment is consistent. Cartoon style.",
+      "text": "PALJU SÜGAVAT LUND.",
+      "scene": "Liisa (red hat, blue jope, green mittens) and Peeter (blue hat, red jope, yellow mittens) are standing in the middle of the snowy park (loc2). The snow is deep, reaching their knees, and they look amazed and happy. They are looking around at the vast white expanse, smiling at each other. Snow-covered trees are in the background. Bright winter daylight. Cartoon style.",
       "image": "page4.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 5,
-      "text": "NAD TOOVAD TEKKE.",
-      "scene": "Orav Olli is pulling a soft, colorful blanket from the beige sofa, while Mäger Miku is holding another folded blanket, both working together in the cozy living room. They are smiling, actively engaged in gathering materials. The room environment is consistent. Cartoon style.",
+      "text": "LIISA TEHES LUMEINGLI.",
+      "scene": "Liisa (red hat, blue jope, green mittens) is lying on her back in the deep, fresh snow in the snowy park (loc2), moving her arms and legs to create a snow angel. She is laughing joyfully. Peeter (blue hat, red jope, yellow mittens) is standing nearby, watching her with a happy, amused expression. Snow-covered trees are in the background. Bright winter daylight. Cartoon style.",
       "image": "page5.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 6,
-      "text": "NAD PANEVA PADISED.",
-      "scene": "Orav Olli and Mäger Miku are arranging several soft, colorful pillows and cushions on the floor next to the sofa, starting to form the walls of their fort. They are carefully placing them, cooperating. The room environment is consistent. Cartoon style.",
+      "text": "PEETER TEHES LUMEINGLI.",
+      "scene": "Peeter (blue hat, red jope, yellow mittens) is now lying on his back in the deep snow in the snowy park (loc2), making his own snow angel right next to Liisa's. He is smiling widely. Liisa (red hat, blue jope, green mittens) is sitting up next to her finished snow angel, watching Peeter and clapping her green mittens. Snow-covered trees are in the background. Bright winter daylight. Cartoon style.",
       "image": "page6.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 7,
-      "text": "PESA ON VALMIS NÜÜD.",
-      "scene": "Orav Olli and Mäger Miku are standing proudly next to a newly constructed, cozy fort (PESA) made of blankets draped over furniture and pillows, in the cozy living room. The fort has a small opening. They are both smiling brightly at their creation. The room environment is consistent. Cartoon style.",
+      "text": "LÕBUS ON LUND!",
+      "scene": "Liisa (red hat, blue jope, green mittens) and Peeter (blue hat, red jope, yellow mittens) are both standing up in the snowy park (loc2), admiring their two newly made snow angels side-by-side in the deep snow. They are holding hands and laughing together, their faces full of happiness after playing in the snow. Snow-covered trees are in the background. Bright winter daylight. Cartoon style.",
       "image": "page7.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 8,
-      "text": "NAD RONIVAD SISSE.",
-      "scene": "Orav Olli and Mäger Miku are carefully crawling into the opening of their blanket fort (PESA), their heads just visible as they disappear inside. They have excited and happy expressions. The fort is visible in the cozy living room. The room environment is consistent. Cartoon style.",
+      "text": "NÜÜD TUPPA PUHKAMA.",
+      "scene": "Liisa and Peeter are back inside the cozy living room (loc1). They are in the process of taking off their winter gear near the door. Liisa (red hat, blue jope, green mittens) is pulling off her green mittens, while Peeter (blue hat, red jope, yellow mittens) is starting to untie his blue hat. They both look slightly rosy-cheeked from the cold but happy. The room has light blue walls, a colorful rug, and a small wooden table with chairs. Warm lamp light fills the room. Cartoon style.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "OLLI JA MIKU MÄNGIVAD.",
-      "scene": "Inside the cozy blanket fort (PESA), Orav Olli and Mäger Miku are sitting comfortably, surrounded by soft pillows and blankets. They are playing with a small, soft toy, giggling and smiling, clearly enjoying their hideaway. A peek of the cozy living room is visible outside the fort opening. The room environment is consistent. Cartoon style.",
+      "text": "NAD JOOVAD TEED.",
+      "scene": "Liisa (now in her pink long-sleeved shirt and blue pants) and Peeter (now in his green long-sleeved shirt and grey pants) are sitting comfortably on small wooden chairs at the child-sized wooden table in the cozy living room (loc1). They are both holding small, steaming cups of tea with both hands, sipping contentedly. They look warm, relaxed, and happy. The snowy view is still visible through the window. The room has light blue walls, a colorful rug, and a bookshelf. Warm lamp light fills the room. Cartoon style.",
       "image": "page9.png",
-      "location_id": "loc1"
-    },
-    {
-      "pageNumber": 10,
-      "text": "NAD ON VÄGA ÕNNELIKUD.",
-      "scene": "Orav Olli and Mäger Miku are peeking out from the opening of their blanket fort (PESA), their faces beaming with big, happy smiles. They look content and joyful, having had a wonderful time. The fort is in the cozy living room. The room environment is consistent. Cartoon style.",
-      "image": "page10.png",
       "location_id": "loc1"
     }
   ]
