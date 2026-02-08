@@ -1,0 +1,94 @@
+{
+  "date": "2026-02-17",
+  "language": "et",
+  "title": "KADI JA LAURI LINNUD",
+  "generatedAt": "2026-02-08T23:39:40.177Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KADI",
+      "type": "human",
+      "description": "Väike inimene tüdruk, heledad lühikesed juuksed, suured sinised silmad ja rõõmsameelne naeratus. Kandmas punast kootud mütsi, sinist talvemantlit ja punaseid kindaid õues, toas kandmas helesinist pika varrukaga särki. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LAURI",
+      "type": "human",
+      "description": "Väike inimene poiss, pruunid lühikesed juuksed, suured pruunid silmad ja uudishimulik näoilme. Kandmas sinist kootud mütsi, kollast talvemantlit ja rohelisi kindaid õues, toas kandmas kollast pika varrukaga särki. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "HUBANE KÖÖK",
+      "description": "Cozy kitchen with light yellow walls, a light wooden floor, and a single window on the back wall showing a gentle snowy landscape with bare trees. A sturdy wooden table is in the center with two small chairs. There are no other decorations on the walls, just a simple, clean, and warm atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "LUMINE ÕU",
+      "description": "A gentle snowy garden path covered in soft white snow, surrounded by snow-dusted bare trees and bushes. The sky is bright pale blue, indicating a calm winter day. There is no wind. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KADI JA LAURI NÄEVAD LINDUSID.",
+      "scene": "KADI and LAURI stand by a clear window in a cozy kitchen. They are both wearing warm indoor clothes (KADI in a light blue long-sleeved shirt, LAURI in a yellow long-sleeved shirt). Their faces are close to the window, looking out with curious and slightly concerned expressions. Outside the window, a few small, colorful birds are visible on a snowy branch. The kitchen has light yellow walls, a light wooden floor, and a single window on the back wall showing a gentle snowy landscape with bare trees. A sturdy wooden table is in the center with two small chairs.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "LINNUD VAJAVAD TALVEL TOITU.",
+      "scene": "KADI and LAURI are still standing by the window in the cozy kitchen, looking out at the birds on the snowy branch. KADI points gently at the birds. LAURI nods thoughtfully. Both look a little sad for the birds. They are wearing warm indoor clothes (KADI in a light blue long-sleeved shirt, LAURI in a yellow long-sleeved shirt). The kitchen has light yellow walls, a light wooden floor, and a single window on the back wall showing a gentle snowy landscape with bare trees. A sturdy wooden table is in the center with two small chairs.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEHVAD LINNUTOITU.",
+      "scene": "KADI and LAURI are now seated at the sturdy wooden table in the cozy kitchen. On the table, there is a large blue mixing bowl with birdseed mix and some melted fat (like suet). KADI is using a wooden spoon to mix the ingredients in the bowl. LAURI is carefully pressing the mix into a star-shaped cookie cutter on a small plate. Both are focused and smiling. They are wearing warm indoor clothes (KADI in a light blue long-sleeved shirt, LAURI in a yellow long-sleeved shirt). The kitchen has light yellow walls, a light wooden floor, and a single window on the back wall showing a gentle snowy landscape with bare trees.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "VÄIKE KÖIS ON KA SEAL.",
+      "scene": "KADI and LAURI are still seated at the sturdy wooden table in the cozy kitchen. They have several finished birdseed shapes (like stars and hearts) on a small wooden plate. KADI is carefully threading a small piece of natural twine or string through a hole in one of the birdseed shapes. LAURI is holding another birdseed shape and watching her attentively. They are wearing warm indoor clothes (KADI in a light blue long-sleeved shirt, LAURI in a yellow long-sleeved shirt). The kitchen has light yellow walls, a light wooden floor, and a single window on the back wall showing a gentle snowy landscape with bare trees.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD LÄHEVAD ÕUE.",
+      "scene": "KADI and LAURI are now outside on a snowy garden path, dressed in warm winter coats, hats, and gloves (KADI in a red hat, blue coat, red gloves; LAURI in a blue hat, yellow coat, green gloves). KADI is holding a small woven basket containing the finished birdseed shapes with strings attached. LAURI is excitedly looking towards the bare trees. They are walking along a path covered in soft white snow. The background shows snow-dusted bare trees and bushes under a bright pale blue sky.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KADI RIPUTAB TOITU PUU OTSA.",
+      "scene": "KADI is standing next to a bare, snow-dusted tree in the snowy garden. She is carefully reaching up and tying one of the birdseed shapes (a star, with its string) onto a low branch. She is wearing a red kootud müts, sinist talvemantlit ja punaseid kindaid. LAURI stands nearby, watching her with an encouraging smile. The ground is covered in soft white snow, and the sky is bright pale blue. The background shows snow-dusted bare trees and bushes.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LAURI RIPUTAB KA TOITU.",
+      "scene": "LAURI is standing next to a different bare, snow-dusted tree branch in the snowy garden. He is carefully reaching up and tying another birdseed shape (a heart, with its string) onto a low branch. He is wearing a sinist kootud mütsi, kollast talvemantlit ja rohelisi kindaid. KADI stands nearby, holding the basket with remaining birdseed shapes and smiling happily at LAURI. The ground is covered in soft white snow, and the sky is bright pale blue. The background shows snow-dusted bare trees and bushes.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NÜÜD ON LINNUD ÕNNELIKUD.",
+      "scene": "KADI and LAURI are standing together on the snowy garden path, looking up at the trees where several birdseed feeders are now hanging. A few small, colorful birds are happily pecking at the feeders. KADI and LAURI are smiling broadly, satisfied with their work. They are wearing their warm winter coats, hats, and gloves. The background shows snow-dusted bare trees and bushes, and the sky is bright pale blue. The birdseed feeders are clearly visible, with birds enjoying them.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    }
+  ]
+}

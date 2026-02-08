@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-16",
+  "latestDate": "2026-02-17",
   "stories": [
+    {
+      "date": "2026-02-17",
+      "title": "KADI JA LAURI LINNUD",
+      "pageCount": 8,
+      "characters": [
+        "KADI",
+        "LAURI"
+      ]
+    },
     {
       "date": "2026-02-16",
       "title": "EEVA JA JAAN EHITAVAD KODU",
