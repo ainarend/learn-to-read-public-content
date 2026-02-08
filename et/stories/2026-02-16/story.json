@@ -1,0 +1,88 @@
+{
+  "date": "2026-02-16",
+  "language": "et",
+  "title": "EEVA JA JAAN EHITAVAD KODU",
+  "generatedAt": "2026-02-08T22:53:41.061Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "EEVA",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne tüdruk, heledate juustega patsid, seljas soe roosa kampsun ja sinised püksid. Tal on suured sõbralikud silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JAAN",
+      "type": "human",
+      "description": "Väike inimene, uudishimulik poiss, lühikesed pruunid juuksed, seljas soe sinine kampsun ja rohelised püksid. Tal on suured uudishimulikud silmad ja rõõmus nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Lastetuba",
+      "description": "Cozy children's living room with light blue painted walls, a soft light grey carpet on the floor, a large window on the back wall showing a snowy winter landscape with pine trees. A comfortable green sofa is on the right, and a small wooden toy box is on the left. Warm, soft lamplight illuminates the room. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "EEVA JA JAAN ON TOAS.",
+      "scene": "Eeva and Jaan are sitting on a comfortable green sofa in a cozy living room. They are looking at each other and smiling. The room has light blue walls and a grey carpet. Through the large window, a snowy winter landscape with pine trees is visible. Warm lamplight fills the room. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "VÄLJAS ON KÜLM.",
+      "scene": "Eeva and Jaan are still on the green sofa, looking towards the large window with a slight shiver, observing the snowy winter landscape outside. Their expressions show a sense of wanting to be cozy indoors. The room maintains its cozy, lamplit atmosphere with light blue walls and a grey carpet. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "TEEME KOJU PESA.",
+      "scene": "Eeva and Jaan have jumped off the green sofa. They are looking at each other with excited smiles and Eeva is gesturing playfully towards the room, indicating a new idea. The cozy living room with its light blue walls and grey carpet is still visible, with the snowy view outside the window. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD TEKKE.",
+      "scene": "Eeva is pulling a colorful patterned blanket from the back of the green sofa. Jaan is reaching into the small wooden toy box on the left, pulling out another soft blue blanket. Both children are smiling, focused on gathering the blankets in the cozy living room. Light blue walls, grey carpet, and the snowy window view remain consistent. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD VÕTAVAD PADJAD.",
+      "scene": "Eeva and Jaan are gathering various soft, colorful pillows from the green sofa and the floor. They are holding the pillows in their arms, smiling happily. The cozy living room environment, with its light blue walls, grey carpet, and lamplight, is consistent, with the snowy view outside the window. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD EHITAVAD KODU.",
+      "scene": "Eeva and Jaan are actively building a blanket fort. Colorful blankets are draped over the green sofa and a nearby small chair, forming a cozy structure. Pillows are already placed inside the fort. Both children are laughing and working together. The living room environment is consistent. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD TEGID PESAA.",
+      "scene": "Eeva and Jaan stand proudly next to their newly built blanket fort. The fort is a cozy structure made of blankets draped over furniture, with soft pillows visible inside. Both children are smiling brightly at their creation. The light blue walls, grey carpet, and snowy window view are consistent in the background. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD LUGAVAD RAAMATUT.",
+      "scene": "Eeva and Jaan are happily snuggled inside their cozy blanket fort. They are sitting comfortably on pillows, holding a colorful children's picture book and looking at it together, smiling. The fort, made of blankets and pillows, is warmly lit by the lamp, creating a very cozy atmosphere. The outlines of the living room, including the light blue walls and grey carpet, are visible around the fort. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}

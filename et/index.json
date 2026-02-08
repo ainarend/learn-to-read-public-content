@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-15",
+  "latestDate": "2026-02-16",
   "stories": [
+    {
+      "date": "2026-02-16",
+      "title": "EEVA JA JAAN EHITAVAD KODU",
+      "pageCount": 8,
+      "characters": [
+        "EEVA",
+        "JAAN"
+      ]
+    },
     {
       "date": "2026-02-15",
       "title": "LIISA JA PEETER LUMEINGLID",
