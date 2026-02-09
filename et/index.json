@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-19",
+  "latestDate": "2026-02-20",
   "stories": [
+    {
+      "date": "2026-02-20",
+      "title": "NUPSI JA PÄTU KAKAO",
+      "pageCount": 8,
+      "characters": [
+        "NUPSI",
+        "PÄTU"
+      ]
+    },
     {
       "date": "2026-02-19",
       "title": "ETI JA MIKU JÄÄL",

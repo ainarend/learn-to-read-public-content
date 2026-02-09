@@ -1,0 +1,88 @@
+{
+  "date": "2026-02-20",
+  "language": "et",
+  "title": "NUPSI JA PÄTU KAKAO",
+  "generatedAt": "2026-02-09T01:08:43.380Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "NUPSI",
+      "type": "pig",
+      "description": "Väike roosa siga, suurte sõbralike silmadega. Tal on seljas sinised traksipüksid. Armas multifilmistiil, sõbralik ja rõõmsameelne.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PÄTU",
+      "type": "rabbit",
+      "description": "Väike valge jänes, pikkade kõrvadega. Tal on kaelas roheline sall. Suured uudishimulikud silmad. Armas multifilmistiil, energiline ja abivalmis.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Köök",
+      "description": "Cozy kitchen with light yellow walls, a checkered red and white floor, and a single large window on the back wall showing a snowy winter landscape with pine trees. A simple wooden counter along the back wall with a sink. A small round wooden table in the center with two tiny wooden chairs. Soft, warm lamp light from a ceiling fixture. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "NUPSI JA PÄTU KÖÖGIS.",
+      "scene": "Nupsi the pig and Pätu the rabbit are standing in a cozy kitchen. Nupsi is looking around with a thoughtful expression. Pätu is looking at Nupsi expectantly. The kitchen has light yellow walls, a checkered red and white floor, and a single large window showing a snowy winter landscape. There's a simple wooden counter and a small round wooden table with two chairs. Soft lamp light fills the room. Both characters wear their signature clothing.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "TAHAVAD KAKAO JOOMA.",
+      "scene": "Nupsi the pig and Pätu the rabbit are still in the cozy kitchen, now looking at each other with happy, excited expressions. Nupsi points towards the kitchen counter. Pätu claps their paws together happily. They are standing near the small round wooden table. The kitchen environment remains consistent with light yellow walls, checkered floor, and the snowy window view.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PÄTU TOOB PIIMA.",
+      "scene": "Pätu the rabbit stands on a small stool next to the wooden kitchen counter, carefully holding a carton of milk with both paws. Nupsi the pig stands nearby, watching Pätu with a supportive smile. The kitchen counter has a sink. The cozy kitchen environment with light yellow walls, checkered floor, and snowy window view is clearly visible.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NUPSI VÕTAB KAKAO.",
+      "scene": "Nupsi the pig is reaching up to a low shelf above the wooden kitchen counter, carefully taking down a small box of cocoa powder. Pätu the rabbit is standing next to Nupsi, holding the milk carton. Both characters are focused on their task. The cozy kitchen environment, including the light yellow walls, checkered floor, and snowy window, is consistent.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SEGAVAD KÕIK KOKKU.",
+      "scene": "Nupsi the pig and Pätu the rabbit are standing at the wooden kitchen counter, working together. Nupsi holds a whisk and is stirring a mixture in a large bowl. Pätu is pouring milk from the carton into the bowl. Cocoa powder is visible on the counter. Both are smiling, enjoying their activity. The kitchen environment remains the same.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KAKAO LÄHEB SOOJAKS.",
+      "scene": "Nupsi the pig and Pätu the rabbit are standing by a small stovetop on the wooden kitchen counter. Nupsi is carefully stirring the cocoa mixture in a small pot with a wooden spoon, steam gently rising. Pätu is peeking over Nupsi's shoulder, looking curious. The cozy kitchen environment with its consistent details is in the background.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VALMIS ON SOE KAKAO.",
+      "scene": "Nupsi the pig and Pätu the rabbit are standing proudly next to the wooden kitchen counter. Two steaming mugs of hot cocoa are placed on a small wooden tray on the counter. Nupsi points at the mugs with a happy grin, and Pätu claps their paws excitedly. The cozy kitchen environment is consistent, with the snowy view outside the window.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "JOOVAD KAKAOD KOOS.",
+      "scene": "Nupsi the pig and Pätu the rabbit are sitting at the small round wooden table in the kitchen, each holding a mug of hot cocoa. They are smiling at each other, enjoying their warm drink. Steam gently rises from the mugs. The cozy kitchen environment with its consistent details and warm lamp light creates a cheerful atmosphere. The snowy winter landscape is visible through the window.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
