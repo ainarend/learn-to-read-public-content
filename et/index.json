@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-20",
+  "latestDate": "2026-02-21",
   "stories": [
+    {
+      "date": "2026-02-21",
+      "title": "ANNA JA ARTUR EHITAVAD KOOBAST",
+      "pageCount": 10,
+      "characters": [
+        "ANNA",
+        "ARTUR"
+      ]
+    },
     {
       "date": "2026-02-20",
       "title": "NUPSI JA PÄTU KAKAO",
