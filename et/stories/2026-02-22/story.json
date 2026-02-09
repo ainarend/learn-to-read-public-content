@@ -1,0 +1,95 @@
+{
+  "date": "2026-02-22",
+  "language": "et",
+  "title": "SASSU JA MIRA ABISTAVAD LINDE",
+  "generatedAt": "2026-02-09T02:39:53.898Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JÄNES SASSU",
+      "type": "rabbit",
+      "description": "Väike valge jänes pikkade hallide kõrvadega, kandmas väikest sinist salli, suured sõbralikud silmad ja rõõmus ilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV MIRA",
+      "type": "squirrel",
+      "description": "Väike punakaspruun orav koheva sabaga, kandmas väikest rohelist mütsi, uudishimulikud säravad silmad ja mänguline naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Lumisel Metsas",
+      "description": "A quiet, serene snowy forest during winter. Tall evergreen trees covered in a thick blanket of fresh white snow. The ground is pure white snow. Gentle sunlight filters through the trees. No distinct buildings or human structures, just pristine nature. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JÄNES SASSU JA ORAV MIRA.",
+      "scene": "Jänes Sassu and Orav Mira standing side-by-side in a serene snowy forest. Sassu, the small white rabbit, wears a blue scarf. Mira, the small reddish-brown squirrel, wears a green hat. They are looking forward, smiling gently. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "VÄLJAS ON PALJU LUND.",
+      "scene": "Jänes Sassu and Orav Mira are walking through the snowy forest. Sassu hops gently on the snow-covered ground, and Mira scurries beside him. Both are looking around at the beautiful, deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD NÄEVAD KÜLMI LINDE.",
+      "scene": "Jänes Sassu and Orav Mira are looking up at a bare tree branch where a few small, visibly shivering birds are perched. Sassu points gently towards the birds. Mira looks concerned. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SASSU KORJAB MARJU.",
+      "scene": "Jänes Sassu is carefully picking red berries from a snow-dusted bush. He holds a small, woven basket with a few berries already inside. Orav Mira is standing nearby, observing him. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIRA OTSIB KÄBISID.",
+      "scene": "Orav Mira is digging lightly in the snow at the base of a pine tree, looking for pinecones. She has a small pile of pinecones next to her. Jänes Sassu watches her with a supportive smile. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD TEGI LINNU SÖÖKI.",
+      "scene": "Jänes Sassu and Orav Mira are working together near a small, snow-covered log. They are carefully pressing the red berries and small seeds (from the pinecones) into small, decorative bird treats. A few finished treats are visible on the log. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD RIPUTAVAD PUULE.",
+      "scene": "Jänes Sassu, standing on his hind legs, is carefully hanging one of the bird treats (a berry chain or pinecone with seeds) onto a low branch of a small, snow-dusted tree. Orav Mira is holding another treat, ready to hand it to Sassu or hang it herself. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LINNUD SÖÖVAD NÜÜD.",
+      "scene": "Several small, happy birds are perched on the branches of the decorated tree, happily pecking at the berry chains and seed-filled pinecones. Jänes Sassu and Orav Mira are standing a little distance away, watching the birds with joyful expressions. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SASSU JA MIRA RÕÕMUSTAVAD.",
+      "scene": "Jänes Sassu and Orav Mira are standing close together, smiling brightly and giving each other a friendly high-five (or gentle paw-bump). The decorated tree with happy birds is visible in the background. They are proud of their work. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}

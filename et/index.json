@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-21",
+  "latestDate": "2026-02-22",
   "stories": [
+    {
+      "date": "2026-02-22",
+      "title": "SASSU JA MIRA ABISTAVAD LINDE",
+      "pageCount": 9,
+      "characters": [
+        "JÄNES SASSU",
+        "ORAV MIRA"
+      ]
+    },
     {
       "date": "2026-02-21",
       "title": "ANNA JA ARTUR EHITAVAD KOOBAST",
