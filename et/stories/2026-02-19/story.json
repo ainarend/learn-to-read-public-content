@@ -1,0 +1,108 @@
+{
+  "date": "2026-02-19",
+  "language": "et",
+  "title": "ETI JA MIKU JÄÄL",
+  "generatedAt": "2026-02-09T00:25:25.500Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBAS ETI",
+      "type": "fox",
+      "description": "Väike punakaspruun rebane suurte teravate kõrvadega, kandmas väikest sinist salli ja punaseid uiske. Tal on säravad uudishimulikud silmad ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KARU MIKU",
+      "type": "bear",
+      "description": "Suur pruun karu pehmete ümarate kõrvadega, kandmas paksu rohelist salli ja siniseid uiske. Tal on suured sõbralikud silmad ja lahke naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÜLMUNUD TIIGI ÄÄRES",
+      "description": "A vast, smooth frozen pond covered in a thin layer of glistening ice, surrounded by snow-covered pine trees and gentle snowdrifts. A pale winter sky with soft, diffused light. Cartoon style, bright and inviting.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "HUBANE MAJA",
+      "description": "Cozy wooden cabin interior with a small window showing snow outside, warm fireplace glowing on the right, and a simple wooden table with two chairs in the center. A patterned rug on the wooden floor. Warm, inviting light. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ETI JA MIKU ON LUMES.",
+      "scene": "REBAS ETI and KARU MIKU are standing happily in a snowy landscape next to the edge of the frozen pond. Eti is wearing her blue scarf and red skates, Miku his green scarf and blue skates. They are looking towards the pond with anticipation. The background shows snow-covered pine trees and a pale winter sky. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE orientation for book-like viewing.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD JÄÄD.",
+      "scene": "REBAS ETI and KARU MIKU are standing at the very edge of the vast, smooth frozen pond, looking down at the glistening ice with excitement. Eti has her paw pointing towards the ice. The background shows snow-covered pine trees and a pale winter sky. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE orientation for book-like viewing.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "JÄÄ ON LIBE.",
+      "scene": "REBAS ETI and KARU MIKU are carefully taking their first steps onto the vast, smooth frozen pond. Eti wobbles slightly, holding Miku's paw for balance. Miku looks a bit surprised but happy. Their skates are visible on the ice. The background shows snow-covered pine trees. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE orientation for book-like viewing.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD NAERAVAD PÄRIS PALJU.",
+      "scene": "REBAS ETI and KARU MIKU are laughing joyfully while playfully gliding on the vast, smooth frozen pond. Eti is twirling slightly, Miku is holding onto her paw, both smiling widely. They are wearing their scarves and skates. The background shows snow-covered pine trees. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE orientation for book-like viewing.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIKU LIIBUIB JÄÄL.",
+      "scene": "KARU MIKU is gliding smoothly and confidently across the vast, smooth frozen pond, his arms outstretched for balance, a big happy smile on his face. REBAS ETI is watching him with admiration from a short distance away. Miku is wearing his green scarf and blue skates. The background shows snow-covered pine trees. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE orientation for book-like viewing.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "ETI TEGI PIRUETI.",
+      "scene": "REBAS ETI is gracefully spinning in a pirouette on the vast, smooth frozen pond, one leg lifted slightly, her scarf flowing slightly. KARU MIKU is clapping happily nearby. Eti has a focused, joyful expression. She is wearing her blue scarf and red skates. The background shows snow-covered pine trees. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE orientation for book-like viewing.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD MÄNGIVAD PALLIGA.",
+      "scene": "REBAS ETI and KARU MIKU are joyfully playing with a colorful red and blue striped ball on the vast, smooth frozen pond. Eti is nudging the ball with her nose, and Miku is about to bat it back with his paw. They are wearing their scarves and skates. The background shows snow-covered pine trees. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE orientation for book-like viewing.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MÄNG ON LÕPPENUD.",
+      "scene": "REBAS ETI and KARU MIKU are standing at the edge of the vast, smooth frozen pond, looking a little tired but very content after their play. They are removing their skates, setting them gently on the snow. A colorful red and blue striped ball rests next to them. The background shows snow-covered pine trees. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE orientation for book-like viewing.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD JOOVAD TEED.",
+      "scene": "REBAS ETI and KARU MIKU are sitting comfortably at a simple wooden table inside a cozy wooden cabin. They are both holding steaming mugs of tea, smiling warmly. A glowing fireplace is visible on the right. Their scarves are still on. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE orientation for book-like viewing.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SÕBRAD ON VÄGA ÕNNELIKUD.",
+      "scene": "REBAS ETI and KARU MIKU are sitting side-by-side at a simple wooden table inside the cozy wooden cabin, holding their mugs of tea, their eyes sparkling with happiness. They are leaning slightly towards each other, enjoying their warm drinks. The fireplace glows softly in the background. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE orientation for book-like viewing.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

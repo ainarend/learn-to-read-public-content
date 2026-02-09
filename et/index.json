@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-17",
+  "latestDate": "2026-02-19",
   "stories": [
+    {
+      "date": "2026-02-19",
+      "title": "ETI JA MIKU JÄÄL",
+      "pageCount": 10,
+      "characters": [
+        "REBAS ETI",
+        "KARU MIKU"
+      ]
+    },
     {
       "date": "2026-02-17",
       "title": "KADI JA LAURI LINNUD",
