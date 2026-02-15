@@ -1,0 +1,102 @@
+{
+  "date": "2026-02-24",
+  "language": "et",
+  "title": "JUKU JA MARI VALMISTAVAD TÄHED",
+  "generatedAt": "2026-02-15T23:40:38.765Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne poiss, lühikeste pruunide juustega, kannab sinist kampsunit ja rohelisi pükse. Suured uudishimulikud silmad ja naeratav näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, sõbralik tüdruk, pikkade blondide patsikestega, kannab punast kleiti ja valgeid sukki. Alati naeratav ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Mugav lastetuba",
+      "description": "Cozy children's room with light blue walls, a light wooden floor, and a single large window on the back wall showing a gentle snowy landscape outside. A simple wooden table is in the center, surrounded by two small wooden chairs. A small, open red bookshelf stands on the right wall, filled with colorful children's books. Warm, soft light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUKU JA MARI ON TOAS.",
+      "scene": "Juku, a cheerful boy in a blue sweater and green pants, and Mari, a friendly girl with blonde pigtails in a red dress and white socks, are standing in their cozy children's room. They are looking at each other with happy, curious expressions. The room has light blue walls, a light wooden floor, and a single large window on the back wall showing a gentle snowy landscape. A simple wooden table and chairs are in the center, and a red bookshelf is on the right. Warm, soft light fills the room. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Juku and Mari are still standing in their cozy children's room, looking thoughtfully at each other and smiling. Mari points a finger to her head, suggesting an idea. The room has light blue walls, a light wooden floor, and a single large window on the back wall showing a gentle snowy landscape. A simple wooden table and chairs are in the center, and a red bookshelf is on the right. Warm, soft light fills the room. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD PABERIT.",
+      "scene": "Juku and Mari are now sitting at the wooden table in the center of their cozy children's room. Juku is reaching for a stack of colorful paper, including blue, black, and white sheets, on the table. Mari is smiling excitedly. The room has light blue walls, a light wooden floor, and a single large window on the back wall showing a gentle snowy landscape. A red bookshelf is on the right. Warm, soft light fills the room. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÕIKAVAD VÄLJAD.",
+      "scene": "Juku and Mari are sitting at the wooden table, both carefully holding child-safe scissors and cutting shapes from colorful paper (blue, black, and white sheets). Small paper scraps are beginning to accumulate on the table. Both children are focused and smiling. The room has light blue walls, a light wooden floor, and a single large window on the back wall showing a gentle snowy landscape. A red bookshelf is on the right. Warm, soft light fills the room. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD LIIMIVAD KOKKU.",
+      "scene": "Juku and Mari are at the wooden table, now using a glue stick to put together the paper shapes they cut. Mari holds a paper star shape, ready to apply glue, while Juku carefully presses two paper pieces together. Paper scraps and a glue stick are on the table. They are both concentrating with happy expressions. The room has light blue walls, a light wooden floor, and a single large window on the back wall showing a gentle snowy landscape. A red bookshelf is on the right. Warm, soft light fills the room. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TEKKIVAD ILUSAD TÄHED.",
+      "scene": "Juku and Mari are proudly holding up freshly made paper stars in blue, black, and white colors. Several other finished stars are scattered on the wooden table around them, along with some paper scraps and a glue stick. They are both beaming with joy. The room has light blue walls, a light wooden floor, and a single large window on the back wall showing a gentle snowy landscape. A red bookshelf is on the right. Warm, soft light fills the room. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD TEGID PALJU TÄHTI.",
+      "scene": "Juku and Mari are sitting at the wooden table, which is now covered with many beautiful blue, black, and white paper stars of various sizes. They are looking at their collection of stars with satisfied smiles. The room has light blue walls, a light wooden floor, and a single large window on the back wall showing a gentle snowy landscape. A red bookshelf is on the right. Warm, soft light fills the room. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "TÄHED ON NÜÜD VALMIS.",
+      "scene": "Juku and Mari stand next to the wooden table, admiring the numerous finished paper stars of various sizes and colors (blue, black, white) spread out on the tabletop. They both have proud and happy expressions, looking at their creations. The room has light blue walls, a light wooden floor, and a single large window on the back wall showing a gentle snowy landscape. A red bookshelf is on the right. Warm, soft light fills the room. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD RIBAVAD TÄHED ÜLES.",
+      "scene": "Juku and Mari are standing near the large window in their cozy children's room. Mari is carefully taping a blue paper star onto the windowpane, while Juku is holding up a black star, ready to place it. Several other stars are already visible on the window, and more are on the table. They are both smiling as they decorate. The room has light blue walls, a light wooden floor, and a single large window on the back wall showing a gentle snowy landscape. A red bookshelf is on the right. Warm, soft light fills the room. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "JUKU JA MARI ON RÕÕMSAD.",
+      "scene": "Juku and Mari are standing together in their cozy children's room, looking happily at the large window now decorated with many beautiful blue, black, and white paper stars. They are both smiling broadly, proud of their work. The room has light blue walls, a light wooden floor, and a single large window on the back wall showing a gentle snowy landscape. A red bookshelf is on the right. Warm, soft light fills the room. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
