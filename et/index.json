@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-22",
+  "latestDate": "2026-02-23",
   "stories": [
+    {
+      "date": "2026-02-23",
+      "title": "LIISA JA TOOMAS KELGUTAVAD",
+      "pageCount": 9,
+      "characters": [
+        "LIISA",
+        "TOOMAS"
+      ]
+    },
     {
       "date": "2026-02-22",
       "title": "KATI JA PRIIT EHITAVAD LUMEOLENDIT",
