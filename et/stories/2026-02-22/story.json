@@ -1,94 +1,101 @@
 {
   "date": "2026-02-22",
   "language": "et",
-  "title": "SASSU JA MIRA ABISTAVAD LINDE",
-  "generatedAt": "2026-02-09T02:39:53.898Z",
+  "title": "KATI JA PRIIT EHITAVAD LUMEOLENDIT",
+  "generatedAt": "2026-02-15T22:11:21.436Z",
   "characters": [
     {
       "id": "char1",
-      "name": "JÄNES SASSU",
-      "type": "rabbit",
-      "description": "Väike valge jänes pikkade hallide kõrvadega, kandmas väikest sinist salli, suured sõbralikud silmad ja rõõmus ilme. Armas multifilmistiil.",
+      "name": "KATI",
+      "type": "human",
+      "description": "Väike inimene, ümarate põskedega ja rõõmsameelse naeratava näoga. Tal on seljas soe sinine talvemantel, roosa müts peas ja roosad kindad kätes. Armas multifilmistiil, sõbralik ja elav.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "ORAV MIRA",
-      "type": "squirrel",
-      "description": "Väike punakaspruun orav koheva sabaga, kandmas väikest rohelist mütsi, uudishimulikud säravad silmad ja mänguline naeratus. Armas multifilmistiil.",
+      "name": "PRIIT",
+      "type": "human",
+      "description": "Väike inimene, entusiastliku ja sõbraliku näoga. Tal on seljas soe roheline talvemantel, sinine müts peas ja sinised kindad kätes. Armas multifilmistiil, uudishimulik ja abivalmis.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "Lumisel Metsas",
-      "description": "A quiet, serene snowy forest during winter. Tall evergreen trees covered in a thick blanket of fresh white snow. The ground is pure white snow. Gentle sunlight filters through the trees. No distinct buildings or human structures, just pristine nature. Cartoon style.",
+      "name": "LUMINE PARK",
+      "description": "A vast open snowy park with gentle snow-covered hills in the distance. Bare deciduous trees covered in a thick layer of pristine white snow line the edges of the park. The sky is bright, clear winter blue with a few soft clouds. The ground is covered in undisturbed, sparkling white snow. No specific man-made structures are present, just a natural winter landscape. Cartoon style, bright and inviting.",
       "image": "loc1.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "JÄNES SASSU JA ORAV MIRA.",
-      "scene": "Jänes Sassu and Orav Mira standing side-by-side in a serene snowy forest. Sassu, the small white rabbit, wears a blue scarf. Mira, the small reddish-brown squirrel, wears a green hat. They are looking forward, smiling gently. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "text": "KATI JA PRIIT ÕUES.",
+      "scene": "Kati and Priit are standing in a vast open snowy park. Kati is smiling brightly, and Priit is looking around with a curious expression. Both are dressed warmly in their winter coats, hats, and gloves. The ground is covered in white snow, and snow-covered trees are visible in the distance under a clear blue winter sky. Cartoon style, full body shot.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "VÄLJAS ON PALJU LUND.",
-      "scene": "Jänes Sassu and Orav Mira are walking through the snowy forest. Sassu hops gently on the snow-covered ground, and Mira scurries beside him. Both are looking around at the beautiful, deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "text": "PALJU VALGET LUND MAAS.",
+      "scene": "Kati and Priit are looking down at the pristine, untouched white snow covering the ground of the park. Kati points playfully at the snow, and Priit is crouching slightly to touch it with his gloved hand. They are both smiling. Snow-covered trees are in the background. Cartoon style, focus on the children and the snow.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD NÄEVAD KÜLMI LINDE.",
-      "scene": "Jänes Sassu and Orav Mira are looking up at a bare tree branch where a few small, visibly shivering birds are perched. Sassu points gently towards the birds. Mira looks concerned. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Kati and Priit are standing close together in the snowy park, looking at each other with excited, thoughtful expressions. Kati has a finger to her chin, and Priit has a wide smile, as if they just had a brilliant idea. The vast snowy park with distant trees and a blue sky is the background. Cartoon style.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "SASSU KORJAB MARJU.",
-      "scene": "Jänes Sassu is carefully picking red berries from a snow-dusted bush. He holds a small, woven basket with a few berries already inside. Orav Mira is standing nearby, observing him. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "text": "NAD KOGUVAD LUND KOKKU.",
+      "scene": "Kati and Priit are actively gathering snow. Kati is using her gloved hands to scoop snow into a small mound, looking focused. Priit is pushing a small snowball across the ground, making it bigger. They are both in their winter clothes. The park ground is covered in snow, with traces of their activity. Cartoon style.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "MIRA OTSIB KÄBISID.",
-      "scene": "Orav Mira is digging lightly in the snow at the base of a pine tree, looking for pinecones. She has a small pile of pinecones next to her. Jänes Sassu watches her with a supportive smile. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "text": "NAD TEEVAD KUJU.",
+      "scene": "Kati and Priit are now shaping a large mound of snow. Kati is smoothing the top of the snow pile with her gloved hands, while Priit is patting the side, forming a round shape. They are both smiling and working together. A half-formed snow creature shape is visible between them. Cartoon style.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "NAD TEGI LINNU SÖÖKI.",
-      "scene": "Jänes Sassu and Orav Mira are working together near a small, snow-covered log. They are carefully pressing the red berries and small seeds (from the pinecones) into small, decorative bird treats. A few finished treats are visible on the log. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "text": "SEE KASVAB NÜÜD SUUREKS.",
+      "scene": "The snow creature has grown significantly bigger, now clearly resembling a large, round snow animal's body. Kati and Priit are standing next to it, admiring their work. Kati claps her hands lightly, and Priit looks up at the big snow shape with an impressed smile. Snow-covered trees are in the background. Cartoon style.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "NAD RIPUTAVAD PUULE.",
-      "scene": "Jänes Sassu, standing on his hind legs, is carefully hanging one of the bird treats (a berry chain or pinecone with seeds) onto a low branch of a small, snow-dusted tree. Orav Mira is holding another treat, ready to hand it to Sassu or hang it herself. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "text": "NAD PANEVAD NINAKS PORGANDI.",
+      "scene": "Kati is carefully pushing a bright orange carrot into the front of the snow creature, creating a nose. Priit is standing next to her, watching with a supportive and excited smile. The large, round snow creature is a prominent feature in the scene. Both children are wearing their winter clothes. Cartoon style.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "LINNUD SÖÖVAD NÜÜD.",
-      "scene": "Several small, happy birds are perched on the branches of the decorated tree, happily pecking at the berry chains and seed-filled pinecones. Jänes Sassu and Orav Mira are standing a little distance away, watching the birds with joyful expressions. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "text": "NAD LISAVAD SILMAD.",
+      "scene": "Priit is gently placing two small, dark pebbles onto the snow creature's face, making them look like eyes. Kati is smiling and pointing to where the eyes should go, helping him. The snow creature now has a carrot nose and eyes. They are both happy and focused on their task. Cartoon style.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "SASSU JA MIRA RÕÕMUSTAVAD.",
-      "scene": "Jänes Sassu and Orav Mira are standing close together, smiling brightly and giving each other a friendly high-five (or gentle paw-bump). The decorated tree with happy birds is visible in the background. They are proud of their work. The ground is covered in deep snow. Tall evergreen trees covered in snow, snow-covered ground, gentle sunlight. Cartoon style.",
+      "text": "LUMEOLEND ON VALMIS!",
+      "scene": "Kati and Priit are standing proudly next to their finished snow creature, which now clearly resembles a cute, friendly snow bear or rabbit with a carrot nose and pebble eyes. They are both beaming with joy and satisfaction, pointing at their creation. The background is the snowy park. Cartoon style.",
       "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON NII RÕÕMSAD.",
+      "scene": "Kati and Priit are giving each other a happy high-five, celebrating their achievement. The finished snow creature stands proudly beside them. They are both laughing and smiling broadly, clearly delighted with their day of play and creation. The snowy park is bright and cheerful. Cartoon style.",
+      "image": "page10.png",
       "location_id": "loc1"
     }
   ]
