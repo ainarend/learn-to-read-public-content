@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-26",
+  "latestDate": "2026-02-27",
   "stories": [
+    {
+      "date": "2026-02-27",
+      "title": "KOIT JA MERI TEEVAD KAKAOD",
+      "pageCount": 8,
+      "characters": [
+        "KOIT",
+        "MERI"
+      ]
+    },
     {
       "date": "2026-02-26",
       "title": "SASSU JA OSSU LINNUMAJA",

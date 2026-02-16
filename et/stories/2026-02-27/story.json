@@ -1,0 +1,88 @@
+{
+  "date": "2026-02-27",
+  "language": "et",
+  "title": "KOIT JA MERI TEEVAD KAKAOD",
+  "generatedAt": "2026-02-16T01:09:06.906Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KOIT",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikesed blondid juuksed, suured sinised silmad. Kandmas sooja paksu sinist sviitrit ja pruune pükse. Rõõmsameelne ja lahke ilmega. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MERI",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, kaks pruuni patsi, suured rohelised silmad. Kandmas sooja paksu roosat sviitrit ja punaseid retuuse. Sõbralik ja uudishimulik ilmega. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Warm and inviting children's kitchen. Light cream-colored walls, light wooden floor. A large window on the back wall shows a gentle snowy landscape with trees covered in light snow and a soft white sky. There's a simple wooden kitchen counter on the right side. A small round wooden table with two small wooden chairs is in the center of the room. Warm, soft natural light streams from the window. No other decorations. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KOIT JA MERI ON KÖÖGIS.",
+      "scene": "Koit, a small boy in a blue sweater, and Meri, a small girl in a pink sweater, stand in a warm kitchen. They are looking at each other and smiling. The kitchen has light cream-colored walls, a light wooden floor, and a large window on the back wall showing a gentle snowy landscape. A small round wooden table and two chairs are in the center. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON KÜLM KÕHUL.",
+      "scene": "Koit, wearing a blue sweater, and Meri, wearing a pink sweater, stand in the warm kitchen. Meri hugs herself, pretending to be cold, and Koit rubs his hands together. They are both looking a bit chilly but smiling playfully. The kitchen has light cream-colored walls, a light wooden floor, and a large window on the back wall showing a gentle snowy landscape. A small round wooden table and two chairs are in the center. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD KUUMA JOOKI.",
+      "scene": "Koit, in his blue sweater, and Meri, in her pink sweater, stand by the small round wooden table in the kitchen. On the table is a large blue mixing bowl and a wooden spoon. Koit points at the bowl excitedly, and Meri claps her hands. The kitchen has light cream-colored walls, a light wooden floor, and a large window on the back wall showing a gentle snowy landscape. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KOIT SEGAB PIIMA.",
+      "scene": "Koit, in his blue sweater, sits at the small round wooden table in the kitchen. He is holding a wooden spoon and stirring milk in a large blue mixing bowl. Meri, in her pink sweater, stands beside him, watching with a happy expression. The kitchen has light cream-colored walls, a light wooden floor, and a large window on the back wall showing a gentle snowy landscape. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MERI LISAB KAKAO.",
+      "scene": "Meri, in her pink sweater, stands at the small round wooden table in the kitchen. She is carefully pouring brown cocoa powder from a small bag into the large blue mixing bowl. Koit, in his blue sweater, sits next to her, still holding the wooden spoon, looking on with interest. The kitchen has light cream-colored walls, a light wooden floor, and a large window on the back wall showing a gentle snowy landscape. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KAKAO LÕHNAB NII HEASTI.",
+      "scene": "Koit, in his blue sweater, and Meri, in her pink sweater, are both leaning over the large blue mixing bowl on the small round wooden table in the kitchen. They are both sniffing the air with delighted smiles, enjoying the sweet smell of cocoa. The kitchen has light cream-colored walls, a light wooden floor, and a large window on the back wall showing a gentle snowy landscape. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD JOOVAD JOOKI.",
+      "scene": "Koit, in his blue sweater, and Meri, in her pink sweater, are sitting at the small round wooden table in the kitchen. Each is holding a small colorful mug with hot cocoa and taking a sip. They both have content smiles on their faces. The kitchen has light cream-colored walls, a light wooden floor, and a large window on the back wall showing a gentle snowy landscape. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NÜÜD ON SOE!",
+      "scene": "Koit, in his blue sweater, and Meri, in her pink sweater, are sitting at the small round wooden table in the kitchen. Their mugs are now nearly empty, and they are looking at each other with warm, happy, and cozy expressions. The kitchen has light cream-colored walls, a light wooden floor, and a large window on the back wall showing a gentle snowy landscape. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
