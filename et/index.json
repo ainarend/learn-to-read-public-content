@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-28",
+  "latestDate": "2026-03-01",
   "stories": [
+    {
+      "date": "2026-03-01",
+      "title": "KUSTI JA SIIL TIIGI ÄÄRES",
+      "pageCount": 10,
+      "characters": [
+        "KUSTI",
+        "SIIL"
+      ]
+    },
     {
       "date": "2026-02-28",
       "title": "LIISA JA PEETER TEEVAD LUMEMEMME",

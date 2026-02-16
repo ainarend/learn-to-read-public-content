@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-01",
+  "language": "et",
+  "title": "KUSTI JA SIIL TIIGI ÄÄRES",
+  "generatedAt": "2026-02-16T02:40:38.048Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KUSTI",
+      "type": "bear",
+      "description": "Väike pruun karu, suured ümarad kõrvad ja sõbralik naeratav nägu. Tal on seljas roheline vest ja jalas pruunid püksid. Ta on armas ja uudishimulik multifilmistiilis karupoeg.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL",
+      "type": "hedgehog",
+      "description": "Väike hall siil, teravate okaste ja musta ninaotsaga. Tal on seljas väike sinine sall. Ta on rõõmsameelne ja erk, armsas multifilmistiilis.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Metsatee",
+      "description": "A sunny forest path surrounded by tall green pine trees and lush green bushes. The path is made of soft brown earth and small pebbles. Sunlight filters through the tree canopy, creating dappled light on the path. A few early spring flowers (like snowdrops) are visible on the forest floor. Cheerful and inviting atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Tiigi Ääres Metsas",
+      "description": "A calm, clear pond in the middle of a forest. The water reflects the blue sky and surrounding green trees. Green reeds and water lilies grow at the edges of the pond. The ground around the pond is soft green grass. Sunlight illuminates the scene. Peaceful and serene atmosphere. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KUSTI JA SIIL ON METSAS.",
+      "scene": "Kusti, a small brown bear wearing a green vest and brown trousers, and Siil, a small grey hedgehog wearing a blue scarf, are walking happily together on a sunny forest path. They are smiling and looking forward. Sunlight filters through the tall green pine trees. Early spring flowers are visible on the forest floor. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHTSID UUT NÄHA.",
+      "scene": "Kusti and Siil are still walking on the sunny forest path. Kusti points ahead with one paw, looking curious. Siil looks up at Kusti, also appearing curious. They are eager to explore. Sunlight filters through the tall green pine trees. Early spring flowers are visible on the forest floor. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD LÄKSID TIIGI JUURDE.",
+      "scene": "Kusti and Siil have just arrived at the edge of a calm pond in the forest. They stand at the grassy bank, looking at the water with excited and curious expressions. The pond reflects the blue sky and green trees. Green reeds and water lilies are visible at the pond's edge. Sunlight illuminates the scene. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "TIIGI VESI OLI SOE.",
+      "scene": "Kusti, the small brown bear, and Siil, the small grey hedgehog, are both leaning forward slightly at the pond's edge, carefully touching the pond water with a paw/hand. They have gentle, surprised smiles on their faces, noticing the warmth. The pond is calm with reflections. Green reeds and water lilies are visible. Sunlight illuminates the scene. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD VAATASID VETTE.",
+      "scene": "Kusti and Siil are kneeling or crouching at the very edge of the pond, peering intently into the clear water. Their expressions are focused and curious. The water is clear, showing some pebbles at the bottom. Green reeds and water lilies are visible at the pond's edge. Sunlight illuminates the scene. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "SEAL UJUS MISKI.",
+      "scene": "Kusti and Siil are still crouching at the pond's edge, pointing excitedly into the water with their paws. Their eyes are wide with wonder. In the clear water, a small, dark, tadpole-like shape is visible. The pond has green reeds and water lilies. Sunlight illuminates the scene. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SEE OLI KONNAPOEG!",
+      "scene": "Kusti and Siil are now even more excited, with big smiles. They are still pointing at the clear water where a clearly visible tadpole (konnapoeg) is swimming. They are mesmerized by the discovery. The pond with its green reeds and water lilies is still around them. Sunlight illuminates the scene. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PALJU VÄIKESI KONNAPOEGASID.",
+      "scene": "Kusti and Siil are looking into the pond with happy, amazed expressions. Now, several small tadpoles are visible swimming in the clear water near the pond's edge. They are all dark and tiny. The pond has green reeds and water lilies. Sunlight illuminates the scene. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KUSTI JA SIIL RÕÕMUSTASID.",
+      "scene": "Kusti and Siil are standing up near the pond, looking at each other with beaming smiles. Kusti gives a happy little clap with his paws, and Siil wiggles with joy. They are delighted with their discovery. The pond, green reeds, and water lilies are in the background. Sunlight illuminates the scene. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KEVAD ON NII ILUS.",
+      "scene": "Kusti and Siil are sitting side-by-side at the edge of the pond, gazing peacefully at the water and the surrounding beautiful spring forest. They look content and happy. The pond with its green reeds and water lilies is calm. The spring sunlight shines down. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
