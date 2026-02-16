@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-02-27",
+  "latestDate": "2026-02-28",
   "stories": [
+    {
+      "date": "2026-02-28",
+      "title": "LIISA JA PEETER TEEVAD LUMEMEMME",
+      "pageCount": 10,
+      "characters": [
+        "LIISA",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-02-27",
       "title": "KOIT JA MERI TEEVAD KAKAOD",
