@@ -4,6 +4,15 @@
   "stories": [
     {
       "date": "2026-03-01",
+      "title": "JUSS JA TIINA EHITAVAD KODU",
+      "pageCount": 10,
+      "characters": [
+        "JUSS",
+        "TIINA"
+      ]
+    },
+    {
+      "date": "2026-03-01",
       "title": "KUSTI JA SIIL TIIGI ÄÄRES",
       "pageCount": 10,
       "characters": [
