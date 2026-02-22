@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-01",
+  "latestDate": "2026-03-02",
   "stories": [
+    {
+      "date": "2026-03-02",
+      "title": "REBAS JA JÄNES HÜPPAVAD LOMPI",
+      "pageCount": 10,
+      "characters": [
+        "REBAS",
+        "JÄNES"
+      ]
+    },
     {
       "date": "2026-03-01",
       "title": "JUSS JA TIINA EHITAVAD KODU",
