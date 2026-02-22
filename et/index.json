@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-02",
+  "latestDate": "2026-03-03",
   "stories": [
+    {
+      "date": "2026-03-03",
+      "title": "MARI JA PEETER TEEVAD LINDE",
+      "pageCount": 10,
+      "characters": [
+        "MARI",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-03-02",
       "title": "REBAS JA JÄNES HÜPPAVAD LOMPI",

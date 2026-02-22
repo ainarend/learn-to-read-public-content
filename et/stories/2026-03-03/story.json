@@ -1,0 +1,102 @@
+{
+  "date": "2026-03-03",
+  "language": "et",
+  "title": "MARI JA PEETER TEEVAD LINDE",
+  "generatedAt": "2026-02-22T23:40:58.564Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne tüdruk. Tal on heledad juuksed kahe patsiga ja seljas erekollane pluus siniste pükstega. Sõbralik ja uudishimulik ilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne poiss. Tal on lühikesed pruunid juuksed ja seljas heleoranž T-särk roheliste lühikeste pükstega. Sõbralik ja mänguline ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Lastetuba",
+      "description": "Cozy children's room with light green walls, a wooden floor partially covered by a colorful striped rug (red, blue, yellow stripes), a large rectangular window on the back wall showing a bright blue sky with a few fluffy white clouds. A small, sturdy wooden crafting table with two matching small wooden chairs is in the center of the room. A simple, thin white string is hung horizontally above the table, ready for decorations. The room is filled with warm, soft daylight. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MARI JA PEETER ON TOAS.",
+      "scene": "Mari and Peeter are sitting on their small wooden chairs at the wooden crafting table in the center of the room, looking at each other with thoughtful, slightly curious expressions. The room has light green walls, a wooden floor with a colorful striped rug, and a large window showing a bright blue sky. A simple white string hangs empty above the table. Warm daylight fills the room. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "TUBA ON VEEL VAIKNE.",
+      "scene": "Mari and Peeter are still sitting at the wooden crafting table. Mari points gently to the empty string hanging above the table with a soft smile, and Peeter nods, indicating they have an idea to make the room more lively. The room has light green walls, a wooden floor with a colorful striped rug, and a large window showing a bright blue sky. Warm daylight fills the room. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD VÄRVE JA PABERIT.",
+      "scene": "Mari is holding a stack of colorful paper in her hands, smiling. Peeter is reaching for a small box of crayons and markers on the wooden crafting table. The table also has some scattered colorful paper sheets. They are sitting on their small wooden chairs. The room has light green walls, a wooden floor with a colorful striped rug, and a large window showing a bright blue sky. A simple white string hangs empty above the table. Warm daylight fills the room. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÕIKAVAD VÄIKE LINDE.",
+      "scene": "Mari and Peeter are both focused on cutting shapes from colorful paper using child-safe scissors. Mari is carefully cutting a bird shape from red paper, while Peeter is cutting a shape from blue paper. Several already cut bird shapes are visible on the wooden crafting table. They are sitting on their small wooden chairs. The room has light green walls, a wooden floor with a colorful striped rug, and a large window showing a bright blue sky. A simple white string hangs empty above the table. Warm daylight fills the room. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD VÄRVIVAD LINDE ILUSAKS.",
+      "scene": "Mari is coloring a paper bird with a yellow crayon, smiling intently. Peeter is adding details to another paper bird with a green marker. Many colorful paper bird cutouts are spread across the wooden crafting table, along with crayons and markers. They are sitting on their small wooden chairs. The room has light green walls, a wooden floor with a colorful striped rug, and a large window showing a bright blue sky. A simple white string hangs empty above the table. Warm daylight fills the room. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LINNUD SAAVAD SABAD JA TIIVAD.",
+      "scene": "Mari is carefully gluing a small, colorful paper tail onto one of her finished paper birds, holding it up proudly. Peeter is attaching tiny paper wings to another bird, both children smiling with concentration. Finished and partially decorated paper birds, along with glue sticks and tiny paper scraps, are on the wooden crafting table. They are sitting on their small wooden chairs. The room has light green walls, a wooden floor with a colorful striped rug, and a large window showing a bright blue sky. A simple white string hangs empty above the table. Warm daylight fills the room. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD RIPUTAVAD LINDE ÜLES.",
+      "scene": "Mari is carefully reaching up to attach a colorful paper bird to the white string hanging above the wooden crafting table, her arms slightly extended. Peeter is standing on his chair, also reaching to hang another paper bird on the string. Several colorful paper birds are already dangling from the string. The room has light green walls, a wooden floor with a colorful striped rug, and a large window showing a bright blue sky. Warm daylight fills the room. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LINNUD LENDAVAD NÜÜD.",
+      "scene": "The white string above the wooden crafting table is now adorned with many colorful paper birds, gently swaying as if flying. Mari and Peeter are standing next to the table, looking up at their creation with happy, proud expressions. The room has light green walls, a wooden floor with a colorful striped rug, and a large window showing a bright blue sky. Warm daylight fills the room. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "TUBA ON VÄGA RÕÕMUS!",
+      "scene": "Mari and Peeter are standing in the center of the room, admiring their hanging paper birds. The colorful birds are swaying gently on the string above the crafting table. The room itself feels brighter and more cheerful. Mari claps her hands lightly, and Peeter smiles broadly. The room has light green walls, a wooden floor with a colorful striped rug, and a large window showing a bright blue sky. Warm daylight fills the room. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "MARI JA PEETER NAERATAVAD.",
+      "scene": "Mari and Peeter are standing side-by-side, holding hands and smiling warmly at their beautiful, colorful paper bird decorations hanging from the string above the wooden crafting table. The room feels filled with joy and spring spirit. The room has light green walls, a wooden floor with a colorful striped rug, and a large window showing a bright blue sky. Warm daylight fills the room. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
