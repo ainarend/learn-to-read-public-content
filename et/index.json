@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-03",
+  "latestDate": "2026-03-05",
   "stories": [
+    {
+      "date": "2026-03-05",
+      "title": "KAI JA MIKU MULLID",
+      "pageCount": 9,
+      "characters": [
+        "KAI",
+        "MIKU"
+      ]
+    },
     {
       "date": "2026-03-03",
       "title": "MARI JA PEETER TEEVAD LINDE",

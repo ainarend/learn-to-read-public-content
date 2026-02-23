@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-05",
+  "language": "et",
+  "title": "KAI JA MIKU MULLID",
+  "generatedAt": "2026-02-23T00:23:52.527Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KAI",
+      "type": "squirrel",
+      "description": "Väike hall orav suurte pruunide silmadega, kandmas väikest oranži salli. Tal on rõõmsameelne naeratus ja kohev saba. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MIKU",
+      "type": "bear",
+      "description": "Väike helepruun karu väikeste ümarate kõrvadega, kandmas väikest sinist salli. Tal on suur sõbralik naeratus ja pehmed käpad. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Pargi Mänguväljak",
+      "description": "Sunny children's park playground. Green grass, a simple red and yellow slide, and a small sandpit with a red bucket and yellow shovel in the corner. A few blooming trees with soft pink flowers are in the background, suggesting spring. Bright cheerful colors. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KAI JA MIKU ON PARGIS.",
+      "scene": "Kai, a small grey squirrel with an orange scarf, and Miku, a small light brown bear with a blue scarf, are walking happily into a sunny park playground. They are both smiling and looking excited, entering the green grass area with a slide and sandpit in the background. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON MULLI ÄMBER.",
+      "scene": "Kai, the squirrel, is holding a small, colorful bucket filled with bubble solution. Miku, the bear, is holding a bubble wand, with a big, friendly smile on his face. They are standing on the green grass of the sunny park playground, looking ready to play. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD PUHVAD SUURI MULLE.",
+      "scene": "Miku, the bear with the blue scarf, is enthusiastically blowing a large, shimmering bubble from the bubble wand. Kai, the squirrel with the orange scarf, is standing beside him, watching the bubble with wide, delighted eyes. The bubble bucket is on the grass next to them. It's a sunny day in the park playground. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MULLID LENDAVAD KÕRGELE.",
+      "scene": "Many colorful bubbles are floating high up in the clear blue sky above the sunny park playground. Kai, the squirrel, and Miku, the bear, are both looking upwards with joyful expressions, watching the bubbles drift. The slide and blooming trees are visible in the background. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KAI PÜÜAB MULLE KINNI.",
+      "scene": "Kai, the squirrel with the orange scarf, is playfully jumping on the green grass, with her tiny arms stretched out, trying to catch a floating bubble. Miku, the bear, is standing nearby, smiling and watching Kai's joyful attempt. Many bubbles are still in the air. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MIKU AJAB MULLE TAGA.",
+      "scene": "Miku, the bear with the blue scarf, is gleefully running across the green grass, his arms outstretched, chasing several floating bubbles. He has a wide, happy grin. Kai, the squirrel, is watching him from a small distance, smiling. The sun is shining brightly in the park playground. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PALJUD MULLID LÕHKEVAD.",
+      "scene": "Kai, the squirrel, and Miku, the bear, are standing together on the green grass, surrounded by many colorful bubbles. Some of the bubbles are depicted mid-pop, creating tiny splashes of light. Both characters have happy, surprised expressions, enjoying the spectacle. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SEE ON NII NALJAKAS!",
+      "scene": "Kai, the squirrel, and Miku, the bear, are laughing joyfully together on the green grass of the park playground. They are pointing upwards at the sky where a few remaining bubbles are still popping. Their faces are full of delight and amusement. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON ÕNNELIKUD.",
+      "scene": "Kai, the squirrel, and Miku, the bear, are sitting comfortably side-by-side on the green grass in the sunny park playground. They are both smiling contentedly, with the bubble bucket and wand placed neatly beside them. The slide and blooming trees are in the background. They look happy and peaceful. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
