@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-07",
+  "latestDate": "2026-03-08",
   "stories": [
+    {
+      "date": "2026-03-08",
+      "title": "REX JA JUULIA LINNUPESA",
+      "pageCount": 8,
+      "characters": [
+        "REX",
+        "JUULIA"
+      ]
+    },
     {
       "date": "2026-03-07",
       "title": "SIIM JA LEENU LOMIS",

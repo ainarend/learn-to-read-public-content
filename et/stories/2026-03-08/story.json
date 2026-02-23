@@ -1,0 +1,88 @@
+{
+  "date": "2026-03-08",
+  "language": "et",
+  "title": "REX JA JUULIA LINNUPESA",
+  "generatedAt": "2026-02-23T02:39:21.864Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REX",
+      "type": "fox",
+      "description": "Väike oranž rebane, suurte teravate kõrvadega, kandmas väikest sinist salli, suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JUULIA",
+      "type": "rabbit",
+      "description": "Väike hall jänes, pikkade püstiste kõrvadega, kandmas väikest rohelist salli, suured tumedad silmad ja rõõmsameelne ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "METSASALU",
+      "description": "A peaceful, sun-dappled forest grove during spring. Tall green trees with new light green leaves. Soft, mossy ground with patches of small, colorful spring flowers. A large, sturdy tree with a visible branch suitable for a bird's nest. Warm sunlight filters through the leaves. Blue sky visible through the tree canopy. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REX JA JUULIA ON METSAS.",
+      "scene": "Rex, a small orange fox wearing a blue scarf, and Juulia, a small grey rabbit wearing a green scarf, stand together in a sunny forest grove. They are looking around with friendly, curious expressions. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD VÄIKEST LINDU.",
+      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, stand in a sunny forest grove. They are both looking up at a small, brown bird perched on a tree branch, tilting their heads curiously. The bird looks a little lost or sad. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LIND VAJAB UUT KODU.",
+      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, are looking up at a small, brown bird perched on a tree branch in a sunny forest grove. The bird chirps sadly, looking at an empty space on the branch where a nest could be. Rex and Juulia look thoughtful, understanding the bird's need. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD KOGUVAD OKSAD.",
+      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, are kneeling on the soft, mossy ground in the sunny forest grove. Rex is carefully picking up a small twig with his mouth, and Juulia is gently gathering several small twigs with her paws, both looking focused on their task. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD KOGUVAD SAMBLAD.",
+      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, are kneeling on the soft, mossy ground in the sunny forest grove. Rex is gently picking up a soft piece of green moss with his mouth, and Juulia is carefully gathering a small clump of moss with her paws, both looking concentrated. A small pile of twigs they already collected is next to them on the ground. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD ANNAVAD LINNULE.",
+      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, are standing at the base of a large tree in the sunny forest grove. They are both looking up at the small brown bird, who is perched on a branch above them. Rex is gently holding a small twig in his mouth, and Juulia is holding a piece of moss and a small twig in her paws, offering them up to the bird. The bird looks hopeful. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LIND TEGI ILUSA PESA.",
+      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, are standing below a large tree in the sunny forest grove, looking up. On a sturdy branch, the small brown bird is now sitting proudly in a beautifully constructed, cozy nest made of twigs and moss. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LIND ON NÜÜD ÕNNELIK.",
+      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, are standing below the large tree in the sunny forest grove, smiling happily and looking up. The small brown bird is sitting happily in its new cozy nest on the branch, chirping joyfully. Warm sunlight streams through the leaves. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
