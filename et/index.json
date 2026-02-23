@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-05",
+  "latestDate": "2026-03-06",
   "stories": [
+    {
+      "date": "2026-03-06",
+      "title": "ANNA JA OTI AED",
+      "pageCount": 9,
+      "characters": [
+        "ANNA",
+        "OTT"
+      ]
+    },
     {
       "date": "2026-03-05",
       "title": "KAI JA MIKU MULLID",

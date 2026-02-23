@@ -1,0 +1,101 @@
+{
+  "date": "2026-03-06",
+  "language": "et",
+  "title": "ANNA JA OTI AED",
+  "generatedAt": "2026-02-23T01:09:29.940Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ANNA",
+      "type": "human",
+      "description": "Väike inimene Anna. Tal on punased põsed ja suured sõbralikud silmad. Anna kannab sinist kleiti ja punaseid kingi. Tema juuksed on blondid ja lühikesed, peenelt punutud patsidesse. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "OTT",
+      "type": "human",
+      "description": "Väike inimene Ott. Tal on heledad lühikesed juuksed ja rõõmsameelne nägu. Ott kannab rohelist T-särki, pruune lühikesi pükse ja kollaseid ketsi. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "ANNA JA OTI TUBA",
+      "description": "Cozy children's playroom with light yellow walls, a light wooden floor, a large window on the back wall showing a sunny spring garden outside. A small green rug is in the center. There are a few simple wooden toys like building blocks in a corner. Warm sunlight streams in. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "PÄIKESELINE AED",
+      "description": "Bright and sunny spring garden with vibrant green grass, scattered small colorful spring flowers (like tiny yellow daffodils and purple crocuses). There's a small patch of loosened dark soil ready for planting. A simple low wooden fence runs along the background. Clear blue sky with gentle white clouds. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ANNA JA OTT NÄEVAD PÄIKEST.",
+      "scene": "Anna and Ott are standing by the large window in their playroom, looking out at the sunny spring garden. Anna points outside with a happy, excited expression. Ott looks curious and smiles. Warm sunlight fills the room. The playroom has light yellow walls, a light wooden floor, a small green rug in the center, and wooden building blocks in a corner.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON UUS MÕTE.",
+      "scene": "Anna and Ott are now sitting on the small green rug in their playroom, facing each other. They are both looking thoughtful, then exchange a happy, shared smile as if a new, wonderful idea has just sparked between them. The playroom has light yellow walls, a light wooden floor, and wooden building blocks in a corner. Warm sunlight streams in.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD LÄHEVAD ÕUE.",
+      "scene": "Anna and Ott are walking hand-in-hand onto the vibrant green grass of the sunny spring garden. They look happy and eager to start their adventure. Small colorful spring flowers are scattered around. A simple low wooden fence is in the background. Clear blue sky with gentle white clouds.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD LABIDA.",
+      "scene": "Anna is holding a small, child-sized red gardening shovel in one hand. Ott stands beside her, looking at the shovel with a curious and ready expression. They are in the sunny spring garden with vibrant green grass and small colorful spring flowers. A small patch of loosened dark soil is nearby. A simple low wooden fence is in the background.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD KAEVAVAD MULDA.",
+      "scene": "Ott is kneeling on the small patch of loosened dark soil, carefully using the child-sized red shovel to dig a small hole. Anna is standing next to him, watching with interest and a gentle smile. They are in the sunny spring garden with vibrant green grass and small colorful spring flowers. A simple low wooden fence is in the background.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD ISTUTAVAD TAIME.",
+      "scene": "Anna is carefully holding a small green strawberry plant seedling with a few leaves and tiny roots, gently placing it into the hole Ott has dug. Ott is kneeling beside the hole, looking at the plant with focused attention. They are both focused and gentle in the sunny spring garden. Small colorful spring flowers are around. A simple low wooden fence is in the background.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD KASTAVAD VEEGA.",
+      "scene": "Ott is holding a small, child-sized blue watering can and gently pouring water onto the newly planted strawberry seedling. Anna is standing beside him, observing with a happy and encouraging smile. The strawberry seedling is now in the patch of loosened dark soil. They are in the sunny spring garden. Small colorful spring flowers are around. A simple low wooden fence is in the background.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "TAIM KASVAB SUUREKS.",
+      "scene": "The small strawberry plant that Anna and Ott planted is now visibly larger and healthier, with more green leaves and a few small green strawberries beginning to form. Anna and Ott are standing proudly next to it, smiling broadly at their success. They are in the sunny spring garden with vibrant green grass and small colorful spring flowers. A simple low wooden fence is in the background.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "ANNA JA OTT ON RÕÕMSAD.",
+      "scene": "Anna and Ott are joyfully picking a ripe red strawberry from their now large, thriving strawberry plant. They are both laughing and looking at each other, happy and proud of their delicious harvest. The plant is still prominently featured, full of lush leaves and more strawberries. They are in the sunny spring garden with vibrant green grass and small colorful spring flowers. A simple low wooden fence is in the background.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}
