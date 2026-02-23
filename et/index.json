@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-06",
+  "latestDate": "2026-03-07",
   "stories": [
+    {
+      "date": "2026-03-07",
+      "title": "SIIM JA LEENU LOMIS",
+      "pageCount": 10,
+      "characters": [
+        "SIIM",
+        "LEENU"
+      ]
+    },
     {
       "date": "2026-03-06",
       "title": "ANNA JA OTI AED",

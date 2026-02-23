@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-07",
+  "language": "et",
+  "title": "SIIM JA LEENU LOMIS",
+  "generatedAt": "2026-02-23T01:55:41.262Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIM",
+      "type": "human",
+      "description": "VÄIKE INIMENE, rõõmsameelne poiss, heledad juuksed, sinised silmad. Seljas sinine T-särk ja pruunid püksid. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LEENU",
+      "type": "human",
+      "description": "VÄIKE INIMENE, naeratav tüdruk, pruunid patsid, rohelised silmad. Seljas roosa pluus ja sinine seelik. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "TOAS",
+      "description": "Cozy children's room with light blue walls, a simple wooden floor, and a large window on the back wall showing green spring trees outside. A small round wooden table is in the center with two small chairs. There are no wall decorations. Warm, soft light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "ÕUES",
+      "description": "A cheerful spring outdoor scene with bright green grass and several large, clear puddles reflecting the blue sky. Bare trees with small green buds are in the background. The ground is slightly muddy around the puddles. Bright, sunny spring day. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIIM JA LEENU NÄEVAD.",
+      "scene": "Siim and Leenu stand by the window in their cozy children's room, looking out with curious expressions. The window shows glimpses of green trees and hints of puddles outside. Siim wears a blue T-särk and brown pants. Leenu wears a pink blouse and a blue skirt. The room has light blue walls, a wooden floor, a round wooden table, and two chairs.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES ON SUURED LOMBID.",
+      "scene": "Siim and Leenu are still looking out the window of their room, their faces pressed close to the glass, pointing excitedly at the large, sparkling puddles visible in the outdoor scene. Siim wears a blue T-särk and brown pants. Leenu wears a pink blouse and a blue skirt. The room has light blue walls, a wooden floor, a round wooden table, and two chairs.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL TULEB MÕTE.",
+      "scene": "Siim and Leenu are now sitting at the small round wooden table in their room, looking at each other with bright, smiling faces, as if they've just had a great idea. Siim wears a blue T-särk and brown pants. Leenu wears a pink blouse and a blue skirt. The room has light blue walls, a wooden floor, a round wooden table, and two chairs.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "TEEME PABERPAATE!",
+      "scene": "Siim and Leenu are at the table, now with colorful sheets of paper spread out. They both hold a piece of paper, looking at it with determination. Siim wears a blue T-särk and brown pants. Leenu wears a pink blouse and a blue skirt. The room has light blue walls, a wooden floor, a round wooden table, and two chairs.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD VOLDIVAD PABERIT HOOLEGA.",
+      "scene": "Siim and Leenu are intently folding colorful paper into boat shapes at the small round wooden table. Their brows are furrowed in concentration but with happy expressions. Siim wears a blue T-särk and brown pants. Leenu wears a pink blouse and a blue skirt. Several partially folded boats are on the table. The room has light blue walls, a wooden floor, a round wooden table, and two chairs.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PAADID ON VALMIS.",
+      "scene": "Siim and Leenu proudly display their finished, brightly colored paper boats on the wooden table. They each hold a boat and smile at their creations. Siim wears a blue T-särk and brown pants. Leenu wears a pink blouse and a blue skirt. The room has light blue walls, a wooden floor, a round wooden table, and two chairs.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LÄHME NÜÜD ÕUE.",
+      "scene": "Siim and Leenu, now wearing vibrant yellow raincoats and colorful rubber boots, stand by the door of their room, holding their paper boats, eager to go outside. Siim wears a blue T-särk and brown pants under the raincoat. Leenu wears a pink blouse and a blue skirt under the raincoat. The room has light blue walls, a wooden floor, a round wooden table, and two chairs.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PAADID UJUUVAD LOMIS.",
+      "scene": "Siim and Leenu are outside in their yellow raincoats and colorful rubber boots, kneeling beside a large, clear puddle. They gently place their paper boats into the water. The boats float beautifully. The scene is a cheerful spring outdoor setting with bright green grass and bare trees with small green buds in the background.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PAADID UJUUVAD KAUNILT.",
+      "scene": "Siim and Leenu are joyfully watching their colorful paper boats sailing across the large, clear puddle. They are still in their yellow raincoats and colorful rubber boots, smiling brightly. The scene is a cheerful spring outdoor setting with bright green grass and bare trees with small green buds in the background.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SIIM JA LEENU ON RÕÕMSAD.",
+      "scene": "Siim and Leenu are standing next to the puddle, laughing and clapping their hands, surrounded by their paper boats happily floating. They are still wearing their yellow raincoats and colorful rubber boots. The scene is a cheerful spring outdoor setting with bright green grass and bare trees with small green buds in the background, under a bright sunny sky.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
