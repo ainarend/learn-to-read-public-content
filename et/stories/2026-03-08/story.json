@@ -1,88 +1,101 @@
 {
   "date": "2026-03-08",
   "language": "et",
-  "title": "REX JA JUULIA LINNUPESA",
-  "generatedAt": "2026-02-23T02:39:21.864Z",
+  "title": "KARU JA REBANE PABERPAAT",
+  "generatedAt": "2026-03-01T22:11:01.831Z",
   "characters": [
     {
       "id": "char1",
-      "name": "REX",
-      "type": "fox",
-      "description": "Väike oranž rebane, suurte teravate kõrvadega, kandmas väikest sinist salli, suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "name": "KARU",
+      "type": "bear",
+      "description": "Väike pruun karupoeg pehme karvaga, kandmas rohelist salli. Tal on suured sõbralikud silmad ja naeratav nägu. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "JUULIA",
-      "type": "rabbit",
-      "description": "Väike hall jänes, pikkade püstiste kõrvadega, kandmas väikest rohelist salli, suured tumedad silmad ja rõõmsameelne ilme. Armas multifilmistiil.",
+      "name": "REBANE",
+      "type": "fox",
+      "description": "Väike punakasoranž rebasepoeg, valge kõhu ja sabaotsaga, kandmas sinist mütsi. Tal on teravad, uudishimulikud silmad ja mänguline ilme. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "METSASALU",
-      "description": "A peaceful, sun-dappled forest grove during spring. Tall green trees with new light green leaves. Soft, mossy ground with patches of small, colorful spring flowers. A large, sturdy tree with a visible branch suitable for a bird's nest. Warm sunlight filters through the leaves. Blue sky visible through the tree canopy. Cartoon style.",
+      "name": "MÄNGUTOAS",
+      "description": "Cozy children's playroom with light blue walls and a warm wooden floor. There's a small, round wooden table in the center with two small chairs. A single window on the back wall shows a view of green trees outside. A small shelf with colorful books is on the left wall. Bright, cheerful lighting from the window. Cartoon style.",
       "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "ÕUES AIAS",
+      "description": "Sunny spring garden with bright green grass and a small, clear puddle reflecting the sky. A few early spring flowers (like crocuses or snowdrops) are visible near the edge of the grass. Distant green trees in the background under a blue sky. Bright, natural sunlight. Cartoon style.",
+      "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "REX JA JUULIA ON METSAS.",
-      "scene": "Rex, a small orange fox wearing a blue scarf, and Juulia, a small grey rabbit wearing a green scarf, stand together in a sunny forest grove. They are looking around with friendly, curious expressions. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "text": "KARU JA REBANE MÄNGIVAD.",
+      "scene": "Karu sits on a small chair at the round wooden table in the playroom, holding a colorful piece of paper and smiling. Rebane sits opposite him, also at the table, looking at Karu with an eager expression. The playroom has light blue walls, a wooden floor, a window showing green trees, and a bookshelf with books. Bright, cheerful lighting. Landscape orientation.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NAD NÄEVAD VÄIKEST LINDU.",
-      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, stand in a sunny forest grove. They are both looking up at a small, brown bird perched on a tree branch, tilting their heads curiously. The bird looks a little lost or sad. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Karu and Rebane are both looking down at the colorful piece of paper on the round wooden table in the playroom, with excited and thoughtful expressions. Rebane points to the paper with one paw. The playroom details (light blue walls, wooden floor, window, bookshelf) are consistent. Bright, cheerful lighting. Landscape orientation.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "LIND VAJAB UUT KODU.",
-      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, are looking up at a small, brown bird perched on a tree branch in a sunny forest grove. The bird chirps sadly, looking at an empty space on the branch where a nest could be. Rex and Juulia look thoughtful, understanding the bird's need. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "text": "NAD TEEVAD PABERIST PAATI.",
+      "scene": "Karu and Rebane are actively engaged in folding a piece of colorful paper on the round wooden table in the playroom. Karu is carefully creasing a fold, and Rebane is watching intently, ready to help. The playroom environment is consistent. Bright, cheerful lighting. Landscape orientation.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD KOGUVAD OKSAD.",
-      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, are kneeling on the soft, mossy ground in the sunny forest grove. Rex is carefully picking up a small twig with his mouth, and Juulia is gently gathering several small twigs with her paws, both looking focused on their task. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "text": "REBANE VOLDIB HOOLEGA.",
+      "scene": "Close-up on Rebane, sitting at the round wooden table in the playroom, with a focused and determined expression as he carefully folds a part of the colorful paper boat. Karu is watching him with a supportive smile. The partially folded boat is visible on the table. The playroom environment is consistent. Bright, cheerful lighting. Landscape orientation.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD KOGUVAD SAMBLAD.",
-      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, are kneeling on the soft, mossy ground in the sunny forest grove. Rex is gently picking up a soft piece of green moss with his mouth, and Juulia is carefully gathering a small clump of moss with her paws, both looking concentrated. A small pile of twigs they already collected is next to them on the ground. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "text": "KARU VÄRVIB PAATI.",
+      "scene": "Karu sits at the round wooden table in the playroom, holding a colorful crayon and drawing patterns on the now folded paper boat. Rebane watches with an admiring smile. The finished boat has colorful details. The playroom environment is consistent. Bright, cheerful lighting. Landscape orientation.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "NAD ANNAVAD LINNULE.",
-      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, are standing at the base of a large tree in the sunny forest grove. They are both looking up at the small brown bird, who is perched on a branch above them. Rex is gently holding a small twig in his mouth, and Juulia is holding a piece of moss and a small twig in her paws, offering them up to the bird. The bird looks hopeful. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "text": "PAAT ON NÜÜD VALMIS.",
+      "scene": "The colorful, finished paper boat sits prominently on the round wooden table in the playroom. Karu and Rebane stand beside the table, admiring their creation with proud smiles. The playroom environment is consistent. Bright, cheerful lighting. Landscape orientation.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "LIND TEGI ILUSA PESA.",
-      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, are standing below a large tree in the sunny forest grove, looking up. On a sturdy branch, the small brown bird is now sitting proudly in a beautifully constructed, cozy nest made of twigs and moss. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "text": "NAD VIIKSE PAADI ÕUE.",
+      "scene": "Karu carefully carries the colorful paper boat in his paws, walking through a sunny spring garden. Rebane trots excitedly beside him, looking towards a small, clear puddle ahead. Green grass, distant trees, and a bright blue sky are visible. A few early spring flowers are near the grass edge. Bright, natural sunlight. Landscape orientation.",
       "image": "page7.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 8,
-      "text": "LIND ON NÜÜD ÕNNELIK.",
-      "scene": "Rex, a small orange fox, and Juulia, a small grey rabbit, are standing below the large tree in the sunny forest grove, smiling happily and looking up. The small brown bird is sitting happily in its new cozy nest on the branch, chirping joyfully. Warm sunlight streams through the leaves. New light green leaves are on the tall trees. Soft moss and colorful spring flowers are on the ground. Cartoon style.",
+      "text": "PAAT UJUB LOMPI.",
+      "scene": "The colorful paper boat is gently floating in a small, clear puddle in the sunny spring garden. Karu and Rebane are kneeling beside the puddle, watching the boat with delighted expressions. The puddle reflects the blue sky. Green grass, distant trees, and spring flowers are consistent. Bright, natural sunlight. Landscape orientation.",
       "image": "page8.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KARU JA REBANE ON RÕÕMSAD!",
+      "scene": "Karu and Rebane stand next to the puddle where their paper boat is happily floating. They are both smiling broadly and looking at each other, their faces filled with joy. The sunny spring garden, green grass, distant trees, and spring flowers are consistent. Bright, natural sunlight. Landscape orientation.",
+      "image": "page9.png",
+      "location_id": "loc2"
     }
   ]
 }
