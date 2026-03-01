@@ -1,0 +1,88 @@
+{
+  "date": "2026-03-09",
+  "language": "et",
+  "title": "KATI JA TOOMAS LENDAVAD LOHET",
+  "generatedAt": "2026-03-01T22:53:35.205Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KATI",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledate juustega, kannab roosat pluusi ja siniseid pükse. Tal on suur naeratus ja säravad silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "TOOMAS",
+      "type": "human",
+      "description": "Väike inimene, poiss, pruunide juustega, kannab rohelist särki ja pruune lühikesi pükse. Tal on rõõmus nägu ja uudishimulik ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "AAS",
+      "description": "A wide, open green meadow with some white spring flowers blooming. In the distance, there are low green hills and a bright blue spring sky with a few white fluffy clouds. It is a sunny and breezy day. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KATI JA TOOMAS ON AASAL.",
+      "scene": "Kati and Toomas stand on a wide green meadow with some white spring flowers. They are looking at a colorful kite lying on the grass between them. Kati points at the kite. Both are smiling with anticipation. The meadow extends towards low green hills under a blue sky.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON VÄRVILINE LOHE.",
+      "scene": "Kati and Toomas are kneeling on the green meadow, gently touching the colorful kite. The kite is bright with stripes of red, blue, and yellow. They both look excited and happy. White spring flowers dot the meadow around them. The sky is bright blue with white clouds.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "TOOMAS HOIAB LOHE.",
+      "scene": "Toomas stands on the green meadow, holding the colorful kite up high with both hands, ready to launch it. Kati stands next to him, looking up at the kite with a happy expression. White spring flowers are around their feet. The wind gently rustles their hair. The sky is clear blue.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KATI JOOKSEB KÕRVAL.",
+      "scene": "Kati is running a few steps forward on the green meadow, looking back at Toomas and the kite with a cheerful smile. Toomas is beginning to run a few steps behind her, still holding the kite up in the air. The meadow stretches out before them. White flowers are visible.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "TUUL PUHUB TUGEVALT.",
+      "scene": "Kati and Toomas are both running faster across the green meadow. The colorful kite is starting to lift into the air slightly, pulled by the strong wind. Toomas holds the kite string firmly. Their hair and clothes are slightly blowing. They look focused and excited.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LOHE LENDAB KÕRGELE.",
+      "scene": "The colorful kite is now flying high in the blue sky, gracefully soaring above Kati and Toomas. They both look up, pointing at the kite with big, joyful smiles. Toomas holds the kite string, which is taut in his hand. The green meadow and white flowers are below them.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD NÄEVAD LOHE.",
+      "scene": "Kati and Toomas are standing side-by-side on the green meadow, looking up at the colorful kite which is now stable and flying very high in the sky. They both have wide, happy smiles, enjoying the beautiful sight of their kite. White spring flowers are scattered on the grass.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SEE ON NII LÕBUS!",
+      "scene": "Kati and Toomas are laughing and jumping with joy on the green meadow, their arms raised in excitement, while the colorful kite flies gracefully high in the blue sky above them. They are clearly having a wonderful and fun time together. The sun is shining brightly.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}

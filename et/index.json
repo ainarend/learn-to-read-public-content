@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-08",
+  "latestDate": "2026-03-09",
   "stories": [
+    {
+      "date": "2026-03-09",
+      "title": "KATI JA TOOMAS LENDAVAD LOHET",
+      "pageCount": 8,
+      "characters": [
+        "KATI",
+        "TOOMAS"
+      ]
+    },
     {
       "date": "2026-03-08",
       "title": "KARU JA REBANE PABERPAAT",
