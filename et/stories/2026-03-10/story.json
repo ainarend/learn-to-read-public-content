@@ -1,0 +1,88 @@
+{
+  "date": "2026-03-10",
+  "language": "et",
+  "title": "LIISA JA PEETER PALLIGA",
+  "generatedAt": "2026-03-01T23:39:25.229Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, helepunased lühikesed juuksed, suured sinised silmad, seljas erkroosa kleit ja valged sokid. Armas, rõõmsameelne ja uudishimulik. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, pruunid lühikesed juuksed, suured rohelised silmad, seljas sinine T-särk ja kollased lühikesed püksid. Sõbralik, aktiivne ja rõõmsameelne. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Mänguväljak",
+      "description": "Sunny children's playground in a park. Green grass, a bright red slide on the left, a small sandbox with a yellow bucket and spade on the right, and a couple of wooden swings visible in the background. A few blossoming spring trees with pink flowers in the distance. Clear blue sky with soft white clouds. Bright and cheerful atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER MÄNGIVAD.",
+      "scene": "Liisa and Peeter are standing on the green grass in a sunny children's playground. The red slide is visible to their left, and the sandbox to their right. They are looking around, smiling happily. A few blossoming spring trees are in the distance. Clear blue sky. Cute cartoonish style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON PALL.",
+      "scene": "Liisa stands on the green grass in the sunny playground, holding a colorful striped ball (red, yellow, blue stripes) in her hands, smiling. Peeter stands next to her, looking at the ball eagerly with a big smile. The red slide and sandbox are visible in the background. Cute cartoonish style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VISKAVAD PALLI.",
+      "scene": "Peeter is throwing the colorful striped ball (red, yellow, blue stripes) high into the air on the green grass of the sunny playground. Liisa watches the ball with a happy expression, her arms slightly raised. The red slide is to their left. Cute cartoonish style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PALL VEEREB KAUGELE.",
+      "scene": "The colorful striped ball (red, yellow, blue stripes) is rolling away on the green grass, moving towards a small green bush at the edge of the sunny playground. Liisa and Peeter are looking after the ball with slightly surprised but still happy expressions. The red slide is in the background. Cute cartoonish style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD OTSIVAD PALLI.",
+      "scene": "Liisa and Peeter are walking on the green grass, looking for the colorful striped ball. They are near a small green bush at the edge of the sunny playground, peeking behind it with curious expressions. The red slide and sandbox are in the distance. Cute cartoonish style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PALL ON PÕÕSA ALL.",
+      "scene": "Liisa is pointing with her finger towards the colorful striped ball (red, yellow, blue stripes) which is clearly visible nestled under a small green bush. Peeter is smiling widely, looking at the ball. They are both happy to have found it on the green grass of the sunny playground. Cute cartoonish style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD MÄNGIVAD JÄLLE.",
+      "scene": "Liisa and Peeter are back on the open green grass of the sunny playground, happily playing with the colorful striped ball (red, yellow, blue stripes). Peeter is gently kicking the ball, and Liisa is watching with a joyful smile. The red slide is to their left. Cute cartoonish style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PALLIGA ON LÕBUS.",
+      "scene": "Liisa and Peeter are sitting together on the green grass in the sunny playground, holding the colorful striped ball (red, yellow, blue stripes) between them. They are both hugging the ball and smiling broadly at the viewer, showing their happiness. The red slide and sandbox are in the background. Cute cartoonish style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}

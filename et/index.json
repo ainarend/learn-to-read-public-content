@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-09",
+  "latestDate": "2026-03-10",
   "stories": [
+    {
+      "date": "2026-03-10",
+      "title": "LIISA JA PEETER PALLIGA",
+      "pageCount": 8,
+      "characters": [
+        "LIISA",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-03-09",
       "title": "KATI JA TOOMAS LENDAVAD LOHET",
