@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-14",
+  "language": "et",
+  "title": "KATI JA JUKU LOMPIDEL",
+  "generatedAt": "2026-03-02T01:56:06.441Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KATI",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledad lühikesed juuksed, kandmas kollast vihmamantlelit ja roosaid vihmaseid. Suured rõõmsad silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikesed pruunid juuksed, kandmas sinist vihmamantlelit ja kollaseid vihmaseid. Suured uudishimulikud silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KATI JA JUKU TUBA",
+      "description": "A cozy children's room with light yellow walls, a wooden floor, and a single prominent window on the back wall. Outside the window, green grass and a small light-blue cottage are visible in the distance. A small wooden table with two chairs is in the center of the room. The room is tidy and cheerful. Soft natural light comes from the window. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "VÄLJA LOMPIDEL",
+      "description": "A charming outdoor scene on a spring day. A winding dirt path with several clear puddles. Green grass and new spring growth on either side of the path. In the background, the same small, cozy, light-blue cottage with a red roof and a single window is visible. Green trees with fresh spring leaves surround the cottage. The sky can transition between soft gray clouds with gentle rain and bright blue sky with fluffy white clouds and warm sunshine. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KATI JA JUKU VAATAVAD VÄLJA.",
+      "scene": "Kati, a light-haired girl, and Juku, a brown-haired boy, stand side-by-side at the single prominent window in their cozy room (light yellow walls, wooden floor). They are both looking curiously out at the garden. The window shows green grass and the light-blue cottage in the distance under a bright but slightly cloudy sky.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NÄE, VIHM SAJAB!",
+      "scene": "Kati and Juku are still standing side-by-side at the window, their faces pressed close to the glass, pointing excitedly. They are looking out as soft, gentle rain begins to fall, creating small ripples on the green grass visible outside. Kati, with light hair, and Juku, with brown hair, have wide, happy eyes. Their room has light yellow walls and a wooden floor.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PANE VIHMASAAPAD JALGA.",
+      "scene": "Kati, a light-haired girl, and Juku, a brown-haired boy, are sitting on small wooden chairs at the wooden table in their room (light yellow walls, wooden floor). Kati is putting on her pink rain boots, and Juku is putting on his yellow rain boots. Both are smiling, wearing their yellow (Kati) and blue (Juku) raincoats over their clothes. A window on the back wall shows light rain outside.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÄHEVAD VÄLJA.",
+      "scene": "Kati, a light-haired girl in a yellow raincoat and pink rain boots, and Juku, a brown-haired boy in a blue raincoat and yellow rain boots, are just stepping out of the small, light-blue cottage, onto the dirt path. Gentle rain is still falling. They are looking around with excited expressions. The path has some damp spots, but no large puddles yet. Green grass and trees surround the cottage. The sky is gray and cloudy.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NÜÜD ON PALJU LOMPE.",
+      "scene": "Kati, in her yellow raincoat and pink rain boots, and Juku, in his blue raincoat and yellow rain boots, are walking hand-in-hand along the winding dirt path. They are looking down at several large, glistening puddles that have formed on the path. Gentle rain is still falling. The small, light-blue cottage is visible in the background. Green grass and trees are around them. The sky is gray and cloudy.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KATI HÜPPAB LOMPI!",
+      "scene": "Kati, a light-haired girl in a yellow raincoat and pink rain boots, is joyfully jumping into a large puddle on the winding dirt path, creating a big splash. Her arms are slightly raised, and she has a wide, happy smile. Juku, in his blue raincoat and yellow rain boots, stands beside the puddle, watching with an excited smile. Gentle rain is still falling. The small, light-blue cottage is in the background. Green grass and trees are around them. The sky is gray and cloudy.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "JUKU HÜPPAB KA LOMPI!",
+      "scene": "Juku, a brown-haired boy in a blue raincoat and yellow rain boots, is joyfully jumping into the same large puddle, creating another big splash. Kati, in her yellow raincoat and pink rain boots, stands next to the puddle, laughing happily at Juku's splash. Gentle rain is still falling. The small, light-blue cottage is in the background. Green grass and trees are around them. The sky is gray and cloudy.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD NAERVAD JA PRITSMIVAD.",
+      "scene": "Kati, in her yellow raincoat and pink rain boots, and Juku, in his blue raincoat and yellow rain boots, are both standing in the middle of a large puddle on the dirt path, splashing water with their feet. They are looking at each other, laughing heartily and having a wonderful time. Gentle rain is still falling. The small, light-blue cottage is in the background. Green grass and trees are around them. The sky is gray and cloudy.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PÄIKE TULEB VÄLJA.",
+      "scene": "Kati, in her yellow raincoat and pink rain boots, and Juku, in his blue raincoat and yellow rain boots, are still standing in the large puddle, but they are now looking up at the sky with surprised and happy expressions. A break in the clouds shows a bright sunbeam starting to shine through. The rain has stopped. The small, light-blue cottage is in the background. Green grass and trees are around them. The sky is now clearing, with patches of blue and bright sunshine breaking through fluffy white clouds.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA ÕNNELIKUD.",
+      "scene": "Kati, in her yellow raincoat and pink rain boots, and Juku, in his blue raincoat and yellow rain boots, are standing happily in the middle of a sparkling puddle, bathed in warm sunlight. They are holding hands and smiling broadly, looking content. The sun is fully out, casting a warm glow. The small, light-blue cottage is in the background. Green grass and trees around them are bright and fresh. The sky is blue with fluffy white clouds.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

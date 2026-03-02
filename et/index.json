@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-13",
+  "latestDate": "2026-03-14",
   "stories": [
+    {
+      "date": "2026-03-14",
+      "title": "KATI JA JUKU LOMPIDEL",
+      "pageCount": 10,
+      "characters": [
+        "KATI",
+        "JUKU"
+      ]
+    },
     {
       "date": "2026-03-13",
       "title": "ELLA JA MART VÄRVILINE TUBA",
