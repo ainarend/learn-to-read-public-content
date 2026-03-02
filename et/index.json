@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-10",
+  "latestDate": "2026-03-12",
   "stories": [
+    {
+      "date": "2026-03-12",
+      "title": "ORAV JA MÄGER VÄIKE LINNUKE",
+      "pageCount": 10,
+      "characters": [
+        "ORAV",
+        "MÄGER"
+      ]
+    },
     {
       "date": "2026-03-10",
       "title": "LIISA JA PEETER PALLIGA",

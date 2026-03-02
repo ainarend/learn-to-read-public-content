@@ -1,0 +1,102 @@
+{
+  "date": "2026-03-12",
+  "language": "et",
+  "title": "ORAV JA MÄGER VÄIKE LINNUKE",
+  "generatedAt": "2026-03-02T00:25:23.984Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORAV",
+      "type": "squirrel",
+      "description": "Väike oranž-pruun orav, koheva sabaga. Kandmas väikest rohelist mütsi. Suured säravad silmad ja uudishimulik nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MÄGER",
+      "type": "badger",
+      "description": "Väike hall-must mäger valgete triipudega näol. Kandmas väikest sinist salli. Sõbralik ja leebe näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Kevadine metsarada",
+      "description": "A sunny, cheerful spring forest path. Green grass with small early spring flowers like snowdrops and crocuses. Tall, sturdy oak trees with light green new leaves. A winding dirt path runs through the center. Bright sunlight streams through the tree canopy, casting dappled shadows. A large, old tree with a visible nest is on the right side of the path. Cute cartoonish children's book style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ORAV JA MÄGER KÕNNIVAD.",
+      "scene": "Orav, wearing a small green hat, and Mäger, wearing a small blue scarf, are happily walking side-by-side on a winding dirt path in a sunny spring forest. They are smiling and looking ahead. Green grass with small spring flowers is visible. Tall trees with new light green leaves surround them. Cute cartoonish children's book style. LANDSCAPE composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD KUULEVAD HÄÄLT.",
+      "scene": "Orav and Mäger stop on the sunny spring forest path, tilting their heads slightly as if listening. Orav, in a green hat, points one paw to his ear. Mäger, in a blue scarf, looks curious. Green grass with small spring flowers and tall trees with new leaves are in the background. Cute cartoonish children's book style. LANDSCAPE composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "VÄIKE LINNUKE ON MAAS.",
+      "scene": "Orav and Mäger are kneeling down on the spring forest path, looking gently at a tiny, fluffy baby bird on the green grass in front of them. The baby bird looks small and a little lost. Orav, in a green hat, looks concerned. Mäger, in a blue scarf, looks kind. Small spring flowers are around them. Cute cartoonish children's book style. LANDSCAPE composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LINNUKE ON ÜKSI.",
+      "scene": "Close-up of the tiny, fluffy baby bird sitting alone on the green grass on the sunny spring forest path. Small spring flowers are around the bird. The baby bird looks sad and small. Orav and Mäger are slightly out of frame but implied to be observing gently from nearby. Cute cartoonish children's book style. LANDSCAPE composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KUS ON LINNU KODU?",
+      "scene": "Orav, in a green hat, and Mäger, in a blue scarf, are standing on the spring forest path and looking up towards a large, old tree on the right. They are searching for the bird's nest. Their expressions are thoughtful and helpful. The sunny forest path, green grass, and spring flowers are visible. Cute cartoonish children's book style. LANDSCAPE composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD NÄEVAD PESA PUUS.",
+      "scene": "Orav, in a green hat, points a paw towards a visible bird's nest high up in the branches of the large, old tree. Mäger, in a blue scarf, is looking up at the nest with a relieved smile. The sunny spring forest path, green grass, and spring flowers are in the foreground. Cute cartoonish children's book style. LANDSCAPE composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "MÄGER AITAB LINNUKESE PESSE.",
+      "scene": "Mäger, in a blue scarf, is carefully holding the tiny, fluffy baby bird in his paws and gently lifting it towards the nest in the large tree. Orav, in a green hat, stands nearby, watching with a hopeful smile. The baby bird looks calm. The sunny spring forest path is below. Cute cartoonish children's book style. LANDSCAPE composition.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LINNUKE ON NÜÜD PESAS.",
+      "scene": "The tiny, fluffy baby bird is now safely inside its nest, nestled among its siblings. A parent bird is also visible in the nest, looking lovingly at the baby birds. Orav and Mäger are looking up at the nest from below, smiling. The large tree and sunny spring forest path are in the scene. Cute cartoonish children's book style. LANDSCAPE composition.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KOGU PERE RÕÕMUSTAB.",
+      "scene": "Close-up of the bird's nest in the tree, showing the happy baby bird reunited with its siblings and parent bird. All the birds are chirping happily. The nest is cozy and safe amidst the tree branches. The background shows blurred spring forest foliage. Cute cartoonish children's book style. LANDSCAPE composition.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "ORAV JA MÄGER RÕÕMUSTAVAD.",
+      "scene": "Orav, in a green hat, and Mäger, in a blue scarf, are standing on the sunny spring forest path, looking up at the tree with big, joyful smiles. They are happy that the baby bird is safe. They wave goodbye to the nest. Green grass and spring flowers are around them. Cute cartoonish children's book style. LANDSCAPE composition.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
