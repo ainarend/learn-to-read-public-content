@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-15",
+  "language": "et",
+  "title": "MARI JA PEETER TEKIKENE",
+  "generatedAt": "2026-03-02T02:39:26.742Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledate lühikeste juustega, kannab roosat kleiti ja valgeid sukkpükse. Tal on suured rõõmsameelsed silmad ja lahke naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikeste pruunide juustega, kannab sinist t-särki ja kollaseid pükse. Tal on sõbralikud silmad ja abivalmis näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "HUBANE ELUTUBA",
+      "description": "Cozy children's living room with warm yellow walls and a light wooden floor. A large window on the back wall shows vibrant green trees and a bright spring sky outside. A small, soft blue round rug is placed in the center of the floor. There's a low, child-sized wooden table with two matching small wooden chairs to the right. On the left wall, there's a simple white shelf holding a few colorful children's books. The room is filled with soft, natural light from the window. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MARI JA PEETER TOAS.",
+      "scene": "Mari, a small girl with short light hair in a pink dress, and Peeter, a small boy with short brown hair in a blue t-shirt and yellow pants, stand in the cozy living room. They are looking at each other and smiling brightly. The room has warm yellow walls, a light wooden floor with a blue round rug, a large window on the back wall showing vibrant green trees, a small wooden table with chairs, and a white shelf with colorful books. Cartoon style, landscape orientation.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Mari and Peeter stand in the cozy living room, looking thoughtful but with excited smiles. Mari points a finger to her temple, as if thinking of a brilliant idea. Peeter nods his head eagerly in agreement. The room has warm yellow walls, a light wooden floor with a blue round rug, a large window on the back wall showing vibrant green trees, a small wooden table with chairs, and a white shelf with colorful books. Cartoon style, landscape orientation.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD OTSIVAD KANGAID.",
+      "scene": "Mari and Peeter are kneeling on the light wooden floor of the cozy living room. They are reaching into a small, open wicker basket that is overflowing with colorful fabric scraps. Mari holds up a green fabric piece, and Peeter reaches for a red one, both looking focused and happy. The room has warm yellow walls, a blue round rug, a large window showing vibrant green trees, a small wooden table with chairs, and a white shelf with colorful books. Cartoon style, landscape orientation.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KANGAD ON VÄRVILISED.",
+      "scene": "Mari and Peeter are sitting happily on the light wooden floor of the cozy living room, completely surrounded by a large pile of brightly colored fabric scraps. The scraps are in various shades of red, blue, green, yellow, and pink. They are sifting through the fabrics with joyful expressions. The room has warm yellow walls, a blue round rug, a large window showing vibrant green trees, a small wooden table with chairs, and a white shelf with colorful books. Cartoon style, landscape orientation.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD LÕIKAVAD LAPPE.",
+      "scene": "Mari and Peeter are seated at the small wooden table in the cozy living room. Mari holds child-safe scissors and carefully cuts a small square from a piece of blue fabric. Peeter watches her intently, holding a yellow fabric piece in his hands. Several already cut colorful fabric scraps are neatly stacked on the table next to them. The room has warm yellow walls, a light wooden floor, a blue round rug, a large window showing vibrant green trees, and a white shelf with colorful books. Cartoon style, landscape orientation.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LIIMIVAD LAPID.",
+      "scene": "Mari and Peeter are kneeling on the soft blue round rug in the cozy living room. They are carefully arranging and gluing colorful fabric scraps onto a large, plain white fabric base spread out on the floor, creating a beautiful patchwork pattern. Mari holds a glue stick, and Peeter gently presses down a piece of red fabric onto the base. They look concentrated and happy. The room has warm yellow walls, a light wooden floor, a large window showing vibrant green trees, a small wooden table with chairs, and a white shelf with colorful books. Cartoon style, landscape orientation.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SUUR TEKK ON VALMIS.",
+      "scene": "Mari and Peeter sit happily on the light wooden floor next to a large, newly finished patchwork blanket, made of many colorful fabric scraps, which is spread out entirely on the blue round rug. They are looking at their creation with immense pride and smiling broadly. The room has warm yellow walls, a large window showing vibrant green trees, a small wooden table with chairs, and a white shelf with colorful books. Cartoon style, landscape orientation.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NÜÜD ON PIKNIKU AEG.",
+      "scene": "Mari and Peeter are sitting on their new colorful patchwork blanket, which is spread out on the blue round rug in the cozy living room. They have a small toy tea set and some pretend food (like plastic fruits or small toy sandwiches) laid out on the blanket, fully immersed in their imaginative picnic play. They are laughing and looking at each other joyfully. The room has warm yellow walls, a light wooden floor, a large window showing vibrant green trees, a small wooden table with chairs, and a white shelf with colorful books. Cartoon style, landscape orientation.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SÕPRADEL ON NII LÕBUS.",
+      "scene": "Mari and Peeter are still sitting on their colorful patchwork blanket, which is spread out on the blue round rug in the cozy living room. They are hugging each other gently and smiling with wide, happy grins, clearly having a wonderful time with their pretend picnic. The toy tea set and pretend food are still visible on the blanket. The room has warm yellow walls, a light wooden floor, a large window showing vibrant green trees, a small wooden table with chairs, and a white shelf with colorful books. Cartoon style, landscape orientation.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
