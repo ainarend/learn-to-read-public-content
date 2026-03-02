@@ -1,0 +1,102 @@
+{
+  "date": "2026-03-13",
+  "language": "et",
+  "title": "ELLA JA MART VÄRVILINE TUBA",
+  "generatedAt": "2026-03-02T01:10:41.439Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ELLA",
+      "type": "human",
+      "description": "Väike inimene, pikkade pruunide juustega tüdruk, seljas kollane kleit ja sinised püksid. Tal on sõbralik naeratus ja uudishimulikud silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MART",
+      "type": "human",
+      "description": "Väike inimene, lühikeste blondide juustega poiss, seljas roheline T-särk ja pruunid püksid. Tal on rõõmsameelne ilme ja suured, heatahtlikud silmad. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Laste tuba",
+      "description": "Cozy children's room with light blue walls, a light wooden floor, and a large window on the back wall showing bright green trees outside. A small light wooden table with two small wooden chairs is in the center. A red bookshelf is on the right wall, filled with colorful books. The walls are otherwise plain. Warm sunlight streams in from the window. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ELLA JA MART MÕTLEVAD.",
+      "scene": "Ella and Mart are sitting at the small wooden table in the cozy children's room. Ella has her chin in her hand, looking thoughtful, and Mart is looking at her with a curious expression. The room has light blue walls, a light wooden floor, a large window showing green trees, and a red bookshelf on the right. Warm sunlight streams in. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "TUBA ON VÄRVI NÄLJA.",
+      "scene": "Ella and Mart are still sitting at the small wooden table. Ella points around the room with a thoughtful expression, suggesting the room needs more color. Mart nods in agreement. The room has light blue walls, a light wooden floor, a large window showing green trees, and a red bookshelf on the right. Warm sunlight streams in. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD PABERI.",
+      "scene": "Ella and Mart are standing by the red bookshelf. Mart is reaching for a stack of colorful construction paper from a shelf, holding it carefully. Ella is smiling beside him, ready to help. The room has light blue walls, a light wooden floor, and a large window showing green trees. Warm sunlight streams in. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÕIKAVAD VORME.",
+      "scene": "Ella and Mart are sitting at the small wooden table. Mart is carefully cutting a simple shape (like a circle) from a piece of red paper with child-safe scissors. Ella is cutting a different shape (like a star) from a blue piece of paper. Several colorful paper scraps are on the table. The room has light blue walls, a light wooden floor, a large window showing green trees, and a red bookshelf on the right. Warm sunlight streams in. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD LIIMIVAD KOKKU.",
+      "scene": "Ella and Mart are sitting at the small wooden table. Ella holds a small glue stick and carefully applies glue to a yellow paper shape. Mart is holding a green paper shape, ready to attach it. Many colorful cut-out paper shapes are on the table. The room has light blue walls, a light wooden floor, a large window showing green trees, and a red bookshelf on the right. Warm sunlight streams in. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PALJU ILUSAID VÄRVE.",
+      "scene": "Ella and Mart are holding up a long, colorful paper chain or garland they have made from the cut-out shapes. They are smiling proudly at their creation, which features many different bright colors. The paper craft is now visibly assembled. The room has light blue walls, a light wooden floor, a large window showing green trees, and a red bookshelf on the right. Warm sunlight streams in. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD RIPUTAVAD ÜLES.",
+      "scene": "Mart is standing on a small wooden chair, carefully reaching up to hang the colorful paper garland near the window. Ella stands beside him, holding the other end of the garland and looking up with an excited smile. The room has light blue walls, a light wooden floor, a large window showing green trees, and a red bookshelf on the right. Warm sunlight streams in. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PÄIKE PAISTAB TUBA.",
+      "scene": "The colorful paper garland is now hanging beautifully in the window. Bright warm sunlight streams through the window, catching the colors of the paper garland and casting soft, colorful patterns of light onto the light wooden floor. Ella and Mart are standing back, admiring their work. The room has light blue walls and a red bookshelf on the right. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "VÄRVILINE TUBA ON VALMIS.",
+      "scene": "The children's room is now visibly more colorful and cheerful, with the beautiful paper garland hanging in the sunlit window. Ella and Mart are standing in the middle of the room, looking around with joyful expressions, admiring their finished project. The room has light blue walls, a light wooden floor, a large window showing green trees, and a red bookshelf on the right. Warm sunlight streams in. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "ELLA JA MART ON RÕÕMSAD.",
+      "scene": "Ella and Mart are happily hugging each other in the cheerful, colorful room. The paper garland hangs in the window, catching the warm sunlight. Both children have big, joyful smiles on their faces, celebrating their successful craft project. The room has light blue walls, a light wooden floor, a large window showing green trees, and a red bookshelf on the right. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
