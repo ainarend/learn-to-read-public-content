@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-17",
+  "language": "et",
+  "title": "KAAREL JA SIIRI LAULUVÄGI",
+  "generatedAt": "2026-03-08T23:39:12.243Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KAAREL KARU",
+      "type": "bear",
+      "description": "Väike sõbralik pruun karu, pehmete ümarate kõrvade ja suure naeratusega. Kandmas helesinist t-särki ja rohelisi pükse. Tal on suured uudishimulikud silmad ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIRI REBANE",
+      "type": "fox",
+      "description": "Väike mänguline oranž rebane, koheva sabaga ja teravate kõrvadega. Kandmas kollast kleiti ja väikest roosat vibu peas. Tal on rõõmsameelne ja nutikas näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "METSARADA",
+      "description": "A winding, sun-dappled forest path with green grass and small wildflowers on either side. Tall, slender trees with fresh green spring leaves line the path. Soft sunlight filters through the canopy, creating dappled light on the ground. A gentle, clear stream flows nearby, visible through the trees. Cartoon style, peaceful and inviting.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KAAREL JA SIIRI KOHTUVAD.",
+      "scene": "Kaarel Karu and Siiri Rebane meet on a winding, sun-dappled forest path. Kaarel, wearing a light blue t-shirt and green pants, waves cheerfully. Siiri, in a yellow dress with a pink bow, smiles back. Small wildflowers bloom on the path's edge. Sunlight filters through fresh green spring leaves. Cartoon style, peaceful and inviting.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Kaarel Karu and Siiri Rebane stand together on the forest path, looking excited. Kaarel gestures with a paw, and Siiri claps her paws together, smiling brightly. They are discussing a good idea. Small wildflowers bloom on the path's edge. Sunlight filters through fresh green spring leaves. Cartoon style, peaceful and inviting.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD LÄVAD METSA.",
+      "scene": "Kaarel Karu and Siiri Rebane walk deeper into the forest on the winding path. Kaarel leads slightly, looking ahead with curiosity. Siiri follows, skipping lightly. Tall trees with fresh green spring leaves line the path. Sunlight filters through the canopy. Cartoon style, peaceful and inviting.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD KUULAVAD LEHE SAHINAT.",
+      "scene": "Kaarel Karu and Siiri Rebane stand by a small bush with fresh green leaves on the forest path. Kaarel gently rustles the leaves with his paw, listening intently. Siiri leans in, ears perked up, also listening. Sunlight filters through fresh green spring leaves. Cartoon style, peaceful and inviting.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD KOPUTAVAD OKSTEGA.",
+      "scene": "Kaarel Karu and Siiri Rebane kneel on the forest path. Kaarel holds two small, thin sticks and gently taps them together, creating a soft sound. Siiri watches with wide, interested eyes, smiling. Sunlight filters through fresh green spring leaves. Cartoon style, peaceful and inviting.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD KOGUVAD KIVE.",
+      "scene": "Kaarel Karu and Siiri Rebane bend down on the forest path, collecting smooth, small stones from the ground. Kaarel holds a few stones in his paw. Siiri carefully picks up another stone. Sunlight filters through fresh green spring leaves. Cartoon style, peaceful and inviting.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD TEHVAD HELI.",
+      "scene": "Kaarel Karu and Siiri Rebane sit together on the forest path, surrounded by the collected leaves, sticks, and stones. Kaarel holds a few leaves, rustling them. Siiri holds two small stones, gently clicking them together. They both look thoughtful but happy, experimenting with sounds. Sunlight filters through fresh green spring leaves. Cartoon style, peaceful and inviting.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NÜÜD ON LAUL VALMIS!",
+      "scene": "Kaarel Karu and Siiri Rebane are happily making a simple rhythm on the forest path. Kaarel gently rustles leaves in one paw while Siiri taps two sticks together with her paws, creating a harmonious 'song'. They both smile brightly, enjoying the music. Sunlight filters through fresh green spring leaves. Cartoon style, peaceful and inviting.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON VÄGA ÕNNELIKUD.",
+      "scene": "Kaarel Karu and Siiri Rebane stand on the forest path, smiling brightly. Kaarel holds his leaves, and Siiri holds her sticks, as if showing off their 'instruments'. They look proud and very happy with their forest song. Sunlight filters through fresh green spring leaves. Cartoon style, peaceful and inviting.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}

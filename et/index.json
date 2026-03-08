@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-16",
+  "latestDate": "2026-03-17",
   "stories": [
+    {
+      "date": "2026-03-17",
+      "title": "KAAREL JA SIIRI LAULUVÄGI",
+      "pageCount": 9,
+      "characters": [
+        "KAAREL KARU",
+        "SIIRI REBANE"
+      ]
+    },
     {
       "date": "2026-03-16",
       "title": "LIISA JA KASPARI KEVADPÄEV",
