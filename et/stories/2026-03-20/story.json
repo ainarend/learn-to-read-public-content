@@ -1,0 +1,102 @@
+{
+  "date": "2026-03-20",
+  "language": "et",
+  "title": "MARI JA MIHHAIL VÄRVIVAD MUNE",
+  "generatedAt": "2026-03-09T01:10:24.391Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledad lühikesed juuksed, sinised suured silmad. Seljas erekollane kleit. Naeratav ja rõõmsameelne, armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MIHHAIL",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikesed pruunid juuksed, rohelised suured silmad. Seljas helesinine särk ja lühikesed pruunid püksid. Uudishimulik ja entusiastlik, armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Cozy kitchen with light blue painted walls, light wooden floor, and a large window on the back wall showing a green spring garden outside with a few budding trees. A sturdy wooden table is in the center, with two small wooden chairs. There's a simple light-colored shelf with a few colorful plates on the back wall. Warm and bright atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MARI JA MIHHAIL ON KÖÖGIS.",
+      "scene": "Mari and Mihhail are standing next to a sturdy wooden table in a cozy kitchen. Mari is smiling at Mihhail. Mihhail looks excited. The kitchen has light blue walls, a wooden floor, and a window showing a green spring garden. Two small wooden chairs are pushed under the table. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD MUNE VÄRVIDA.",
+      "scene": "Mari and Mihhail are standing by a sturdy wooden table in the kitchen, looking at each other with happy, anticipating expressions. Mihhail points to the table, suggesting an activity. The kitchen has light blue walls, a wooden floor, and a window showing a green spring garden. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "MARI TOOB SUURED MUNAD.",
+      "scene": "Mari, wearing her yellow dress, is carefully placing a small basket filled with several white eggs onto the sturdy wooden table. Mihhail, wearing his blue shirt, stands beside her, watching with interest. The kitchen has light blue walls and a window showing a green spring garden. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MIHHAIL TOOB ERINEVAD VÄRVID.",
+      "scene": "Mihhail, wearing his blue shirt, is carefully placing a tray with several small pots of colorful paints (red, blue, yellow, green) and a few small paintbrushes onto the sturdy wooden table. Mari, in her yellow dress, watches him, smiling. The basket of eggs is already on the table. The kitchen has light blue walls and a window showing a green spring garden. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD HAKKAVAD MUNE VÄRVIMA.",
+      "scene": "Mari and Mihhail are sitting on small wooden chairs at the sturdy wooden table. Mari is holding a paintbrush and carefully painting a white egg yellow. Mihhail is holding a different paintbrush and starting to paint another egg blue. The basket of eggs and the tray of paints are on the table between them. The kitchen has light blue walls and a window showing a green spring garden. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KOLLANE MUNA. ROHELINE MUNA.",
+      "scene": "Mari and Mihhail are happily sitting at the sturdy wooden table, continuing to color eggs. Mari has just finished painting an egg bright yellow and is holding it up carefully. Mihhail is painting another egg bright green. The tray of paints, paintbrushes, and the basket with remaining white eggs are on the table. The kitchen has light blue walls and a window showing a green spring garden. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PALJU ILUSAID MUNE.",
+      "scene": "Mari and Mihhail are proudly sitting at the sturdy wooden table, surrounded by many freshly painted, colorful eggs. There are yellow, green, blue, and red eggs scattered on the table and some are back in the basket. Mari points to a particularly colorful egg. Mihhail claps his hands gently. The tray of paints and paintbrushes are also on the table. The kitchen has light blue walls and a window showing a green spring garden. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MUNA KORV ON TÄIS.",
+      "scene": "A small decorative basket, now filled with many beautifully colored eggs (yellow, green, blue, red), sits on the sturdy wooden table. Mari and Mihhail are standing behind the table, looking at the full basket with proud smiles. The tray of paints and paintbrushes are neatly put aside. The kitchen has light blue walls and a window showing a green spring garden. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MARI JA MIHHAIL NAERATAVAD.",
+      "scene": "Mari and Mihhail are standing behind the sturdy wooden table, both with wide, happy smiles on their faces. The basket filled with their colorful painted eggs is on the table in front of them. They look proud and content with their work. The kitchen has light blue walls and a window showing a green spring garden. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEE ON NII LÕBUS PÄEV.",
+      "scene": "Mari and Mihhail are high-fiving each other gently across the sturdy wooden table, both beaming with joy. The basket of colorful eggs is prominently displayed on the table. Their expressions show pure happiness. The kitchen has light blue walls and a window showing a green spring garden. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
