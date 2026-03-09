@@ -1,0 +1,88 @@
+{
+  "date": "2026-03-21",
+  "language": "et",
+  "title": "KETU JA SIILU AIAS",
+  "generatedAt": "2026-03-09T01:54:00.431Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KETU REBANE",
+      "type": "fox",
+      "description": "Väike oranž rebane, pehme karv, pikad teravad kõrvad ja kohev saba. Seljas roheline vest ja kaelas sinine sall. Tal on suured säravad silmad ja uudishimulik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIILU SIIL",
+      "type": "hedgehog",
+      "description": "Väike pruun siil, teravate okastega seljal, roosa nina ja väikesed ümarad kõrvad. Seljas väike punane põll ja jalas sinised kummikud. Tal on sõbralikud silmad ja leebe naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Aias",
+      "description": "A sunny children's garden patch with soft green grass and a small tilled brown soil area ready for planting. A low wooden picket fence borders the back. A small red watering can is visible near the planting area. Bright colorful flowers like daisies and tulips are already blooming in another part of the garden. Warm spring sunlight illuminates the scene. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KETU JA SIILU ON AIAS.",
+      "scene": "Ketu Rebane, wearing a green vest and blue scarf, stands happily on the green grass in a sunny garden. Siilu Siil, wearing a red apron and blue rain boots, stands next to Ketu, looking at the tilled brown soil patch. A small red watering can is nearby. The garden has a wooden fence in the background and colorful blooming spring flowers. Warm spring sunlight fills the scene. Cute cartoonish style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Ketu Rebane and Siilu Siil stand together in the sunny garden, both looking at each other with bright, excited smiles. Ketu gestures playfully towards the tilled brown soil patch, suggesting an idea. Siilu claps their paws together. The red watering can sits nearby. Colorful blooming spring flowers and a wooden fence are in the background. Warm spring sunlight. Cute cartoonish style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD SEEMNED.",
+      "scene": "Ketu Rebane and Siilu Siil are kneeling near the tilled brown soil patch in the sunny garden. Ketu holds a small packet of seeds in their paws, showing it to Siilu. Siilu looks at the seeds with curiosity and a gentle smile. The red watering can is on the grass beside them. Colorful blooming spring flowers and a wooden fence are in the background. Warm spring sunlight. Cute cartoonish style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD KAEVAVAD MULLA.",
+      "scene": "Ketu Rebane and Siilu Siil are busy at the tilled brown soil patch in the sunny garden. Ketu uses a small green spade to gently dig a little hole in the soil. Siilu watches intently, perhaps holding a tiny hand trowel ready to help. The red watering can is nearby. Colorful blooming spring flowers and a wooden fence are in the background. Warm spring sunlight. Cute cartoonish style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD ISTUTAVAD SEEMNE.",
+      "scene": "Ketu Rebane and Siilu Siil are carefully planting in the tilled brown soil patch in the sunny garden. Ketu gently places a tiny seed into the small hole they dug. Siilu watches with focused attention, maybe covering the seed with a pinch of soil. The red watering can sits on the grass. Colorful blooming spring flowers and a wooden fence are in the background. Warm spring sunlight. Cute cartoonish style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD ANNAVAD VETT.",
+      "scene": "Siilu Siil holds the small red watering can and carefully waters the spot where they planted the seed in the tilled brown soil patch. Ketu Rebane stands next to Siilu, smiling encouragingly. A few tiny water droplets are visible. Colorful blooming spring flowers and a wooden fence are in the background. Warm spring sunlight. Cute cartoonish style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VÄIKE VÕSU KASVAB!",
+      "scene": "Ketu Rebane and Siilu Siil are kneeling and pointing excitedly at the tilled brown soil patch. A tiny, green sprout has just emerged from the soil, reaching upwards. Both characters have wide, happy smiles, delighted by the discovery. The red watering can is beside them. Colorful blooming spring flowers and a wooden fence are in the background. Warm spring sunlight. Cute cartoonish style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KETU JA SIILU ON RÕÕMSAD.",
+      "scene": "Ketu Rebane and Siilu Siil stand together in the sunny garden, holding paws and looking at the small green sprout with immense joy and pride. Both characters have big, beaming smiles. The red watering can is nearby. Colorful blooming spring flowers and a wooden fence are in the background. Warm spring sunlight. Cute cartoonish style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
