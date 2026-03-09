@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-19",
+  "language": "et",
+  "title": "OSKARI JA MINNI PAADILUGU",
+  "generatedAt": "2026-03-09T00:25:33.583Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "OSKAR ORIJAV",
+      "type": "squirrel",
+      "description": "VÄIKE PRUUN ORAV, SUURE PUSSLISE SABAGA, KANDMAS ROHELIST PÜKSA JA VÄIKEST KOLLAST MÜTSI. TAL ON SÕBRALIK JA TÄHELEPANELIK NÄOILME. ARMAS MULTIFILMISTIIL.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MINNI MÄGER",
+      "type": "badger",
+      "description": "VÄIKE HALL MÄGER MUSTADE JA VALGETE TRIIPUDEGA NÄOL, KANDMAS SINIST PÖLLEPÜKSA. TAL ON RÕÕMUS JA KIIRE NÄOILME. ARMAS MULTIFILMISTIIL.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "TÖÖKODA",
+      "description": "Cozy small workshop with light blue painted wooden walls, a light brown wooden floor, and a single window on the back wall showing bright green spring trees outside. A sturdy wooden workbench is against the right wall, covered with a few simple tools like a small hammer and some wooden blocks. A red toolbox sits on the floor near the bench. Warm sunlight streams in from the window. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "VÄLJAS OJA ÄÄRES",
+      "description": "Bright and sunny spring outdoor scene with soft green grass, a small gentle winding stream in the foreground, and colorful wildflowers scattered along the banks. Blue sky with fluffy white clouds above. Distant green trees in the background. The water in the stream is clear and sparkling. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "OSKAR JA MINNI KOHTUVAD.",
+      "scene": "OSKAR ORIJAV JA MINNI MÄGER ON TÖÖTOAS. OSKAR HOIAB KÄES VÄIKEST PUUTÜKKI JA NAERATAB MINNILE. MINNI VAATAB TEDA HUVIGA. TÖÖLAUALE ON PANDUD MÕNED TÖÖRIISTAD. Päikeseline kevadpäev.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "OSKAR ORIJAV JA MINNI MÄGER ON TÖÖTOAS. OSKAR NÄITAB MINNILE VÄIKEST PUUTÜKKI. MINNI ON PÕNEVIL JA VIIPAB. NENDE EES ON TÖÖLAUD, MILLEL ON PUUTÜKID. Päikeseline kevadpäev.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VALMISTAVAD PAATI.",
+      "scene": "OSKAR ORIJAV JA MINNI MÄGER ISTUVAD TÖÖLAUA ÄÄRES. OSKAR HOIAB VÄIKEST HAAMRIT JA LÖÖB NAELA PUUTÜKKI. MINNI HOIAB KINNI TEIST PUUTÜKKI, ET SEE PÜSIKS PAIGAL. LAUAL ON PUUTÜKID JA TÖÖRIISTAD. Päikeseline kevadpäev.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "VÄIKE PAAT VALMISTUB.",
+      "scene": "OSKAR ORIJAV JA MINNI MÄGER ON TÖÖTOAS. VÄIKE PUITPAAT ON NÜÜD SEISAB TÖÖLAUAL. OSKAR ON ASETANUD VÄIKESE PABERIST PURJE PAADI KÜLGE. MINNI VAATAB VALMIST PAATI NAERATADES. Päikeseline kevadpäev.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PAAT ON NÜÜD VALMIS.",
+      "scene": "OSKAR ORIJAV JA MINNI MÄGER VAATAVAD RÕÕMSALT TÖÖLAUAL SEISVAT VÄIKEST PUITPAATI, MILLEL ON PURJE. NAD ON VÄGA ÕNNELIKUD. OSKAR OSUTAB PAADILE. MINNI PLAKSUTAB KÄSI. Päikeseline kevadpäev.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LÄHEVAD VÄLJA.",
+      "scene": "OSKAR ORIJAV JA MINNI MÄGER HOIAVAD KÄEST KINNI JA KÕNNIVAD TÖÖTOA UKSEST VÄLJA, SUUNDUDES ÕUE. OSKAR HOIAB VÄIKEST VALMIS PAATI ÜHES KÄES. NAD ON RÕÕMSAD JA NAERATAVAD. Taustal on näha rohelist muru ja puid päikeselisel kevadpäeval.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LEIAME VÄIKESE OJA.",
+      "scene": "OSKAR ORIJAV JA MINNI MÄGER SEISAVAD VÄIKESE VOOLAVA OJA ÄÄRES. VÄRVIKAD KEVADISED LILLED ÕITSEVAD OJA KALDAL. OSKAR HOIAB PAATI VEEL KÄES. MINNI NÄITAB OJALE JA ON PÕNEVIL. Päikeseline kevadpäev.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PAAT UJUBA VEES.",
+      "scene": "OSKAR ORIJAV HOIAB VÄIKEST PUITPAATI OJA VEES. MINNI MÄGER VAATAB PAATI NAERATADES, KÄED KOOS. PAAT HÕLJUBA ÕRNALT SELGES KEVADISES VEES. Päikeseline kevadpäev.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PAAT UJUB KAUGELE.",
+      "scene": "OSKARI ORIJAVI JA MINNI MÄGERI VALMISTATUD VÄIKE PUITPAAT UJUB OJA VOOLUS EEMALE. OSKAR JA MINNI JÄLGIVAD SEDA RÕÕMSALT OJA KALDALT. NAD NAERATAVAD JA VIIPAVAD PAADILE JÄRELE. Päikeseline kevadpäev.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA ÕNNELIKUD.",
+      "scene": "OSKAR ORIJAV JA MINNI MÄGER ISTUVAD OJA KALDALE ROHELISESE MURULE, NAERATAVAD RÕÕMSALT ÜKSTEISELE, KUNA NENDE VÄIKE PAAT UJUB RAHULIKULT EEMALE. NAD HOIAVAD KÄEST KINNI. PÄIKE PAISTAB SOOJALT. Päikeseline kevadpäev.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

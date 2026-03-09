@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-17",
+  "latestDate": "2026-03-19",
   "stories": [
+    {
+      "date": "2026-03-19",
+      "title": "OSKARI JA MINNI PAADILUGU",
+      "pageCount": 10,
+      "characters": [
+        "OSKAR ORIJAV",
+        "MINNI MÄGER"
+      ]
+    },
     {
       "date": "2026-03-17",
       "title": "KAAREL JA SIIRI LAULUVÄGI",
