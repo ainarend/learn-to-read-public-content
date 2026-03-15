@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-22",
+  "latestDate": "2026-03-23",
   "stories": [
+    {
+      "date": "2026-03-23",
+      "title": "LIISU JA PEETER VÄRVIVAD MUNU",
+      "pageCount": 8,
+      "characters": [
+        "LIISU",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-03-22",
       "title": "PIPI JA KIKI EHITAVAD SILLA",

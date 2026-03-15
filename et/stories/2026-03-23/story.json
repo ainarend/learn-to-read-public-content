@@ -1,0 +1,88 @@
+{
+  "date": "2026-03-23",
+  "language": "et",
+  "title": "LIISU JA PEETER VÄRVIVAD MUNU",
+  "generatedAt": "2026-03-15T22:53:41.284Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISU",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledate juustega, kergelt lainelised juuksed ulatuvad õlgadeni. Seljas on roosa kleit ja valge põll. Naeratab sõbralikult suurte siniste silmadega. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikeste pruunide juustega. Seljas on sinine pluus ja rohelised püksid. Naeratab rõõmsalt suurte roheliste silmadega. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Hubane Köök",
+      "description": "Cozy children's kitchen with yellow painted walls and a light wooden floor. On the back wall is a large rectangular window showing a sunny spring garden with vibrant green grass, blooming tulips, and budding trees. In the center of the room is a large, sturdy wooden table with four small wooden chairs around it. A simple, round yellow lamp hangs above the table. On the walls are a few simple children's drawings pinned up. The atmosphere is warm, bright, and inviting. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISU JA PEETER ON KÖÖGIS.",
+      "scene": "Liisu ja Peeter seisavad rõõmsalt köögis puidust laua ääres. Liisu, seljas roosa kleit ja valge põll, seisab laua kõrval ja vaatab Peetrit. Peeter, seljas sinine pluus ja rohelised püksid, seisab samuti laua ääres. Köögis on kollased seinad, puidust põrand ja suur aken, millest paistab kevadine päikeseline aed. Laua kohal ripub kollane lamp. Multifilmi stiil.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Liisu ja Peeter seisavad köögis puidust laua ääres, mõlemal on uudishimulik ja rõõmus nägu. Liisu osutab sõrmega õhku, justkui oleks tal põnev idee. Peeter noogutab rõõmsalt ja vaatab Liisut. Köök on kollaste seinte, puidust põranda ja kevadise aiaga akna taga. Laua kohal ripub kollane lamp. Multifilmi stiil.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD MUNAD.",
+      "scene": "Liisu ja Peeter on köögis puidust laua ääres. Laual on tühi savikauss. Liisu hoiab kahe käega ettevaatlikult käes korvi, milles on neli valget kanamuna. Peeter ulatab käe korvi poole, et ühte muna võtta. Mõlemad on keskendunud ja rõõmsad. Köök on kollaste seinte, puidust põranda ja kevadise aiaga akna taga. Laua kohal ripub kollane lamp. Multifilmi stiil.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD SEGAJAD VÄRVE.",
+      "scene": "Liisu ja Peeter on köögis puidust laua ääres. Laual on kolm väikest klaaskaussi, milles on erksavärvilised veevärvid: punane, sinine ja kollane. Liisu hoiab käes pintslit ja segab sinist värvi kausis. Peeter hoiab samuti pintslit ja segab punast värvi kausis. Mõlemad on huvitatud ja rõõmsad. Köök on kollaste seinte, puidust põranda ja kevadise aiaga akna taga. Laua kohal ripub kollane lamp. Multifilmi stiil.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD VÄRVIVAD MUNAD.",
+      "scene": "Liisu ja Peeter on köögis puidust laua ääres. Laual on kausid värvidega ja neli valget muna. Liisu hoiab muna ühes käes ja pintsliga värvib muna punaseks. Peeter hoiab samuti muna teises käes ja värvib seda siniseks. Mõlemad on hoolikad ja rõõmsad, keskendunud oma tööle. Köök on kollaste seinte, puidust põranda ja kevadise aiaga akna taga. Laua kohal ripub kollane lamp. Multifilmi stiil.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MUNAD ON NÜÜD VÄRVILISED.",
+      "scene": "Liisu ja Peeter on köögis puidust laua ääres. Laual on ilus rida äsja värvitud, kuivanud, erksavärvilisi lihavõttemune (punased, sinised, kollased, rohelised). Liisu ja Peeter vaatavad uhkusega värvilisi mune. Mõlemad naeratavad laialt. Köök on kollaste seinte, puidust põranda ja kevadise aiaga akna taga. Laua kohal ripub kollane lamp. Multifilmi stiil.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD VAATAVAD MUNU.",
+      "scene": "Liisu ja Peeter on köögis puidust laua ääres. Laual on endiselt värvilised lihavõttemunad. Liisu osutab näpuga ühele sinisele munale ja naeratab rõõmsalt Peetrile. Peeter noogutab entusiastlikult ja vaatab hoolikalt mune. Mõlemad on rõõmsad ja imetlevad oma värvilist tööd. Köök on kollaste seinte, puidust põranda ja kevadise aiaga akna taga. Laua kohal ripub kollane lamp. Multifilmi stiil.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LIISU JA PEETER ON ÕNNELIKUD.",
+      "scene": "Liisu ja Peeter seisavad köögis puidust laua ääres, mis on kaetud värviliste lihavõttemunadega. Liisu ja Peeter hoiavad teineteisel käest kinni ja naeratavad laialt kaamera poole. Mõlemad on väga õnnelikud oma ühise töö üle. Köök on kollaste seinte, puidust põranda ja kevadise aiaga akna taga. Laua kohal ripub kollane lamp. Multifilmi stiil.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
