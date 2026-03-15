@@ -1,108 +1,95 @@
 {
   "date": "2026-03-22",
   "language": "et",
-  "title": "JUKU JA LIISA LINNUPESA",
-  "generatedAt": "2026-03-09T02:40:30.094Z",
+  "title": "PIPI JA KIKI EHITAVAD SILLA",
+  "generatedAt": "2026-03-15T22:09:28.675Z",
   "characters": [
     {
       "id": "char1",
-      "name": "JUKU",
-      "type": "human",
-      "description": "Väike inimene poiss lühikeste pruunide juuste ja säravate siniste silmadega, seljas roheline triiksärk ja sinised püksid. Rõõmsameelne ja uudishimulik, sõbralik näoilme. Armas multifilmistiil.",
+      "name": "PIPI",
+      "type": "mouse",
+      "description": "Väike hall hiir roosade kõrvade ja ninaotsaga, seljas väike sinine vest. Tal on suured säravad uudishimulikud silmad ja sõbralik naeratav nägu. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "LIISA",
-      "type": "human",
-      "description": "Väike inimene tüdruk pikkade heledate patsikeste ja suurte pruunide silmadega, seljas kollane kleit ja punased kingad. Naeratav ja abivalmis, rõõmsameelne näoilme. Armas multifilmistiil.",
+      "name": "KIKI",
+      "type": "frog",
+      "description": "Väike erkroheline konn suurte ümarate silmadega, seljas väike kollane lips. Tal on rõõmus ja energiline ilme, suur naeratus. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "TOATUBA",
-      "description": "Cozy children's playroom with light blue walls, a soft colorful rug on the floor, and a single large window on the back wall showing green trees outside. A small wooden table with two chairs is in the center. A red toy box is in one corner, and a small bookshelf with colorful books is on another wall. Warm, inviting atmosphere. Cartoon style.",
+      "name": "Metsaoja ääres",
+      "description": "A gentle forest scene with tall green pine trees and deciduous trees with light green spring leaves. A narrow, shallow stream with clear water and smooth round river stones runs through the middle of the path. Soft green moss covers some ground areas. Bright spring sunlight filters through the tree canopy. The overall atmosphere is peaceful and natural. Cartoon style.",
       "image": "loc1.png"
-    },
-    {
-      "id": "loc2",
-      "name": "HOOV",
-      "description": "Sunny green backyard with lush green grass and a few blooming spring flowers. A small, sturdy tree with some budding leaves is in the middle. A simple wooden fence runs along the back. Bright and cheerful atmosphere with soft natural light. Cartoon style.",
-      "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "JUKU JA LIISA TOAS.",
-      "scene": "Juku and Liisa are sitting on the colorful rug in a cozy children's playroom with light blue walls. They are playing happily with colorful building blocks. A red toy box is in the corner and a small bookshelf is visible. Warm sunlight streams through the window showing green trees outside. Both children are smiling. Cartoon style.",
+      "text": "PIPI JA KIKI ON METSAS.",
+      "scene": "Pipi, a small grey mouse, and Kiki, a small bright green frog, are standing on a soft mossy forest path. Tall green pine trees and trees with light green spring leaves are visible around them. Bright spring sunlight filters through the tree canopy. Pipi is looking around curiously, and Kiki is smiling brightly. Cartoon style.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NEIL ON MÕTE LINNULE.",
-      "scene": "Juku and Liisa are standing near the window in the cozy children's playroom, looking out. Juku points excitedly at a small bird flying past the window. Liisa smiles, turning to Juku, as if getting a new idea. The playroom has light blue walls, a colorful rug, a red toy box, and a bookshelf. Warm sunlight fills the room. Cartoon style.",
+      "text": "NÄEVAD VÄIKEST OJAKE.",
+      "scene": "Pipi, a small grey mouse, and Kiki, a small bright green frog, are standing at the edge of a narrow, shallow stream with clear water and smooth round river stones. They both look at the stream with curious expressions. The forest setting remains the same, with trees and sunlight. Cartoon style.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD KOGUVAD PUUJUPI.",
-      "scene": "Juku and Liisa are at the small wooden table in the cozy children's playroom. They are carefully looking through a small open box filled with various craft materials, including small, smooth wooden pieces. Liisa picks up a wooden piece, while Juku points to another. The playroom has light blue walls, a colorful rug, a red toy box, and a bookshelf. Sunlight streams through the window. Cartoon style.",
+      "text": "TAHAVAD ÜLE MINNA.",
+      "scene": "Pipi, a small grey mouse, and Kiki, a small bright green frog, are standing by the stream. Pipi points across the stream with a paw, looking determined. Kiki nods eagerly beside Pipi, also looking at the other side. The stream runs through the forest path. Cartoon style.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "JUKU EHITAB PESA.",
-      "scene": "Juku is sitting at the small wooden table in the cozy children's playroom, focused on assembling a simple wooden birdhouse from the gathered wooden pieces. He carefully attaches one piece to another. Liisa sits next to him, watching intently and smiling encouragingly. The playroom has light blue walls, a colorful rug, a red toy box, and a bookshelf. Warm light from the window illuminates the scene. Cartoon style.",
+      "text": "OTSIVAD KAUGEID PULKI.",
+      "scene": "Pipi, a small grey mouse, and Kiki, a small bright green frog, are now searching on the ground near the stream. Pipi is bending down, carefully examining a long twig on the mossy ground. Kiki is looking under a small leaf. The forest is bright with spring sunlight. Cartoon style.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "LIISA AITAB JUKUT.",
-      "scene": "Juku and Liisa are working together at the small wooden table in the cozy children's playroom. Liisa is holding a wooden piece steady for Juku, who is carefully attaching another part to the birdhouse they are building. Both children are smiling and concentrating on their task. The playroom has light blue walls, a colorful rug, a red toy box, and a bookshelf. Sunlight streams through the window. Cartoon style.",
+      "text": "LEIAVAD ILUSAID KIVE.",
+      "scene": "Pipi, a small grey mouse, and Kiki, a small bright green frog, are excitedly looking at a pile of smooth, colourful river stones they have gathered near the stream. Pipi is holding a small, flat stone in its paw, and Kiki is pointing at a particularly shiny one. The forest setting is consistent. Cartoon style.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "LINNUPESA ON VALMIS.",
-      "scene": "Juku and Liisa are standing proudly next to the small wooden table in the cozy children's playroom, holding up the finished, simple wooden birdhouse they built together. Both children have big smiles on their faces, happy with their creation. The playroom has light blue walls, a colorful rug, a red toy box, and a bookshelf. Sunlight from the window brightens the scene. Cartoon style.",
+      "text": "EHITAVAD KOOS SILLA.",
+      "scene": "Pipi, a small grey mouse, and Kiki, a small bright green frog, are actively working together to build a small bridge over the narrow stream. They are carefully placing the long sticks and flat stones they collected. Pipi is pushing a stick into place, and Kiki is arranging stones. They are focused and collaborating. Cartoon style.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "VIIME LINNUPESA VÄLJA.",
-      "scene": "Juku and Liisa are walking towards the door of the cozy children's playroom, both carrying the finished wooden birdhouse carefully. They are smiling, excited to take it outside. The playroom has light blue walls, a colorful rug, a red toy box, and a bookshelf. Sunlight streams through the window. Cartoon style.",
+      "text": "VÄIKE SILD ON VALMIS.",
+      "scene": "Pipi, a small grey mouse, and Kiki, a small bright green frog, stand proudly beside their newly built small bridge. The bridge is made of several sticks laid across the stream, with flat stones placed on top. Both characters are smiling, looking at their creation with satisfaction. The stream flows gently under the bridge. Cartoon style.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "NAD PANEKSID PUU OTSA.",
-      "scene": "Juku and Liisa are in the sunny green backyard. Juku is carefully placing the wooden birdhouse onto a low branch of the small tree in the middle of the yard. Liisa stands next to him, looking up with an excited smile. Green grass and a wooden fence are visible. The atmosphere is bright and cheerful. Cartoon style.",
+      "text": "NAD LÄHEVAD ÜLE.",
+      "scene": "Pipi, a small grey mouse, and Kiki, a small bright green frog, are carefully walking across their newly built small bridge. Pipi is leading, taking a small step, and Kiki is following closely behind. They both look happy and confident as they cross the stream. The forest environment is consistent. Cartoon style.",
       "image": "page8.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "VÄIKE LIND TULEB.",
-      "scene": "Juku and Liisa are standing a short distance away from the small tree in the sunny green backyard. They are watching with wide smiles as a small, colorful bird flies towards the wooden birdhouse that is now hanging on the tree branch. Green grass and a wooden fence are visible. The atmosphere is bright and cheerful. Cartoon style.",
+      "text": "PIPI JA KIKI ON RÕÕMSAD.",
+      "scene": "Pipi, a small grey mouse, and Kiki, a small bright green frog, are now standing on the other side of the stream, having successfully crossed the bridge. They are holding hands (or paws/webbed foot) and jumping slightly with joy, their faces beaming with big smiles. The small bridge is visible behind them, spanning the stream. Cartoon style.",
       "image": "page9.png",
-      "location_id": "loc2"
-    },
-    {
-      "pageNumber": 10,
-      "text": "JUKU JA LIISA ON RÕÕMSAD.",
-      "scene": "Juku and Liisa are sitting on the lush green grass in the sunny backyard, looking up at the birdhouse on the tree branch where the small bird is now perched. Both children are smiling broadly, holding hands, clearly happy and proud. Blooming spring flowers are scattered in the grass. The wooden fence is visible in the background. The atmosphere is bright and cheerful. Cartoon style.",
-      "image": "page10.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     }
   ]
 }
