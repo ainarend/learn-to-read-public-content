@@ -1,0 +1,102 @@
+{
+  "date": "2026-03-24",
+  "language": "et",
+  "title": "MIINA JA MIKU MUUSIKA",
+  "generatedAt": "2026-03-15T23:40:29.538Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MIINA",
+      "type": "mouse",
+      "description": "Väike hall hiir suurte roosade kõrvadega, kandmas väikest sinist vesti. Tema silmad on säravad ja nägu rõõmus ning uudishimulik. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MIKU",
+      "type": "bear",
+      "description": "Väike pruun karu pehmete ümarate kõrvadega, kandmas rohelist salli. Ta on sõbralik ja mõtlik, alati valmis avastama. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "METS",
+      "description": "Sunny forest clearing with tall green trees and dappled sunlight filtering through the leaves. The ground is covered with soft green grass and scattered brown fallen leaves. A few smooth grey stones are naturally visible. The atmosphere is peaceful, inviting, and bright. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MIINA JA MIKU ON METSAS.",
+      "scene": "Miina, a small grey mouse in a blue vest, and Miku, a small brown bear in a green scarf, are standing side-by-side in a sunny forest clearing. Miina is pointing forward with a curious expression, while Miku looks around thoughtfully. Tall green trees surround them, and dappled sunlight falls on the soft green grass and scattered brown leaves. The atmosphere is bright and peaceful. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD MUUSIKAT.",
+      "scene": "Miina, a small grey mouse in a blue vest, and Miku, a small brown bear in a green scarf, are both looking excited and thoughtful in the sunny forest clearing. Miina has her paws pressed together, and Miku has a paw on his chin, both dreaming of music. Tall green trees surround them, and dappled sunlight falls on the soft green grass and scattered brown leaves. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "MIKU LEIAB KIVI.",
+      "scene": "Miku, a small brown bear in a green scarf, is kneeling down in the sunny forest clearing, happily holding up a smooth, grey, rounded stone. Miina, a small grey mouse in a blue vest, is standing beside Miku, looking at the stone with interest. Tall green trees surround them, and dappled sunlight falls on the soft green grass and scattered brown leaves. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KIVI TEHA SAAB TRUMMI.",
+      "scene": "Miku, a small brown bear in a green scarf, is sitting cross-legged on the grass in the sunny forest clearing, holding the smooth grey stone in front of him like a drum. Miina, a small grey mouse in a blue vest, is watching him with an encouraging smile. Tall green trees surround them, and dappled sunlight falls on the soft green grass and scattered brown leaves. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIINA OTSIS PULKA.",
+      "scene": "Miina, a small grey mouse in a blue vest, is actively searching on the ground in the sunny forest clearing, bending over and looking closely at the fallen leaves and grass for a stick. Miku, a small brown bear in a green scarf, watches her patiently, holding the smooth grey stone. Tall green trees surround them, and dappled sunlight falls on the soft green grass and scattered brown leaves. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LÖÖVAD KIVI.",
+      "scene": "Miina, a small grey mouse in a blue vest, is holding a small brown stick and gently tapping the smooth grey stone. Miku, a small brown bear in a green scarf, holds the stone steady in front of him. Both characters are focused and smiling in the sunny forest clearing. Tall green trees surround them, and dappled sunlight falls on the soft green grass and scattered brown leaves. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PAI! PAI! HELI KÕLAB.",
+      "scene": "Miina, a small grey mouse in a blue vest, has just tapped the smooth grey stone with her stick, and her eyes are wide with delight at the sound. Miku, a small brown bear in a green scarf, is also smiling broadly, looking impressed by the sound. They are in the sunny forest clearing, with tall green trees and dappled sunlight on the grass. Small sound waves are visually emanating from the stone. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MIKU LEIAB LEHED.",
+      "scene": "Miku, a small brown bear in a green scarf, is kneeling down in the sunny forest clearing, holding up a handful of large, dry brown leaves with a curious expression. Miina, a small grey mouse in a blue vest, stands next to him, looking at the leaves with interest. Tall green trees surround them, and dappled sunlight falls on the soft green grass. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LEHED SAAVAD SHAKERIKS.",
+      "scene": "Miina, a small grey mouse in a blue vest, is gently shaking a handful of large, dry brown leaves, making a soft rustling sound. Miku, a small brown bear in a green scarf, is tapping the smooth grey stone with the stick, creating a harmonious sound. Both are smiling happily and making music together in the sunny forest clearing. Tall green trees and dappled sunlight are visible. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NENDE MUUSIKA ON NII HEA!",
+      "scene": "Miina, a small grey mouse in a blue vest, is joyfully shaking her leaves, and Miku, a small brown bear in a green scarf, is happily tapping his stone with the stick. Both characters are laughing and smiling brightly, enjoying the music they are making together. Musical notes are playfully floating around them in the sunny forest clearing. Tall green trees and dappled sunlight create a cheerful background. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-23",
+  "latestDate": "2026-03-24",
   "stories": [
+    {
+      "date": "2026-03-24",
+      "title": "MIINA JA MIKU MUUSIKA",
+      "pageCount": 10,
+      "characters": [
+        "MIINA",
+        "MIKU"
+      ]
+    },
     {
       "date": "2026-03-23",
       "title": "LIISU JA PEETER VÄRVIVAD MUNU",
