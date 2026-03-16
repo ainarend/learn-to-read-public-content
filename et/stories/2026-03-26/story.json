@@ -1,0 +1,102 @@
+{
+  "date": "2026-03-26",
+  "language": "et",
+  "title": "RENO JA JUTA JÕEL",
+  "generatedAt": "2026-03-16T00:24:34.191Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE RENO",
+      "type": "fox",
+      "description": "Väike oranž rebane pehme karvaga, suured terased kõrvad, kandmas väikest sinist salli, suured sõbralikud silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES JUTA",
+      "type": "rabbit",
+      "description": "Väike hall jänes pikkade kõrvadega, valge kohev sabaga, kandmas väikest rohelist mütsi, suured uudishimulikud silmad ja rõõmsameelne ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "JÕE ÄÄRES",
+      "description": "Sunny riverbank on a clear spring day. The river has clear, gently flowing blue water with smooth, colorful pebbles visible at the bottom. Green grassy banks with a few small, smooth grey river stones scattered around. Distant green trees and a clear blue sky are visible in the background. The overall atmosphere is peaceful and bright. Cute cartoonish children's book illustration style, bright cheerful colors, soft rounded shapes, friendly and inviting atmosphere, simple clean backgrounds, appealing to young children. LANDSCAPE orientation for book-like viewing.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "RENO JA JUTA LÄHEVAD JÕELE.",
+      "scene": "Rebane Reno, wearing a small blue scarf, and Jänes Juta, wearing a small green hat, walk cheerfully towards a gently flowing river on a sunny spring day. They are side-by-side on the green grassy bank. The river has clear blue water with some visible pebbles. Distant green trees and a clear blue sky are in the background. Reno and Juta have happy, smiling expressions.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD OTSIVAD MIDAGI ILUSAT.",
+      "scene": "Rebane Reno and Jänes Juta are standing on the green grassy riverbank, looking intently into the clear blue water of the gently flowing river. Reno is pointing a paw towards the water, and Juta is bending down slightly, peering with curiosity. They both have expressions of hopeful anticipation. Colorful pebbles are visible at the bottom of the river. Distant green trees and a clear blue sky are in the background.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "JÕGI ON VOOLAV JA SELGE.",
+      "scene": "Rebane Reno and Jänes Juta are kneeling on the green grassy riverbank, looking closely at the clear, gently flowing blue water of the river. The water is sparkling and transparent, revealing many smooth, colorful pebbles on the riverbed. Reno has a curious expression, and Juta is smiling. Distant green trees and a clear blue sky are in the background. The atmosphere is peaceful.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "RENO NÄEB VÄRVIKAS KIVI.",
+      "scene": "Rebane Reno, wearing his blue scarf, is enthusiastically pointing a paw into the clear blue water of the gently flowing river. His eyes are wide with excitement, focused on a distinct colorful pebble visible on the riverbed. Jänes Juta, wearing her green hat, is looking where Reno is pointing, smiling happily. They are both kneeling on the green grassy bank. Distant green trees and a clear blue sky are in the background.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "JUTA KORJAB KIVE KOKKU.",
+      "scene": "Jänes Juta, wearing her green hat, is carefully picking up a smooth, colorful pebble from the riverbank with her paw. She has a gentle, focused expression. Rebane Reno, wearing his blue scarf, is standing beside her, watching with interest and a soft smile. Several colorful pebbles are already gathered nearby on the green grass. The clear blue river flows gently in the background. Distant green trees and a clear blue sky are visible.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LEIAVAD PUNASE KIVI.",
+      "scene": "Rebane Reno and Jänes Juta are on the green grassy riverbank. Reno is holding up a bright red, smooth river stone in his paw, showing it to Juta with a proud smile. Juta, wearing her green hat, is looking at the red stone with a happy and surprised expression. The clear blue river with more colorful pebbles visible on the bottom is flowing behind them. Distant green trees and a clear blue sky are in the background.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD LEIAVAD SINISE KIVI.",
+      "scene": "Rebane Reno and Jänes Juta are on the green grassy riverbank. Juta, wearing her green hat, is holding up a smooth, vibrant blue river stone in her paw, showing it to Reno with a joyful smile. Reno, wearing his blue scarf, is looking at the blue stone with an equally happy and delighted expression. The clear blue river flows gently in the background. Distant green trees and a clear blue sky are in the background.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PALJUD KIVID ON KOOS.",
+      "scene": "Rebane Reno and Jänes Juta are happily sitting on the green grassy riverbank, admiring a small pile of various smooth, colorful pebbles they have collected. The pebbles are red, blue, green, and yellow. Reno, wearing his blue scarf, is gently touching a pebble with his paw. Juta, wearing her green hat, is smiling broadly. The clear blue river flows peacefully in the background. Distant green trees and a clear blue sky are visible.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KIVID ON VÄGA VÄRVIKAD.",
+      "scene": "Close-up of Rebane Reno and Jänes Juta's paws on the green grassy riverbank. Their paws are playfully arranged around the neat pile of smooth, brightly colored pebbles (red, blue, green, yellow, orange). Reno's paw is next to a red pebble, and Juta's paw is next to a blue pebble. The pebbles sparkle under the sunny spring light. The clear blue river is softly blurred in the background, along with distant green trees.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "RENO JA JUTA ON ÕNNELIKUD.",
+      "scene": "Rebane Reno, wearing his blue scarf, and Jänes Juta, wearing her green hat, are sitting side-by-side on the green grassy riverbank, surrounded by the colorful smooth pebbles they collected. They both have wide, joyful smiles on their faces, looking out towards the clear blue river. The sun is shining brightly, and the atmosphere is one of contentment and friendship. Distant green trees and a clear blue sky are in the background.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

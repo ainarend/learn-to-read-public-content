@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-24",
+  "latestDate": "2026-03-26",
   "stories": [
+    {
+      "date": "2026-03-26",
+      "title": "RENO JA JUTA JÕEL",
+      "pageCount": 10,
+      "characters": [
+        "REBANE RENO",
+        "JÄNES JUTA"
+      ]
+    },
     {
       "date": "2026-03-24",
       "title": "MIINA JA MIKU MUUSIKA",
