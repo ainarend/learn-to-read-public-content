@@ -1,0 +1,102 @@
+{
+  "date": "2026-03-27",
+  "language": "et",
+  "title": "KAI JA TIIU VÄRVILINE PÕÕSAS",
+  "generatedAt": "2026-03-16T01:10:13.024Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KAI KARU",
+      "type": "bear",
+      "description": "Väike helepruun karu, pehmete ümarate kõrvadega. Kannab väikest sinist pükse ja rohelist särki. Tal on sõbralik naeratav nägu ja suured uudishimulikud silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "TIIU ORAV",
+      "type": "squirrel",
+      "description": "Väike punakaspruun orav, koheva sabaga ja teravate kõrvadega. Kannab väikest kollast kleiti. Tal on säravad mustad silmad ja rõõmus, elav näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline metsalagendik",
+      "description": "Sunny forest glade with tall green trees in the background, soft green grass on the ground, and a small, bare, leafless bush in the center. Sunlight filters through the trees. The atmosphere is peaceful and cheerful. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KAI JA TIIU ON METSAS.",
+      "scene": "Kai Karu and Tiiu Orav are standing in a sunny forest glade. Kai is a small light brown bear wearing blue pants and a green shirt. Tiiu is a small reddish-brown squirrel with a fluffy tail, wearing a yellow dress. They are looking around with happy expressions. The glade has tall green trees in the background, soft green grass on the ground, and a small, bare, leafless bush is visible in the distance. Sunlight filters through the trees.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD TÜHJA PÕÕSAST.",
+      "scene": "Kai Karu and Tiiu Orav are walking towards the small, bare, leafless bush in the sunny forest glade. They are pointing at the bush, looking a bit thoughtful but still friendly. The glade has tall green trees in the background, soft green grass on the ground.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PÕÕSAS ON HALL JA TÜHI.",
+      "scene": "Kai Karu and Tiiu Orav are standing directly in front of the small, bare, leafless bush in the sunny forest glade. The bush is grey and looks a bit dull. Kai and Tiiu are looking at the bush with gentle expressions, feeling empathetic. The glade has tall green trees in the background, soft green grass on the ground.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KAIL ON HEA MÕTE.",
+      "scene": "Kai Karu is smiling brightly and tapping her chin thoughtfully, looking at Tiiu Orav. Tiiu Orav is looking at Kai with curiosity. They are standing next to the small, bare, leafless bush in the sunny forest glade. The glade has tall green trees in the background, soft green grass on the ground.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD OTSIVAD ILUSAID VÄRVE.",
+      "scene": "Kai Karu and Tiiu Orav are now carefully looking down at the ground, searching for colorful items. They are bending slightly, scanning the grass near the small, bare, leafless bush. They look focused and happy. The glade has tall green trees in the background, soft green grass on the ground.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LEIAVAD PUNASEID MARJU.",
+      "scene": "Kai Karu is gently picking up a few bright red berries from the grass. Tiiu Orav is holding a small, woven basket to collect them, looking excited. They are kneeling next to the small, bare, leafless bush. The glade has tall green trees in the background, soft green grass on the ground.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD LEIAVAD SINISEID LILLI.",
+      "scene": "Tiiu Orav is carefully picking a few small blue flowers from the grass. Kai Karu is holding the small woven basket where the red berries already are. They are kneeling next to the small, bare, leafless bush. They look pleased with their findings. The glade has tall green trees in the background, soft green grass on the ground.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD KAUNISTAVAD PÕÕSAST HOOLIKALT.",
+      "scene": "Kai Karu and Tiiu Orav are gently attaching the red berries and blue flowers to the branches of the small, bare, leafless bush. They are both reaching up, carefully placing the decorations. Some berries and flowers are already visible on the bush, adding small pops of color. The glade has tall green trees in the background, soft green grass on the ground.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PÕÕSAS ON NÜÜD VÄRVILINE.",
+      "scene": "The small bush is now beautifully decorated with red berries and blue flowers, looking vibrant and cheerful. Kai Karu and Tiiu Orav are standing back, admiring their work with proud smiles. The glade has tall green trees in the background, soft green grass on the ground.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KAI JA TIIU ON VÄGA ÕNNELIKUD.",
+      "scene": "Kai Karu and Tiiu Orav are happily hugging each other, with big smiles on their faces, standing in front of the brightly decorated bush. The bush is full of colorful berries and flowers. The glade has tall green trees in the background, soft green grass on the ground. Sunlight makes the scene even more cheerful.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
