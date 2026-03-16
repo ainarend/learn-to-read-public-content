@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-29",
+  "language": "et",
+  "title": "MARI JA SASSI PABERPAAT",
+  "generatedAt": "2026-03-16T02:39:34.076Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledad lühikesed juuksed, suured sinised silmad, kandmas roosat pluusi ja siniseid pükse. Tal on alati sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SASS",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikesed pruunid juuksed, suured rõõmsad silmad, kandmas rohelist T-särki ja oranže pükse. Tal on lai naeratus näol ja energiat täis kehahoiak. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "LASTETUBA",
+      "description": "Cozy children's playroom with light blue walls, a light wooden floor, and a large window on the back wall showing green grass and a few early spring trees outside. A small round white table is in the center with two colorful chairs (one yellow, one red). There's a simple open shelf with a few colorful toy blocks on the left wall. Bright and cheerful lighting. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "ÕUES TAGAAIAS",
+      "description": "Sunny spring backyard with vibrant green grass, a small dirt path leading to a simple wooden fence in the distance. A few budding trees with light green leaves are visible in the background. A large, shallow, clear puddle is on the grass in the foreground, reflecting the bright blue sky with fluffy white clouds. Cheerful and bright atmosphere. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MARI JA SASS MÄNGIVAD.",
+      "scene": "Mari ja Sass istuvad lastetoas väikese ümmarguse valge laua ääres. Mari istub kollasel toolil ja Sass punasel toolil. Laual on värvilised paberid ja pliiatsid. Mari hoiab käes sinist paberit ja Sass punast. Nad vaatavad üksteisele naeratades otsa. Lastetoas on helesinised seinad, hele puitpõrand ja tagaseina aknast paistab roheline muru ning kevadised puud. Vasakul seinal on lihtne riiul mõne mänguklotsiga. Soe valgus paistab aknast sisse.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON MÕTE NÜÜD.",
+      "scene": "Mari ja Sass istuvad lastetoas ümmarguse valge laua ääres. Mari istub kollasel toolil ja Sass punasel toolil. Nende näod on täis elevust ja Mari osutab käega laual olevatele paberitele. Laual on endiselt värvilised paberid. Lastetoas on helesinised seinad, hele puitpõrand ja tagaseina aknast paistab roheline muru ning kevadised puud. Vasakul seinal on lihtne riiul mõne mänguklotsiga. Soe valgus paistab aknast sisse.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEAVAD PABERPAATI.",
+      "scene": "Mari ja Sass on lastetoas ümmarguse valge laua ääres. Mari istub kollasel toolil ja Sass punasel toolil. Mõlemad lapsed on keskendunud ja voldivad värvilist paberit pabervormiks. Mari voldib sinist paberit ja Sass punast paberit. Laual on mõned valmis paberpaadid ja laiali paberijuppe. Lastetoas on helesinised seinad, hele puitpõrand ja tagaseina aknast paistab roheline muru ning kevadised puud. Vasakul seinal on lihtne riiul mõne mänguklotsiga. Soe valgus paistab aknast sisse.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PAAT ON VÄRVILINE KOHE.",
+      "scene": "Mari ja Sass on lastetoas ümmarguse valge laua ääres. Mari istub kollasel toolil ja Sass punasel toolil. Mari hoiab uhkelt käes sinist värvilist paberpaati, Sass hoiab punast värvilist paberpaati. Mõlemad naeratavad. Laual on endiselt värvilised paberid ja valmis paberpaadid. Lastetoas on helesinised seinad, hele puitpõrand ja tagaseina aknast paistab roheline muru ning kevadised puud. Vasakul seinal on lihtne riiul mõne mänguklotsiga. Soe valgus paistab aknast sisse.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD LÄHEVAD ÕUE NÜÜD.",
+      "scene": "Mari ja Sass seisavad õues tagahoovis, hoiavad käes oma värvilisi paberpaate. Mari hoiab sinist paati ja Sass punast paati. Nad vaatavad enda ette ootusärevusega. Ümberringi on erkroheline muru, mõned tärkavate lehtedega puud ja taamal lihtne puidust aed. Taevas on säravsinine valgete pilvedega. Päike paistab soojalt.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "ÕUES ON SUUR LOMP.",
+      "scene": "Mari ja Sass on õues tagahoovis. Nad seisavad suure, selge veega lombi serval rohelisel murul. Mõlemad kummarduvad veidi allapoole ja vaatavad lompi. Mari hoiab ikka sinist paberpaati ja Sass punast. Ümberringi on erkroheline muru, tärkavate lehtedega puud ja puidust aed taustal. Taevas on säravsinine valgete pilvedega. Päike paistab soojalt.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PAAT UJUB NÜÜD LOMBIS.",
+      "scene": "Mari ja Sass on õues tagahoovis, kükitavad suure lombi serval. Nad on lasknud oma paberpaadid vette. Mari sinine paat ja Sassi punane paat ujuvad lompis. Nad vaatavad oma paate õnnelike ja naeratavate nägudega. Ümberringi on erkroheline muru, tärkavate lehtedega puud ja puidust aed taustal. Taevas on säravsinine valgete pilvedega. Päike paistab soojalt.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LOMP ON VÄGA LAI.",
+      "scene": "Mari ja Sass on õues tagahoovis, kükitavad endiselt suure lombi ääres ja jälgivad oma ujuvaid paate. Nende pilgud on suunatud lompile, mis tundub väga lai ja avatud. Mari sinine paat ja Sassi punane paat on lompis. Nende näod on täis rõõmu. Ümberringi on erkroheline muru, tärkavate lehtedega puud ja puidust aed taustal. Taevas on säravsinine valgete pilvedega. Päike paistab soojalt.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PAAT UJUB HÄSTI SEAL.",
+      "scene": "Mari ja Sass on õues tagahoovis, kükitavad lompiservale lähemal. Mari ja Sass sirutavad mõlemad käe lompis ujuva paadi poole, kergelt paate lükates. Mari sinine paat ja Sassi punane paat ujuvad kenasti. Nende näod on täis mängulist rõõmu. Ümberringi on erkroheline muru, tärkavate lehtedega puud ja puidust aed taustal. Taevas on säravsinine valgete pilvedega. Päike paistab soojalt.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "MARI JA SASS NAERAVAD!",
+      "scene": "Mari ja Sass on õues tagahoovis, seisavad püsti lombi ääres, holding käest kinni. Nende paadid on endiselt lompis. Nad naeravad rõõmsalt ja vaatavad teineteisele otsa. Mõlemad on väga õnnelikud. Ümberringi on erkroheline muru, tärkavate lehtedega puud ja puidust aed taustal. Taevas on säravsinine valgete pilvedega. Päike paistab soojalt.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
