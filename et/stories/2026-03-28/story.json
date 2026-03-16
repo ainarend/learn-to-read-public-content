@@ -1,0 +1,102 @@
+{
+  "date": "2026-03-28",
+  "language": "et",
+  "title": "LIISA JA PEETER VÄRVIVAD MUNU",
+  "generatedAt": "2026-03-16T01:55:00.472Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, umbes viieaastane tüdruk, heledate patside ja rõõmsameelse naeratusega. Seljas on tal roosa kleit valge põllega. Suured uudishimulikud silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, umbes kuueaastane poiss, lühikeste pruunide juuste ja sõbraliku naeratusega. Seljas on tal sinine särk ja pruunid püksid. Uudishimulik ja mänguhimuline näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Lastetuba",
+      "description": "Cozy children's craft room with light green walls, a light wooden floor, and a large window on the back wall showing blooming spring trees outside. A sturdy, light wooden table is in the center of the room with two small wooden chairs. On the left wall, there's a low shelf with a few colorful books and art supplies. Warm, gentle sunlight fills the room. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER MÕTLEVAD.",
+      "scene": "Liisa and Peeter are sitting opposite each other at a sturdy light wooden table in a cozy children's craft room. Liisa has her chin in her hands, looking thoughtful and smiling slightly. Peeter is tapping his finger on his chin, also looking thoughtful with a gentle smile. The room has light green walls, a light wooden floor, and a large window on the back wall showing blooming spring trees. Warm, gentle sunlight fills the room. A low shelf with books is visible on the left wall.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Liisa and Peeter are still sitting at the light wooden table. Both are now smiling brightly and looking at each other excitedly, as if they just had a brilliant idea. Liisa is clapping her hands gently, and Peeter is giving a thumbs up. The room has light green walls, a light wooden floor, and a large window on the back wall showing blooming spring trees. Warm, gentle sunlight fills the room. A low shelf with books is visible on the left wall.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD MUNAD.",
+      "scene": "Liisa and Peeter are at the light wooden table. Peeter is carefully placing a small basket filled with white eggs onto the table. Liisa is reaching out to gently touch one of the eggs. Both children look focused and happy. The room has light green walls, a light wooden floor, and a large window on the back wall showing blooming spring trees. Warm, gentle sunlight fills the room. A low shelf with books is visible on the left wall.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD VÄRVID.",
+      "scene": "Liisa and Peeter are at the light wooden table. Peeter is now carefully placing a set of colorful small paint pots and brushes next to the basket of eggs on the table. Liisa is smiling, looking at the bright colors. The room has light green walls, a light wooden floor, and a large window on the back wall showing blooming spring trees. Warm, gentle sunlight fills the room. A low shelf with books is visible on the left wall.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LIISA VÄRVIB MUNA.",
+      "scene": "Liisa is sitting at the light wooden table, holding a white egg carefully in one hand and a small paintbrush dipped in bright pink paint in the other. She is gently painting a pattern on the egg, concentrating with a soft smile. Several paint pots of different colors are on the table in front of her. Peeter watches her. The room has light green walls, a light wooden floor, and a large window on the back wall showing blooming spring trees. Warm, gentle sunlight fills the room. A low shelf with books is visible on the left wall.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PEETER VÄRVIB MUNA.",
+      "scene": "Peeter is now sitting at the light wooden table, holding a white egg and a small paintbrush dipped in bright blue paint. He is carefully painting stripes on his egg, focused and happy. Liisa is sitting next to him, admiring her own partially painted egg. Several paint pots are on the table. The room has light green walls, a light wooden floor, and a large window on the back wall showing blooming spring trees. Warm, gentle sunlight fills the room. A low shelf with books is visible on the left wall.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "MUNAD SAAVAD VÄRVILISEKS.",
+      "scene": "Liisa and Peeter are both at the light wooden table, actively painting. Liisa is adding green details to her egg, and Peeter is adding yellow dots to his. Many paint pots and brushes are spread across the table. Two partially painted, colorful eggs are already visible. The room has light green walls, a light wooden floor, and a large window on the back wall showing blooming spring trees. Warm, gentle sunlight fills the room. A low shelf with books is visible on the left wall.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MUNAD ON VALMIS!",
+      "scene": "Liisa and Peeter are sitting at the light wooden table, smiling proudly. In front of them, neatly arranged on a small wooden tray, are several beautifully decorated, colorful eggs with various patterns and bright colors. The paint pots and brushes are now pushed aside. The room has light green walls, a light wooden floor, and a large window on the back wall showing blooming spring trees. Warm, gentle sunlight fills the room. A low shelf with books is visible on the left wall.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON NÜÜD ILUSAD.",
+      "scene": "Liisa and Peeter are admiring the finished, colorful eggs on the wooden tray on the table. Both children are leaning closer, pointing at different eggs with wide smiles and delighted expressions. The eggs are truly beautiful. The room has light green walls, a light wooden floor, and a large window on the back wall showing blooming spring trees. Warm, gentle sunlight fills the room. A low shelf with books is visible on the left wall.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "LIISA JA PEETER RÕÕMUSTAVAD.",
+      "scene": "Liisa and Peeter are standing up from their chairs at the light wooden table, holding hands and jumping with joy next to the tray of beautifully decorated eggs. Both children are laughing happily, their faces full of pure delight. The colorful eggs are still prominently displayed on the table. The room has light green walls, a light wooden floor, and a large window on the back wall showing blooming spring trees. Warm, gentle sunlight fills the room. A low shelf with books is visible on the left wall.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
