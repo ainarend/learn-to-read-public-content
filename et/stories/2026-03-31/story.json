@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-31",
+  "language": "et",
+  "title": "JUSS JA PATU KEVADPESA",
+  "generatedAt": "2026-03-22T23:40:40.076Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JÄNES JUSS",
+      "type": "rabbit",
+      "description": "Väike lumivalge jänes suurte roosade kõrvadega, kandmas väikest sinist vesti. Tal on sõbralik, uudishimulik nägu ja suured ümarad silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PART PATU",
+      "type": "duck",
+      "description": "Väike kollane part oranži noka ja jalgadega, kandmas väikest rohelist mütsi. Tal on rõõmus, elav nägu ja säravad silmad. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KEVADINE NIIT",
+      "description": "A sunny spring meadow with vibrant green grass, scattered small patches of melting snow, and delicate early spring flowers like snowdrops and crocuses. In the background, deciduous trees are just beginning to show tiny green leaf buds. A gentle, warm sunlight illuminates the scene. The atmosphere is fresh and cheerful. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "KEVADPESA",
+      "description": "A hidden, cozy hollow nestled within the sunny spring meadow. The hollow is lined with soft green moss and is partially shaded by a small, leafy bush. The surrounding area is still the vibrant green grass and early spring flowers of the meadow. It's a peaceful and inviting spot. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUSS JA PATU NÄEVAD KEVADET.",
+      "scene": "Jänes Juss and Part Patu stand together in the sunny spring meadow (KEVADINE NIIT), looking around with joyful expressions. Juss is pointing with one paw towards the budding trees. Patu is looking up towards the sky. They both look happy to see the spring. Their clothes are as described in their character descriptions. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "KEVAD ON NII ILUS!",
+      "scene": "Jänes Juss and Part Patu are still in the sunny spring meadow (KEVADINE NIIT), admiring the beauty of spring. Juss is looking at a small patch of snowdrops, and Patu is gently sniffing a crocus flower. Both have serene, happy expressions. Their clothes are as described. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD OTSIVAD VÄRVE.",
+      "scene": "Jänes Juss and Part Patu are walking slowly through the vibrant green grass of the spring meadow (KEVADINE NIIT), their heads down, actively searching the ground. Juss is peering under a small bush. Patu is looking closely at the ground. Their expressions are curious and focused. Their clothes are as described. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "JUSS LEIAB SINISE SULE.",
+      "scene": "Jänes Juss is kneeling on the vibrant green grass of the spring meadow (KEVADINE NIIT), holding up a bright blue feather in one paw, looking at it with wide, delighted eyes. Part Patu is standing next to him, peeking over Juss's shoulder, also looking at the feather. Their clothes are as described. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PATU LEIAB PUNASE KIVI.",
+      "scene": "Part Patu is excitedly holding up a smooth, shiny red stone in one wing, showing it to Jänes Juss. Patu has a big smile on her face. Juss is bending down to examine the stone with interest, his ears perked up. They are still in the sunny spring meadow (KEVADINE NIIT). Their clothes are as described. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD KOGUVAD VÄRVILISI LEHTI.",
+      "scene": "Jänes Juss and Part Patu are carefully gathering colorful dried leaves from under a small bush in the spring meadow (KEVADINE NIIT). Juss is putting a yellow leaf into a small woven basket he holds. Patu is picking up a red-brown leaf. They look focused and happy. Their clothes are as described. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD VALIVAD ILUSA PAIGA.",
+      "scene": "Jänes Juss and Part Patu are standing near a small, leafy bush at the edge of the spring meadow (KEVADINE NIIT). Juss is pointing with his paw towards a moss-lined hollow under the bush, looking at Patu with an excited expression. Patu is nodding in agreement, looking at the hollow. They have their small woven basket of colorful items nearby. Their clothes are as described. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD EHITAVAD KEVADPESA.",
+      "scene": "Jänes Juss and Part Patu are now inside the cozy, moss-lined hollow, the KEVADPESA. They are carefully arranging the blue feather, red stone, and colorful leaves on the soft moss. Juss is placing the feather. Patu is placing the stone. The small woven basket is overturned beside them. They are working together with happy, concentrated expressions. Their clothes are as described. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PESA ON NÜÜD VÄRVILINE!",
+      "scene": "The decorated spring nest (KEVADPESA) is now clearly visible, adorned with the blue feather, red stone, and colorful leaves, making it vibrant and cheerful. Jänes Juss and Part Patu are sitting comfortably side-by-side inside the nest, looking at their finished creation with expressions of pride and satisfaction. Their clothes are as described. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "JUSS JA PATU NAERATAVAD.",
+      "scene": "Jänes Juss and Part Patu are still sitting together inside their beautifully decorated spring nest (KEVADPESA). They are both smiling broadly, looking out towards the viewer. Their faces are full of joy and contentment. The spring nest is colorful and cozy around them. Their clothes are as described. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
