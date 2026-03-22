@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-30",
+  "language": "et",
+  "title": "KATI JA KRISTJAN LINNUD",
+  "generatedAt": "2026-03-22T22:54:59.791Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KATI",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk. Blondid juuksed kahe punutud patsis, seljas roosa kleit ja kollased kingad. Tema nägu on rõõmus ja uudishimulik, suured rohelised silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KRISTJAN",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane poiss. Pruunid lühikesed juuksed, seljas sinine T-särk ja rohelised püksid. Tema nägu on sõbralik ja tähelepanelik, suured sinised silmad. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "A bright and cozy kitchen with light blue walls, a wooden floor, and a large window showing a green garden outside with blooming spring flowers. A simple wooden table with two small chairs is in the center. There are a few colorful children's drawings pinned to one wall. Warm morning light streams through the window. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "AED",
+      "description": "A sunny, vibrant green garden with lush grass and various blooming spring flowers like red tulips and yellow daffodils. A few friendly deciduous trees with new green leaves are visible in the background. A small wooden fence borders the garden. The sky is clear and blue with soft white clouds. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KATI JA KRISTJAN KÖÖGIS.",
+      "scene": "Kati sits at a small wooden table in the kitchen, smiling brightly. Kristjan stands next to the table, looking at Kati with a thoughtful expression. The kitchen has light blue walls and a wooden floor. Warm morning light streams through the window showing a green garden outside. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD MÕTLEVAD LINDUDELE.",
+      "scene": "Kati and Kristjan are both at the small wooden table in the kitchen, looking out the window towards the green garden. Kati points outside with a curious expression. Kristjan nods in agreement. They are thinking about the birds they see outside. The kitchen has light blue walls and a wooden floor. Warm morning light streams through the window. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TAHAVAD AIDATA.",
+      "scene": "Kati and Kristjan are standing by the wooden table in the kitchen. Kati has a determined and kind smile. Kristjan holds a small, empty mixing bowl. They are ready to help. The kitchen has light blue walls and a wooden floor. Warm morning light streams through the window showing a green garden outside. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD SEEMNEID.",
+      "scene": "Kati and Kristjan are standing at the wooden table in the kitchen. Kati holds a small scoop, and Kristjan holds up a clear bag filled with various bird seeds. They both have focused and happy expressions. The kitchen has light blue walls and a wooden floor. Warm morning light streams through the window. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD PANEVAD KAUSSI.",
+      "scene": "Kati carefully scoops bird seeds from the bag into a small, blue mixing bowl held by Kristjan on the wooden table. Both children are focused on the task. Kristjan's bowl is starting to fill with seeds. The kitchen has light blue walls and a wooden floor. Warm morning light streams through the window. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD SEGAVAD HOOLIKALT.",
+      "scene": "Kati and Kristjan are at the wooden table in the kitchen. Kati is stirring the bird seeds in the blue mixing bowl with a wooden spoon, while Kristjan watches her, smiling. The bowl is full of seeds. The kitchen has light blue walls and a wooden floor. Warm morning light streams through the window. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LINNUTOIT ON VALMIS.",
+      "scene": "Kati and Kristjan proudly stand beside the wooden table in the kitchen, looking at the blue mixing bowl filled with homemade bird food. Kati points to the bowl with a happy expression. Kristjan smiles broadly. The kitchen has light blue walls and a wooden floor. Warm morning light streams through the window. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD VIIVAD AED.",
+      "scene": "Kati and Kristjan are walking through the sunny green garden. Kati is carefully carrying the blue bowl filled with bird food. Kristjan walks beside her, looking ahead with excitement. Blooming spring flowers are visible in the lush grass. The sky is clear and blue. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LINNUD SÖÖVAD HEAMEELEGA.",
+      "scene": "Kati and Kristjan are kneeling in the sunny green garden, watching two small, colorful birds happily pecking at the bird food in the blue bowl, which is placed on the grass. The children are smiling softly, pleased with their work. Blooming spring flowers surround them. The sky is clear and blue. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA RÕÕMSAD.",
+      "scene": "Kati and Kristjan are sitting on the green grass in the sunny garden, their faces full of joy. They are looking at each other and laughing. The empty blue bowl is beside them. Blooming spring flowers and trees are in the background. The sky is clear and blue. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-29",
+  "latestDate": "2026-03-30",
   "stories": [
+    {
+      "date": "2026-03-30",
+      "title": "KATI JA KRISTJAN LINNUD",
+      "pageCount": 10,
+      "characters": [
+        "KATI",
+        "KRISTJAN"
+      ]
+    },
     {
       "date": "2026-03-29",
       "title": "REPO JA SIIMU TUULELIPS",
