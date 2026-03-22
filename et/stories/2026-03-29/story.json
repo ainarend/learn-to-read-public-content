@@ -1,108 +1,102 @@
 {
   "date": "2026-03-29",
   "language": "et",
-  "title": "MARI JA SASSI PABERPAAT",
-  "generatedAt": "2026-03-16T02:39:34.076Z",
+  "title": "REPO JA SIIMU TUULELIPS",
+  "generatedAt": "2026-03-22T22:11:00.678Z",
   "characters": [
     {
       "id": "char1",
-      "name": "MARI",
-      "type": "human",
-      "description": "Väike inimene, tüdruk, heledad lühikesed juuksed, suured sinised silmad, kandmas roosat pluusi ja siniseid pükse. Tal on alati sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
+      "name": "REPO REBANE",
+      "type": "fox",
+      "description": "Väike punakaspruun rebane, pika koheva sabaga, seljas sinine kampsun, suured mustad silmad ja nutikas sõbralik näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "SASS",
-      "type": "human",
-      "description": "Väike inimene, poiss, lühikesed pruunid juuksed, suured rõõmsad silmad, kandmas rohelist T-särki ja oranže pükse. Tal on lai naeratus näol ja energiat täis kehahoiak. Armas multifilmistiil.",
+      "name": "SIIL SIIM",
+      "type": "hedgehog",
+      "description": "Väike hall siilike, pehmete okastega, jalas rohelised püksid, ümar nina ja abivalmis naeratus. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "LASTETUBA",
-      "description": "Cozy children's playroom with light blue walls, a light wooden floor, and a large window on the back wall showing green grass and a few early spring trees outside. A small round white table is in the center with two colorful chairs (one yellow, one red). There's a simple open shelf with a few colorful toy blocks on the left wall. Bright and cheerful lighting. Cartoon style.",
+      "name": "PÄIKESELINE NÕLVAK",
+      "description": "Gentle grassy hillside bathed in warm spring sunlight. A few small, scattered deciduous trees with fresh green leaves are visible. The sky is bright blue with a few fluffy white clouds. A gentle breeze is subtly visible in the moving grass and leaves. Cheerful cartoon style.",
       "image": "loc1.png"
-    },
-    {
-      "id": "loc2",
-      "name": "ÕUES TAGAAIAS",
-      "description": "Sunny spring backyard with vibrant green grass, a small dirt path leading to a simple wooden fence in the distance. A few budding trees with light green leaves are visible in the background. A large, shallow, clear puddle is on the grass in the foreground, reflecting the bright blue sky with fluffy white clouds. Cheerful and bright atmosphere. Cartoon style.",
-      "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "MARI JA SASS MÄNGIVAD.",
-      "scene": "Mari ja Sass istuvad lastetoas väikese ümmarguse valge laua ääres. Mari istub kollasel toolil ja Sass punasel toolil. Laual on värvilised paberid ja pliiatsid. Mari hoiab käes sinist paberit ja Sass punast. Nad vaatavad üksteisele naeratades otsa. Lastetoas on helesinised seinad, hele puitpõrand ja tagaseina aknast paistab roheline muru ning kevadised puud. Vasakul seinal on lihtne riiul mõne mänguklotsiga. Soe valgus paistab aknast sisse.",
+      "text": "REPO JA SIIM ON NÕLVAKUL.",
+      "scene": "Repo Rebne (fox) and Siil Siim (hedgehog) are standing on a gentle grassy hillside bathed in warm spring sunlight. They are looking around curiously. A few small trees with fresh green leaves are visible in the background. The sky is bright blue. Cheerful cartoon style. Repo Rebane wears a blue sweater, and Siil Siim wears green pants. They both have friendly expressions.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NEIL ON MÕTE NÜÜD.",
-      "scene": "Mari ja Sass istuvad lastetoas ümmarguse valge laua ääres. Mari istub kollasel toolil ja Sass punasel toolil. Nende näod on täis elevust ja Mari osutab käega laual olevatele paberitele. Laual on endiselt värvilised paberid. Lastetoas on helesinised seinad, hele puitpõrand ja tagaseina aknast paistab roheline muru ning kevadised puud. Vasakul seinal on lihtne riiul mõne mänguklotsiga. Soe valgus paistab aknast sisse.",
+      "text": "TUUL PUHUB ÕRNALT.",
+      "scene": "Repo Rebne (fox) and Siil Siim (hedgehog) are standing on a gentle grassy hillside. Repo is holding a paw up to feel the breeze, and Siim's soft quills are slightly ruffled by the wind. A few small trees with fresh green leaves are visible, their leaves gently swaying. The sky is bright blue. Warm spring sunlight. Cheerful cartoon style. Repo Rebane wears a blue sweater, and Siil Siim wears green pants. They both have friendly expressions.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD TEAVAD PABERPAATI.",
-      "scene": "Mari ja Sass on lastetoas ümmarguse valge laua ääres. Mari istub kollasel toolil ja Sass punasel toolil. Mõlemad lapsed on keskendunud ja voldivad värvilist paberit pabervormiks. Mari voldib sinist paberit ja Sass punast paberit. Laual on mõned valmis paberpaadid ja laiali paberijuppe. Lastetoas on helesinised seinad, hele puitpõrand ja tagaseina aknast paistab roheline muru ning kevadised puud. Vasakul seinal on lihtne riiul mõne mänguklotsiga. Soe valgus paistab aknast sisse.",
+      "text": "NEIL ON NÜÜD MÕTE.",
+      "scene": "Repo Rebne (fox) and Siil Siim (hedgehog) are standing on a gentle grassy hillside. They are looking at each other with bright, excited expressions, as if sharing a fun idea. Repo has a paw on his chin, thinking, and Siim is nodding. A few small trees with fresh green leaves are visible. The sky is bright blue. Warm spring sunlight. Cheerful cartoon style. Repo Rebane wears a blue sweater, and Siil Siim wears green pants. They both have friendly expressions.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "PAAT ON VÄRVILINE KOHE.",
-      "scene": "Mari ja Sass on lastetoas ümmarguse valge laua ääres. Mari istub kollasel toolil ja Sass punasel toolil. Mari hoiab uhkelt käes sinist värvilist paberpaati, Sass hoiab punast värvilist paberpaati. Mõlemad naeratavad. Laual on endiselt värvilised paberid ja valmis paberpaadid. Lastetoas on helesinised seinad, hele puitpõrand ja tagaseina aknast paistab roheline muru ning kevadised puud. Vasakul seinal on lihtne riiul mõne mänguklotsiga. Soe valgus paistab aknast sisse.",
+      "text": "TEEME TUULELIPSU!",
+      "scene": "Repo Rebne (fox) and Siil Siim (hedgehog) are on a gentle grassy hillside, excitedly gesturing towards each other with a shared happy expression. Repo is pointing a paw upwards, and Siim is nodding enthusiastically. A few small trees with fresh green leaves are visible. The sky is bright blue. Warm spring sunlight. Cheerful cartoon style. Repo Rebane wears a blue sweater, and Siil Siim wears green pants. They both have friendly expressions.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD LÄHEVAD ÕUE NÜÜD.",
-      "scene": "Mari ja Sass seisavad õues tagahoovis, hoiavad käes oma värvilisi paberpaate. Mari hoiab sinist paati ja Sass punast paati. Nad vaatavad enda ette ootusärevusega. Ümberringi on erkroheline muru, mõned tärkavate lehtedega puud ja taamal lihtne puidust aed. Taevas on säravsinine valgete pilvedega. Päike paistab soojalt.",
+      "text": "NAD KORJAVAD LEHTI.",
+      "scene": "Repo Rebne (fox) and Siil Siim (hedgehog) are kneeling on a gentle grassy hillside, carefully picking up large, colorful spring leaves from the ground. Repo is holding a few green leaves, and Siim is gently collecting red and yellow leaves. A few small trees with fresh green leaves are visible. The sky is bright blue. Warm spring sunlight. Cheerful cartoon style. Repo Rebane wears a blue sweater, and Siil Siim wears green pants. They both have friendly expressions.",
       "image": "page5.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "ÕUES ON SUUR LOMP.",
-      "scene": "Mari ja Sass on õues tagahoovis. Nad seisavad suure, selge veega lombi serval rohelisel murul. Mõlemad kummarduvad veidi allapoole ja vaatavad lompi. Mari hoiab ikka sinist paberpaati ja Sass punast. Ümberringi on erkroheline muru, tärkavate lehtedega puud ja puidust aed taustal. Taevas on säravsinine valgete pilvedega. Päike paistab soojalt.",
+      "text": "NAD PANEVAD KOKKU.",
+      "scene": "Repo Rebne (fox) and Siil Siim (hedgehog) are sitting together on the grassy hillside. They are carefully assembling a simple pinwheel. Repo is holding a small, thin stick, and Siim is attaching collected colorful leaves to the end of the stick. A pile of colorful leaves is next to them. A few small trees with fresh green leaves are visible. The sky is bright blue. Warm spring sunlight. Cheerful cartoon style. Repo Rebane wears a blue sweater, and Siil Siim wears green pants. They both have friendly expressions.",
       "image": "page6.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "PAAT UJUB NÜÜD LOMBIS.",
-      "scene": "Mari ja Sass on õues tagahoovis, kükitavad suure lombi serval. Nad on lasknud oma paberpaadid vette. Mari sinine paat ja Sassi punane paat ujuvad lompis. Nad vaatavad oma paate õnnelike ja naeratavate nägudega. Ümberringi on erkroheline muru, tärkavate lehtedega puud ja puidust aed taustal. Taevas on säravsinine valgete pilvedega. Päike paistab soojalt.",
+      "text": "TUULELIPS ON VALMIS!",
+      "scene": "Repo Rebne (fox) and Siil Siim (hedgehog) are sitting on the grassy hillside, proudly holding up the finished pinwheel made from colorful leaves attached to a stick. Both are smiling widely at their creation. A few small trees with fresh green leaves are visible. The sky is bright blue. Warm spring sunlight. Cheerful cartoon style. Repo Rebane wears a blue sweater, and Siil Siim wears green pants. They both have friendly expressions.",
       "image": "page7.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "LOMP ON VÄGA LAI.",
-      "scene": "Mari ja Sass on õues tagahoovis, kükitavad endiselt suure lombi ääres ja jälgivad oma ujuvaid paate. Nende pilgud on suunatud lompile, mis tundub väga lai ja avatud. Mari sinine paat ja Sassi punane paat on lompis. Nende näod on täis rõõmu. Ümberringi on erkroheline muru, tärkavate lehtedega puud ja puidust aed taustal. Taevas on säravsinine valgete pilvedega. Päike paistab soojalt.",
+      "text": "TUUL PUHUB JÄLLE.",
+      "scene": "Repo Rebne (fox) and Siil Siim (hedgehog) are standing on the grassy hillside. Repo is holding the leaf pinwheel up high, waiting for the wind. Siim is looking up at the pinwheel expectantly. Their fur and quills are gently ruffled by a subtle breeze. A few small trees with fresh green leaves are visible. The sky is bright blue. Warm spring sunlight. Cheerful cartoon style. Repo Rebane wears a blue sweater, and Siil Siim wears green pants. They both have friendly expressions.",
       "image": "page8.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "PAAT UJUB HÄSTI SEAL.",
-      "scene": "Mari ja Sass on õues tagahoovis, kükitavad lompiservale lähemal. Mari ja Sass sirutavad mõlemad käe lompis ujuva paadi poole, kergelt paate lükates. Mari sinine paat ja Sassi punane paat ujuvad kenasti. Nende näod on täis mängulist rõõmu. Ümberringi on erkroheline muru, tärkavate lehtedega puud ja puidust aed taustal. Taevas on säravsinine valgete pilvedega. Päike paistab soojalt.",
+      "text": "TUULELIPS PÖÖRLEB!",
+      "scene": "Repo Rebne (fox) and Siil Siim (hedgehog) are standing on the grassy hillside. Repo is holding the leaf pinwheel, which is now happily spinning in the wind. Siil Siim is clapping his paws with joy, watching it spin. The leaves on the nearby trees are gently swaying. A few small trees with fresh green leaves are visible. The sky is bright blue. Warm spring sunlight. Cheerful cartoon style. Repo Rebane wears a blue sweater, and Siil Siim wears green pants. They both have friendly expressions.",
       "image": "page9.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "MARI JA SASS NAERAVAD!",
-      "scene": "Mari ja Sass on õues tagahoovis, seisavad püsti lombi ääres, holding käest kinni. Nende paadid on endiselt lompis. Nad naeravad rõõmsalt ja vaatavad teineteisele otsa. Mõlemad on väga õnnelikud. Ümberringi on erkroheline muru, tärkavate lehtedega puud ja puidust aed taustal. Taevas on säravsinine valgete pilvedega. Päike paistab soojalt.",
+      "text": "REPO JA SIIM ON RÕÕMSAD.",
+      "scene": "Repo Rebne (fox) and Siil Siim (hedgehog) are sitting together on the grassy hillside, smiling brightly. The leaf pinwheel is stuck upright in the soft grass next to them, gently spinning in the breeze. They are looking at the pinwheel with happy, content expressions. A few small trees with fresh green leaves are visible. The sky is bright blue. Warm spring sunlight. Cheerful cartoon style. Repo Rebane wears a blue sweater, and Siil Siim wears green pants. They both have friendly expressions.",
       "image": "page10.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     }
   ]
 }
