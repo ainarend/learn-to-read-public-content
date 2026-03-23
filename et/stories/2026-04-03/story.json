@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-03",
+  "language": "et",
+  "title": "SIILI SIRTS JA ORAVA OTT",
+  "generatedAt": "2026-03-23T01:10:32.644Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIILI SIRTS",
+      "type": "hedgehog",
+      "description": "Väike hall siilike, pehmete okastega, seljas roheline vest, suured sõbralikud silmad ja naeratav näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAVA OTT",
+      "type": "squirrel",
+      "description": "Väike pruun orav, koheva sabaga, seljas sinine pusa, alati rõõmsameelne ja uudishimulik. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "OTI KODU",
+      "description": "Cozy children's room with light blue walls, soft green rug on the wooden floor. A small wooden table with two chairs in the center. A single large window on the back wall showing bright green spring trees outside. A simple wooden shelf on the side wall with a few colorful books. Warm and inviting atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "HOOV",
+      "description": "Sunny spring yard with bright green grass and blooming spring flowers (tulips, daffodils) scattered around. A tall oak tree with fresh green leaves stands on the left. A low wooden fence in the background. Clear blue sky with soft white clouds. Bright and cheerful atmosphere. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIILI SIRTS JA ORAVA OTT.",
+      "scene": "Siili Sirts and Orava Ott are sitting at a small wooden table with two chairs in a cozy children's room. Sirts is on the left, Ott on the right. They are looking at each other with happy, friendly expressions. The room has light blue walls, a green rug on a wooden floor, a window showing spring trees, and a wooden shelf with books. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON KEVAD MÕTE.",
+      "scene": "Siili Sirts and Orava Ott are still sitting at the small wooden table in the cozy children's room. They are both smiling excitedly. Ott is pointing to a small pile of colorful paper in the center of the table. The room has light blue walls, a green rug on a wooden floor, a window showing spring trees, and a wooden shelf with books. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEHA PABERLILLI.",
+      "scene": "Siili Sirts and Orava Ott are sitting at the small wooden table in the cozy children's room. Sirts is carefully holding small safety scissors and cutting a shape from a piece of colorful paper. Ott is folding another piece of colorful paper. The table has more colorful paper scattered on it. The room has light blue walls, a green rug on a wooden floor, a window showing spring trees, and a wooden shelf with books. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LÕIKA, LIIMI, VÄRVI!",
+      "scene": "Siili Sirts and Orava Ott are engaged in crafting at the small wooden table in the cozy children's room. Sirts is carefully applying glue to a small paper petal to attach it to a larger one. Ott is holding a crayon and coloring a paper circle. A small pot of glue and a few crayons are visible on the table. The room has light blue walls, a green rug on a wooden floor, a window showing spring trees, and a wooden shelf with books. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PALJU VÄRVILISI LILLI.",
+      "scene": "Siili Sirts and Orava Ott are sitting at the small wooden table in the cozy children's room, which is now filled with many finished paper flowers in various bright, cheerful colors. Sirts and Ott are admiring their creations, both smiling proudly. The room has light blue walls, a green rug on a wooden floor, a window showing spring trees, and a wooden shelf with books. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD RÕÕMSTAVAD TÖÖST.",
+      "scene": "Siili Sirts and Orava Ott are sitting at the small wooden table in the cozy children's room. Both are holding up a few of their colorful paper flowers, smiling broadly and looking very happy with their hard work. Several other finished paper flowers are still on the table. The room has light blue walls, a green rug on a wooden floor, a window showing spring trees, and a wooden shelf with books. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VIIES LILLED ÕUE.",
+      "scene": "Siili Sirts and Orava Ott are standing near an open doorway in the cozy children's room, each holding a small bundle of their colorful paper flowers. They are ready to go outside. The room has light blue walls, a green rug on a wooden floor, a window showing spring trees, and a wooden shelf with books. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD KAUNISTAVAD PUUD.",
+      "scene": "Siili Sirts and Orava Ott are in a sunny spring yard. Sirts is carefully hanging a colorful paper flower on a low branch of a tall oak tree. Ott is reaching up to hang another paper flower on a slightly higher branch. The yard has bright green grass, blooming spring flowers, and a low wooden fence in the background. Clear blue sky. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PUU ON NÜÜD KAUNIS.",
+      "scene": "Siili Sirts and Orava Ott are standing back in the sunny spring yard, admiring the tall oak tree which is now beautifully adorned with their many colorful paper flowers. They are both smiling happily, looking at their decorated tree. The yard has bright green grass, blooming spring flowers, and a low wooden fence in the background. Clear blue sky. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KEVAD ON NII RÕÕMUS!",
+      "scene": "Siili Sirts and Orava Ott are sitting happily on the bright green grass under the oak tree, which is still decorated with their colorful paper flowers. They are looking up at the flowers and smiling brightly. The sun is shining in the spring yard. Blooming spring flowers are scattered around. Clear blue sky. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

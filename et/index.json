@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-02",
+  "latestDate": "2026-04-03",
   "stories": [
+    {
+      "date": "2026-04-03",
+      "title": "SIILI SIRTS JA ORAVA OTT",
+      "pageCount": 10,
+      "characters": [
+        "SIILI SIRTS",
+        "ORAVA OTT"
+      ]
+    },
     {
       "date": "2026-04-02",
       "title": "LIISA JA MART LENDAVAD LOHET",
