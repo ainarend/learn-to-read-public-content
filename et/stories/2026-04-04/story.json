@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-04",
+  "language": "et",
+  "title": "KALLE JA REELIKA EHITAVAD PESA",
+  "generatedAt": "2026-03-23T01:55:36.227Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KARU KALLE",
+      "type": "bear",
+      "description": "Väike pruun karupoeg, pehme karvaga. Tal on seljas roheline vest. Suured sõbralikud silmad ja naerusuine nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "REBANE REELIKA",
+      "type": "fox",
+      "description": "Väike oranž rebane, koheva sabaga. Tal on peas punane marja kujuline müts. Elavad uudishimulikud silmad ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "PÄIKESELINE AED",
+      "description": "A bright and sunny garden with lush green grass, a few colorful spring flowers blooming (like tulips and daffodils), and a small, winding dirt path. In the background, a few leafy green trees and a gentle blue sky with soft white clouds. The atmosphere is peaceful and cheerful. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KALLE JA REELIKA ON AIAS.",
+      "scene": "Karu Kalle and Rebane Reelika stand together on lush green grass in a sunny garden. Kalle, a small brown bear cub in a green vest, is looking around with a friendly smile. Reelika, a small orange fox in a red berry-shaped hat, stands next to him, also smiling and looking curious. Colorful spring flowers like tulips and daffodils are blooming around them. The background shows leafy green trees and a blue sky.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON MÕTE.",
+      "scene": "Karu Kalle and Rebane Reelika are still standing in the sunny garden. Kalle, the small brown bear cub in a green vest, puts a paw to his chin, looking thoughtful with a gentle smile. Reelika, the small orange fox in a red berry-shaped hat, looks at Kalle expectantly, with a bright, curious expression. Spring flowers and green grass surround them.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD KOGUVAD PUUOKSI.",
+      "scene": "Karu Kalle and Rebane Reelika are busy in the sunny garden. Kalle, the small brown bear cub in a green vest, carefully picks up a small brown twig from the green grass. Reelika, the small orange fox in a red berry-shaped hat, is looking at another twig on the ground, ready to pick it up. A small pile of twigs is already forming nearby. Colorful spring flowers are visible in the background.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LEIAVAD SULGI.",
+      "scene": "Karu Kalle and Rebane Reelika are still in the sunny garden, collecting materials. Kalle, the small brown bear cub in a green vest, is holding a soft white feather carefully in his paw. Reelika, the small orange fox in a red berry-shaped hat, points with her paw to another small feather on the green grass. Both characters have happy, focused expressions. The garden is bright with spring flowers.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD EHITAVAD PESA.",
+      "scene": "Karu Kalle and Rebane Reelika are actively building a nest in the sunny garden. Kalle, the small brown bear cub in a green vest, is gently arranging twigs and feathers into a circular shape on the green grass. Reelika, the small orange fox in a red berry-shaped hat, is placing a soft feather into the growing nest. They are working together, smiling. The garden setting with flowers and trees is consistent.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PESA KASVAB SUUREKS.",
+      "scene": "The bird's nest being built by Karu Kalle and Rebane Reelika in the sunny garden is now noticeably larger. Kalle, the small brown bear cub in a green vest, and Reelika, the small orange fox in a red berry-shaped hat, stand next to the half-built nest, admiring their work. The nest is made of twigs and feathers. They both look proud and happy. Green grass and spring flowers are around them.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SEE ON ILUS PESA.",
+      "scene": "Karu Kalle and Rebane Reelika are admiring their completed bird's nest in the sunny garden. The nest, made of twigs and soft feathers, is perfectly formed and looks cozy. Kalle, the small brown bear cub in a green vest, and Reelika, the small orange fox in a red berry-shaped hat, are both smiling warmly, looking at the beautiful nest they built. Lush green grass and colorful spring flowers surround the scene.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "VÄIKE LIND TULEB.",
+      "scene": "A small, colorful, friendly-looking cartoon bird with bright blue feathers is gently landing on the edge of the newly built nest in the sunny garden. Karu Kalle, the small brown bear cub, and Rebane Reelika, the small orange fox, are standing a little distance away, watching the bird with wide, amazed smiles. The nest is on the green grass, surrounded by spring flowers.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LIND LAULAB LAULU.",
+      "scene": "The small, colorful blue bird is perched happily inside the nest in the sunny garden, tilting its head and singing a cheerful tune, represented by small musical notes floating in the air. Karu Kalle, the small brown bear cub in a green vest, and Rebane Reelika, the small orange fox in a red berry-shaped hat, are standing nearby, listening with joyful and contented expressions. Spring flowers and green grass are visible.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KALLE JA REELIKA RÕÕMUSTAVAD.",
+      "scene": "Karu Kalle, the small brown bear cub in a green vest, and Rebane Reelika, the small orange fox in a red berry-shaped hat, are standing close together in the sunny garden, looking at the nest where the little blue bird is happily settled. They are both clapping their paws/hands gently and beaming with huge, happy smiles. The atmosphere is full of joy and satisfaction. The vibrant spring garden surrounds them.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
