@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-04",
+  "latestDate": "2026-04-05",
   "stories": [
+    {
+      "date": "2026-04-05",
+      "title": "ANNA JA TOOMASE KABER",
+      "pageCount": 10,
+      "characters": [
+        "ANNA",
+        "TOOMAS"
+      ]
+    },
     {
       "date": "2026-04-04",
       "title": "KALLE JA REELIKA EHITAVAD PESA",

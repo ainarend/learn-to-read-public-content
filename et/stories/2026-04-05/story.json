@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-05",
+  "language": "et",
+  "title": "ANNA JA TOOMASE KABER",
+  "generatedAt": "2026-03-23T02:40:04.200Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ANNA",
+      "type": "human",
+      "description": "Väike inimene Anna, umbes 5-aastane tüdruk, heledate pruunide juuste ja rõõmsameelse näoga. Seljas sinine pikkade varrukatega särk ja kollased traksipüksid. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "TOOMAS",
+      "type": "human",
+      "description": "Väike inimene Toomas, umbes 6-aastane poiss, lühikeste blondide juuste ja naeratava näoga. Seljas roheline lühikese varrukaga t-särk ja tumesinised lühikesed püksid. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "ELUTUBA",
+      "description": "A bright and cozy children's playroom with light blue walls, a soft green rug on the wooden floor, and a large window on the back wall showing a gentle spring rain outside. A red toy chest is against the left wall. Colorful children's books are neatly stacked on a small low white shelf against the right wall. Warm, diffused light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ANNA JA TOOMAS MÕTLEVAD.",
+      "scene": "Anna and Toomas sit cross-legged on the soft green rug in the bright playroom, facing each other, with thoughtful expressions. Anna has her finger on her chin, Toomas has his hands on his knees. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. Both characters are smiling gently. LANDSCAPE composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "MIDA TÄNA TEHA?",
+      "scene": "Anna and Toomas stand in the middle of the bright playroom, looking at each other with wide, excited smiles, their hands clasped together in front of them, as if they have just had a brilliant idea. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TAHAVAD EHITADA.",
+      "scene": "Anna and Toomas stand together in the bright playroom, pointing excitedly towards a corner of the room, as if envisioning their building project. Anna is smiling with anticipation, Toomas looks eager and determined. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PADI! TEKK! SUUR KABER!",
+      "scene": "Anna holds up a colorful, soft, square pillow with both hands, looking at Toomas with a big, joyful smile. Toomas holds a folded blue blanket, also smiling broadly. They are in the middle of the bright playroom, ready to start their project. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "ANNA KOGUB PATE.",
+      "scene": "Anna is happily gathering a pile of soft, colorful pillows from the red toy chest in the bright playroom. She is holding two pillows in her arms, and several more pillows are visible inside the open chest. She looks determined and focused. Toomas is visible in the background, reaching for a blanket. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TOOMAS TOOB TEKKE.",
+      "scene": "Toomas is carrying a large, soft patterned blanket, dragging it gently across the green rug towards a growing pile of pillows in the bright playroom. He looks focused and happy. Anna is visible in the background, arranging pillows. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD EHITAVAD KABER.",
+      "scene": "Anna and Toomas are actively constructing their fort in the bright playroom. They are standing near a partially built structure of pillows and blankets, working together to drape a large blanket over a stack of colorful pillows. They are both smiling and cooperating, fully engaged in their task. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KABER ON NÜÜD VALMIS.",
+      "scene": "Anna and Toomas stand proudly in front of their completed, cozy blanket fort in the bright playroom. The fort is a soft, inviting structure made of pillows and draped blankets, with a clear opening. They are both smiling brightly and looking very satisfied at their creation. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON KABRIS.",
+      "scene": "Anna and Toomas are comfortably nestled inside their blanket fort, peeking out from the fort's opening with happy and content expressions. They are sitting on soft pillows inside the cozy fort. Only their faces and upper bodies are visible as they look out. The fort looks warm and inviting. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEE ON NII MÕNUS!",
+      "scene": "Anna and Toomas are still inside their blanket fort, lying comfortably on pillows, looking very relaxed and happy. They are smiling at each other, enjoying their cozy creation. The fort looks warm and inviting around them. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
