@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-03-31",
+  "latestDate": "2026-04-02",
   "stories": [
+    {
+      "date": "2026-04-02",
+      "title": "LIISA JA MART LENDAVAD LOHET",
+      "pageCount": 10,
+      "characters": [
+        "LIISA",
+        "MART"
+      ]
+    },
     {
       "date": "2026-03-31",
       "title": "JUSS JA PATU KEVADPESA",

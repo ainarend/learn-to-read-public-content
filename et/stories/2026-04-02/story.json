@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-02",
+  "language": "et",
+  "title": "LIISA JA MART LENDAVAD LOHET",
+  "generatedAt": "2026-03-23T00:25:52.827Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, roosade põskedega tüdruk, heledad juuksed kahe patsis. Seljas on sinine jope ja roosad püksid. Tal on suured rõõmsad silmad ja lahke naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MART",
+      "type": "human",
+      "description": "Väike inimene, punaste põskedega poiss, lühikesed pruunid juuksed. Seljas on roheline jope ja sinised püksid. Tal on suured uudishimulikud silmad ja sõbralik ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Roheline mägi",
+      "description": "A vibrant green grassy hill with a clear blue sky above. There are a few small, round, fluffy white clouds scattered in the sky. In the distance, gentle rolling green hills are visible. The atmosphere is bright, sunny, and breezy. Cartoon style, suitable for children's book.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA MART TULEVAD.",
+      "scene": "Liisa and Mart are standing at the base of a vibrant green grassy hill. Liisa, a girl with light hair in pigtails, wearing a blue jacket and pink pants, is holding Mart's hand. Mart, a boy with short brown hair, wearing a green jacket and blue pants, is smiling. The sky is clear blue with a few fluffy white clouds. In the distance, gentle rolling green hills are visible. The atmosphere is bright, sunny, and breezy. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON SUUR LOHE.",
+      "scene": "Liisa and Mart are standing on the vibrant green grassy hill. Mart is holding a large, colorful kite, folded. Liisa is pointing towards the sky, smiling excitedly. The sky is clear blue with a few fluffy white clouds. In the distance, gentle rolling green hills are visible. The atmosphere is bright, sunny, and breezy. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD LÄHEVAD MÄELE.",
+      "scene": "Liisa and Mart are walking up the vibrant green grassy hill. They are holding hands and looking forward, smiling. The large, colorful kite is still folded and Mart is carrying it. The sky is clear blue with a few fluffy white clouds. In the distance, gentle rolling green hills are visible. The atmosphere is bright, sunny, and breezy. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "TUUL PUHUB TUGEVALT.",
+      "scene": "Liisa and Mart are standing at the top of the vibrant green grassy hill. Their hair is slightly blowing in the wind. They are looking up at the sky, smiling. The kite is still folded, held by Mart. The sky is clear blue with a few fluffy white clouds. In the distance, gentle rolling green hills are visible. The atmosphere is bright, sunny, and breezy. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MART HOIAB LOHE.",
+      "scene": "Mart is standing on the vibrant green grassy hill, holding the colorful kite by its string, with the kite laid out on the grass behind him. Liisa is standing a little way in front of him, looking back and smiling encouragingly. The sky is clear blue with a few fluffy white clouds. In the distance, gentle rolling green hills are visible. The atmosphere is bright, sunny, and breezy. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LIISA JOOKSEB KIIRESTI.",
+      "scene": "Liisa is running across the vibrant green grassy hill, looking over her shoulder with a happy expression. Mart is behind her, holding the kite string firmly. The colorful kite is just beginning to lift off the grass behind Mart. The sky is clear blue with a few fluffy white clouds. In the distance, gentle rolling green hills are visible. The atmosphere is bright, sunny, and breezy. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LOHE TÕUSEB KÕRGELE.",
+      "scene": "The colorful kite is flying higher in the clear blue sky above the vibrant green grassy hill. Mart is holding the string, looking up with a happy expression. Liisa is standing next to him, also looking up and smiling. The kite is a focal point, rising. A few fluffy white clouds are in the sky. In the distance, gentle rolling green hills are visible. The atmosphere is bright, sunny, and breezy. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LOHE LENDAB ÜLEVAL.",
+      "scene": "The colorful kite is flying very high in the clear blue sky above the vibrant green grassy hill. Mart is holding the string firmly, looking up. Liisa is standing next to him, pointing at the kite and smiling widely. The kite is prominent in the sky. A few fluffy white clouds are in the sky. In the distance, gentle rolling green hills are visible. The atmosphere is bright, sunny, and breezy. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LIISA JA MART NAERATAVAD.",
+      "scene": "Liisa and Mart are standing together on the vibrant green grassy hill, looking up at the high-flying colorful kite in the clear blue sky. Both are smiling widely and happily. The kite is visible high above them. A few fluffy white clouds are in the sky. In the distance, gentle rolling green hills are visible. The atmosphere is bright, sunny, and breezy. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEE ON NII NUNNU!",
+      "scene": "Liisa and Mart are sitting side-by-side on the vibrant green grassy hill, looking up at the colorful kite still flying high in the clear blue sky. They are both smiling contentedly. The kite is smaller in the frame, indicating its height. A few fluffy white clouds are in the sky. In the distance, gentle rolling green hills are visible. The atmosphere is bright, sunny, and breezy. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
