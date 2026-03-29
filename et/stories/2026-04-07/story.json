@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-07",
+  "language": "et",
+  "title": "PEETER JA REET KUULAVAD KEVADET",
+  "generatedAt": "2026-03-29T22:39:24.701Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane poiss. Tal on lühikesed pruunid juuksed ja suured sinised silmad. Kannab sinist T-särki ja rohelisi pükse. Tal on sõbralik ja uudishimulik nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "REET",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk. Tal on pikad blondid patsid ja säravad rohelised silmad. Kannab kollast kleiti ja roosasid kingi. Tal on rõõmus ja leebe näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Kevadine Pargitee",
+      "description": "A beautiful, sunny spring park path. The path is made of light grey gravel, winding gently through fresh green grass. On either side of the path, there are tall, budding deciduous trees with light green leaves just appearing, and some small colorful spring flowers like crocuses and daffodils blooming near the tree trunks. The sky is a clear, bright blue. Warm sunlight filters through the budding trees, creating dappled shadows. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "PEETER JA REET ON PARGIS.",
+      "scene": "Peeter, a boy with short brown hair, blue T-shirt, and green pants, stands on a light grey gravel path in a sunny spring park, looking around with a curious expression. Reet, a girl with long blonde braids, yellow dress, and pink shoes, stands next to him, smiling gently. Budding trees with light green leaves line the path, and small spring flowers are visible in the grass. The sky is bright blue. The overall atmosphere is cheerful and inviting.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD KUULAVAD LINNUHÄÄLI.",
+      "scene": "Peeter and Reet are standing on a light grey gravel path in a sunny spring park. Peeter, a boy with short brown hair, blue T-shirt, and green pants, has his head slightly tilted, listening intently. Reet, a girl with long blonde braids, yellow dress, and pink shoes, also has a thoughtful, listening expression, a finger gently touching her chin. Budding trees with light green leaves line the path, and small spring flowers are visible in the grass. The sky is bright blue. They are focused and quiet.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PEETER KUULAB VAIKSELT.",
+      "scene": "Peeter, a boy with short brown hair, blue T-shirt, and green pants, is standing very still on the light grey gravel path in a sunny spring park. He is leaning slightly forward, cupping a hand to his ear, with a focused, quiet expression. Reet stands a little behind him, also quiet and observing. Budding trees with light green leaves line the path, and small spring flowers are visible in the grass. The sky is bright blue.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "REET KUULAB KA VAIKSELT.",
+      "scene": "Reet, a girl with long blonde braids, yellow dress, and pink shoes, is standing very still on the light grey gravel path in a sunny spring park, with her eyes closed slightly, concentrating on listening. Peeter is next to her, also listening quietly, looking towards the trees. Budding trees with light green leaves line the path, and small spring flowers are visible in the grass. The sky is bright blue. The scene is peaceful.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD KUULEVAD LINDU.",
+      "scene": "Peeter and Reet are standing on a light grey gravel path in a sunny spring park. Peeter, a boy with short brown hair, blue T-shirt, and green pants, points excitedly towards a budding tree. Reet, a girl with long blonde braids, yellow dress, and pink shoes, looks in the same direction, a surprised and happy smile on her face. A small, colorful bird is perched on a branch of a budding tree nearby. Budding trees with light green leaves line the path, and small spring flowers are visible in the grass. The sky is bright blue.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LIND LAULAB ILUSALT.",
+      "scene": "Peeter and Reet are standing on a light grey gravel path in a sunny spring park, looking up at a small, colorful bird perched on a branch of a budding tree. The bird has its beak open, as if singing. Peeter and Reet are both smiling, captivated by the beautiful song. Budding trees with light green leaves line the path, and small spring flowers are visible in the grass. The sky is bright blue.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PALJUD LINNUD LAULAVAD!",
+      "scene": "Peeter and Reet are standing on a light grey gravel path in a sunny spring park, looking up with wide, joyful smiles. Several small, colorful birds are now visible on various branches of the budding trees around them, all appearing to be singing. Peeter is pointing with both hands, expressing his excitement. Budding trees with light green leaves line the path, and small spring flowers are visible in the grass. The sky is bright blue.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PEETER JA REET RÕÕMUSTAVAD.",
+      "scene": "Peeter and Reet are standing on a light grey gravel path in a sunny spring park, holding hands and jumping slightly with pure joy. Both children have big, open-mouthed smiles and sparkling eyes. The budding trees with light green leaves and spring flowers are all around them under a bright blue sky. The atmosphere is full of happiness and excitement.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KEVAD ON TÕESTI KENAM.",
+      "scene": "Peeter and Reet are sitting happily on the light grey gravel path in a sunny spring park, leaning against a large tree trunk. They are looking at each other and smiling contentedly. A few small, colorful birds are still visible on the tree branches above them. The park is vibrant with fresh green grass, budding trees, and spring flowers under a bright blue sky. They feel peaceful and content.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}

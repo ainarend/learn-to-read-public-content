@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-06",
+  "latestDate": "2026-04-07",
   "stories": [
+    {
+      "date": "2026-04-07",
+      "title": "PEETER JA REET KUULAVAD KEVADET",
+      "pageCount": 9,
+      "characters": [
+        "PEETER",
+        "REET"
+      ]
+    },
     {
       "date": "2026-04-06",
       "title": "LIISA JA MARDI MULLIMÄNG",
