@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-05",
+  "latestDate": "2026-04-06",
   "stories": [
+    {
+      "date": "2026-04-06",
+      "title": "LIISA JA MARDI MULLIMÄNG",
+      "pageCount": 10,
+      "characters": [
+        "LIISA",
+        "MART"
+      ]
+    },
     {
       "date": "2026-04-05",
       "title": "KIISU JA KUKI ILUSAD MUNAD",

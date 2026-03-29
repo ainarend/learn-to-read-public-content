@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-06",
+  "language": "et",
+  "title": "LIISA JA MARDI MULLIMÄNG",
+  "generatedAt": "2026-03-29T21:54:42.133Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene Liisa. Tal on heledad juuksed patsidega ja suured rõõmsad silmad. Ta kannab erkroosat kleiti ja kollaseid sandaale. Tema nägu on alati naerul, uudishimulik ja sõbralik. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MART",
+      "type": "human",
+      "description": "Väike inimene Mart. Tal on lühikesed pruunid juuksed ja säravad uudishimulikud silmad. Ta kannab sinist T-särki ja rohelisi lühikesi pükse ning valgeid tosse. Ta on alati rõõmsameelne ja valmis mängima. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline park",
+      "description": "A bright, sunny park playground. Green grass covers the ground. In the background, there are a few tall, leafy green trees. A small, colorful slide and a swing set are visible in the distance, indicating a playground. The sky is clear blue with soft white clouds. The atmosphere is cheerful and inviting. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA MART ON ÕUES.",
+      "scene": "Liisa and Mart are standing together on bright green grass in a sunny park playground. They are looking around, smiling. The sky is clear blue with soft white clouds. A slide is visible in the background. Liisa wears an bright pink dress and Mart wears a blue t-shirt and green shorts.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON UUS MULLIPUDEL.",
+      "scene": "Liisa holds a small, colorful bubble bottle in one hand, showing it to Mart. Mart points at the bottle with an excited smile. They are standing on bright green grass in a sunny park playground. A slide is visible in the background. Liisa wears an bright pink dress and Mart wears a blue t-shirt and green shorts.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LIISA PUHUB MULLE.",
+      "scene": "Liisa is gently blowing into a bubble wand, creating small, shimmering bubbles that float into the air. She holds the colorful bubble bottle in her other hand. Mart is watching her, smiling. They are on bright green grass in a sunny park playground. Liisa wears an bright pink dress and Mart wears a blue t-shirt and green shorts.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MULLID LENDAVAD KÕRGELE.",
+      "scene": "Several beautiful, iridescent bubbles are floating high above Liisa and Mart. Liisa is looking up at the bubbles with a joyful expression. Mart is also looking up, reaching one hand towards the bubbles. They are on bright green grass in a sunny park playground. Liisa wears an bright pink dress and Mart wears a blue t-shirt and green shorts.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MART JAHIB MULLE.",
+      "scene": "Mart is playfully running on the bright green grass, trying to catch or touch the floating bubbles with his hands. He has a big smile on his face. Liisa is standing nearby, watching him happily, holding the bubble bottle. They are in a sunny park playground. Liisa wears an bright pink dress and Mart wears a blue t-shirt and green shorts.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PALJU SUURI MULLE.",
+      "scene": "Liisa is blowing a large, shimmering bubble from her wand. Many other bubbles, various sizes, are floating around them in the air. Mart is looking at the big bubble with wide, amazed eyes. They are on bright green grass in a sunny park playground. Liisa wears an bright pink dress and Mart wears a blue t-shirt and green shorts.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "MULLID TANTSIVAD ÕHUS.",
+      "scene": "Liisa and Mart are both standing, looking up as a multitude of colorful bubbles gently drift and \"dance\" in the sunny air around them. Some bubbles are big, some are small. Both children have happy, dreamy expressions. They are on bright green grass in a sunny park playground. Liisa wears an bright pink dress and Mart wears a blue t-shirt and green shorts.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD NAERAVAD VALJUSTI.",
+      "scene": "Liisa and Mart are standing close together, laughing joyfully. There are still many bubbles floating around them. They are pointing at the bubbles and looking at each other with big smiles. They are on bright green grass in a sunny park playground. Liisa wears an bright pink dress and Mart wears a blue t-shirt and green shorts.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SEE ON NII LÕBUS.",
+      "scene": "Liisa and Mart are playfully trying to pop the last few bubbles floating near them. They are both smiling and having a wonderful time, their faces full of innocent glee. The park playground is still sunny. Liisa wears an bright pink dress and Mart wears a blue t-shirt and green shorts.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA RÕÕMSAD.",
+      "scene": "Liisa and Mart are sitting side-by-side on the bright green grass in the sunny park playground, looking content and happy after their bubble play. The bubble bottle is lying next to them. They are smiling warmly. Liisa wears an bright pink dress and Mart wears a blue t-shirt and green shorts.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
