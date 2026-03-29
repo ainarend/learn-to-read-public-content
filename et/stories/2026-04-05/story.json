@@ -1,101 +1,87 @@
 {
   "date": "2026-04-05",
   "language": "et",
-  "title": "ANNA JA TOOMASE KABER",
-  "generatedAt": "2026-03-23T02:40:04.200Z",
+  "title": "KIISU JA KUKI ILUSAD MUNAD",
+  "generatedAt": "2026-03-29T21:08:59.024Z",
   "characters": [
     {
       "id": "char1",
-      "name": "ANNA",
-      "type": "human",
-      "description": "Väike inimene Anna, umbes 5-aastane tüdruk, heledate pruunide juuste ja rõõmsameelse näoga. Seljas sinine pikkade varrukatega särk ja kollased traksipüksid. Armas multifilmistiil.",
+      "name": "KASS KIISU",
+      "type": "cat",
+      "description": "Väike hall triibuline kass, roheliste silmadega, kandmas väikest sinist lipsukest kaelal. Sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "TOOMAS",
-      "type": "human",
-      "description": "Väike inimene Toomas, umbes 6-aastane poiss, lühikeste blondide juuste ja naeratava näoga. Seljas roheline lühikese varrukaga t-särk ja tumesinised lühikesed püksid. Armas multifilmistiil.",
+      "name": "KOER KUKI",
+      "type": "dog",
+      "description": "Väike pruun karvane koer, rippuvate kõrvadega, kandmas väikest punast kaelarihma. Rõõmus ja mänguhimuline näoilme. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "ELUTUBA",
-      "description": "A bright and cozy children's playroom with light blue walls, a soft green rug on the wooden floor, and a large window on the back wall showing a gentle spring rain outside. A red toy chest is against the left wall. Colorful children's books are neatly stacked on a small low white shelf against the right wall. Warm, diffused light fills the room. Cartoon style.",
+      "name": "Käsitöönurk",
+      "description": "Cozy children's craft corner with light blue walls and a light wooden floor. A small, round, light wooden table sits in the center with two small wooden chairs. On the back wall, there's a single window showing bright green spring trees outside. A small red bookshelf is against the left wall. Warm sunlight streams in from the window. Cartoon style.",
       "image": "loc1.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "ANNA JA TOOMAS MÕTLEVAD.",
-      "scene": "Anna and Toomas sit cross-legged on the soft green rug in the bright playroom, facing each other, with thoughtful expressions. Anna has her finger on her chin, Toomas has his hands on his knees. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. Both characters are smiling gently. LANDSCAPE composition.",
+      "text": "KASS KIISU JA KOER KUKI.",
+      "scene": "Kass Kiisu, a small grey striped cat with green eyes, wearing a small blue bow tie, sits on a small wooden chair at a round light wooden table. Koer Kuki, a small brown furry dog with floppy ears, wearing a small red collar, sits on another small wooden chair next to Kiisu. They are looking at each other happily. The cozy children's craft corner has light blue walls and a light wooden floor. A single window on the back wall shows bright green spring trees outside. A small red bookshelf is against the left wall. Warm sunlight streams in from the window. Cartoon style.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "MIDA TÄNA TEHA?",
-      "scene": "Anna and Toomas stand in the middle of the bright playroom, looking at each other with wide, excited smiles, their hands clasped together in front of them, as if they have just had a brilliant idea. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "text": "NEIL ON SUUR MÕTE.",
+      "scene": "Kass Kiisu and Koer Kuki are sitting at the round light wooden table in the cozy children's craft corner. Kiisu has one paw on the table, looking thoughtful, and Kuki is looking at Kiisu with a curious expression. The table is empty. The cozy children's craft corner has light blue walls and a light wooden floor. A single window on the back wall shows bright green spring trees outside. A small red bookshelf is against the left wall. Warm sunlight streams in from the window. Cartoon style.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD TAHAVAD EHITADA.",
-      "scene": "Anna and Toomas stand together in the bright playroom, pointing excitedly towards a corner of the room, as if envisioning their building project. Anna is smiling with anticipation, Toomas looks eager and determined. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "text": "NAD TOOVAD MUNE LAUALE.",
+      "scene": "Kass Kiisu is carefully placing a white egg onto the round light wooden table. Koer Kuki is bringing another white egg towards the table, holding it gently in his mouth. Several more white eggs are in a small basket on the floor next to them. The cozy children's craft corner has light blue walls and a light wooden floor. A single window on the back wall shows bright green spring trees outside. A small red bookshelf is against the left wall. Warm sunlight streams in from the window. Cartoon style.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "PADI! TEKK! SUUR KABER!",
-      "scene": "Anna holds up a colorful, soft, square pillow with both hands, looking at Toomas with a big, joyful smile. Toomas holds a folded blue blanket, also smiling broadly. They are in the middle of the bright playroom, ready to start their project. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "text": "NAD VÄRVIVAD ILUSAID MUNE.",
+      "scene": "Kass Kiisu sits at the round light wooden table, holding a small paintbrush and carefully painting a white egg with bright blue paint. Koer Kuki sits next to Kiisu, also holding a small paintbrush and painting another white egg with bright red paint. There are several small pots of colorful paint on the table. A few unpainted eggs are also on the table. The cozy children's craft corner has light blue walls and a light wooden floor. A single window on the back wall shows bright green spring trees outside. A small red bookshelf is against the left wall. Warm sunlight streams in from the window. Cartoon style.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "ANNA KOGUB PATE.",
-      "scene": "Anna is happily gathering a pile of soft, colorful pillows from the red toy chest in the bright playroom. She is holding two pillows in her arms, and several more pillows are visible inside the open chest. She looks determined and focused. Toomas is visible in the background, reaching for a blanket. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "text": "VÄRVID ON NII KIRKAD.",
+      "scene": "Kass Kiisu and Koer Kuki are sitting at the round light wooden table. Kiisu holds up a brightly painted blue egg and Kuki holds up a brightly painted red egg. Both characters are smiling and looking admiringly at their colorful eggs. Several other painted eggs in various bright colors are on the table along with the paint pots and paintbrushes. The cozy children's craft corner has light blue walls and a light wooden floor. A single window on the back wall shows bright green spring trees outside. A small red bookshelf is against the left wall. Warm sunlight streams in from the window. Cartoon style.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "TOOMAS TOOB TEKKE.",
-      "scene": "Toomas is carrying a large, soft patterned blanket, dragging it gently across the green rug towards a growing pile of pillows in the bright playroom. He looks focused and happy. Anna is visible in the background, arranging pillows. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "text": "NAD LISAVAD SÄRA.",
+      "scene": "Kass Kiisu carefully sprinkles glitter from a small container onto a brightly painted yellow egg on the round light wooden table. Koer Kuki watches with excitement, holding a small pot of glitter ready to use. Several brightly painted eggs are on the table, some with glitter already on them. The paint pots and paintbrushes are still on the table. The cozy children's craft corner has light blue walls and a light wooden floor. A single window on the back wall shows bright green spring trees outside. A small red bookshelf is against the left wall. Warm sunlight streams in from the window. Cartoon style.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "NAD EHITAVAD KABER.",
-      "scene": "Anna and Toomas are actively constructing their fort in the bright playroom. They are standing near a partially built structure of pillows and blankets, working together to drape a large blanket over a stack of colorful pillows. They are both smiling and cooperating, fully engaged in their task. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "text": "MUNAD ON NÜÜD VALMIS.",
+      "scene": "Kass Kiisu and Koer Kuki stand proudly next to the round light wooden table, which is now filled with many beautifully decorated Easter eggs. The eggs are painted in various bright colors and sparkle with glitter. The paint pots and glitter containers are neatly put aside. The cozy children's craft corner has light blue walls and a light wooden floor. A single window on the back wall shows bright green spring trees outside. A small red bookshelf is against the left wall. Warm sunlight streams in from the window. Cartoon style.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "KABER ON NÜÜD VALMIS.",
-      "scene": "Anna and Toomas stand proudly in front of their completed, cozy blanket fort in the bright playroom. The fort is a soft, inviting structure made of pillows and draped blankets, with a clear opening. They are both smiling brightly and looking very satisfied at their creation. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
+      "text": "NEMAD ON VÄGA ÕNNELIKUD.",
+      "scene": "Kass Kiisu and Koer Kuki are smiling brightly and giving each other a friendly high-five (paw-five). They are standing beside the round light wooden table, which is beautifully arranged with all the decorated Easter eggs. The colorful eggs are shining under the warm sunlight. The cozy children's craft corner has light blue walls and a light wooden floor. A single window on the back wall shows bright green spring trees outside. A small red bookshelf is against the left wall. Warm sunlight streams in from the window. Cartoon style.",
       "image": "page8.png",
-      "location_id": "loc1"
-    },
-    {
-      "pageNumber": 9,
-      "text": "NAD ON KABRIS.",
-      "scene": "Anna and Toomas are comfortably nestled inside their blanket fort, peeking out from the fort's opening with happy and content expressions. They are sitting on soft pillows inside the cozy fort. Only their faces and upper bodies are visible as they look out. The fort looks warm and inviting. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
-      "image": "page9.png",
-      "location_id": "loc1"
-    },
-    {
-      "pageNumber": 10,
-      "text": "SEE ON NII MÕNUS!",
-      "scene": "Anna and Toomas are still inside their blanket fort, lying comfortably on pillows, looking very relaxed and happy. They are smiling at each other, enjoying their cozy creation. The fort looks warm and inviting around them. The window on the back wall shows a gentle spring rain outside. The playroom has light blue walls, a red toy chest against the left wall, and a low white shelf with colorful books against the right wall. Warm, diffused light fills the room. LANDSCAPE composition.",
-      "image": "page10.png",
       "location_id": "loc1"
     }
   ]
