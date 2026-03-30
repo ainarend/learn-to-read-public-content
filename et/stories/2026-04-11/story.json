@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-11",
+  "language": "et",
+  "title": "LIISA JA MADIS LENNUTAVAD LOHET",
+  "generatedAt": "2026-03-30T00:55:21.415Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, tüdruk. Liisal on heledad patsid ja säravad sinised silmad. Ta kannab kollast kleiti ja üleval roosat põlle. Tema näoilme on alati uudishimulik ja rõõmus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MADIS",
+      "type": "human",
+      "description": "Väike inimene, poiss. Madisel on lühikesed tumedad juuksed ja sõbralikud pruunid silmad. Ta kannab sinist T-särki ja mugavaid pruune lühikesi pükse. Tema näoilme on alati abivalmis ja naeratav. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "LIISA JA MADISE TUBA",
+      "description": "Cozy children's room with light blue walls, wooden floor, a large window on the back wall showing green trees and a hint of a sunny spring day outside. A large, sturdy wooden craft table sits in the center with two small wooden chairs. A simple, low bookshelf with colorful books and art supplies is on the left wall. The room is brightly lit with natural light. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "PÄIKESELINE NIIT",
+      "description": "A wide, open sunny green field with gentle rolling hills in the far distance. The sky is bright blue with a few soft, fluffy white clouds. There are no trees or buildings, just expansive open space. A light, gentle breeze is visually suggested. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA MADIS ON TOAS.",
+      "scene": "Liisa ja Madis are sitting comfortably on small wooden chairs at a large wooden craft table in their cozy room. Liisa is looking at Madis with a thoughtful expression, and Madis is smiling gently. The room has light blue walls and a window showing green trees outside. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON SUUR MÕTE.",
+      "scene": "Liisa and Madis are still sitting at the wooden craft table. Liisa has a bright, excited smile and is gesturing with one hand, as if sharing an idea. Madis is looking at her with wide, curious eyes and an enthusiastic smile. The room setting is consistent. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD PABERI.",
+      "scene": "Liisa and Madis are reaching for a stack of colorful paper on their wooden craft table. Liisa is holding a red sheet, and Madis is about to pick up a blue sheet. Both have focused, happy expressions. Art supplies are visible on the shelf in the background. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÕIKAVAD VÄRVID.",
+      "scene": "Liisa is carefully cutting a piece of yellow paper with child-safe scissors, while Madis is cutting a piece of green paper. Colorful paper scraps are scattered on the wooden craft table. Both children are focused on their task, smiling. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LIISA LIIMIB KOKKU.",
+      "scene": "Liisa is sitting at the wooden craft table, carefully applying glue to the edge of a colorful paper shape. Madis is holding another paper shape, ready to help her put the pieces together. They are collaborating with happy and concentrated expressions. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MADIS SEON NÖÖRI.",
+      "scene": "Madis is carefully tying a long string to the paper kite they have built. Liisa is holding the kite steady for him, looking on with anticipation. The kite is colorful and clearly recognizable. The children are focused and working together. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LOHEN ON NÜÜD VALMIS!",
+      "scene": "Liisa and Madis are standing proudly next to their finished, colorful paper kite on the wooden craft table. The kite has a long string attached. Both children are beaming with big smiles, clearly proud of their creation. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD LÄHEVAD ÕUE.",
+      "scene": "Liisa and Madis are walking hand-in-hand through a sunny green field, holding their colorful kite. They are looking forward with excited smiles. The field has gentle rolling hills in the distance under a bright blue sky. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LOHEN LENDAB KÕRGELE!",
+      "scene": "Liisa and Madis are in the sunny green field, looking up with huge, joyful smiles as their colorful kite soars high in the bright blue sky. Madis is holding the string, and Liisa is pointing at the kite with excitement. The kite is small in the vast sky, conveying height. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}
