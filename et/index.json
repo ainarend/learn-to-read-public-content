@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-08",
+  "latestDate": "2026-04-10",
   "stories": [
+    {
+      "date": "2026-04-10",
+      "title": "REINO JA AINO LOMBIS",
+      "pageCount": 10,
+      "characters": [
+        "REINO",
+        "AINO"
+      ]
+    },
     {
       "date": "2026-04-08",
       "title": "PESAKAST LINDUDELE",

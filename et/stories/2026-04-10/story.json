@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-10",
+  "language": "et",
+  "title": "REINO JA AINO LOMBIS",
+  "generatedAt": "2026-03-30T00:10:05.988Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REINO",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane poiss, heledad lühikesed juuksed, suured sinised silmad. Kannab sinist vihmajopet ja punaseid kummikuid. Sõbralik ja rõõmsameelne. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "AINO",
+      "type": "human",
+      "description": "Väike inimene, umbes 4-aastane tüdruk, pruunid patsid, suured pruunid silmad. Kannab roosat vihmajopet ja kollaseid kummikuid. Naerusuine ja mänguhimuline. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "VÄLJAS TEEL",
+      "description": "A winding paved path in a green park or garden, surrounded by fresh green grass and blooming spring bushes. The sky is a soft grey, indicating recent rain. Large, clear puddles are scattered on the path. The atmosphere is fresh and bright despite the cloudy sky. Cute cartoonish style, no text in scene.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REINO JA AINO VÄLJAS.",
+      "scene": "Reino, a small boy with short light hair, blue rain jacket, and regular shoes, stands side-by-side with Aino, a small girl with brown pigtails, pink rain jacket, and regular shoes, on a winding paved path in a green park or garden. They are looking around, observing the fresh spring day after rain. The sky is a soft grey. A few small puddles are visible on the path.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NÄEVAD SUURI LOMPE.",
+      "scene": "Reino, a small boy with short light hair, blue rain jacket, and regular shoes, stands next to Aino, a small girl with brown pigtails, pink rain jacket, and regular shoes, on a winding paved path in a green park or garden. They are pointing excitedly at several large, shimmering puddles spread across the path ahead of them, smiling with curiosity. The sky is a soft grey.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "AINO PANEB KUMMIKUD.",
+      "scene": "Aino, a small girl with brown pigtails and a pink rain jacket, sits on a small, smooth grey rock next to the winding paved path in a green park or garden, putting on her yellow rain boots. Reino, a small boy with short light hair and a blue rain jacket, stands nearby, watching her, holding his red rain boots. The sky is a soft grey.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "REINO PANEB KUMMIKUD.",
+      "scene": "Reino, a small boy with short light hair and a blue rain jacket, sits on a small, smooth grey rock next to the winding paved path in a green park or garden, putting on his red rain boots. Aino, a small girl with brown pigtails and a pink rain jacket, stands next to him, already wearing her yellow rain boots, smiling patiently. The sky is a soft grey.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "HÜPPAVAD LOMPI!",
+      "scene": "Reino, wearing his blue rain jacket and red rain boots, and Aino, wearing her pink rain jacket and yellow rain boots, hold hands and jump together into a large, clear puddle on the winding paved path in a green park or garden. Water splashes up around their boots. Their faces are full of joy and excitement. The sky is a soft grey.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LOMP PLADISTAB VALJUSTI.",
+      "scene": "Reino, wearing his blue rain jacket and red rain boots, and Aino, wearing her pink rain jacket and yellow rain boots, are in the middle of a large puddle on the winding paved path in a green park or garden, enthusiastically stomping their booted feet. Water splashes dramatically high around them. They are laughing loudly. The sky is a soft grey.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD NAERAVAD KOOS.",
+      "scene": "Reino, wearing his blue rain jacket and red rain boots, and Aino, wearing her pink rain jacket and yellow rain boots, stand in a large puddle on the winding paved path in a green park or garden, hands still joined. They are looking at each other and laughing heartily. Water is still visibly rippling around their boots. Their expressions are pure joy. The sky is a soft grey.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "VAHVA LÕBUS MÄNG.",
+      "scene": "Reino, wearing his blue rain jacket and red rain boots, and Aino, wearing her pink rain jacket and yellow rain boots, walk happily hand-in-hand along the winding paved path in a green park or garden. They look back at the puddles with satisfied smiles, still in their boots. They seem content after their game. The sky is a soft grey.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON NÜÜD MÄRJAD.",
+      "scene": "Close-up on Reino's red rain boots and Aino's yellow rain boots, standing side-by-side on the wet, winding paved path in a green park or garden. The boots are covered in visible splashes of water and a little mud, showing signs of active play. The surrounding grass is green and wet. The sky is a soft grey.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "REINO JA AINO ÕNNELIKUD.",
+      "scene": "Reino, wearing his blue rain jacket and red rain boots, and Aino, wearing her pink rain jacket and yellow rain boots, stand on the winding paved path in a green park or garden, hugging each other gently and smiling broadly. They are very happy and content after their outdoor play. The spring park setting is cheerful. The sky is a soft grey.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
