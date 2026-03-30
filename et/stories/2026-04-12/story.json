@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-12",
+  "language": "et",
+  "title": "JUTA JA RIKS VÄRVIVAD MUNE",
+  "generatedAt": "2026-03-30T01:39:14.484Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUTA",
+      "type": "rabbit",
+      "description": "Väike valge jänes suurte pikkade kõrvadega, seljas roheline põll ja peas väike kollane lilleke. Suured sõbralikud silmad, uudishimulik ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "RIKS",
+      "type": "fox",
+      "description": "Väike oranž rebane koheva sabaga, kandmas sinist pluusi ja pruune traksipükse. Nutikad ja rõõmsad silmad ning sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Köök",
+      "description": "Cozy children's kitchen with light yellow walls, a light wooden floor, and a single large window on the back wall showing green spring trees and a blue sky outside. A sturdy light wooden table is in the center of the room. Two small wooden chairs are placed at the table. On the left wall, there is a simple shelf with a few colorful children's books. The room is brightly lit by warm sunlight coming through the window. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUTA JA RIKS ON KÖÖGIS.",
+      "scene": "Jänes Juta and Rebane Riks stand together in the cozy children's kitchen with light yellow walls and a light wooden floor. The light wooden table is in the center of the room. Juta is looking at Riks and Riks is looking thoughtfully at Juta, both with friendly expressions. Warm sunlight streams through the window showing green spring trees. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON SUUR MÕTE.",
+      "scene": "Jänes Juta and Rebane Riks are still standing together at the wooden table in the cozy children's kitchen. They are smiling at each other, as if sharing a secret, exciting idea. The room maintains its light yellow walls, light wooden floor, and a large window showing green spring trees. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TOOVAD VALGED MUNAD.",
+      "scene": "Jänes Juta and Rebane Riks are at the wooden table in the cozy children's kitchen. Juta carefully holds a small basket filled with white eggs. Riks is reaching out towards the basket, looking curious and excited. Warm sunlight illuminates the scene through the window showing green spring trees. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD EREDAD VÄRVID.",
+      "scene": "Jänes Juta and Rebane Riks are at the wooden table in the cozy children's kitchen. Juta is placing the basket of white eggs on the table. Riks is holding a small tray with several pots of bright, colorful paint and a few small paintbrushes, smiling. Warm sunlight illuminates the scene through the window showing green spring trees. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD VÄRVIVAD KOOS MUNE.",
+      "scene": "Jänes Juta and Rebane Riks are sitting on small wooden chairs at the wooden table in the cozy children's kitchen. They are both holding small paintbrushes and carefully painting the white eggs with bright colors. A few eggs are already partially painted on the table. Paint pots are visible on the table. Warm sunlight streams through the window showing green spring trees. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MUNAD SAAJAD KIRJUD.",
+      "scene": "Jänes Juta and Rebane Riks are sitting on small wooden chairs at the wooden table in the cozy children's kitchen. They continue to paint the eggs. Several eggs on the table are now fully colorful and patterned. Juta is painting a blue egg, and Riks is painting a red egg. They look focused and happy. Paint pots and brushes are around. Warm sunlight streams through the window showing green spring trees. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD TEGID ILUSAID MUNE.",
+      "scene": "Jänes Juta and Rebane Riks are sitting on small wooden chairs at the wooden table in the cozy children's kitchen, admiring their work. The table is filled with many beautiful, brightly colored and patterned eggs. They both look proud and happy, smiling at the eggs. Paint pots and brushes are neatly put aside. Warm sunlight streams through the window showing green spring trees. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD PANEVAD MUNAD KORVI.",
+      "scene": "Jänes Juta and Rebane Riks are carefully placing the beautiful, brightly colored and patterned eggs into a larger, decorative basket on the wooden table in the cozy children's kitchen. They are working together, gently picking up the eggs. Warm sunlight streams through the window showing green spring trees. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "JUTA JA RIKS ON RÕÕMSAD!",
+      "scene": "Jänes Juta and Rebane Riks stand beside the wooden table in the cozy children's kitchen, proudly holding the basket filled with all the beautiful, brightly colored and patterned eggs. They are both smiling broadly, looking very happy and satisfied with their creation. Warm sunlight streams through the window showing green spring trees. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
