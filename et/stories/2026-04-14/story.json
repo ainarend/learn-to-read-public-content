@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-14",
+  "language": "et",
+  "title": "ORAV OTT JA SIIL SASS",
+  "generatedAt": "2026-04-05T22:39:59.151Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike punakaspruun orav suurte kohevate sabaga. Kandmas väikest rohelist mütsi. Tal on uudishimulikud silmad ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL SASS",
+      "type": "hedgehog",
+      "description": "Väike hall siil pehmete okastega. Tal on väike sinine seljakott ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Ott ja Sassi pesa",
+      "description": "Cozy, rustic children's room inside a tree hollow. The room has light brown, smooth wooden walls and a smooth wooden floor. A small, round wooden table is in the center with two small wooden chairs. A small round window on the back wall shows green spring leaves outside. Simple, warm lighting. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Päikeseline kevadine heinamaa",
+      "description": "Sunny spring meadow with bright green grass and a few early spring flowers (daisies) scattered around. A large, clear puddle of water is in the center. Blue sky with soft white clouds. A few tall trees are visible in the background. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "OTT JA SASS NÄGID LOMPI.",
+      "scene": "ORAV OTT and SIIL SASS are standing by a large, clear puddle in a sunny spring meadow with bright green grass and a few early spring flowers. They are looking at the puddle curiously and pointing at it. Blue sky with soft white clouds. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "ORAV OTT and SIIL SASS are standing by the large puddle in the sunny spring meadow. They are looking at each other with bright, excited smiles, as if they just had a good idea. ORAV OTT points to the puddle, and SIIL SASS nods enthusiastically. Blue sky with soft white clouds. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD PAADI.",
+      "scene": "ORAV OTT and SIIL SASS are sitting at the small round wooden table in the cozy, rustic children's room with light brown wooden walls and floor. ORAV OTT holds a colorful sheet of paper, and SIIL SASS watches with curiosity. They are about to start folding. A small round window on the back wall shows green spring leaves. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "OTT VOLDIB PABERIT KOKKU.",
+      "scene": "ORAV OTT is sitting at the small round wooden table, carefully folding a colorful sheet of paper into a boat shape. SIIL SASS is sitting next to him, watching intently and smiling. A partially folded paper boat is on the table. The room has light brown wooden walls and floor. A small round window on the back wall shows green spring leaves. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NÜÜD ON PAAT VALMIS.",
+      "scene": "ORAV OTT and SIIL SASS are both proudly holding up a perfectly folded, colorful paper boat, smiling happily. They are sitting at the small round wooden table. The room has light brown wooden walls and floor. A small round window on the back wall shows green spring leaves. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LÄHEVAD LOMBI JUURDE.",
+      "scene": "ORAV OTT and SIIL SASS are walking across the sunny spring meadow, carrying their colorful paper boat. They are heading towards the large puddle in the distance, looking eager and excited. Bright green grass and a few early spring flowers are visible. Blue sky. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PAAT ON VEE PEAL.",
+      "scene": "ORAV OTT and SIIL SASS are kneeling at the edge of the large, clear puddle in the sunny spring meadow. They have gently placed their colorful paper boat on the surface of the water, and it is floating. They watch it closely with happy expressions. Bright green grass and spring flowers around. Blue sky. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PAAT UJUBA HÄSTI.",
+      "scene": "ORAV OTT and SIIL SASS are watching their colorful paper boat as it floats smoothly across the large puddle in the sunny spring meadow. They are both smiling with satisfaction and joy. Bright green grass and spring flowers around. Blue sky. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "OTT JA SASS ON RÕÕMSAD.",
+      "scene": "ORAV OTT and SIIL SASS are standing by the puddle, happily watching their boat. They are giving each other a cheerful high-five with big, bright smiles. The sun shines brightly over the spring meadow. Bright green grass and spring flowers around. Blue sky. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEE ON NENDE MÄNG.",
+      "scene": "ORAV OTT and SIIL SASS are still by the puddle, with their colorful paper boat floating. They are looking at each other and laughing, ready to play more by gently pushing the boat. They are very happy. Sunny spring meadow. Bright green grass and spring flowers around. Blue sky. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

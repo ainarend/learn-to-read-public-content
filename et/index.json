@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-13",
+  "latestDate": "2026-04-14",
   "stories": [
+    {
+      "date": "2026-04-14",
+      "title": "ORAV OTT JA SIIL SASS",
+      "pageCount": 10,
+      "characters": [
+        "ORAV OTT",
+        "SIIL SASS"
+      ]
+    },
     {
       "date": "2026-04-13",
       "title": "REIN JA KALLE TEAVAD SILLA",
