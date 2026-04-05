@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-15",
+  "language": "et",
+  "title": "JÄNES JENNY JA HIIR HEIDI TEHVAD LOHE",
+  "generatedAt": "2026-04-05T23:25:02.460Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JÄNES JENNY",
+      "type": "rabbit",
+      "description": "Väike valge jänes pikkade kõrvadega, roosa nina, kandmas sinist põllekleiti, alati rõõmus ja energiline. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "HIIR HEIDI",
+      "type": "mouse",
+      "description": "Väike hall hiir suurte ümarate kõrvadega, roosa saba, kandmas väikest punast salli, uudishimulik ja sõbralik. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline Männik",
+      "description": "A wide, gently sloping grassy green hill in a sunny park. A few scattered green trees are visible in the distance. The sky is bright blue with fluffy white clouds. The grass is vibrant green. There are no buildings or fences. Bright and cheerful cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JÄNES JENNY JA HIIR HEIDI.",
+      "scene": "JÄNES JENNY (a small white bunny in a blue overall dress) and HIIR HEIDI (a small grey mouse in a red scarf) are standing side by side at the top of a wide, gently sloping grassy green hill in a sunny park. They are looking out with friendly, curious expressions. The sky is bright blue with fluffy white clouds. A few scattered green trees are visible in the distance. The grass is vibrant green. Bright and cheerful cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD LENDU.",
+      "scene": "JÄNES JENNY and HIIR HEIDI are still standing at the top of the grassy green hill. JENNY points one paw up towards the sky with a hopeful expression, while HEIDI looks up with wide, wondering eyes. They both look like they are imagining something flying high. The sky is bright blue with fluffy white clouds. The grass is vibrant green. Bright and cheerful cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEHVAD LOHE.",
+      "scene": "JÄNES JENNY and HIIR HEIDI are now sitting cross-legged on the vibrant green grass at the top of the hill. In front of them are several colorful sheets of paper, some small sticks, and a roll of string. JENNY holds a piece of paper and looks thoughtfully at HIIR HEIDI, who is holding a small stick. They both have focused but happy expressions. The sky is bright blue with fluffy white clouds. Bright and cheerful cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD KOGUVAD PABERIT.",
+      "scene": "JÄNES JENNY and HIIR HEIDI are sitting on the vibrant green grass. They are surrounded by a pile of various colorful papers in different shades of red, blue, yellow, and green. JENNY is carefully sorting through the papers with her paws, while HEIDI is excitedly picking up a bright yellow sheet. They are both smiling. The sky is bright blue with fluffy white clouds. Bright and cheerful cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD LÕIKAVAD VÄRVID.",
+      "scene": "JÄNES JENNY and HIIR HEIDI are sitting on the vibrant green grass. JENNY holds a pair of child-safe scissors (with rounded tips) and is carefully cutting a colorful piece of paper into a shape. HIIR HEIDI is watching intently, holding another colorful piece of paper. Small colorful paper scraps are scattered around them on the grass. They are focused and careful. The sky is bright blue with fluffy white clouds. Bright and cheerful cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LIIMIVAD LOHE.",
+      "scene": "JÄNES JENNY and HIIR HEIDI are sitting on the vibrant green grass. They are both carefully applying glue from a child-safe glue stick to colorful pieces of paper, which they are sticking onto a larger, kite-shaped frame made from small sticks and paper. The kite is starting to take shape with bright colors. They are working together and smiling. The sky is bright blue with fluffy white clouds. Bright and cheerful cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LOHE ON VALMIS.",
+      "scene": "JÄNES JENNY and HIIR HEIDI are sitting on the vibrant green grass, proudly holding up their newly finished, colorful kite. The kite is a simple diamond shape with a long, colorful tail. They both have wide, happy smiles, admiring their creation. The sky is bright blue with fluffy white clouds. Bright and cheerful cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD VIIVAD LOHE MÄELE.",
+      "scene": "JÄNES JENNY and HIIR HEIDI are standing up on the grassy green hill, holding their colorful kite. JENNY holds the kite high with one paw, while HEIDI holds onto the string. They are looking forward, excitedly preparing to fly the kite. A gentle breeze seems to be rustling the grass. The sky is bright blue with fluffy white clouds. Bright and cheerful cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LOHE LENDAB KÕRGELE.",
+      "scene": "JÄNES JENNY and HIIR HEIDI are standing on the grassy green hill, looking up at their colorful kite soaring high in the bright blue sky. The kite is clearly visible, flying gracefully in the wind. JENNY is holding the string, and HEIDI is standing beside her, both with amazed and joyful expressions. The wind is gently blowing. The sky is bright blue with fluffy white clouds. Bright and cheerful cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA RÕÕMSAD!",
+      "scene": "JÄNES JENNY and HIIR HEIDI are sitting happily on the vibrant green grass at the top of the hill. Their colorful kite is still visible high in the sky in the distance. They are looking at each other and laughing joyfully, perhaps high-fiving with a paw, celebrating their successful kite flight. They both have very wide, satisfied smiles. The sky is bright blue with fluffy white clouds. Bright and cheerful cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
