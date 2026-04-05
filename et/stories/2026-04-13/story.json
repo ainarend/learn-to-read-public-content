@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-13",
+  "language": "et",
+  "title": "REIN JA KALLE TEAVAD SILLA",
+  "generatedAt": "2026-04-05T21:53:43.505Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE REIN",
+      "type": "fox",
+      "description": "Väike oranž rebane koheva sabaga, seljas väike roheline vest, suured terased silmad ja rõõmsameelne naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KARU KALLE",
+      "type": "bear",
+      "description": "Väike pruun karu pehmete kõrvadega, seljas väike sinine tunked, sõbralikud pruunid silmad ja abivalmis olek. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Metsaäärne oja",
+      "description": "A gentle, shallow stream flows through a lush green meadow with tall green grass and scattered small spring wildflowers like bluebells and buttercups. In the background, there is a dense forest edge with tall, leafy green trees. The sky is bright blue with soft white clouds, indicating a clear, sunny spring day. Smooth grey pebbles and a few fallen leaves are visible in the stream bed and on the banks. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REIN JA KALLE ON OJAL.",
+      "scene": "Rebane Rein and Karu Kalle are standing on the lush green bank of a gentle, shallow stream. Rein is looking into the stream with a curious expression, and Kalle is smiling, gesturing towards the water. The stream flows through a meadow with tall green grass and spring wildflowers. In the background, there is a dense forest edge. The sky is bright blue with soft white clouds. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHTSID SILLA TEHA.",
+      "scene": "Rebane Rein and Karu Kalle are standing by the stream. Rein is pointing across the stream with a paw, looking excited. Kalle is nodding in agreement, a thoughtful look on his face. The stream flows through a lush green meadow with tall green grass and spring wildflowers. In the background, there is a dense forest edge. The sky is bright blue with soft white clouds. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "KALLE OTSIS PUUPULKI.",
+      "scene": "Karu Kalle is kneeling on the green grass bank of the stream, carefully picking up a small, smooth wooden stick from among the fallen leaves and pebbles. Rebane Rein is standing nearby, watching Kalle with a happy expression. The stream flows through a lush green meadow with tall green grass and spring wildflowers. In the background, there is a dense forest edge. The sky is bright blue with soft white clouds. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "REIN KOGUS LEHTI KOKKU.",
+      "scene": "Rebane Rein is bent down, gathering a small pile of colorful fallen leaves from the stream bank with his paws. Karu Kalle is standing nearby, holding a few wooden sticks. The stream flows through a lush green meadow with tall green grass and spring wildflowers. In the background, there is a dense forest edge. The sky is bright blue with soft white clouds. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD PANEKID PULGAD RITTA.",
+      "scene": "Rebane Rein and Karu Kalle are working together at the shallow stream. Kalle is carefully placing wooden sticks across the stream bed from one bank to the other, creating a base for a small bridge. Rein is helping to arrange the sticks neatly. The stream flows through a lush green meadow with tall green grass and spring wildflowers. In the background, there is a dense forest edge. The sky is bright blue with soft white clouds. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PEALE PANEKID LEHED.",
+      "scene": "Rebane Rein and Karu Kalle are still at the stream, building their bridge. Kalle is holding down the wooden sticks while Rein carefully places the collected colorful leaves on top of the sticks, creating a leafy surface for the bridge. The stream flows through a lush green meadow with tall green grass and spring wildflowers. In the background, there is a dense forest edge. The sky is bright blue with soft white clouds. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SILL ON NÜÜD VALMIS.",
+      "scene": "Rebane Rein and Karu Kalle are standing proudly beside their newly built small bridge over the stream. The bridge is made of wooden sticks covered with colorful leaves. Both characters are smiling happily at their creation. The stream flows through a lush green meadow with tall green grass and spring wildflowers. In the background, there is a dense forest edge. The sky is bright blue with soft white clouds. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD KÄIVAD ÜLE SILLA.",
+      "scene": "Rebane Rein and Karu Kalle are carefully walking across their small, leaf-covered wooden bridge over the stream. Rein is leading, and Kalle is following closely, both looking pleased and confident. The stream flows through a lush green meadow with tall green grass and spring wildflowers. In the background, there is a dense forest edge. The sky is bright blue with soft white clouds. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NENDE SILD ON TUGEV!",
+      "scene": "Rebane Rein and Karu Kalle are standing triumphantly on the other side of the stream, having successfully crossed their strong, handmade bridge. They are both smiling brightly, looking back at their sturdy creation. The stream flows through a lush green meadow with tall green grass and spring wildflowers. In the background, there is a dense forest edge. The sky is bright blue with soft white clouds. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}

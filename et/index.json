@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-12",
+  "latestDate": "2026-04-13",
   "stories": [
+    {
+      "date": "2026-04-13",
+      "title": "REIN JA KALLE TEAVAD SILLA",
+      "pageCount": 9,
+      "characters": [
+        "REBANE REIN",
+        "KARU KALLE"
+      ]
+    },
     {
       "date": "2026-04-12",
       "title": "TIINA JA PEETER LAULAVAD",
