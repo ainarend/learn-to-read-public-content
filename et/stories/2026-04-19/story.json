@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-19",
+  "language": "et",
+  "title": "KATI JA KRISTJAN TEHVAD MAJA",
+  "generatedAt": "2026-04-06T01:39:35.679Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KATI",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledad juuksed krunnis, seljas roosa pluus ja sinised traksipüksid, naerul näoga, suured sõbralikud silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KRISTJAN",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikesed pruunid juuksed, seljas kollane T-särk ja rohelised lühikesed püksid, rõõmus ja uudishimulik, sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikseline park",
+      "description": "Sunny public park, a designated children's play area with a large sandy pit in the foreground. Bright green grass around the sandpit. In the background, there are a few tall green trees with fresh spring leaves and a colorful red and blue plastic slide. Clear blue sky with gentle white clouds. Bright and cheerful atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KATI JA KRISTJAN MÄNGIVAD.",
+      "scene": "Kati, a small girl with light hair in a bun, wearing a pink top and blue overalls, and Kristjan, a small boy with short brown hair, wearing a yellow t-shirt and green shorts, are standing next to a large sandy pit in a sunny public park. They are looking at each other and smiling. There is bright green grass around the sandpit, and a few tall green trees and a colorful red and blue plastic slide in the background. Clear blue sky.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Kati and Kristjan are kneeling at the edge of a large sandy pit in a sunny public park, looking at the sand with excited expressions. They are gesturing towards the sand, as if discussing an idea. Kati has light hair in a bun, wearing a pink top and blue overalls. Kristjan has short brown hair, wearing a yellow t-shirt and green shorts. Bright green grass surrounds the sandpit, with trees and a slide in the background under a clear blue sky.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEHVAD MAJA.",
+      "scene": "Kati and Kristjan are actively building a small structure in the sandy pit. Kati is placing a small stick into the sand. Kristjan is holding a small flat stone. They are both focused on their building task, with determined and happy expressions. Bright green grass, trees, and a slide are in the background under a clear blue sky.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD KOGUVAD PUUGI.",
+      "scene": "Kati and Kristjan are walking on the bright green grass next to the sandy pit in the sunny public park. They are bending down to pick up small fallen twigs and sticks from the ground, putting them into a small pile. Kati has light hair in a bun, wearing a pink top and blue overalls. Kristjan has short brown hair, wearing a yellow t-shirt and green shorts. Trees and a slide are in the background.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD LISAVAD LEHTI.",
+      "scene": "Kati and Kristjan are back at their half-built house in the sandy pit. Kati is carefully placing a large green leaf onto the structure, as if making a roof. Kristjan is holding a few more leaves in his hand, ready to add them. Their small house, made of sticks and stones, is visible. Bright green grass, trees, and a slide are in the background under a clear blue sky.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MAJA KASVAB SUUREKS.",
+      "scene": "Kati and Kristjan are standing proudly next to their growing house in the sandy pit. The house is now taller and wider, made of many sticks, stones, and leaves, resembling a small play structure. They are smiling at their creation. Bright green grass, trees, and a slide are in the background under a clear blue sky.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "MAJA ON NÜÜD VALMIS.",
+      "scene": "Kati and Kristjan are standing back from their finished small house in the sandy pit. The house is complete, sturdy, and adorned with natural materials. They are looking at it with satisfaction and pride. Bright green grass, trees, and a slide are in the background under a clear blue sky.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NENDE MÄNGUASI ELAB SEAL.",
+      "scene": "Kati and Kristjan are gently placing a small, cute, cartoonish plush toy animal (e.g., a tiny brown bear) inside the entrance of their newly built house in the sandy pit. They are both kneeling and smiling at the toy. The house is clearly visible in the sand. Bright green grass, trees, and a slide are in the background under a clear blue sky.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KATI JA KRISTJAN ON ÕNNELIKUD.",
+      "scene": "Kati and Kristjan are sitting happily next to their completed house in the sandy pit, which now has the small plush toy animal inside. They are laughing and giving each other a happy high-five. Bright green grass, trees, and a colorful red and blue plastic slide are in the background under a clear blue sky.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
