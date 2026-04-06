@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-17",
+  "language": "et",
+  "title": "LIISA JA PEETER TEAVAD PAATE",
+  "generatedAt": "2026-04-06T00:10:47.691Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, helepunased juuksed kahe patsis, seljas kollane kleit ja sinised sandaalid, naeratab rõõmsalt. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, lühikesed pruunid juuksed, seljas roheline T-särk ja pruunid lühikesed püksid, naeratab sõbralikult. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Laste Tuba",
+      "description": "Cozy children's room with light blue walls, a light wooden floor, and a large window on the back wall showing green spring trees. A small round wooden table with two small chairs is in the center. A colorful toy box is in one corner. Warm, soft light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Kevadine Aed",
+      "description": "Sunny spring garden with lush green grass and a few colorful spring flowers blooming (like tulips and daffodils). A large, clear puddle reflects the blue sky. Distant green trees and a small wooden fence are visible. Bright and cheerful atmosphere. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER MÄNGIVAD.",
+      "scene": "Liisa ja Peeter on mängimas päikeselises kevadises aias, kus on lopsakas roheline muru ja värvilised kevadlilled. Liisa hoiab käes väikest punast palli ja Peeter vaatab ringi, mõlemad naeratavad. Kevadine Aed on päikeseline ja roheline, kauguses paistavad puud ja väike puitaed.",
+      "image": "page1.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD SUURT LOMPI.",
+      "scene": "Liisa ja Peeter seisavad päikeselises kevadises aias suure, selge lompi ääres. Nad osutavad lompi poole uudishimulike ja avastamisrõõmsate näoilmetega. Lomp peegeldab sinist taevast. Kevadine Aed on päikeseline ja roheline, kauguses paistavad puud ja väike puitaed.",
+      "image": "page2.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Liisa ja Peeter põlvitavad suure lompi ääres päikeselises kevadises aias, vaatavad teineteisele otsa ja neil on säravad, fantaasiarikkad naeratused. Peeter viipab lompi poole ja Liisa noogutab entusiastlikult. Kevadine Aed on päikeseline ja roheline, kauguses paistavad puud ja väike puitaed.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÄHEVAD TUBA.",
+      "scene": "Liisa ja Peeter sisenevad hubasesse lastetuppa helesiniste seinte ja heleda puitpõrandaga. Liisa hoiab käes värvilist paberitükki. Nad vaatavad väikese ümmarguse puidust laua poole, mis on toas keskel. Suur aken tagaseinal näitab rohelisi kevadpuid.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD MURRAVAD PABERIT.",
+      "scene": "Liisa ja Peeter istuvad hubases lastetoas väikese ümmarguse puidust laua taga. Nad on mõlemad keskendunud värviliste paberilehtede paadikujuliseks voltimisele. Liisal on kollane paber ja Peetril sinine paber. Suur aken tagaseinal näitab rohelisi kevadpuid.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "VÄIKE PAAT ON VALMIS.",
+      "scene": "Liisa hoiab üleval väikest volditud kollast paberpaati, naeratades uhkelt, istudes hubases lastetoas väikese ümmarguse puidust laua taga. Peeter töötab endiselt oma sinise paberpaadi kallal tema kõrval. Suur aken tagaseinal näitab rohelisi kevadpuid.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD VIIVAD PAADID VÄLJA.",
+      "scene": "Liisa ja Peeter kõnnivad läbi päikeselise kevadise aia lompi poole. Liisa hoiab oma kollast paberpaati ja Peeter kannab ettevaatlikult oma sinist paberpaati. Nad näevad elevil välja. Kevadine Aed on päikeseline ja roheline, kauguses paistavad puud ja väike puitaed.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PAADID UJUVAAD LOMMIS.",
+      "scene": "Liisa ja Peeter põlvitavad suure, selge lompi ääres päikeselises kevadises aias. Nende kollased ja sinised paberpaadid hõljuvad vaikselt veepinnal. Nad vaatavad paate õnnelike ja keskendunud näoilmetega. Kevadine Aed on päikeseline ja roheline, kauguses paistavad puud ja väike puitaed.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LIISA JA PEETER NAERAVAD.",
+      "scene": "Liisa ja Peeter naeravad rõõmsalt, vaadates, kuidas nende paberpaadid suures lompi hõljuvad päikeselises kevadises aias. Vesi pritsib paatide ümber õrnalt. Kevadine Aed on päikeseline ja roheline, kauguses paistavad puud ja väike puitaed.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEE ON VÄGA LÕBUS!",
+      "scene": "Liisa ja Peeter istuvad õnnelikult lompi ääres päikeselises kevadises aias, nende paberpaadid hõljuvad endiselt. Nad naeratavad ja vaatavad teineteisele otsa, nautides päikeselist kevadpäeva. Kevadine Aed on päikeseline ja roheline, kauguses paistavad puud ja väike puitaed.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

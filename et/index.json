@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-15",
+  "latestDate": "2026-04-17",
   "stories": [
+    {
+      "date": "2026-04-17",
+      "title": "LIISA JA PEETER TEAVAD PAATE",
+      "pageCount": 10,
+      "characters": [
+        "LIISA",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-04-15",
       "title": "JÄNES JENNY JA HIIR HEIDI TEHVAD LOHE",
