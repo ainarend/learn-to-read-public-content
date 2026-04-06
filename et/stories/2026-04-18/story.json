@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-18",
+  "language": "et",
+  "title": "KÄTTU JA MIHKEL TEHVAD HELI",
+  "generatedAt": "2026-04-06T00:54:19.458Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KASS KÄTTU",
+      "type": "cat",
+      "description": "Väike oranž kass, suurte roheliste silmadega, kandmas väikest sinist salli. Sõbralik ja rõõmsameelne. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KARU MIHKEL",
+      "type": "bear",
+      "description": "Väike pruun karu, pehmete ümarate kõrvadega, kandmas väikest rohelist mütsi. Rahulik ja uudishimulik. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Mängutuba",
+      "description": "Cozy children's play room with light yellow walls, a soft green rug on the floor, and one large window on the back wall showing blooming spring trees outside. There is a small round wooden table in the center with two small wooden chairs. A simple wooden toy shelf is on the right wall. Warm, inviting sunlight fills the room. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KASS KÄTTU JA KARU MIHKEL.",
+      "scene": "Kass Kättu, wearing a blue scarf, and Karu Mihkel, wearing a green hat, stand side-by-side in a cozy children's play room. Kättu is looking playfully at Mihkel, who is looking thoughtfully ahead. The room has light yellow walls, a soft green rug, a small round wooden table, and a window showing blooming spring trees. Warm sunlight fills the room. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD ON MÄNGUTOAS.",
+      "scene": "Kass Kättu and Karu Mihkel are sitting on small wooden chairs at a small round wooden table in their cozy play room. Kättu is smiling at Mihkel, who is looking around the room, full of anticipation. The room has light yellow walls, a soft green rug, and a window showing blooming spring trees. Warm sunlight fills the room. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "MIHKELIL ON MÕTE.",
+      "scene": "Karu Mihkel sits at the small round wooden table, a thoughtful expression on his face, tapping his paw gently on the table. Kass Kättu watches him, curious. The cozy play room has light yellow walls, a soft green rug, and a window showing blooming spring trees. Warm sunlight fills the room. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "TEEME VAHVAT HELI!",
+      "scene": "Karu Mihkel claps his paws together enthusiastically, a big smile on his face, looking at Kass Kättu. Kättu's eyes are wide with excitement, a joyful expression. They are both sitting at the small round wooden table. The cozy play room has light yellow walls, a soft green rug, and a window showing blooming spring trees. Warm sunlight fills the room. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KÄTTU VÕTAB PURGI.",
+      "scene": "Kass Kättu, with a cheerful grin, reaches for a small, clear glass jar sitting on the wooden table. Karu Mihkel watches her, nodding approvingly. They are in their cozy play room with light yellow walls, a soft green rug, and a window showing blooming spring trees. Warm sunlight fills the room. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MIHKEL PANEB RIISI.",
+      "scene": "Karu Mihkel carefully pours a small amount of white rice from a little pouch into the clear glass jar that Kass Kättu is holding steady on the table. Both characters are focused and smiling. They are in their cozy play room with light yellow walls, a soft green rug, and a window showing blooming spring trees. Warm sunlight fills the room. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD RAPUTAVAD PURKE.",
+      "scene": "Kass Kättu and Karu Mihkel are both happily shaking their individual clear glass jars, which now contain rice. Their ears are perked up, listening to the soft rattling sound, and their faces show pure delight. They are standing next to the small wooden table. The cozy play room has light yellow walls, a soft green rug, and a window showing blooming spring trees. Warm sunlight fills the room. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "HELI ON NUNNU!",
+      "scene": "Kass Kättu and Karu Mihkel hold their shakers up to their ears, their eyes closed in contentment, enjoying the 'nunnu' (cute) sound they created. They are both smiling warmly. The cozy play room has light yellow walls, a soft green rug, and a window showing blooming spring trees. Warm sunlight fills the room. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD TANTSIVAD RÕÕMSALT.",
+      "scene": "Kass Kättu and Karu Mihkel are joyfully dancing and shaking their shakers in the center of the play room. They are both laughing, their bodies moving to their own rhythm. The cozy play room has light yellow walls, a soft green rug, and a window showing blooming spring trees. Warm sunlight fills the room. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
