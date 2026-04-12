@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-21",
+  "latestDate": "2026-04-22",
   "stories": [
+    {
+      "date": "2026-04-22",
+      "title": "ANNA JA KEIO PLOKITORN",
+      "pageCount": 9,
+      "characters": [
+        "ANNA",
+        "KEIO"
+      ]
+    },
     {
       "date": "2026-04-21",
       "title": "REET JA MATI OJA ÄÄRES",

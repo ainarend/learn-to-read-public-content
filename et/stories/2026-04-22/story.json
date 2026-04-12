@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-22",
+  "language": "et",
+  "title": "ANNA JA KEIO PLOKITORN",
+  "generatedAt": "2026-04-12T23:24:34.831Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ANNA",
+      "type": "human",
+      "description": "Väike inimene, helepunaste juustega tüdruk, naeratav ja rõõmsameelne. Seljas helesinine pluus ja roosad püksid. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KEIO",
+      "type": "human",
+      "description": "Väike inimene, lühikeste pruunide juustega poiss, suurte uudishimulike silmadega ja sõbralik. Seljas erkroheline T-särk ja pruunid lühikesed püksid. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Mängutuba",
+      "description": "Cozy children's playroom with light yellow walls, a light wooden floor partially covered by a soft blue round rug in the center. A single large window on the back wall shows a sunny spring day outside with green trees. On the right, there is a low open shelf with a few colorful children's books. On the left, a large woven basket filled with various colorful building blocks. Warm, cheerful lighting. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ANNA JA KEIO TOAS.",
+      "scene": "Anna and Keio are sitting happily on the blue round rug in the center of a cozy playroom. Anna is looking at a large woven basket filled with colorful building blocks next to her. Keio is also looking at the basket, his eyes wide with curiosity. The playroom has light yellow walls, a light wooden floor, a window showing green trees, and a low open shelf with books on the right.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD EHITAVAD TORNI.",
+      "scene": "Anna and Keio are now both kneeling on the blue round rug, reaching into the large woven basket filled with colorful building blocks. They are smiling, showing their excitement to start building. The playroom has light yellow walls, a light wooden floor, a window showing green trees, and a low open shelf with books on the right.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PLOKID ON VÄRVILISED.",
+      "scene": "Anna and Keio are still kneeling on the blue round rug. Around them are several colorful building blocks – red, blue, green, yellow – spread out on the rug from the woven basket. They are both looking at the blocks, deciding which ones to use. The playroom has light yellow walls, a light wooden floor, a window showing green trees, and a low open shelf with books on the right.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "ANNA PANEB PLOKI.",
+      "scene": "Anna is carefully placing a red rectangular building block on top of two other colorful blocks that form the base of a small tower on the blue round rug. Keio is watching her intently, smiling. The woven basket with blocks is nearby. The playroom has light yellow walls, a light wooden floor, a window showing green trees, and a low open shelf with books on the right.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KEIO PANEB KA.",
+      "scene": "Keio is now carefully placing a yellow square building block on the growing colorful tower. Anna is sitting next to him, watching with a pleased expression. The tower is getting taller. The woven basket with blocks is nearby. The playroom has light yellow walls, a light wooden floor, a window showing green trees, and a low open shelf with books on the right.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TORN KASVAB KÕRGEKS.",
+      "scene": "Anna and Keio are both looking up at a tall, colorful building block tower that they have constructed on the blue round rug. The tower is now significantly taller than them when they are kneeling. They have happy, focused expressions. The woven basket with blocks is nearby. The playroom has light yellow walls, a light wooden floor, a window showing green trees, and a low open shelf with books on the right.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SEE ON PEAAEGU VALMIS.",
+      "scene": "Anna and Keio are putting the final touches on their very tall, colorful building block tower. Anna is carefully placing the very last block on top, while Keio is pointing at it with a big smile. The tower almost reaches to their shoulders when they are kneeling. The woven basket with blocks is nearby. The playroom has light yellow walls, a light wooden floor, a window showing green trees, and a low open shelf with books on the right.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "TORN ON NÜÜD VALMIS!",
+      "scene": "Anna and Keio are both sitting back on their heels on the blue round rug, admiring their finished, very tall, colorful building block tower. The tower stands proudly in front of them. They have wide, joyful smiles on their faces, proud of their creation. The woven basket with blocks is nearby. The playroom has light yellow walls, a light wooden floor, a window showing green trees, and a low open shelf with books on the right.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON VÄGA RÕÕMSAD.",
+      "scene": "Anna and Keio are sitting happily on the blue round rug, next to their perfectly finished, tall, colorful building block tower. They are looking at each other and laughing, filled with joy and pride for their teamwork. The woven basket with blocks is nearby. The playroom has light yellow walls, a light wooden floor, a window showing green trees, and a low open shelf with books on the right.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
