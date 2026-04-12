@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-21",
+  "language": "et",
+  "title": "REET JA MATI OJA ÄÄRES",
+  "generatedAt": "2026-04-12T22:40:37.021Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBASE-REET",
+      "type": "fox",
+      "description": "Väike punakaspruun rebane, pehme karvaga ja koheva sabaga. Tal on suured tumedad silmad ja sõbralik naeratav nägu. Seljas on tal väike roheline vest. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MÄGRA-MATI",
+      "type": "badger",
+      "description": "Väike hall-must mäger, iseloomulike triipudega näol ja lühikese koheva sabaga. Tal on ümar nina ja lahke ilme. Seljas on tal väike sinine pusa. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline Oja Äär",
+      "description": "A clear, shallow, babbling forest stream with smooth, light-colored stones at its banks. The water is sparkling. Surrounding the stream are lush green grass and tall, friendly-looking trees with green leaves, indicating spring. Soft sunlight filters through the trees, creating dappled light on the ground. The atmosphere is peaceful and natural. Cartoonish children's book style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REET JA MATI LÄHEVAD.",
+      "scene": "Rebase-Reet, a small red-brown fox wearing a green vest, and Mägra-Mati, a small grey-black badger wearing a blue sweatshirt, are walking side-by-side on a grassy path in a sunny forest. They look curious and happy, ready for an adventure. Lush green grass and friendly trees are around them.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD OJA.",
+      "scene": "Rebase-Reet and Mägra-Mati have reached the edge of a clear, shallow stream. They are standing near the bank, looking down at the sparkling water with wide, excited eyes. The stream is surrounded by green grass and trees, with soft sunlight reflecting on the water. They are still wearing their vest and sweatshirt.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "OJA ON KENASTI.",
+      "scene": "Rebase-Reet and Mägra-Mati are now closer to the stream, kneeling slightly by the water's edge. They are gently touching the clear water with their paws/hands, admiring how beautiful and clear the stream is. They have soft, happy expressions. The stream bed is visible with smooth stones. Lush green trees and grass surround them.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD KORJAVAD KIVE.",
+      "scene": "Rebase-Reet and Mägra-Mati are both bending over by the stream bank, carefully picking up smooth, round stones from the water and the grassy edge. Reet holds one stone in her paw, while Mati reaches for another. They are focused on finding the stones. The sun is shining brightly.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KIVID ON VÄRVILISED.",
+      "scene": "Close-up shot of Rebase-Reet and Mägra-Mati's paws/hands, each holding a few smooth, brightly colored stones (e.g., red, blue, yellow, green). Their faces are visible in the background, smiling happily as they admire the beautiful colors of the stones they have collected. The stream and grass are softly blurred in the background.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD EHITAVAD TORNI.",
+      "scene": "Rebase-Reet and Mägra-Mati are carefully stacking the colorful stones they collected. Reet is gently placing a stone on top of a growing pile, while Mati holds another stone, ready to add it. They are focused and collaborating, building a small, wobbly stone tower by the stream. The stream and trees are in the background.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "TORN ON SUUR.",
+      "scene": "The stone tower built by Rebase-Reet and Mägra-Mati is now taller and more impressive, made of several colorful, smooth stones stacked neatly. Reet and Mati stand back a little, looking at their finished tower with proud smiles. They are still by the stream, surrounded by green nature.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NÜÜD TORN SEISAB.",
+      "scene": "Rebase-Reet and Mägra-Mati are standing proudly beside their completed, stable stone tower by the clear stream. The sun shines brightly on the tower and on their happy faces. They are admiring their creation, which stands firm and colorful. Green trees and grass frame the scene.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON RÕÕMSAD!",
+      "scene": "Rebase-Reet and Mägra-Mati are looking at each other, their faces beaming with joy and satisfaction. They are standing next to their beautiful, colorful stone tower by the stream. Their achievement fills them with happiness. The surrounding forest is bright and peaceful. Reet wears her green vest, Mati his blue sweatshirt.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}

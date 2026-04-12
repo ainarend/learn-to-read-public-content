@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-20",
+  "latestDate": "2026-04-21",
   "stories": [
+    {
+      "date": "2026-04-21",
+      "title": "REET JA MATI OJA ÄÄRES",
+      "pageCount": 9,
+      "characters": [
+        "REBASE-REET",
+        "MÄGRA-MATI"
+      ]
+    },
     {
       "date": "2026-04-20",
       "title": "LIISA JA MARTA LOMP",
