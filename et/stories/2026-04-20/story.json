@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-20",
+  "language": "et",
+  "title": "LIISA JA MARTA LOMP",
+  "generatedAt": "2026-04-12T21:54:52.321Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk. Blondid juuksed kahe patsi sees, kannab kollast vihmamantlit ja punaseid vihmasaapaid. Tal on suured rõõmsad silmad ja lai naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MARTA",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane tüdruk. Pruunid lühikesed juuksed, kannab sinist vihmamantlit ja rohelisi vihmasaapaid. Tal on säravad silmad ja õnnelik naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Aia tagahoov",
+      "description": "Sunny backyard garden with vibrant green grass, a small wooden fence in the background, a few blooming spring flowers in the distance. A large, shallow puddle of clear water is in the center foreground, reflecting the blue sky and some white fluffy clouds. The general atmosphere is bright and cheerful. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA MARTA NÄEVAD LOMPI.",
+      "scene": "Liisa and Marta, two cheerful young girls, stand together at the edge of a large, clear puddle in a sunny backyard garden. Liisa wears a yellow rain jacket and red rain boots, Marta a blue rain jacket and green rain boots. They both look at the puddle with wide, curious eyes and happy expressions. The puddle reflects the blue sky and green grass. The garden has vibrant green grass, a small wooden fence in the background, and a few blooming spring flowers in the distance. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "LOMP ON SUUR JA SÜGAV.",
+      "scene": "Liisa and Marta are closer to the large puddle, pointing at it with excitement. Liisa, in her yellow jacket and red boots, and Marta, in her blue jacket and green boots, are both smiling broadly. They admire how big and inviting the puddle looks. The sunny backyard garden setting, with green grass, a wooden fence, and distant spring flowers, remains the same. The puddle reflects the blue sky. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD PANEVAD SAAPAD JALGA.",
+      "scene": "Liisa and Marta are now fully ready for the puddle. Liisa wears her yellow rain jacket and red rain boots, and Marta wears her blue rain jacket and green rain boots. They both stand near the large puddle, looking down at their boots with happy and determined expressions, ready to step in. The sunny backyard garden, green grass, wooden fence, and distant spring flowers are consistent. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NÜÜD NAD LÄHEVAD VÄLJA.",
+      "scene": "Liisa and Marta are walking towards the large puddle, taking confident steps. Liisa, in her yellow jacket and red boots, is next to Marta, in her blue jacket and green boots. They both have excited smiles, looking forward to playing. The sunny backyard garden with vibrant green grass, a small wooden fence in the background, and distant spring flowers is clearly visible. The puddle reflects the sky. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LIISA HÜPPAB LOMPI.",
+      "scene": "Liisa, wearing her yellow rain jacket and red rain boots, is mid-air, having just jumped into the center of the large, clear puddle. Water splashes up around her with playful energy. She has a wide, joyful smile on her face. Marta, in her blue jacket and green boots, stands near the puddle's edge, watching Liisa with an excited and happy expression. The sunny backyard garden with green grass, wooden fence, and distant spring flowers is consistent. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MARTA HÜPPAB KA LOMPI.",
+      "scene": "Marta, wearing her blue rain jacket and green rain boots, is now jumping into the large puddle, creating a cheerful splash. Liisa, in her yellow jacket and red boots, is already in the puddle, standing and smiling at Marta. Both girls have happy, playful expressions. The sunny backyard garden, green grass, wooden fence, and distant spring flowers are unchanged. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VESI PRITSUB KÕRGELE!",
+      "scene": "Liisa, in her yellow jacket and red boots, and Marta, in her blue jacket and green boots, are both actively jumping and splashing in the large puddle. Big, joyful splashes of water fly high around them. Both girls are laughing with pure delight. The sunny backyard garden with vibrant green grass, a small wooden fence, and distant spring flowers is still the backdrop. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD NAERAVAD VALJUSTI.",
+      "scene": "Liisa and Marta are standing in the middle of the large puddle, their rain boots covered in water. They are facing each other, giggling and laughing loudly, their faces beaming with happiness. Small ripples extend across the puddle's surface. Liisa wears her yellow jacket and red boots, Marta her blue jacket and green boots. The sunny backyard garden with green grass, a wooden fence, and distant spring flowers remains consistent. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LOMP ON NII LÕBUS.",
+      "scene": "Liisa and Marta are walking hand-in-hand away from the large puddle, which still has some ripples. They look back at the puddle with satisfied, happy smiles, remembering their fun. Liisa in yellow and red, Marta in blue and green, are content. The sunny backyard garden with vibrant green grass, a small wooden fence, and distant spring flowers highlights the pleasant conclusion to their play. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
