@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-22",
+  "latestDate": "2026-04-24",
   "stories": [
+    {
+      "date": "2026-04-24",
+      "title": "JUKU AITAB LIND SIPSU",
+      "pageCount": 10,
+      "characters": [
+        "JUKU",
+        "SIPS"
+      ]
+    },
     {
       "date": "2026-04-22",
       "title": "ANNA JA KEIO PLOKITORN",

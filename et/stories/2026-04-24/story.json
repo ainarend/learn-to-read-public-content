@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-24",
+  "language": "et",
+  "title": "JUKU AITAB LIND SIPSU",
+  "generatedAt": "2026-04-13T00:10:21.843Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, poiss, umbes 5-aastane. Tal on helepruunid juuksed ja suured sõbralikud sinised silmad. Ta kannab kollast T-särki ja siniseid lühikesi pükse. Tema näol on alati soe ja lahke naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIPS",
+      "type": "robin",
+      "description": "Väike punarinnaline lind, sirts. Tal on oranžikas-punane rind ja pruun selg. Sipsul on suured mustad silmad ja väike kollane nokk. Ta on kerge ja vilgas. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "JUKU TUBA",
+      "description": "Cozy child's bedroom with light blue walls and a warm wooden floor. There's a single large window on the back wall, looking out into a green, sunlit garden with a large tree. A small, simple wooden table with one chair is positioned near the window. Plain walls with no specific decorations, a few children's books neatly stacked on a small low shelf on the right wall. Soft, natural light fills the room. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "HOOV",
+      "description": "A sunny, vibrant green garden yard with soft grass. A large, mature oak tree stands prominently in the center of the yard, with sturdy branches. There are no other structures or feeders, just natural setting. The sun is shining brightly. Simple green bushes line the background. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUKU ON TOAS.",
+      "scene": "JUKU, a small boy with light brown hair, friendly blue eyes, wearing a yellow T-shirt and blue shorts, stands in a cozy child's bedroom with light blue walls and a warm wooden floor. He is looking out of a large window on the back wall, which shows a green, sunlit garden with a large tree outside. A small wooden table and chair are nearby. The room is filled with soft natural light. He has a warm, kind smile. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "TA NÄEB LIND SIPSU.",
+      "scene": "JUKU, a small boy with light brown hair, friendly blue eyes, wearing a yellow T-shirt and blue shorts, stands at a large window in his cozy bedroom. He is looking out at the green, sunlit garden. Outside on a tree branch visible through the window, a small robin bird named SIPS, with an orange-red chest, brown back, black eyes, and a small yellow beak, is perched. SIPS looks small and a little shy. Juku has a warm, kind smile. The room has light blue walls, a warm wooden floor, a small wooden table and chair nearby. Soft natural light fills the room. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "SIPS TAHAB SÜÜA.",
+      "scene": "JUKU, a small boy with light brown hair, friendly blue eyes, wearing a yellow T-shirt and blue shorts, is looking out the window of his cozy bedroom. Outside on a tree branch, visible through the window, SIPS, the small robin bird, is perched, looking a bit hungry and slightly sad. Juku has a thoughtful and kind expression, showing concern for Sips. The room has light blue walls, a warm wooden floor, a small wooden table and chair nearby. Soft natural light fills the room. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "JUKU OTSIS SEEMNEID.",
+      "scene": "JUKU, a small boy with light brown hair, friendly blue eyes, wearing a yellow T-shirt and blue shorts, is now sitting at the small wooden table in his cozy bedroom. He is looking at a small bowl filled with bird seeds on the table. He has a determined yet kind expression. The room has light blue walls, a warm wooden floor, and the window showing the green garden. Soft natural light fills the room. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "TA SEGAS NEID KOKKU.",
+      "scene": "JUKU, a small boy with light brown hair, friendly blue eyes, wearing a yellow T-shirt and blue shorts, is sitting at the small wooden table in his cozy bedroom. He is actively mixing bird seeds from a bowl with a soft, creamy substance (like peanut butter or lard) in another small bowl, using a small wooden spoon. He is focused and determined. The room has light blue walls, a warm wooden floor, and the window showing the green garden. Soft natural light fills the room. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TA TEGI PALLI VALMIS.",
+      "scene": "JUKU, a small boy with light brown hair, friendly blue eyes, wearing a yellow T-shirt and blue shorts, is sitting at the small wooden table in his cozy bedroom. He is proudly holding up a perfectly round, firm 'seed ball' that he has just made. The mixing bowls and spoon are on the table. Juku has a happy and accomplished smile. The room has light blue walls, a warm wooden floor, and the window showing the green garden. Soft natural light fills the room. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "JUKU VIIS PALLI ÕUE.",
+      "scene": "JUKU, a small boy with light brown hair, friendly blue eyes, wearing a yellow T-shirt and blue shorts, is now standing in the sunny, vibrant green garden yard. He is holding the 'seed ball' carefully in his hands, looking towards the large oak tree in the center of the yard. Juku has a gentle and purposeful expression. The yard has soft grass and simple green bushes in the background. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "TA RIIPUS PALLI PUULE.",
+      "scene": "JUKU, a small boy with light brown hair, friendly blue eyes, wearing a yellow T-shirt and blue shorts, is standing beneath a sturdy branch of the large oak tree in the sunny green garden yard. He is carefully hanging the 'seed ball' from a string on the tree branch. He is reaching up gently. The yard has soft grass and simple green bushes in the background. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SIPS SÖÖB RÕÕMSALT PALLI.",
+      "scene": "SIPS, the small robin bird with an orange-red chest, brown back, black eyes, and a small yellow beak, is perched happily on the oak tree branch in the sunny green garden yard. Sips is actively pecking at the 'seed ball' that Juku has hung, clearly enjoying the food. JUKU, the small boy, is standing a little distance away, watching Sips with a warm and happy smile. The yard has soft grass and simple green bushes in the background. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "JUKU ON NÜÜD RÕÕMUS.",
+      "scene": "JUKU, a small boy with light brown hair, friendly blue eyes, wearing a yellow T-shirt and blue shorts, is standing in the sunny green garden yard, looking up at the oak tree. He has a wide, satisfied, and happy smile on his face. In the background, SIPS, the small robin bird, can still be seen perched on the branch, continuing to eat the 'seed ball'. The yard has soft grass and simple green bushes in the background. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
