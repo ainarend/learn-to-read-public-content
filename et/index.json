@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-24",
+  "latestDate": "2026-04-25",
   "stories": [
+    {
+      "date": "2026-04-25",
+      "title": "PÄKSU JA KÕNNU LEHTEMÄNG",
+      "pageCount": 10,
+      "characters": [
+        "PÄKSU",
+        "KÕNNU"
+      ]
+    },
     {
       "date": "2026-04-24",
       "title": "JUKU AITAB LIND SIPSU",

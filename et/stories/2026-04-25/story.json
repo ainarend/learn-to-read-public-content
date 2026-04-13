@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-25",
+  "language": "et",
+  "title": "PÄKSU JA KÕNNU LEHTEMÄNG",
+  "generatedAt": "2026-04-13T00:55:58.499Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PÄKSU",
+      "type": "rabbit",
+      "description": "Väike valge kohev jänes, suurte pikkade kõrvadega, seljas helesinine kombinesoon, alati naeratav ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KÕNNU",
+      "type": "frog",
+      "description": "Väike roheline konn suurte ümarate silmadega, kaelas väike punane kikilips, uudishimulik ja sõbralik ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "LOMBI ÄÄR",
+      "description": "Sunny pond edge with clear blue water, vibrant green grass, a few smooth grey stones near the edge. On the far side of the pond, there are sparse green cattails and reeds. The sky is bright blue with a few fluffy white clouds. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "PÄKSU JA KÕNNU ON VÄLJAS.",
+      "scene": "Paksu the white fluffy rabbit, wearing a light blue overall, and Konnu the green frog, wearing a red bow tie, are standing together on the vibrant green grass at the edge of a sunny pond. They are looking forward, smiling happily. The pond water is clear and blue. There are a few smooth grey stones near the edge of the pond. Green cattails and reeds are visible on the far side of the pond. Bright blue sky with fluffy white clouds.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD SUURT LOMPI.",
+      "scene": "Paksu the white fluffy rabbit and Konnu the green frog are standing together on the vibrant green grass at the edge of a sunny pond. They are pointing excitedly towards the clear blue pond water. They are smiling. A few smooth grey stones near the edge. Green cattails and reeds on the far side. Bright blue sky with fluffy white clouds.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LOMP ON VETT TÄIS.",
+      "scene": "Paksu the white fluffy rabbit and Konnu the green frog are kneeling on the vibrant green grass at the very edge of the sunny pond, leaning slightly over the clear blue water. They are looking down at the water with curious expressions. A few smooth grey stones near the edge. Green cattails and reeds on the far side. Bright blue sky with fluffy white clouds.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD NÄEVAD PUULEHTI.",
+      "scene": "Paksu the white fluffy rabbit and Konnu the green frog are kneeling on the vibrant green grass at the sunny pond edge, pointing at several green and brown tree leaves floating on the clear blue water surface. Their expressions are curious and happy. A few smooth grey stones near the edge. Green cattails and reeds on the far side. Bright blue sky with fluffy white clouds.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LEHED UJUVAD VEDES.",
+      "scene": "Paksu the white fluffy rabbit and Konnu the green frog are still kneeling on the vibrant green grass at the sunny pond edge, watching the green and brown tree leaves gently floating on the clear blue water. They are smiling, enjoying the sight. A few smooth grey stones near the edge. Green cattails and reeds on the far side. Bright blue sky with fluffy white clouds.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PÄKSU LÜKKAB LEHTE.",
+      "scene": "Paksu the white fluffy rabbit is kneeling on the vibrant green grass at the sunny pond edge, extending a paw and gently pushing a green tree leaf that is floating on the clear blue water. Konnu the green frog is kneeling beside Paksu, watching with interest. Both are smiling. A few smooth grey stones near the edge. Green cattails and reeds on the far side. Bright blue sky with fluffy white clouds.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KÕNNU LÜKKAB KA LEHTE.",
+      "scene": "Konnu the green frog is kneeling on the vibrant green grass at the sunny pond edge, extending a webbed hand and gently pushing a brown tree leaf that is floating on the clear blue water. Paksu the white fluffy rabbit is kneeling beside Konnu, watching with a happy smile. A few smooth grey stones near the edge. Green cattails and reeds on the far side. Bright blue sky with fluffy white clouds.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LEHED UJUVAD KAUGELE.",
+      "scene": "Paksu the white fluffy rabbit and Konnu the green frog are kneeling on the vibrant green grass at the sunny pond edge, looking out at the clear blue water where several green and brown tree leaves are floating a little further away from them. They are watching them with pleased, happy expressions. A few smooth grey stones near the edge. Green cattails and reeds on the far side. Bright blue sky with fluffy white clouds.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SEE ON VAHVA MÄNG.",
+      "scene": "Paksu the white fluffy rabbit and Konnu the green frog are sitting side-by-side on the vibrant green grass at the sunny pond edge, smiling and looking at each other, happy after playing their leaf game. The clear blue pond water is visible in the background. A few smooth grey stones near the edge. Green cattails and reeds on the far side. Bright blue sky with fluffy white clouds.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD MÄNGIVAD KOOS.",
+      "scene": "Paksu the white fluffy rabbit and Konnu the green frog are sitting side-by-side on the vibrant green grass at the sunny pond edge, hugging each other gently and smiling broadly. The clear blue pond water is visible in the background. A few smooth grey stones near the edge. Green cattails and reeds on the far side. Bright blue sky with fluffy white clouds.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
