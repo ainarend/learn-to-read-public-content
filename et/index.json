@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-25",
+  "latestDate": "2026-04-26",
   "stories": [
+    {
+      "date": "2026-04-26",
+      "title": "PABERPAAT LOMPIDES",
+      "pageCount": 10,
+      "characters": [
+        "LIISA",
+        "MIHKEL"
+      ]
+    },
     {
       "date": "2026-04-25",
       "title": "PÄKSU JA KÕNNU LEHTEMÄNG",

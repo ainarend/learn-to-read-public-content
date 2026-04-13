@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-26",
+  "language": "et",
+  "title": "PABERPAAT LOMPIDES",
+  "generatedAt": "2026-04-13T01:40:56.428Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne tüdruk, heledad blondid juuksed kahe punutud patsi sisse seotud ja roosa paelaga kaunistatud. Seljas erkroosa pikkade varrukatega pluus ja sinised traksipüksid. Suured ümarad uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MIHKEL",
+      "type": "human",
+      "description": "Väike inimene, lahke ja entusiastlik poiss, lühikesed pruunid juuksed. Seljas erkroheline lühikeste varrukatega särk ja lühikesed tumesinised püksid. Rõõmsameelne naeratus ja säravad silmad. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Laste käsitöötuba",
+      "description": "Cozy children's craft room with light blue walls, a light wooden floor, and a single large window on the back wall showing light spring rain falling gently outside through clear glass. A sturdy light wooden rectangular table is in the center with two small matching wooden chairs. There's a small red bookshelf against the left wall filled with colorful children's books. The room is well-lit with soft, warm natural light coming from the window. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Vihmane tagahoov",
+      "description": "Lush green backyard garden with fresh green grass, several small to medium-sized puddles on the grass and a gravel path. A small, friendly apple tree with green leaves is visible in the background on the left. A simple wooden fence borders the back of the garden. The sky is now a soft, clear blue with fluffy white clouds, and warm spring sunlight shines down. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA MIHKEL ON TOAS.",
+      "scene": "Liisa and Mihkel are sitting on small wooden chairs at a sturdy light wooden rectangular table in a cozy children's craft room. They are looking at each other and smiling. Light spring rain is falling gently outside, visible through the large window on the back wall. The room has light blue walls and a light wooden floor. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "VÄLJAS SAJAB VIHMA.",
+      "scene": "Liisa and Mihkel are standing near the large window in their cozy craft room, looking out at the gentle spring rain falling. Liisa points outside with a curious expression. Mihkel is looking out with a thoughtful smile. The room has light blue walls, a light wooden floor, a wooden table, and a red bookshelf. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TAHAVAD PAATI TEHA.",
+      "scene": "Liisa and Mihkel are sitting back at the sturdy light wooden rectangular table in their craft room, their faces showing excitement and determination. Liisa is holding a plain white sheet of paper, ready to start. Mihkel is looking at the paper with an eager smile. Gentle rain is still visible outside the window. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA VÕTAB PABERI.",
+      "scene": "Liisa is sitting at the sturdy light wooden table, carefully holding a clean, colorful sheet of paper (e.g., bright yellow or blue paper). Mihkel is sitting next to her, watching with interest. Gentle rain is still visible outside the window. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIHKEL VOLDASE PABERI.",
+      "scene": "Mihkel is sitting at the sturdy light wooden table, concentrating as he carefully folds the colorful paper into a boat shape. Liisa is leaning in, watching his hands with a look of encouragement and curiosity. The paper is partially folded into a recognizable boat form. Gentle rain is still visible outside the window. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PAAT ON PEAGI VALMIS.",
+      "scene": "Liisa and Mihkel are both sitting at the sturdy light wooden table, proudly holding up a nearly finished paper boat. Mihkel is making the final small folds while Liisa watches, both smiling happily at their creation. Gentle rain is still visible outside the window. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NÜÜD ON PAAT VALMIS.",
+      "scene": "Liisa and Mihkel are both smiling brightly, holding up the completed paper boat in their cozy craft room. The colorful paper boat is perfectly folded and stands proudly on the table. They are looking at the boat with satisfaction. Gentle rain is still visible outside the window. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "VIHMA ENAM EI SAJA.",
+      "scene": "Liisa and Mihkel are standing outside in the lush green backyard, looking up at the clear blue sky with fluffy white clouds, both smiling widely. The grass is fresh and green, and several small puddles are visible. The apple tree is in the background, and the sun shines warmly. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PAAT LÄHEB LOMPI.",
+      "scene": "Liisa and Mihkel are kneeling by a small puddle in their lush green backyard. Mihkel carefully places the colorful paper boat onto the surface of the water in the puddle. Liisa is watching with wide, excited eyes. Warm spring sunlight shines down from the clear blue sky. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "PAAT UJUB VÄGA HÄSTI.",
+      "scene": "Liisa and Mihkel are happily watching their colorful paper boat as it floats gracefully across a puddle in the lush green backyard. The boat leaves a tiny ripple behind it. Both children are smiling, pointing at the boat, and looking delighted. The sun shines brightly from a clear blue sky. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
