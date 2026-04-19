@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-27",
+  "language": "et",
+  "title": "SIIRI JA OLIVER EHITAVAD",
+  "generatedAt": "2026-04-19T21:57:03.170Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SIIRI",
+      "type": "hedgehog",
+      "description": "Väike hall siil pehmete okastega, seljas erkroheline kleit ja peas väike punane lehv. Tal on suured säravad silmad ja naeratav nägu, alati rõõmus ja abivalmis. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OLIVER",
+      "type": "squirrel",
+      "description": "Väike pruun orav koheva sabaga, seljas sinine vest ja jalas pruunid püksid. Tal on suured rõõmsad silmad ja entusiastlik ilme, alati energiline ja teotahteline. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline Metsalagl",
+      "description": "A sunny forest clearing with tall, green pine trees around the edges and bright green grass covering the ground. Patches of small, colorful spring flowers (blue, yellow, white) are scattered in the grass. In the center, there is a small, flat, smooth grey stone which can be used as a simple workbench. Warm sunlight filters through the trees, creating soft shadows. The atmosphere is peaceful and cheerful. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIIRI JA OLIVER METSAS.",
+      "scene": "Siil Siiri ja Orav Oliver seisavad päikeselisel metsalagendikul, naeratavad rõõmsalt. Siiri kannab rohelist kleiti ja punast lehvi, Oliver kannab sinist vesti. Nende ümber on erkroheline muru ja väikesed värvilised kevadlilled. Päike paistab läbi puude. Armas multifilmistiil. Landscape composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Siil Siiri ja Orav Oliver seisavad keset metsalagendikku, mõlemad hoiavad käsi lõua all ja vaatavad üles, justkui mõtiskledes. Nende silmad on laiad ja suul on pisike naeratus, mis viitab heale ideele. Taustal roheline muru ja kevadlilled. Armas multifilmistiil. Landscape composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD KOGUVAD PUID.",
+      "scene": "Siil Siiri ja Orav Oliver kõnnivad metsalagendikul ringi. Siiri hoiab käes kahte pisikest puuoksa ja Oliver korjab maast veel ühe oksakese. Nad on energilised ja naeratavad. Taustal on muru, lilled ja puud. Armas multifilmistiil. Landscape composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD EHITAVAD LINNUMAJA.",
+      "scene": "Siil Siiri ja Orav Oliver on metsalagendiku keskel oleva lameda halli kivi juures. Nad on asetanud mõned puuoksad kivi peale, alustades linnukese maja ehitamist. Oliver hoiab ühte oksa püsti ja Siiri hoiab teist. Nad on keskendunud ja rõõmsad. Armas multifilmistiil. Landscape composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SIIRI AITAB OLIVERIT.",
+      "scene": "Siil Siiri ja Orav Oliver ehitavad linnukest maja lameda halli kivi peal. Siiri ulatab Oliverile väikese puutüki. Oliver võtab tüki naeratades vastu, hoides samal ajal teist osa linnukest majast. Nad töötavad koos. Armas multifilmistiil. Landscape composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "OLIVER AITAB SIIRIT.",
+      "scene": "Siil Siiri ja Orav Oliver ehitavad linnukest maja lameda halli kivi peal. Oliver ulatab Siirile väikese õhukese oksa. Siiri võtab oksa vastu ja naeratab. Linnukese maja hakkab juba kuju võtma. Armas multifilmistiil. Landscape composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VÄIKE LINNUMAJA ON VALMIS.",
+      "scene": "Siil Siiri ja Orav Oliver seisavad uhkelt valmis saanud linnukese maja kõrval. Linnukese maja on väike, lihtne, puust ja seisab lameda halli kivi peal. Nad mõlemad naeratavad rõõmsalt oma saavutuse üle. Armas multifilmistiil. Landscape composition.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD RIPUTAVAD SELLE ÜLES.",
+      "scene": "Siil Siiri ja Orav Oliver ripuvad ühte madalasse puuoksa. Siiri hoiab käes valmis linnukest maja ja Oliver ulatab seda kõrgemale, et saaks linnukest maja oksa külge riputada. Nad on keskendunud ja pingutavad. Päikeseline metsalagendik taustal. Armas multifilmistiil. Landscape composition.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "VÄIKE LIND TULEB.",
+      "scene": "Valmis linnukest maja ripub puuoksa küljes. Siil Siiri ja Orav Oliver seisavad veidi eemal, varjatult ja vaatavad üles. Väike sinilind lendab just linnukest maja lennuava juurde. Siiri ja Oliver on üllatunud ja rõõmsad. Armas multifilmistiil. Landscape composition.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KÕIK ON RÕÕMSAD NÜÜD!",
+      "scene": "Siil Siiri ja Orav Oliver seisavad rippuva linnukest maja all ja lehvitavad väikesele sinilinnule, kes istub linnukest maja katusel. Nad on kõik kolm rõõmsad ja naeratavad. Siiri ja Oliver on rahul oma tööga. Päikeseline metsalagendik. Armas multifilmistiil. Landscape composition.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

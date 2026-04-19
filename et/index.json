@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-26",
+  "latestDate": "2026-04-27",
   "stories": [
+    {
+      "date": "2026-04-27",
+      "title": "SIIRI JA OLIVER EHITAVAD",
+      "pageCount": 10,
+      "characters": [
+        "SIIL SIIRI",
+        "ORAV OLIVER"
+      ]
+    },
     {
       "date": "2026-04-26",
       "title": "KIVIPILT METSAS",
