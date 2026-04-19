@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-29",
+  "language": "et",
+  "title": "MAITSEV KEVADINE JOOK",
+  "generatedAt": "2026-04-19T23:27:35.303Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk, heledad pruunid juuksed, mis on seotud kaheks patsidena, suurte siniste silmadega ja rõõmsameelse näoga. Seljas on kollane kleit ja rohelised püksid. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane poiss, lühikesed tumepruunid juuksed, suured pruunid silmad ja sõbraliku naeratusega. Seljas on sinine T-särk ja pruunid lühikesed püksid. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Bright and clean kitchen with light blue painted walls, light wooden floor. A large window on the back wall shows a sunny spring garden with green trees and flowers. There's a simple wooden counter on the left side and a small round wooden table in the center with two small chairs. Cozy and inviting atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "AED",
+      "description": "Sunny spring garden with vibrant green grass, blooming colorful flowers, and a clear blue sky. A small wooden picnic table in the center. Tall green trees and a colorful flower bed are in the background. Bright and cheerful. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER NÄEVAD PÄIKEST.",
+      "scene": "Liisa and Peeter, both smiling, stand by the large window in the kitchen, looking out at the bright sunny spring garden. Liisa points excitedly. The kitchen has light blue walls, a light wooden floor, and a wooden counter on the left. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Liisa and Peeter are standing in the middle of the kitchen, looking at each other with wide, excited smiles and sparkling eyes. Liisa puts her hand on her chin as if thinking. The kitchen has light blue walls, a light wooden floor, and a wooden counter on the left. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD JOOKI.",
+      "scene": "Liisa and Peeter are standing at the simple wooden counter in the kitchen. On the counter, there is an empty clear glass pitcher and a few colorful berries in a small bowl. They both look eager. The kitchen has light blue walls, a light wooden floor. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA VÕTAB MARJAD.",
+      "scene": "Liisa is carefully picking colorful red berries from a small bowl and dropping them into the clear glass pitcher on the wooden kitchen counter. Peeter watches her, smiling. The kitchen has light blue walls, a light wooden floor. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PEETER LISAB VETT.",
+      "scene": "Peeter is carefully pouring water from a small, clear bottle into the pitcher that now contains red berries, sitting on the wooden kitchen counter. Liisa is watching him attentively. The kitchen has light blue walls, a light wooden floor. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD SEGAVAD HOOLIKALT.",
+      "scene": "Liisa and Peeter are both holding a long wooden spoon together, carefully stirring the colorful berry and water mixture in the clear glass pitcher on the wooden kitchen counter. They are focused and smiling. The kitchen has light blue walls, a light wooden floor. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "JOOK ON NÜÜD VALMIS.",
+      "scene": "The clear glass pitcher, now filled with a vibrant red drink, sits proudly on the wooden kitchen counter. Liisa and Peeter stand next to it, looking at their creation with proud and happy expressions. The kitchen has light blue walls, a light wooden floor. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD VIIVAD JOOGI AEDI.",
+      "scene": "Liisa and Peeter are standing in the sunny spring garden next to a small wooden picnic table. Liisa is carefully holding the pitcher of colorful drink, and Peeter is holding two small, clear cups. They are about to place them on the table. The garden has green grass and blooming flowers. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD JOOVAD JOOKI.",
+      "scene": "Liisa and Peeter are sitting at the small wooden picnic table in the sunny spring garden. Liisa is pouring the colorful drink from the pitcher into Peeter's cup, and Peeter is already taking a small sip from his own cup, looking delighted. The garden has green grass and blooming flowers. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "JOOK ON VÄGA MAITSEV!",
+      "scene": "Liisa and Peeter are both sitting at the small wooden picnic table in the sunny spring garden, holding their cups filled with the colorful drink. They both have big, happy smiles on their faces, clearly enjoying the tasty drink. The garden has green grass and blooming flowers. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
