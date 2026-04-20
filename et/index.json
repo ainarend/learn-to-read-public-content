@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-02",
+  "latestDate": "2026-05-03",
   "stories": [
+    {
+      "date": "2026-05-03",
+      "title": "KIIRA JA KUKI LOMPI HÜPPAMAS",
+      "pageCount": 8,
+      "characters": [
+        "KASS KIIRA",
+        "KOER KUKI"
+      ]
+    },
     {
       "date": "2026-05-02",
       "title": "REIN JA OTT MUUSIKAT TEEMAS",
