@@ -1,0 +1,88 @@
+{
+  "date": "2026-05-01",
+  "language": "et",
+  "title": "MIISU JA SASS EHITAVAD LIIVALOSSI",
+  "generatedAt": "2026-04-20T00:11:16.585Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "HIIR MIISU",
+      "type": "mouse",
+      "description": "Väike hall hiir suurte roosade kõrvadega, kandmas väikest sinist vesti ja kollast lipsukest. Suured uudishimulikud silmad ja sõbralik rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL SASS",
+      "type": "hedgehog",
+      "description": "Väike pruun siil, pehmete okastega seljal, kandmas väikest rohelist salli. Ümarad mustad silmad ja heatujuline naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "PÄIKESELINE LIIVAKAST",
+      "description": "A bright and sunny outdoor sandpit area in a park. The sandpit is large with light yellow clean sand. Around the sandpit are lush green grass and a few colorful small playground toys like a red bucket and a blue shovel. In the background, green trees and a clear blue sky are visible. Warm sunlight. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MIISU JA SASS MÄNGIVAD.",
+      "scene": "Hiir Miisu and Siil Sass are standing at the edge of a large, sunny sandpit. Miisu is holding a small blue bucket, and Sass is holding a small red shovel. They are looking at the sandpit. The sandpit is large with light yellow clean sand. Lush green grass and a few colorful small playground toys are around the sandpit. In the background, green trees and a clear blue sky are visible. Warm sunlight. Cute cartoonish children's book illustration style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Hiir Miisu and Siil Sass are looking at each other, smiling brightly. Miisu is still holding a small blue bucket, and Sass is holding a small red shovel. They are standing at the edge of the large, sunny sandpit, looking excited. The sandpit is large with light yellow clean sand. Lush green grass and a few colorful small playground toys are around the sandpit. In the background, green trees and a clear blue sky are visible. Warm sunlight. Cute cartoonish children's book illustration style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "TEEME SUURE LOSSII!",
+      "scene": "Hiir Miisu and Siil Sass are now kneeling inside the sandpit, looking at the sand with determination. Miisu holds a blue bucket, and Sass holds a red shovel. The sandpit is large with light yellow clean sand. Lush green grass and a few colorful small playground toys are around the sandpit. In the background, green trees and a clear blue sky are visible. Warm sunlight. Cute cartoonish children's book illustration style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SASS KAEVAB LIIVA.",
+      "scene": "Siil Sass is kneeling in the sandpit, actively digging sand with his red shovel. He has a small pile of sand next to him. Hiir Miisu is watching him, holding her blue bucket. The sandpit is large with light yellow clean sand. Lush green grass and a few colorful small playground toys are around the sandpit. In the background, green trees and a clear blue sky are visible. Warm sunlight. Cute cartoonish children's book illustration style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIISU KANNAB LIIVA.",
+      "scene": "Hiir Miisu is now carrying her blue bucket, which is full of sand. She is walking a short distance in the sandpit. Siil Sass is still kneeling nearby, holding his red shovel. They are both in the large, sunny sandpit. The sandpit is large with light yellow clean sand. Lush green grass and a few colorful small playground toys are around the sandpit. In the background, green trees and a clear blue sky are visible. Warm sunlight. Cute cartoonish children's book illustration style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "EHITAME KÕRGE SEINA.",
+      "scene": "Hiir Miisu and Siil Sass are working together on a growing sandcastle structure in the center of the sandpit. Miisu is carefully patting sand into shape with her paws, and Sass is using his red shovel to add more sand to a wall. The sandpit is large with light yellow clean sand. Lush green grass and a few colorful small playground toys are around the sandpit. In the background, green trees and a clear blue sky are visible. Warm sunlight. Cute cartoonish children's book illustration style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LIIVALOSS ON VALMIS!",
+      "scene": "Hiir Miisu and Siil Sass are standing proudly next to a beautiful, tall sandcastle in the sandpit. The sandcastle has towers and walls. Miisu is pointing at the sandcastle with one paw, and Sass is smiling broadly. They are both looking happy and proud. The sandpit is large with light yellow clean sand. Lush green grass and a few colorful small playground toys are around the sandpit. In the background, green trees and a clear blue sky are visible. Warm sunlight. Cute cartoonish children's book illustration style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MIISU JA SASS NAERATAVAD.",
+      "scene": "Hiir Miisu and Siil Sass are standing next to their finished sandcastle in the sandpit, looking very happy and smiling widely. The beautiful, tall sandcastle with towers and walls is still prominently visible. The sandpit is large with light yellow clean sand. Lush green grass and a few colorful small playground toys are around the sandpit. In the background, green trees and a clear blue sky are visible. Warm sunlight. Cute cartoonish children's book illustration style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}

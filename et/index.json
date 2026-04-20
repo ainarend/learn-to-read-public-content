@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-04-29",
+  "latestDate": "2026-05-01",
   "stories": [
+    {
+      "date": "2026-05-01",
+      "title": "MIISU JA SASS EHITAVAD LIIVALOSSI",
+      "pageCount": 8,
+      "characters": [
+        "HIIR MIISU",
+        "SIIL SASS"
+      ]
+    },
     {
       "date": "2026-04-29",
       "title": "MAITSEV KEVADINE JOOK",
