@@ -1,0 +1,88 @@
+{
+  "date": "2026-05-05",
+  "language": "et",
+  "title": "ANNA JA VILLE TIIGI ÄÄRES",
+  "generatedAt": "2026-04-26T22:39:18.763Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ANNA",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk, heledad pruunid juuksed lühikeseks lõigatud, kandmas kollast kevadjopet ja siniseid pükse. Suured rohelised uudishimulikud silmad ja rõõmus naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "VILLE",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane poiss, lühikesed tumepruunid juuksed, kandmas sinist kevadjopet ja rohelisi pükse. Suured sinised uudishimulikud silmad ja sõbralik naeratav nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Pargi tiigi ääres",
+      "description": "Park pond with clear blue water, surrounded by vibrant green grass and tall, leafy trees in full spring bloom. A simple wooden bench sits near the water's edge. The sky is bright blue with a few fluffy white clouds. Warm spring sunlight. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ANNA JA VILLE LÄHEVAD PARKI.",
+      "scene": "Anna ja Ville, mõlemad umbes 5-aastased lapsed, kõnnivad rõõmsalt mööda rohelist pargirada. Anna kannab kollast kevadjopet ja siniseid pükse, Ville sinist kevadjopet ja rohelisi pükse. Nad naeratavad ja vaatavad ringi, teel suure tiigi poole. Taustal on roheline muru ja kevadised puud. Soe kevadpäike paistab. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD SUURT TIIGI.",
+      "scene": "Anna ja Ville seisavad nüüd pargitiigi ääres. Tiigil on selge sinine vesi. Nende ees on suur tiik, ümbritsetud rohelise muru ja puudega. Anna ja Ville vaatavad uudishimulikult tiigi poole. Neile paistab ere kevadpäike. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "ANNA MÄRKAB MIDAGI.",
+      "scene": "Anna ja Ville seisavad pargitiigi ääres. Anna osutab parema käega tiigis millegi poole, suunates pilku vee peale. Ville vaatab ka samas suunas, näol kerge uudishimu. Tiik on ümbritsetud rohelise muru ja puudega. Soe kevadpäike. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "VILLE VAATAB LÄHEMALE.",
+      "scene": "Anna ja Ville seisavad pargitiigi ääres. Ville on veidi ettepoole kaldunud, käsi on otsmiku kohal päikesevarjuks, kui ta pingeliselt tiiki vaatab. Anna vaatab ka tiiki, naeratus näol. Tiik on ümbritsetud rohelise muru ja puudega. Soe kevadpäike. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SEE ON VÄIKE PARDIPOEG.",
+      "scene": "Anna ja Ville on rõõmsalt kummardunud tiigi ääres. Nende ees tiigis, sinises vees, ujub väike kollane pardipoeg. Anna ja Ville vaatavad pardipoega vaimustusega, nägudel suured naeratused. Tiik on ümbritsetud rohelise muru ja puudega. Soe kevadpäike. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PARDIPOEG UJUB EMAGA.",
+      "scene": "Anna ja Ville on rõõmsalt kummardunud tiigi ääres. Nende ees tiigis, sinises vees, ujub väike kollane pardipoeg oma pruuni emapardi kõrval. Emapart ja pardipoeg ujuvad rahulikult. Anna ja Ville vaatavad neid õnnelikult, nägudel suured naeratused. Tiik on ümbritsetud rohelise muru ja puudega. Soe kevadpäike. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "ANNA JA VILLE NAERATAVAD.",
+      "scene": "Anna ja Ville seisavad püsti tiigi ääres, näod pööratud vaataja poole, mõlemad naeratavad laialt ja rõõmsalt. Nende taga tiigis ujub endiselt emapart koos pardipojaga. Tiik on ümbritsetud rohelise muru ja puudega. Soe kevadpäike. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NENDE PÄEV ON HEA.",
+      "scene": "Anna ja Ville seisavad püsti tiigi ääres, vaadates tiiki. Anna on tõstnud käe ja veidi lehvitab suunas, kus pardid ujuvad. Ville vaatab pardipoja ja emapardi poole ja naeratab. Mõlemad lapsed näevad väga õnnelikud ja rahulolevad välja. Tiik on ümbritsetud rohelise muru ja puudega. Soe kevadpäike. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}

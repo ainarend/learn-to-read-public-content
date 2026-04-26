@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-04",
+  "latestDate": "2026-05-05",
   "stories": [
+    {
+      "date": "2026-05-05",
+      "title": "ANNA JA VILLE TIIGI ÄÄRES",
+      "pageCount": 8,
+      "characters": [
+        "ANNA",
+        "VILLE"
+      ]
+    },
     {
       "date": "2026-05-04",
       "title": "MIKI JA SASS TEEMAD TUULEKELLA",
