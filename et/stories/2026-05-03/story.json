@@ -1,94 +1,88 @@
 {
   "date": "2026-05-03",
   "language": "et",
-  "title": "KIIRA JA KUKI LOMPI HÜPPAMAS",
-  "generatedAt": "2026-04-20T01:41:22.733Z",
+  "title": "LIISA JA PEETER VÄRVIVAD KEVADET",
+  "generatedAt": "2026-04-26T21:09:55.599Z",
   "characters": [
     {
       "id": "char1",
-      "name": "KASS KIIRA",
-      "type": "cat",
-      "description": "Väike valge kass roosade kõrvade ja sabaga, kandmas väikest sinist salli kaelas, suured rohelised silmad, armas ja uudishimulik näoilme. Armas multifilmistiil.",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene tüdruk, heledate juustega patsis, kandmas roosat kleiti ja rohelisi kingi. Tal on suured rõõmsameelsed silmad ja naeratav nägu. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "KOER KUKI",
-      "type": "dog",
-      "description": "Väike pruun koer floppy kõrvade ja lühikese sabaga, kandmas väikest rohelist mütsi peas, suured sõbralikud pruunid silmad, rõõmus ja mänguhimuline näoilme. Armas multifilmistiil.",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene poiss, lühikeste pruunide juustega, kandmas sinist T-särki ja kollaseid lühikesi pükse. Tal on suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "Kuki elutuba",
-      "description": "Kuki's cozy living room with light yellow walls, a soft blue rug on a wooden floor, a single small rectangular window on the back wall showing a green tree outside. A small red armchair is in the corner. Cartoon style.",
+      "name": "Kevadine Aed",
+      "description": "A vibrant spring garden with lush green grass, various colorful blooming flowers (tulips, daffodils, crocuses) in shades of red, yellow, blue, and pink. A few leafy green bushes and a small blossoming tree in the background. The sun is shining brightly, creating a cheerful atmosphere. Cartoon style.",
       "image": "loc1.png"
-    },
-    {
-      "id": "loc2",
-      "name": "Mänguplats õues",
-      "description": "A sunny grassy area with a large, clear puddle in the middle. Green trees and bushes are visible in the background. Bright blue sky with a few fluffy white clouds. Cartoon style.",
-      "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "KIIRA JA KUKI MÄNGIVAD.",
-      "scene": "Kass Kiira sits on the soft blue rug in Kuki's living room, playing with a small red yarn ball. Koer Kuki lies comfortably on the rug next to her, wagging his tail happily. The room has light yellow walls and a wooden floor. Warm sunlight streams from the window. Cartoon style.",
+      "text": "LIISA JA PEETER ON AIAS.",
+      "scene": "Liisa and Peeter are standing in a vibrant spring garden with lush green grass and various colorful blooming flowers in shades of red, yellow, blue, and pink. A small blossoming tree is in the background. The sun is shining brightly. Liisa is smiling, and Peeter is looking around with curiosity. Both are wearing their designated outfits (Liisa in pink dress, Peeter in blue T-shirt and yellow shorts).",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NAD NÄEVAD LOMPI.",
-      "scene": "Kass Kiira and Koer Kuki stand by the window in Kuki's living room, looking outside with curious and excited expressions. Through the window, a large, clear puddle is visible on the green grass outside. The room has light yellow walls and a wooden floor. Cartoon style.",
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Liisa and Peeter are standing close together in the vibrant spring garden, looking at each other with bright, excited smiles, as if sharing a wonderful idea. Colorful blooming flowers and lush green grass are all around them. The sun shines. Both are wearing their designated outfits.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "OTSIME NÜÜD SAAPAID.",
-      "scene": "Kass Kiira and Koer Kuki are searching near a small wooden shelf in Kuki's living room. Kiira peeks under a small red armchair with a determined look. Kuki sniffs around a small pile of objects on the floor, his tail wagging. The room has light yellow walls and a wooden floor. Cartoon style.",
+      "text": "NAD TOOVAD VÄRVID.",
+      "scene": "Liisa and Peeter are walking through the vibrant spring garden. Liisa is carrying a small wooden art easel and a box of colorful paints and brushes. Peeter is also carrying a small wooden art easel and another box of paints and brushes. They are both smiling happily. Colorful blooming flowers and lush green grass are around them. The sun shines. Both are wearing their designated outfits.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "JAH! NEED ON MEIE SAAPAD!",
-      "scene": "Kass Kiira and Koer Kuki stand proudly in Kuki's living room, next to two pairs of colorful rain boots. Kuki points his paw at a pair of green boots. Kiira smiles happily at a pair of blue boots. The room has light yellow walls and a wooden floor. Cartoon style.",
+      "text": "NAD ISTUVAD MURULE.",
+      "scene": "Liisa and Peeter are sitting comfortably on the lush green grass in the vibrant spring garden. They have set up their small wooden art easels in front of them, with blank sheets of white paper attached. The open boxes of colorful paints and various brushes are on the grass beside each child. Colorful blooming flowers surround them. The sun shines. Both are wearing their designated outfits.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NÜÜD LÄHEME VÄLJA!",
-      "scene": "Kass Kiira, wearing bright blue rain boots, and Koer Kuki, wearing cheerful green rain boots, walk happily together towards the large, clear puddle in the sunny grassy area. Green trees and bushes are in the background. Cartoon style.",
+      "text": "LIISA VÄRVIB SINIST LILLE.",
+      "scene": "Liisa is sitting on the lush green grass in the vibrant spring garden, focused on her small wooden art easel. She is holding a paintbrush in her hand and carefully painting a blue flower onto the white paper. Peeter is sitting beside her, starting to paint on his own easel. Colorful blooming flowers are all around. The sun shines. Both are wearing their designated outfits.",
       "image": "page5.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "LOMP OOTAB MEID.",
-      "scene": "Kass Kiira and Koer Kuki stand excitedly at the very edge of the big, clear puddle in the sunny grassy area. Their blue and green rain boots are ready. They look at the puddle with wide, happy smiles, eager to jump. Cartoon style.",
+      "text": "PEETER VÄRVIB ROHELIST PUUD.",
+      "scene": "Peeter is sitting on the lush green grass in the vibrant spring garden, focused on his small wooden art easel. He is holding a paintbrush and carefully painting a green tree onto the white paper. Liisa is sitting beside him, still painting her blue flower. Colorful blooming flowers are all around. The sun shines. Both are wearing their designated outfits.",
       "image": "page6.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "HÜPPA! HÜPPA! LOMPI!",
-      "scene": "Kass Kiira and Koer Kuki are joyfully jumping and splashing together in the middle of the large, clear puddle. Water splashes playfully around their blue and green rain boots. They both have wide, happy smiles and are laughing. Cartoon style.",
+      "text": "PILDID ON VÄGA ILUSAD.",
+      "scene": "Liisa and Peeter are sitting on the lush green grass in the vibrant spring garden, proudly holding up their finished paintings. Liisa's painting clearly shows a beautiful blue flower, and Peeter's painting shows a lovely green tree. They are both smiling brightly at their artwork. Colorful blooming flowers are all around them. The sun shines. Both are wearing their designated outfits.",
       "image": "page7.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "SEE ON NII LÕBUS!",
-      "scene": "Kass Kiira and Koer Kuki are still energetically splashing and jumping in the big puddle, their faces full of laughter and pure joy. More water splashes around them, creating a playful scene. Green trees and a bright blue sky are in the background. Cartoon style.",
+      "text": "NAD ON ÕNNELIKUD.",
+      "scene": "Liisa and Peeter are sitting on the lush green grass in the vibrant spring garden, hugging each other gently and smiling broadly with closed eyes, looking very happy and content. Their finished paintings (blue flower and green tree) are leaning against their small wooden easels beside them. Colorful blooming flowers are all around them. The sun shines. Both are wearing their designated outfits.",
       "image": "page8.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     }
   ]
 }
