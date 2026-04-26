@@ -1,0 +1,108 @@
+{
+  "date": "2026-05-04",
+  "language": "et",
+  "title": "MIKI JA SASS TEEMAD TUULEKELLA",
+  "generatedAt": "2026-04-26T21:55:54.312Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "HIIR MIKI",
+      "type": "mouse",
+      "description": "Väike hall hiir, suured ümarad kõrvad, seljas sinine vest. Tal on väike uudishimulik nina ja rõõmsameelne nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL SASS",
+      "type": "hedgehog",
+      "description": "Väike pruun siil, pehmed lühikesed okkad, seljas roheline müts. Tal on väike must nina ja sõbralik naeratav suu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÄSITÖÖTUBA",
+      "description": "Cozy children's craft room with light blue painted walls and a light wooden floor. A single large window on the back wall shows blooming spring trees outside. In the center, there is a small, round wooden craft table with two matching small chairs. On the left wall, there are simple open shelves filled with colorful craft supplies like yarn, beads, and paper. Children's drawings are lightly pinned on the walls. Warm, soft sunlight streams in through the window. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "AED",
+      "description": "Sunny spring garden with vibrant green grass, blooming colorful spring flowers (tulips, daffodils), and a small apple tree in the background. The sky is clear blue with a few fluffy white clouds. The atmosphere is peaceful and cheerful. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "HIIR MIKI JA SIIL SASS.",
+      "scene": "Hiir Miki ja Siil Sass istuvad rõõmsalt väikestel puidust toolidel ümara puidust käsitöölaua ääres. Miki naeratab Sassile, Sass vaatab Mikit. Nende taga on helesinised seinad ja suur aken, kust paistavad kevadised õitsvad puud. Toas on soe päikesevalgus. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Hiir Miki ja Siil Sass on laual üksteise poole pööratud, nende nägudel on õhinas ja entusiastlikud ilmed. Miki hoiab väikest punast paela, Sass hoiab väikest sinist pärlit. Laud on puhas. Taustal on helesinised seinad, aken kevadiste puudega ja riiulid käsitöötarvetega. Soe päikesevalgus. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD KOGUVAD VÄRVE.",
+      "scene": "Hiir Miki ja Siil Sass istuvad käsitöölaua ääres. Miki sirutab käe vasakpoolse riiuli poole, mis on täis värvilisi lõngakerasid ja pärleid. Sass uurib laual olevaid värvilisi nööpe ja paelu, valides neid rõõmsalt. Laud on täis erinevaid pisikesi värvilisi käsitöömaterjale. Taustal helesinised seinad ja aken kevadiste puudega. Soe päikesevalgus. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÕIKAVAD PAELAD.",
+      "scene": "Hiir Miki ja Siil Sass on käsitöölaua ääres. Miki hoiab käes väikseid ohutuid käärid ja lõikab hoolikalt värvilist paela lühikesteks tükkideks. Sass vaatab teda huviga, käes väike punane pael. Laual on juba mõned lühikesed paelajupid ja pärlid. Taustal helesinised seinad ja aken kevadiste puudega. Soe päikesevalgus. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD SEOVAD OSAD KOKKU.",
+      "scene": "Hiir Miki ja Siil Sass nokitsevad käsitöölaua ääres. Miki seob sinise niidi külge värvilisi pärleid ja nööpe. Sass ulatab talle naeratades rohelist niiti, mille küljes on juba üks oranž pärl. Laual on erinevaid niite, pärleid, paelu ja värvilisi esemeid. Taustal helesinised seinad ja aken kevadiste puudega. Soe päikesevalgus. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TUULEKELL ON VALMIS.",
+      "scene": "Hiir Miki ja Siil Sass hoiavad uhkelt kahekesi valmis tuulekella, mis on valmistatud värvilistest paeltest, pärlitest ja nööpidest. See ripub nende käest ja särab. Nende näod on rahulolevad ja õnnelikud. Käsitöölaud on nende ees. Taustal helesinised seinad ja aken kevadiste puudega. Soe päikesevalgus. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD VIIVAD SELLE ÕUE.",
+      "scene": "Hiir Miki ja Siil Sass kõnnivad rõõmsalt kevadises aias. Miki hoiab tuulekella õrnalt, et see ei läheks sassi. Sass osutab rõõmsalt väikesele õunapuule. Ümberringi on erkroheline muru, õitsevad kevadlilled ja päikesepaiste. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "TUUL HÕIKAB KENASTI.",
+      "scene": "Hiir Miki ja Siil Sass seisavad väikese õunapuu all, mille oksa küljes ripub nende värviline tuulekell. Tuulekell kõigub õrnalt tuules ja pärlid klõbisevad vaikselt. Miki ja Sassi silmad on suunatud tuulekellale, näod on lummatud. Erkroheline muru, õitsevad lilled ja päikesepaiste. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MIKI JA SASS KUULAVAD.",
+      "scene": "Hiir Miki ja Siil Sass istuvad rõõmsalt erkrohelisel murul väikese õunapuu all, kus ripub nende tuulekell. Nad on teineteise kõrval, naeratavad ja kuulavad tähelepanelikult tuulekella õrna häält. Ümberringi on õitsevad lilled ja soe päike paistab. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KEVAD ON NÜÜD ILUSAM.",
+      "scene": "Hiir Miki ja Siil Sass naeratavad laialt ja hoiavad teineteise käest kinni, seistes oma kauni tuulekella all, mis ripub õunapuu küljes. Tuulekell särab päikesepaistes. Kogu aed on täis värvilisi õitsevaid lilli ja erkrohelist muru. Taevas on selge ja sinine. Nad on väga rahul. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
