@@ -1,0 +1,108 @@
+{
+  "date": "2026-05-06",
+  "language": "et",
+  "title": "KRISTI JA MÄRDI PIKNIK",
+  "generatedAt": "2026-04-26T23:26:47.247Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KRISTI",
+      "type": "squirrel",
+      "description": "Väike pruun orav suurte kohevate sabaga, erkpunase lipsuga kaelas, suured säravad uudishimulikud silmad ja rõõmsameelne naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MÄRT",
+      "type": "badger",
+      "description": "Suur hall ja must mäger, triibulise näoga, kandmas väikest sinist vesti, sõbralik ja rahulik ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KRISTI JA MÄRDI KODU KÖÖK",
+      "description": "Cozy, natural woodland kitchen inside a large tree hollow or burrow. Smooth, light brown wooden walls. A small, simple wooden table in the center with two small wooden chairs. A window on the back wall showing green forest leaves and sun peeking through. A small shelf on the side wall with a few ceramic jars. Warm, soft light. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "METSAÄÄRNE LAGENDIK",
+      "description": "Sunny forest clearing with bright green grass and scattered small colorful spring wildflowers (like bluebells and daisies). Tall, leafy green trees around the edges of the clearing. A clear blue sky above. Gentle sunlight. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KRISTI JA MÄRT ON KÖÖGIS.",
+      "scene": "KRISTI (squirrel) and MÄRT (badger) are standing in their cozy, natural woodland kitchen. KRISTI is near a small wooden table, MÄRT is standing beside her. Both look thoughtful. The kitchen has smooth, light brown wooden walls, a small, simple wooden table in the center with two small wooden chairs. A window on the back wall shows green forest leaves and sun peeking through. A small shelf on the side wall with a few ceramic jars. Warm, soft light. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "KRISTI (squirrel) and MÄRT (badger) are in their cozy kitchen, standing near the wooden table. KRISTI is holding a small, empty picnic basket and smiling brightly. MÄRT is nodding happily, with a thoughtful, friendly expression. The kitchen has smooth, light brown wooden walls, a small, simple wooden table in the center with two small wooden chairs. A window on the back wall shows green forest leaves and sun peeking through. A small shelf on the side wall with a few ceramic jars. Warm, soft light. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD PIKNIKU.",
+      "scene": "KRISTI (squirrel) and MÄRT (badger) are in their cozy kitchen. KRISTI is standing by the wooden table, holding a small wooden cutting board and a tiny, dull knife, looking at some bread. MÄRT is standing next to her, looking at a small bowl of berries on the table. Both are smiling, starting to prepare food. The kitchen has smooth, light brown wooden walls, a small, simple wooden table in the center with two small wooden chairs. A window on the back wall shows green forest leaves and sun peeking through. A small shelf on the side wall with a few ceramic jars. Warm, soft light. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KRISTI TEHAKSE VÕILEIBU.",
+      "scene": "KRISTI (squirrel) is at the small wooden table in her cozy kitchen, carefully spreading jam on a small piece of bread with a tiny, dull knife. Several small, simple sandwiches are already made on the wooden cutting board next to her. MÄRT (badger) is watching her with a happy, anticipatory expression. The kitchen has smooth, light brown wooden walls, a small, simple wooden table in the center with two small wooden chairs. A window on the back wall shows green forest leaves and sun peeking through. A small shelf on the side wall with a few ceramic jars. Warm, soft light. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MÄRT PAKIB KORVI.",
+      "scene": "MÄRT (badger) is carefully placing the small, prepared sandwiches into a woven picnic basket on the wooden table in their cozy kitchen. KRISTI (squirrel) is handing him a small bunch of fresh berries to add to the basket, smiling. The kitchen has smooth, light brown wooden walls, a small, simple wooden table in the center with two small wooden chairs. A window on the back wall shows green forest leaves and sun peeking through. A small shelf on the side wall with a few ceramic jars. Warm, soft light. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LÄHEVAD METSA.",
+      "scene": "KRISTI (squirrel) and MÄRT (badger) are happily walking through a sunny forest clearing. MÄRT is carrying the woven picnic basket in one paw, and KRISTI is walking beside him, looking excited. Bright green grass, scattered small colorful spring wildflowers, tall, leafy green trees around the edges, and a clear blue sky. Gentle sunlight. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LEIAVAD ILUSA KOHA.",
+      "scene": "KRISTI (squirrel) and MÄRT (badger) have stopped in a particularly sunny spot in the forest clearing. KRISTI is pointing excitedly to a patch of soft grass under a large tree. MÄRT is smiling, still holding the picnic basket, agreeing with her choice. Bright green grass, scattered small colorful spring wildflowers, tall, leafy green trees around the edges, and a clear blue sky. Gentle sunlight. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LAOTAVAD TEKI MAHA.",
+      "scene": "KRISTI (squirrel) and MÄRT (badger) are kneeling on the bright green grass in the sunny forest clearing. They are carefully unfurling and spreading out a small, colorful picnic blanket on the ground. The picnic basket is set down beside them. Scattered small colorful spring wildflowers, tall, leafy green trees around the edges, and a clear blue sky. Gentle sunlight. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD SÖÖVAD HEA MEIEGA.",
+      "scene": "KRISTI (squirrel) and MÄRT (badger) are happily sitting on the colorful picnic blanket in the sunny forest clearing. They are each eating a small sandwich, smiling and enjoying their food. The picnic basket is open next to them, showing some berries. Scattered small colorful spring wildflowers, tall, leafy green trees around the edges, and a clear blue sky. Gentle sunlight. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "PIKNIK ON NII TORE.",
+      "scene": "KRISTI (squirrel) and MÄRT (badger) are sitting contentedly on the colorful picnic blanket in the sunny forest clearing. The picnic basket is nearly empty. KRISTI is leaning her head on MÄRT's shoulder, and MÄRT has an arm gently around her, both smiling warmly. They look happy and full. Scattered small colorful spring wildflowers, tall, leafy green trees around the edges, and a clear blue sky. Gentle sunlight. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

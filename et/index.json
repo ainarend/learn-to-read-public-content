@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-05",
+  "latestDate": "2026-05-06",
   "stories": [
+    {
+      "date": "2026-05-06",
+      "title": "KRISTI JA MÄRDI PIKNIK",
+      "pageCount": 10,
+      "characters": [
+        "KRISTI",
+        "MÄRT"
+      ]
+    },
     {
       "date": "2026-05-05",
       "title": "ANNA JA VILLE TIIGI ÄÄRES",
