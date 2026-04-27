@@ -1,0 +1,101 @@
+{
+  "date": "2026-05-09",
+  "language": "et",
+  "title": "SASSU JA MIMI VIKERKAAR",
+  "generatedAt": "2026-04-27T00:56:35.687Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SASSU",
+      "type": "fox",
+      "description": "Väike oranž rebasepoiss, valge kõhu ja sabaotsaga. Tal on suured tumedad silmad ja sõbralik naeratus. Seljas väike sinine vest. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MIMI",
+      "type": "badger",
+      "description": "Väike hall mägrapoiss, mustvalge triibulise peaga. Tal on lühikesed käpad ja uudishimulik nägu. Seljas väike roheline sall. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Metsa rada",
+      "description": "A winding forest path after a spring rain. The path is muddy with some small puddles, surrounded by tall green trees with fresh spring leaves. Sunbeams break through the canopy. The air is fresh and clean. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Avatud väli",
+      "description": "An open grassy field on a gentle hill. Lush green grass with some small wildflowers. In the distance, a vibrant rainbow arches across a partly cloudy sky. The ground is still a bit damp from recent rain, showing a few small reflections. Bright spring sunlight. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SASSU JA MIMI ON SÕBRAD.",
+      "scene": "Sassu, a small orange fox cub wearing a blue vest, and Mimi, a small grey badger cub wearing a green scarf, are walking side-by-side on a winding forest path. The path is muddy with small puddles reflecting the sky. Tall green trees with fresh spring leaves surround them. Both characters are smiling happily. Sunbeams break through the canopy. The forest path has small puddles and is surrounded by lush spring trees. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD VIKERKAARE.",
+      "scene": "Sassu, the fox cub, and Mimi, the badger cub, are looking up towards the sky with wide, excited eyes. They are standing on the forest path, which still has small puddles. In the distance, visible through the trees, is the faint arch of a vibrant rainbow in the sky. Sunbeams are still breaking through the canopy. The forest path is muddy with small puddles and is surrounded by lush spring trees. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "VIKERKAAR ON VÄRVILINE.",
+      "scene": "Sassu, the fox cub, and Mimi, the badger cub, are now pointing towards the rainbow with one paw, their faces full of wonder. The rainbow is more clearly visible, showing vibrant colors. They are still on the muddy forest path, surrounded by tall green trees. The path has small puddles reflecting the light. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÄHEVAD LÄHEMALE.",
+      "scene": "Sassu, the fox cub, and Mimi, the badger cub, are walking together along the winding forest path, their gazes still fixed on the distant rainbow. They are taking small, determined steps. The path is muddy, and sunbeams highlight the fresh green leaves on the trees around them. The forest path is muddy with small puddles and is surrounded by lush spring trees. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KOOS NAD KÕNNIVAD.",
+      "scene": "Sassu, the fox cub, and Mimi, the badger cub, are walking happily together, side-by-side, holding paws as they stroll along the muddy forest path. They are still looking towards the direction of the rainbow. Lush green trees surround them. The forest path is muddy with small puddles and is surrounded by lush spring trees. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "ROHELINE MURU LÄIGIB.",
+      "scene": "Sassu, the fox cub, and Mimi, the badger cub, have just emerged from the dense part of the forest onto a slightly more open area. The ground beneath their paws is now a stretch of bright green, slightly damp grass that gleams in the sunlight, with small puddles reflecting the sky. Trees are still visible in the background, but the path is widening. Both characters look down at the glistening grass with curious expressions. The forest path is muddy with small puddles and is surrounded by lush spring trees. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VIKERKAAR PAISTAB HÄSTI.",
+      "scene": "Sassu, the fox cub, and Mimi, the badger cub, are standing in an open grassy field on a gentle hill. They are both looking up at a very clear, vibrant rainbow that arches brightly across the sky. The grass is lush green with some small wildflowers and is damp from recent rain, reflecting the light. Bright spring sunlight illuminates the scene. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "VÄRVID ON NII ILUSAD.",
+      "scene": "Sassu, the fox cub, and Mimi, the badger cub, are sitting close together on the soft, green grass in the open field. They are gazing at the full, brilliant arch of the rainbow in the sky, their faces filled with awe and wonder. The colorful rainbow dominates the background. Small wildflowers dot the grass. The ground is damp from recent rain. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SÕBRAD ON VÄGA ÕNNELIKUD.",
+      "scene": "Sassu, the fox cub, and Mimi, the badger cub, are lying on their backs in the lush green grass, looking up at the sky. They are giggling and playfully kicking their legs in the air, feeling joyful and content. The vibrant rainbow is still visible in the sky, though perhaps a little fainter. Small wildflowers are around them. Bright spring sunlight. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}
