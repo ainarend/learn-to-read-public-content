@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-06",
+  "latestDate": "2026-05-08",
   "stories": [
+    {
+      "date": "2026-05-08",
+      "title": "JUKU JA LIISA VÄIKE MAJA",
+      "pageCount": 10,
+      "characters": [
+        "JUKU",
+        "LIISA"
+      ]
+    },
     {
       "date": "2026-05-06",
       "title": "KRISTI JA MÄRDI PIKNIK",

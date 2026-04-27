@@ -1,0 +1,102 @@
+{
+  "date": "2026-05-08",
+  "language": "et",
+  "title": "JUKU JA LIISA VÄIKE MAJA",
+  "generatedAt": "2026-04-27T00:12:06.709Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, poiss, blondide lühikeste juuste ja siniste silmadega. Seljas roheline T-särk ja sinised lühikesed püksid. Rõõmsameelne ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, pruunide patsikeste ja säravate silmadega. Seljas roosa kleit ja valged sandaalid. Naerusuine ja sõbralik näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline aed",
+      "description": "Sunny, vibrant garden with various colorful flowers like tulips and daffodils in bloom, green grass, and a few small bushes. A wooden garden bench is visible in the background. The atmosphere is cheerful and bright, typical of a spring day. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUKU JA LIISA ON AIAS.",
+      "scene": "Juku (boy with blonde hair, green T-shirt, blue shorts) and Liisa (girl with brown pigtails, pink dress, white sandals) are standing in a sunny, vibrant garden. Juku is looking around curiously. Liisa is smiling. Colorful flowers and green grass surround them. A wooden garden bench is visible in the background. The atmosphere is cheerful and bright. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON MÕTE.",
+      "scene": "Juku (boy with blonde hair, green T-shirt, blue shorts) and Liisa (girl with brown pigtails, pink dress, white sandals) are standing close together in the sunny garden, both looking thoughtful but with happy, excited expressions. Juku is pointing towards the ground with one finger, and Liisa is nodding in agreement, a big smile on her face. Colorful flowers and green grass surround them. A wooden garden bench is visible in the background. The atmosphere is cheerful and bright. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD OTSIVAD OKSAD.",
+      "scene": "Juku (boy with blonde hair, green T-shirt, blue shorts) and Liisa (girl with brown pigtails, pink dress, white sandals) are in the sunny garden, actively searching on the ground. Juku is bending down, picking up a small twig. Liisa is looking under a small bush, her eyes wide with curiosity. Colorful flowers and green grass surround them. A wooden garden bench is visible in the background. The atmosphere is cheerful and bright. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD KOGUVAD LEHED.",
+      "scene": "Juku (boy with blonde hair, green T-shirt, blue shorts) and Liisa (girl with brown pigtails, pink dress, white sandals) are gathering materials in the sunny garden. Juku is holding a small pile of colorful fallen leaves in his hands. Liisa is carefully picking a large green leaf from the ground. Colorful flowers and green grass surround them. A wooden garden bench is visible in the background. The atmosphere is cheerful and bright. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD EHITAVAD MAJA.",
+      "scene": "Juku (boy with blonde hair, green T-shirt, blue shorts) and Liisa (girl with brown pigtails, pink dress, white sandals) are in the sunny garden, starting to build a small fairy house on the grass. They are kneeling. Juku is placing small sticks together to form a wall. Liisa is holding a larger leaf, ready to place it as a roof. A small pile of sticks and leaves are next to them. Colorful flowers and green grass surround them. A wooden garden bench is visible in the background. The atmosphere is cheerful and bright. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD PANEVAD SAMMALT.",
+      "scene": "Juku (boy with blonde hair, green T-shirt, blue shorts) and Liisa (girl with brown pigtails, pink dress, white sandals) are continuing to build the fairy house in the sunny garden. The small house frame made of sticks is now visible. Juku is carefully pressing a piece of soft green moss onto the side of the stick house. Liisa is holding another piece of moss, watching Juku with a focused and happy expression. Colorful flowers and green grass surround them. A wooden garden bench is visible in the background. The atmosphere is cheerful and bright. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VÄIKE MAJA ON VALMIS.",
+      "scene": "Juku (boy with blonde hair, green T-shirt, blue shorts) and Liisa (girl with brown pigtails, pink dress, white sandals) are proudly standing back a little, admiring their almost finished small fairy house in the sunny garden. The house is made of sticks, leaves, and moss. Juku has his hands on his hips and a big smile. Liisa is clapping her hands gently. Colorful flowers and green grass surround them. A wooden garden bench is visible in the background. The atmosphere is cheerful and bright. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MAJA ON NÜÜD ILUS.",
+      "scene": "A close-up of the beautiful, small fairy house in the sunny garden, showing more details of its decoration. The house is made of sticks, covered with green moss, and has a roof made of large leaves. Small colorful petals are scattered around its base as decoration. Juku (boy with blonde hair, green T-shirt, blue shorts) and Liisa (girl with brown pigtails, pink dress, white sandals) are peeking from behind the house, smiling happily. Colorful flowers and green grass surround it. A wooden garden bench is visible in the background. The atmosphere is cheerful and bright. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "JUKU JA LIISA ON RÕÕMSAD.",
+      "scene": "Juku (boy with blonde hair, green T-shirt, blue shorts) and Liisa (girl with brown pigtails, pink dress, white sandals) are sitting on the green grass next to their beautifully finished small fairy house in the sunny garden. Juku is laughing happily, pointing at the house. Liisa is smiling broadly, holding a small flower that she might add to the house. Colorful flowers and green grass surround them. A wooden garden bench is visible in the background. The atmosphere is cheerful and bright. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEE ON NENDE MAJA.",
+      "scene": "Juku (boy with blonde hair, green T-shirt, blue shorts) and Liisa (girl with brown pigtails, pink dress, white sandals) are standing proudly next to their finished small fairy house in the sunny garden, looking directly at the viewer with big, satisfied smiles. Juku has his arm around Liisa. The fairy house, made of sticks, moss, and leaves, is prominently displayed between them. Colorful flowers and green grass surround them. A wooden garden bench is visible in the background. The atmosphere is cheerful and bright. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
