@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-09",
+  "latestDate": "2026-05-10",
   "stories": [
+    {
+      "date": "2026-05-10",
+      "title": "LIISU JA MARDI KÕRGE TORN",
+      "pageCount": 10,
+      "characters": [
+        "LIISU",
+        "MART"
+      ]
+    },
     {
       "date": "2026-05-09",
       "title": "SASSU JA MIMI VIKERKAAR",

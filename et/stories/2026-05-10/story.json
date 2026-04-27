@@ -1,0 +1,102 @@
+{
+  "date": "2026-05-10",
+  "language": "et",
+  "title": "LIISU JA MARDI KÕRGE TORN",
+  "generatedAt": "2026-04-27T01:41:29.945Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISU",
+      "type": "human",
+      "description": "VÄIKE INIMENE, PIKKADE HELEPRUUNIDE JUUSTEGA, KANDMAS KOLLAST KLEITI. TAL ON SÕBRALIK JA RÕÕMSAMEELNE NÄOILME, SUURED UUDISHIMULIKUD SILMAD. ARMAS MULTIFILMISTIIL.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MART",
+      "type": "human",
+      "description": "VÄIKE INIMENE, LÜHIKESTE BLONDIDE JUUSTEGA, KANDMAS SINISEID TUNKESID. TAL ON LAI NÄERATUS, SUURED SÕBRALIKUD SILMAD. ARMAS MULTIFILMISTIIL.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "LASTETUBA",
+      "description": "Cozy children's play room with light green walls, a soft blue rug on a wooden floor, a large window on the back wall showing bright green spring trees outside. A low wooden toy chest sits on the right wall. The room is tidy and well-lit with natural light. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISU JA MART MÄNGIVAD.",
+      "scene": "Liisu, a small human girl with long light brown hair wearing a yellow dress, and Mart, a small human boy with short blonde hair wearing blue overalls, are sitting happily on a soft blue rug on the wooden floor of their cozy playroom. The light green walls, a large window showing bright green spring trees, and a low wooden toy chest on the right wall are visible. They are surrounded by colorful building blocks on the rug, smiling at each other. Warm natural light fills the room. Landscape composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON SUUR MÕTE.",
+      "scene": "Liisu and Mart are still sitting on the soft blue rug in their playroom, looking at the colorful building blocks scattered around them with excited and thoughtful expressions. Liisu points towards a pile of blocks. Mart nods in agreement. The light green walls, large window showing bright green spring trees, and low wooden toy chest are clearly visible. Warm natural light fills the room. Landscape composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TAHAVAD TORNI.",
+      "scene": "Liisu and Mart are now kneeling on the soft blue rug in their playroom, actively looking at the colorful building blocks. They have moved some blocks closer, forming a small base. Their faces show determination and joy as they prepare to build. The light green walls, large window showing bright green spring trees, and low wooden toy chest are in the background. Warm natural light streams in. Landscape composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "VÄRVILISED PLOKID OOTAVAD.",
+      "scene": "Liisu and Mart are sitting on the soft blue rug, surrounded by a larger collection of colorful building blocks, which are neatly organized into piles by color. They are looking at the blocks, deciding which one to pick next. The light green walls, large window showing bright green spring trees, and low wooden toy chest are part of the cozy playroom. Warm natural light illuminates the scene. Landscape composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD EHITAVAD TORNI KÕRGEKS.",
+      "scene": "Liisu and Mart are focused, kneeling on the soft blue rug in their playroom, carefully placing colorful building blocks on top of each other to form a growing tower. The tower is already reaching their waist height. Mart holds a blue block, preparing to place it. Liisu is watching intently. The light green walls, large window showing bright green spring trees, and low wooden toy chest are visible. Warm natural light fills the room. Landscape composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PLOKK PLOKI PEALE.",
+      "scene": "Liisu and Mart are continuing to build their colorful tower. Mart is carefully placing a yellow block on top of the growing tower, which is now almost as tall as them when kneeling. Liisu is holding another block, ready to hand it to Mart. They are both concentrating with happy expressions. The soft blue rug, light green walls, large window with spring trees, and wooden toy chest are the consistent background. Warm natural light. Landscape composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "TORN KASVAB SUUREKS.",
+      "scene": "Liisu and Mart are now standing beside their very tall, colorful block tower which almost reaches the ceiling. They are looking up at it with proud smiles. Their hands are on their hips, admiring their creation. The light green walls, soft blue rug, large window showing bright green spring trees, and low wooden toy chest are visible in the background of their playroom. Warm natural light. Landscape composition.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NÄE, VÄGA KÕRGE TORN!",
+      "scene": "Liisu and Mart are standing side-by-side on the soft blue rug, proudly gesturing towards their incredibly tall, colorful block tower. They are both smiling widely, looking at the tower with awe and excitement. The tower stands impressively tall in their playroom. The light green walls, large window with spring trees, and wooden toy chest are consistent. Warm natural light. Landscape composition.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LIISU JA MART ON ÕNNELIKUD.",
+      "scene": "Liisu and Mart are sitting back on the soft blue rug, smiling broadly at their magnificent, colorful block tower. They are clapping their hands joyfully, looking very happy and content with their achievement. The tall tower stands behind them. The light green walls, large window with spring trees, and wooden toy chest maintain the consistent playroom setting. Warm natural light. Landscape composition.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD RÕÕMUSTAVAD KOOS.",
+      "scene": "Liisu and Mart are hugging each other gently on the soft blue rug, both smiling brightly, with their very tall, colorful block tower visible behind them. They are celebrating their successful teamwork. The playroom with its light green walls, large window showing bright green spring trees, and low wooden toy chest provides the familiar backdrop. Warm natural light. Landscape composition.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
