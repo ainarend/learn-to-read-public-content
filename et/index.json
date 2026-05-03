@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-12",
+  "latestDate": "2026-05-13",
   "stories": [
+    {
+      "date": "2026-05-13",
+      "title": "KUTSU JA PÄÄSU MARJAD",
+      "pageCount": 10,
+      "characters": [
+        "KUTSU",
+        "PÄÄSU"
+      ]
+    },
     {
       "date": "2026-05-12",
       "title": "MARI JA JUKU EHITAVAD PESA",

@@ -1,0 +1,108 @@
+{
+  "date": "2026-05-13",
+  "language": "et",
+  "title": "KUTSU JA PÄÄSU MARJAD",
+  "generatedAt": "2026-05-03T23:27:32.831Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KUTSU",
+      "type": "dog",
+      "description": "Väike mänguline helepruun koer kutsikas, suurte rippuvate kõrvadega ja saba rõõmsalt liputamas. Tal on sõbralikud pruunid silmad ja alati rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PÄÄSU",
+      "type": "bird",
+      "description": "Väike vilgas sinimust pääsuke, pika harkis sabaga ja valge kõhualusega. Tal on teravad, uudishimulikud silmad ja rõõmsameelne naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KUTSU KODU",
+      "description": "Cozy children's room with light yellow walls, a soft green rug on the floor. A single small round window on the back wall shows a glimpse of green trees outside. There is a simple, small wooden toy box on the right wall and a soft blue pillow on the floor. Warm and inviting atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "METSARADA",
+      "description": "Sunny forest path with tall green trees on both sides, light brown earthy path with scattered fallen leaves. Patches of bright green grass and small wildflowers along the path. Sunlight streams through the leaves, creating dappled shadows. Cheerful and natural spring forest atmosphere. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KUTSU JA PÄÄSU MÄNGIVAD.",
+      "scene": "KUTSU (a small light brown puppy) is on the soft green rug, playing with a small soft ball. PÄÄSU (a small blue and black swallow) flies cheerfully around KUTSU's head. They are in KUTSU's cozy room with light yellow walls, a small round window, and a wooden toy box.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "KUTSU (a small light brown puppy) sits on the soft green rug, looking up at PÄÄSU (a small blue and black swallow). PÄÄSU has landed gently on KUTSU's head. Both have curious, thoughtful expressions, having just had an idea. They are in KUTSU's cozy room with light yellow walls, a small round window, and a wooden toy box.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "OTSIME KAUNEID MARJU.",
+      "scene": "KUTSU (a small light brown puppy) walks along a sunny forest path, sniffing the ground with a curious expression. PÄÄSU (a small blue and black swallow) flies gracefully just above KUTSU. They are searching for something exciting on the forest path, both joyful and inquisitive. The path is earthy with green trees and sunlight.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LENDAVAD METSA.",
+      "scene": "PÄÄSU (a small blue and black swallow) flies swiftly through the sky, while KUTSU (a small light brown puppy) runs joyfully along the forest path, his tail wagging. Sunlight streams through the green trees, creating dappled shadows. They are moving deeper into the cheerful spring forest.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KUTSU NÄEB PUNAST MARJA.",
+      "scene": "KUTSU (a small light brown puppy) bends down to a small bush by the side of the forest path, gently nudging his nose against a bright red berry. PÄÄSU (a small blue and black swallow) has landed on a branch nearby, watching with curiosity. Both characters are excited by the discovery on the sunny forest path.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PÄÄSU KORJAB MARJU.",
+      "scene": "PÄÄSU (a small blue and black swallow) flies gracefully around the berry bush, carefully pecking red berries with her beak and holding them. KUTSU (a small light brown puppy) sits patiently next to the bush on the sunny forest path, watching PÄÄSU. Both are focused on gathering the berries.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD VIIVAD MARJAD KOJU.",
+      "scene": "KUTSU (a small light brown puppy) runs happily back along the sunny forest path, his tail wagging. PÄÄSU (a small blue and black swallow) flies above him, still holding berries carefully in her beak. They are making their way home with their collected treasures from the cheerful spring forest.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MARJAD ON NII MAITSVAD!",
+      "scene": "KUTSU (a small light brown puppy) sits on the soft blue pillow on the floor, about to enjoy a delicious red berry. PÄÄSU (a small blue and black swallow) sits on KUTSU's shoulder, also nibbling a berry. Both are delighted with the tasty snack. They are in KUTSU's cozy room with light yellow walls and a green rug.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON VÄGA RÕÕMSAD.",
+      "scene": "KUTSU (a small light brown puppy) and PÄÄSU (a small blue and black swallow) smile at each other, their berries eaten. KUTSU is sitting happily on the soft blue pillow, and PÄÄSU is perched on his head. They look content and joyful in KUTSU's cozy room with light yellow walls and a green rug.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KOOS ON KÕIK LÕBUSAM.",
+      "scene": "KUTSU (a small light brown puppy) and PÄÄSU (a small blue and black swallow) share a gentle hug. KUTSU is sitting on the soft blue pillow, and PÄÄSU has wrapped her wings softly around KUTSU's head. Both are smiling widely and look very happy together in KUTSU's cozy room with light yellow walls and a green rug.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
