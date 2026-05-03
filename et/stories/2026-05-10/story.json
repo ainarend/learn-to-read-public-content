@@ -1,101 +1,94 @@
 {
   "date": "2026-05-10",
   "language": "et",
-  "title": "LIISU JA MARDI KÕRGE TORN",
-  "generatedAt": "2026-04-27T01:41:29.945Z",
+  "title": "REIN JA JOONAS MUUSIKAT TEGEMAS",
+  "generatedAt": "2026-05-03T21:09:23.707Z",
   "characters": [
     {
       "id": "char1",
-      "name": "LIISU",
-      "type": "human",
-      "description": "VÄIKE INIMENE, PIKKADE HELEPRUUNIDE JUUSTEGA, KANDMAS KOLLAST KLEITI. TAL ON SÕBRALIK JA RÕÕMSAMEELNE NÄOILME, SUURED UUDISHIMULIKUD SILMAD. ARMAS MULTIFILMISTIIL.",
+      "name": "REIN",
+      "type": "fox",
+      "description": "Väike oranz rebane, suurte kohevate sabaga, kandmas väikest sinist särki. Sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "MART",
-      "type": "human",
-      "description": "VÄIKE INIMENE, LÜHIKESTE BLONDIDE JUUSTEGA, KANDMAS SINISEID TUNKESID. TAL ON LAI NÄERATUS, SUURED SÕBRALIKUD SILMAD. ARMAS MULTIFILMISTIIL.",
+      "name": "JOONAS",
+      "type": "rabbit",
+      "description": "Väike hall jänes, pikkade kõrvadega, kandmas väikest rohelist vesti. Rõõmsameelne ja energiline näoilme. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "LASTETUBA",
-      "description": "Cozy children's play room with light green walls, a soft blue rug on a wooden floor, a large window on the back wall showing bright green spring trees outside. A low wooden toy chest sits on the right wall. The room is tidy and well-lit with natural light. Cartoon style.",
+      "name": "Kevadine Aas",
+      "description": "A bright and sunny spring meadow. The grass is vibrant green with small scattered wildflowers like daisies and buttercups. In the background, there's a gentle slope leading to a lush green forest edge with tall, leafy trees. The sky is clear blue with soft white clouds. A few smooth grey stones are visible on the grass. The overall atmosphere is cheerful and inviting. Cartoon style.",
       "image": "loc1.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "LIISU JA MART MÄNGIVAD.",
-      "scene": "Liisu, a small human girl with long light brown hair wearing a yellow dress, and Mart, a small human boy with short blonde hair wearing blue overalls, are sitting happily on a soft blue rug on the wooden floor of their cozy playroom. The light green walls, a large window showing bright green spring trees, and a low wooden toy chest on the right wall are visible. They are surrounded by colorful building blocks on the rug, smiling at each other. Warm natural light fills the room. Landscape composition.",
+      "text": "REIN JA JOONAS MÄNGIVAD.",
+      "scene": "Rein, a small orange fox wearing a blue shirt, and Joonas, a small grey rabbit wearing a green vest, are sitting side-by-side on the vibrant green grass of a sunny spring meadow. They are looking at each other and smiling happily. Small scattered wildflowers are around them. The lush green forest edge is visible in the background under a clear blue sky. Cartoon style.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NEIL ON SUUR MÕTE.",
-      "scene": "Liisu and Mart are still sitting on the soft blue rug in their playroom, looking at the colorful building blocks scattered around them with excited and thoughtful expressions. Liisu points towards a pile of blocks. Mart nods in agreement. The light green walls, large window showing bright green spring trees, and low wooden toy chest are clearly visible. Warm natural light fills the room. Landscape composition.",
+      "text": "NEIL ON UUS MÕTE.",
+      "scene": "Rein, a small orange fox in a blue shirt, and Joonas, a small grey rabbit in a green vest, are still sitting together on the vibrant green grass of the sunny spring meadow. They both have thoughtful, curious expressions, looking slightly upwards as if contemplating an idea. The meadow has small scattered wildflowers, and the forest edge is in the background. Cartoon style.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD TAHAVAD TORNI.",
-      "scene": "Liisu and Mart are now kneeling on the soft blue rug in their playroom, actively looking at the colorful building blocks. They have moved some blocks closer, forming a small base. Their faces show determination and joy as they prepare to build. The light green walls, large window showing bright green spring trees, and low wooden toy chest are in the background. Warm natural light streams in. Landscape composition.",
+      "text": "TAHAME MUUSIKAT TEHA!",
+      "scene": "Rein, a small orange fox in a blue shirt, and Joonas, a small grey rabbit in a green vest, are standing up on the vibrant green grass of the sunny spring meadow. They are facing each other, looking excited and animated, with big smiles. Joonas is gesturing with his paws as if sharing an idea. Small scattered wildflowers are around them. The forest edge is visible in the background. Cartoon style.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "VÄRVILISED PLOKID OOTAVAD.",
-      "scene": "Liisu and Mart are sitting on the soft blue rug, surrounded by a larger collection of colorful building blocks, which are neatly organized into piles by color. They are looking at the blocks, deciding which one to pick next. The light green walls, large window showing bright green spring trees, and low wooden toy chest are part of the cozy playroom. Warm natural light illuminates the scene. Landscape composition.",
+      "text": "NAD LÄHEVAD ROHELISSE.",
+      "scene": "Rein, a small orange fox in a blue shirt, and Joonas, a small grey rabbit in a green vest, are walking happily through the vibrant green grass of the sunny spring meadow. They are walking towards the lush green forest edge in the background. Small scattered wildflowers are visible on the grass around them. They both have joyful, exploring expressions. Cartoon style.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD EHITAVAD TORNI KÕRGEKS.",
-      "scene": "Liisu and Mart are focused, kneeling on the soft blue rug in their playroom, carefully placing colorful building blocks on top of each other to form a growing tower. The tower is already reaching their waist height. Mart holds a blue block, preparing to place it. Liisu is watching intently. The light green walls, large window showing bright green spring trees, and low wooden toy chest are visible. Warm natural light fills the room. Landscape composition.",
+      "text": "NAD KUULAVAD LINNU LAULU.",
+      "scene": "Rein, a small orange fox in a blue shirt, and Joonas, a small grey rabbit in a green vest, are standing still in the vibrant green grass of the sunny spring meadow near the forest edge. They are both tilting their heads slightly, with attentive expressions, listening intently. Their eyes are looking up towards the trees. Small scattered wildflowers are around them. Cartoon style.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "PLOKK PLOKI PEALE.",
-      "scene": "Liisu and Mart are continuing to build their colorful tower. Mart is carefully placing a yellow block on top of the growing tower, which is now almost as tall as them when kneeling. Liisu is holding another block, ready to hand it to Mart. They are both concentrating with happy expressions. The soft blue rug, light green walls, large window with spring trees, and wooden toy chest are the consistent background. Warm natural light. Landscape composition.",
+      "text": "REIN LEIAB KAKS KIVI.",
+      "scene": "Rein, a small orange fox in a blue shirt, is kneeling on the vibrant green grass of the sunny spring meadow. He is holding two smooth grey stones in his paws, looking at them with a curious smile. Joonas, a small grey rabbit in a green vest, stands beside him, looking on with interest. Small scattered wildflowers are around them. The forest edge is in the background. Cartoon style.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "TORN KASVAB SUUREKS.",
-      "scene": "Liisu and Mart are now standing beside their very tall, colorful block tower which almost reaches the ceiling. They are looking up at it with proud smiles. Their hands are on their hips, admiring their creation. The light green walls, soft blue rug, large window showing bright green spring trees, and low wooden toy chest are visible in the background of their playroom. Warm natural light. Landscape composition.",
+      "text": "JOONAS LEIAB KAKS KEPPI.",
+      "scene": "Joonas, a small grey rabbit in a green vest, is now kneeling on the vibrant green grass of the sunny spring meadow. He is holding two small, thin wooden sticks in his paws, smiling proudly. Rein, a small orange fox in a blue shirt, kneels beside him, looking at the sticks with an excited expression. Small scattered wildflowers are around them. The forest edge is in the background. Cartoon style.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "NÄE, VÄGA KÕRGE TORN!",
-      "scene": "Liisu and Mart are standing side-by-side on the soft blue rug, proudly gesturing towards their incredibly tall, colorful block tower. They are both smiling widely, looking at the tower with awe and excitement. The tower stands impressively tall in their playroom. The light green walls, large window with spring trees, and wooden toy chest are consistent. Warm natural light. Landscape composition.",
+      "text": "NAD KOPUTAVAD KIVE KEPPIDEGA.",
+      "scene": "Rein, a small orange fox in a blue shirt, and Joonas, a small grey rabbit in a green vest, are sitting on the vibrant green grass of the sunny spring meadow. Rein is holding two smooth grey stones, and Joonas is holding two small wooden sticks. Joonas is gently tapping the sticks against the stones, and Rein is smiling, enjoying the sound. Small scattered wildflowers are around them. The forest edge is in the background. Cartoon style.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "LIISU JA MART ON ÕNNELIKUD.",
-      "scene": "Liisu and Mart are sitting back on the soft blue rug, smiling broadly at their magnificent, colorful block tower. They are clapping their hands joyfully, looking very happy and content with their achievement. The tall tower stands behind them. The light green walls, large window with spring trees, and wooden toy chest maintain the consistent playroom setting. Warm natural light. Landscape composition.",
+      "text": "NÜÜD NAD MÄNGIVAD RÕÕMSALT!",
+      "scene": "Rein, a small orange fox in a blue shirt, and Joonas, a small grey rabbit in a green vest, are sitting joyfully on the vibrant green grass of the sunny spring meadow. Rein is holding the two smooth grey stones, and Joonas is holding the two small wooden sticks. They are both happily making sounds together, tapping the stones and sticks, with big cheerful smiles on their faces. Small musical notes float in the air around them. Small scattered wildflowers and the forest edge complete the scene. Cartoon style.",
       "image": "page9.png",
-      "location_id": "loc1"
-    },
-    {
-      "pageNumber": 10,
-      "text": "NAD RÕÕMUSTAVAD KOOS.",
-      "scene": "Liisu and Mart are hugging each other gently on the soft blue rug, both smiling brightly, with their very tall, colorful block tower visible behind them. They are celebrating their successful teamwork. The playroom with its light green walls, large window showing bright green spring trees, and low wooden toy chest provides the familiar backdrop. Warm natural light. Landscape composition.",
-      "image": "page10.png",
       "location_id": "loc1"
     }
   ]
