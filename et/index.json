@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-11",
+  "latestDate": "2026-05-12",
   "stories": [
+    {
+      "date": "2026-05-12",
+      "title": "MARI JA JUKU EHITAVAD PESA",
+      "pageCount": 10,
+      "characters": [
+        "MARI",
+        "JUKU"
+      ]
+    },
     {
       "date": "2026-05-11",
       "title": "REINU JA JUSSI PAADID LOMBIS",
