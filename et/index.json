@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-13",
+  "latestDate": "2026-05-15",
   "stories": [
+    {
+      "date": "2026-05-15",
+      "title": "MATS JA SASS LENDAVAD LOHESID",
+      "pageCount": 10,
+      "characters": [
+        "MÄGER MATS",
+        "SIIL SASS"
+      ]
+    },
     {
       "date": "2026-05-13",
       "title": "KUTSU JA PÄÄSU MARJAD",
