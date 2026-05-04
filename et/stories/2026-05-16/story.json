@@ -1,0 +1,102 @@
+{
+  "date": "2026-05-16",
+  "language": "et",
+  "title": "LIISA JA PEETER MAALIVAD",
+  "generatedAt": "2026-05-04T00:55:38.190Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne tüdruk. Tal on lühikesed kuldsed juuksed ja suured sinised silmad. Liisa kannab sinist põlvedeni kleiti ja väikseid valgeid kingi. Ta on alati naeratamas. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, uudishimulik poiss. Tal on lühikesed pruunid juuksed ja säravad rohelised silmad. Peeter kannab rohelist lühikeste varrukatega särki ja pruune pükse. Ta on alati abivalmis. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "LIISA JA PEETERI TUBA",
+      "description": "Cozy children's room with light yellow walls, wooden floor, a large window on the back wall showing green spring trees outside, a simple wooden rectangular table in the center, and two small wooden chairs. There is a small, low red bookshelf against the left wall. The room is brightly lit by soft sunlight from the window. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER ON TOAS.",
+      "scene": "Liisa and Peeter are standing in their cozy children's room with light yellow walls and a wooden floor. Liisa is looking thoughtfully at the wall, while Peeter is looking at her. The large window on the back wall shows green spring trees outside. The room is neat and tidy. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD VÄRVI.",
+      "scene": "Liisa and Peeter are standing in their cozy children's room. Liisa points excitedly at the bare light yellow wall, while Peeter nods in agreement, also looking at the wall. They are thinking of new ideas. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD VÄRVID.",
+      "scene": "Liisa and Peeter are sitting at the simple wooden rectangular table in their room. On the table are small pots of colorful paints (red, yellow, blue, green) and several paintbrushes. Liisa is carefully opening a red paint pot, and Peeter is opening a blue one. The room has light yellow walls and a wooden floor, with green spring trees visible outside the window. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD MAALIVAD LILLESID.",
+      "scene": "Liisa and Peeter are sitting at the wooden table, focused on painting. Liisa is holding a paintbrush and painting a vibrant red flower on a white sheet of paper. Peeter is painting a yellow flower on his own paper. Colorful paint pots and paintbrushes are scattered on the table. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD MAALIVAD PÄIKEST.",
+      "scene": "Liisa and Peeter continue painting at the wooden table. Liisa is now painting a big, bright yellow sun on her paper, smiling. Peeter is adding green leaves to his flower picture. Several colorful paint pots are open on the table. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "VÄRVID ON ILUSAD.",
+      "scene": "Liisa and Peeter are sitting at the wooden table, proudly looking at their finished colorful paintings. Several pictures with flowers, suns, and other spring scenes are laid out on the table to dry. They are smiling happily at their artwork. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NÜÜD PILDID ON VALMIS.",
+      "scene": "Liisa and Peeter are standing up from the wooden table, admiring all their completed colorful paintings spread across the table. They both have satisfied expressions, looking at their artwork as if it's perfectly done and ready for display. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD RIPUTAVAD PILDID ÜLES.",
+      "scene": "Liisa and Peeter are carefully hanging their colorful paintings on the light yellow wall of their room. Liisa stands on a small wooden chair, gently pinning a picture. Peeter helps, holding another painting. A few paintings are already visible on the wall, adding a cheerful touch. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "TUBA ON NÜÜD VÄRVILINE.",
+      "scene": "Liisa and Peeter are standing back in their room, admiring their work. The light yellow walls are now beautifully decorated with all their vibrant, colorful spring paintings, making the room look bright and cheerful. They look very happy and proud. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "LIISA JA PEETER NAERATAVAD.",
+      "scene": "Liisa and Peeter are standing in their now brightly colorful room, surrounded by their beautiful paintings on the light yellow walls. They are holding hands and smiling warmly at the viewer, radiating happiness and pride in their creative efforts. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

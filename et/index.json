@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-15",
+  "latestDate": "2026-05-16",
   "stories": [
+    {
+      "date": "2026-05-16",
+      "title": "LIISA JA PEETER MAALIVAD",
+      "pageCount": 10,
+      "characters": [
+        "LIISA",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-05-15",
       "title": "MATS JA SASS LENDAVAD LOHESID",
