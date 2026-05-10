@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-19",
+  "latestDate": "2026-05-20",
   "stories": [
+    {
+      "date": "2026-05-20",
+      "title": "PEETER JA LIISA LOHE",
+      "pageCount": 9,
+      "characters": [
+        "PEETER",
+        "LIISA"
+      ]
+    },
     {
       "date": "2026-05-19",
       "title": "JUTA JA OTT EHITAVAD SILLA",

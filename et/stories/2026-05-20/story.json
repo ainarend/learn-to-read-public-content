@@ -1,0 +1,101 @@
+{
+  "date": "2026-05-20",
+  "language": "et",
+  "title": "PEETER JA LIISA LOHE",
+  "generatedAt": "2026-05-10T23:26:49.683Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne poiss. Tal on lühikesed pruunid juuksed ja suured sinised silmad. Kannab siniseid pükse ja kollast T-särki. Sõbralik ja energiline. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne tüdruk. Tal on pikad blondid juuksed, mis on patsis, ja säravad rohelised silmad. Kannab roosat kleiti ja valgeid sandaale. Naeratav ja uudishimulik. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "LASTETUBA",
+      "description": "Cozy children's bedroom with yellow walls, wooden floor. A single window on the back wall showing bright green spring trees outside. A small wooden toy chest on the right wall. A colorful kite (red, blue, yellow) is leaning against the left wall. Warm sunlight fills the room. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "ROHELINE VÄLI",
+      "description": "Wide open green grassy field with a gentle rolling hill in the background. Bright blue sky with a few fluffy white clouds. A few small, distant spring trees on the horizon. A light breeze is visible. Sunny day. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "PEETER JA LIISA NÄEVAD LOHE.",
+      "scene": "Peeter and Liisa stand inside a cozy children's bedroom. Peeter points excitedly at a colorful red, blue, and yellow kite leaning against the left wall. Liisa looks at the kite with a curious smile. The room has yellow walls, a wooden floor, a single window showing bright green spring trees, and a small wooden toy chest. Warm sunlight fills the room. Cartoon style. Peeter is wearing blue pants and a yellow T-shirt. Liisa is wearing a pink dress and white sandals.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD LOHE LENDU.",
+      "scene": "Peeter and Liisa are still in the cozy children's bedroom. Peeter holds the colorful red, blue, and yellow kite and looks at Liisa, who is clapping her hands with a hopeful expression. They both look eager to go outside. The room has yellow walls, a wooden floor, a single window showing bright green spring trees, and a small wooden toy chest. Warm sunlight fills the room. Cartoon style. Peeter is wearing blue pants and a yellow T-shirt. Liisa is wearing a pink dress and white sandals.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VIIVAD LOHE VÄLJA.",
+      "scene": "Peeter and Liisa are now outside in a wide open green grassy field. Peeter holds the colorful red, blue, and yellow kite. Liisa walks beside him, looking around happily. The field has a gentle rolling hill in the background, a bright blue sky with a few fluffy white clouds, and distant spring trees on the horizon. A light breeze is subtly visible. Sunny day. Cartoon style. Peeter is wearing blue pants and a yellow T-shirt. Liisa is wearing a pink dress and white sandals.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "TUUL PUHUB LOHEL.",
+      "scene": "Peeter and Liisa are in the wide open green grassy field. Peeter holds the colorful red, blue, and yellow kite up with both hands, trying to catch the wind. Liisa stands next to him, looking up at the kite with anticipation. The kite string is held by Peeter. The field has a gentle rolling hill in the background, a bright blue sky with a few fluffy white clouds, and distant spring trees on the horizon. A light breeze is visible, subtly affecting the kite. Sunny day. Cartoon style. Peeter is wearing blue pants and a yellow T-shirt. Liisa is wearing a pink dress and white sandals.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LOHE TÕUSEB KÕRGELE.",
+      "scene": "Peeter and Liisa are in the wide open green grassy field. The colorful red, blue, and yellow kite is now flying a little higher in the air, pulled by the wind. Peeter is holding the string with a gentle smile. Liisa is looking up at the kite with an excited expression. The field has a gentle rolling hill in the background, a bright blue sky with a few fluffy white clouds, and distant spring trees on the horizon. A good breeze is visible, making the kite rise. Sunny day. Cartoon style. Peeter is wearing blue pants and a yellow T-shirt. Liisa is wearing a pink dress and white sandals.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LOHE LENDA HOOLEGA.",
+      "scene": "Peeter and Liisa are in the wide open green grassy field. The colorful red, blue, and yellow kite is flying steadily high in the bright blue sky. Peeter holds the string with both hands, looking up at the kite. Liisa claps her hands joyfully, also looking up at the kite. The field has a gentle rolling hill in the background, a few fluffy white clouds, and distant spring trees on the horizon. A consistent breeze is visible. Sunny day. Cartoon style. Peeter is wearing blue pants and a yellow T-shirt. Liisa is wearing a pink dress and white sandals.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD VAATAVAD LOHEL.",
+      "scene": "Peeter and Liisa are in the wide open green grassy field, both looking up at the colorful red, blue, and yellow kite flying high above them in the bright blue sky. Peeter is still holding the kite string. Both have peaceful and happy expressions, enjoying the moment. The field has a gentle rolling hill in the background, a few fluffy white clouds, and distant spring trees on the horizon. A consistent breeze is visible. Sunny day. Cartoon style. Peeter is wearing blue pants and a yellow T-shirt. Liisa is wearing a pink dress and white sandals.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LOHE LENDAB KÕRGELE.",
+      "scene": "Peeter and Liisa are in the wide open green grassy field, looking up at the colorful red, blue, and yellow kite, which is flying even higher now against the bright blue sky. Peeter holds the string, and Liisa points up at the kite with a big smile. The field has a gentle rolling hill in the background, a few fluffy white clouds, and distant spring trees on the horizon. A strong but gentle breeze is visible. Sunny day. Cartoon style. Peeter is wearing blue pants and a yellow T-shirt. Liisa is wearing a pink dress and white sandals.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PEETER JA LIISA NAERAVAD.",
+      "scene": "Peeter and Liisa are in the wide open green grassy field, looking at each other and laughing happily, with the colorful red, blue, and yellow kite still flying high in the bright blue sky in the background. Peeter holds the kite string. They are full of joy. The field has a gentle rolling hill in the background, a few fluffy white clouds, and distant spring trees on the horizon. A strong but gentle breeze is visible. Sunny day. Cartoon style. Peeter is wearing blue pants and a yellow T-shirt. Liisa is wearing a pink dress and white sandals.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}
