@@ -1,108 +1,102 @@
 {
   "date": "2026-05-17",
   "language": "et",
-  "title": "JUKU JA SÄDE TEHA LAEVA",
-  "generatedAt": "2026-05-04T01:40:44.249Z",
+  "title": "KATI JA ANTS MÄNGIVAD MUUSIKAT",
+  "generatedAt": "2026-05-10T21:10:30.956Z",
   "characters": [
     {
       "id": "char1",
-      "name": "JUKU",
+      "name": "KATI",
       "type": "human",
-      "description": "Väike inimene, poiss, blondid lühikesed juuksed, suured sinised silmad. Seljas kollane T-särk ja sinised püksid. Rõõmsameelne ja uudishimulik nägu. Armas multifilmistiil.",
+      "description": "Väike inimene, rõõmsameelne tüdruk, heledad juuksed patsidega, seljas roosa kleit ja valged sukapüksid. Suured uudishimulikud silmad ja sõbralik rõõmsameelne näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "SÄDE",
+      "name": "ANTS",
       "type": "human",
-      "description": "Väike inimene, tüdruk, pruunid patsid, suured rohelised silmad. Seljas roosa kleit ja valged sukapüksid. Sõbralik ja särav nägu. Armas multifilmistiil.",
+      "description": "Väike inimene, rõõmsameelne poiss, lühikesed pruunid juuksed, seljas sinine T-särk ja pruunid lühikesed püksid. Suured rõõmsameelsed silmad ja lahke naeratus. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "Lastetuba",
-      "description": "Cozy children's playroom corner with light blue walls, a soft green rug on the floor, and a small wooden activity table in the center. A single window on the back wall shows a glimpse of green trees outside. A small, colorful toy box sits in one corner. Warm, soft daylight fills the room. Cartoon style.",
+      "name": "Mängutuba",
+      "description": "Cozy children's playroom with light blue walls, a wooden floor partially covered by a colorful striped rug, and a single large window on the back wall showing a sunny spring garden with green grass, a few tiny spring flowers and a small bird perched on a tree branch. In the center is a small round wooden table with two small wooden chairs. A low green shelf filled with colorful toys and craft supplies stands against the left wall. Children's drawings of various friendly animals are pinned on the light blue walls. Bright and cheerful lighting. Cute cartoonish children's book illustration style, landscape orientation.",
       "image": "loc1.png"
-    },
-    {
-      "id": "loc2",
-      "name": "Päikeseline park",
-      "description": "Sunny outdoor park area with bright green grass and a small, clear puddle reflecting the blue sky. Gentle spring trees with new green leaves are in the background. A few smooth grey pebbles are near the puddle's edge. Cheerful and bright. Cartoon style.",
-      "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "JUKU JA SÄDE MÄNGIVAD.",
-      "scene": "Juku and Säde are sitting on the green rug in the playroom, surrounded by a few colorful toy blocks. Juku is holding a red block, and Säde is holding a blue block. They are looking at each other, smiling. The light blue walls and small wooden activity table are visible. The colorful toy box is in the corner. Cartoon style.",
+      "text": "KATI JA ANTS MÕTLEVAD.",
+      "scene": "Kati and Ants are sitting opposite each other at the small round wooden table in the cozy children's playroom. They are both looking thoughtful, with one hand on their chin. The table is empty. Kati wears a pink dress and has bright pigtails. Ants wears a blue T-shirt. The room has light blue walls, a colorful striped rug on a wooden floor, a window showing a sunny spring garden with green grass, a few tiny spring flowers and a small bird perched on a tree branch, a low green shelf with toys, and animal drawings on the walls. Cheerful atmosphere.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NEIL ON HEA MÕTE.",
-      "scene": "Juku and Säde are sitting together at the small wooden activity table in the playroom, leaning in close and whispering to each other, both with bright, excited expressions on their faces. The colorful toy box is in the corner, and light blue walls are in the background. Cartoon style.",
+      "text": "NEIL ON MÕTE.",
+      "scene": "Kati and Ants are still sitting opposite each other at the small round wooden table in the cozy children's playroom. They are now smiling brightly at each other, with excited and happy expressions, as if they've just had a great idea. The table is empty. Kati wears a pink dress and has bright pigtails. Ants wears a blue T-shirt. The room has light blue walls, a colorful striped rug on a wooden floor, a window showing a sunny spring garden with green grass, a few tiny spring flowers and a small bird perched on a tree branch, a low green shelf with toys, and animal drawings on the walls. Cheerful atmosphere.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD TAHA TEHA LAEVA.",
-      "scene": "Juku and Säde are still sitting at the small wooden activity table in the playroom. Juku points excitedly to a small, smooth stick he found on the table, while Säde holds up a green leaf, both looking determined and happy. The light blue walls are in the background. Cartoon style.",
+      "text": "OTSIME ASJU KOKKU.",
+      "scene": "Kati and Ants are standing next to the low green shelf filled with colorful toys and craft supplies in the cozy children's playroom. Kati, wearing a pink dress, points with excitement towards a small empty plastic bottle on the shelf. Ants, wearing a blue T-shirt, holds a small, clear plastic box containing dried beans or seeds. They are looking at the items with happy, curious expressions. The room has light blue walls, a colorful striped rug on a wooden floor, a window showing a sunny spring garden with green grass, a few tiny spring flowers and a small bird perched on a tree branch, and animal drawings on the walls. Cheerful atmosphere.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD OTSIVAD PULKA.",
-      "scene": "Juku is looking inside the colorful toy box in the playroom, rummaging through it with a curious expression. Säde stands nearby, holding a small stick she already found, patiently waiting. The light blue walls and green rug are visible. Cartoon style.",
+      "text": "PUDEL ON TÜHI.",
+      "scene": "Kati and Ants are standing next to the small round wooden table in the cozy children's playroom. Kati, wearing a pink dress, holds up a small, clear, empty plastic bottle for Ants to see. Ants, wearing a blue T-shirt, is looking at the bottle with a curious expression. The table is empty. The room has light blue walls, a colorful striped rug on a wooden floor, a window showing a sunny spring garden with green grass, a few tiny spring flowers and a small bird perched on a tree branch, a low green shelf with toys, and animal drawings on the walls. Cheerful atmosphere.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD KOGUVAD LEHTI.",
-      "scene": "Säde is carefully picking up several colorful leaves from the green rug in the playroom, placing them neatly on the small wooden activity table. Juku is sitting at the table, organizing a few small sticks. They are focused on their task. Light blue walls are visible in the background. Cartoon style.",
+      "text": "KATI PANEB SEEMNED.",
+      "scene": "Kati and Ants are sitting at the small round wooden table in the cozy children's playroom. Kati, wearing a pink dress, is carefully pouring small, dried seeds from a small wooden bowl into the small, clear, empty plastic bottle. Ants, wearing a blue T-shirt, is watching her with an eager and happy smile. The room has light blue walls, a colorful striped rug on a wooden floor, a window showing a sunny spring garden with green grass, a few tiny spring flowers and a small bird perched on a tree branch, a low green shelf with toys, and animal drawings on the walls. Cheerful atmosphere.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "NAD TEGID LAEVA.",
-      "scene": "Juku and Säde are sitting side-by-side at the small wooden activity table in the playroom, proudly holding up a small, simple boat they assembled from sticks and leaves. They are both smiling broadly at their creation. The light blue walls are in the background. Cartoon style.",
+      "text": "ANTS RAPUTAB HÄÄLT.",
+      "scene": "Kati and Ants are sitting at the small round wooden table in the cozy children's playroom. Ants, wearing a blue T-shirt, is joyfully shaking the now half-filled plastic bottle, making a soft rattling sound. Kati, wearing a pink dress, claps her hands lightly with a big smile, enjoying the sound. The room has light blue walls, a colorful striped rug on a wooden floor, a window showing a sunny spring garden with green grass, a few tiny spring flowers and a small bird perched on a tree branch, a low green shelf with toys, and animal drawings on the walls. Cheerful atmosphere.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "LÄHEME VÄLJA KOOS.",
-      "scene": "Juku and Säde are standing near the window in the playroom, holding their small stick-and-leaf boat. Juku points towards the green trees visible through the window, and Säde looks at him with an eager expression. They are ready to go outside. The light blue walls and green rug are visible. Cartoon style.",
+      "text": "TÖÖ ON VALMIS.",
+      "scene": "Kati and Ants are standing next to the small round wooden table in the cozy children's playroom. Kati, wearing a pink dress, and Ants, wearing a blue T-shirt, both proudly hold up their newly made musical shakers (the plastic bottles filled with seeds). They are smiling widely, looking pleased with their creation. The room has light blue walls, a colorful striped rug on a wooden floor, a window showing a sunny spring garden with green grass, a few tiny spring flowers and a small bird perched on a tree branch, a low green shelf with toys, and animal drawings on the walls. Cheerful atmosphere.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "LEIDSIME VÄIKESE VEE.",
-      "scene": "Juku and Säde are standing at the edge of a small, clear puddle in a sunny outdoor park area with bright green grass. Juku holds the boat carefully, and Säde is looking at the water with wide, curious eyes. Gentle spring trees with new green leaves are in the background. Cartoon style.",
+      "text": "NÜÜD NAD MÄNGIVAD.",
+      "scene": "Kati and Ants are standing in the cozy children's playroom, actively shaking their homemade musical shakers, moving to an imagined playful rhythm. Kati, wearing a pink dress, and Ants, wearing a blue T-shirt, are looking at each other and laughing joyfully. The room has light blue walls, a colorful striped rug on a wooden floor, a window showing a sunny spring garden with green grass, a few tiny spring flowers and a small bird perched on a tree branch, a low green shelf with toys, and animal drawings on the walls. Cheerful atmosphere.",
       "image": "page8.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "LAEV UJUB NÜÜD!",
-      "scene": "Juku and Säde are both kneeling happily at the edge of the small, clear puddle in the sunny outdoor park. Their small stick-and-leaf boat is floating gently on the water. Juku is gently pushing the boat, and Säde is watching it with a joyful smile. Bright green grass and spring trees are in the background. Cartoon style.",
+      "text": "MUUSIKA KÕLAB HÄSTI.",
+      "scene": "Kati and Ants are standing in the cozy children's playroom, continuing to play their homemade musical shakers with happy, energetic expressions. Abstract, rounded, colorful 'music notes' are gently floating in the air around them to visually represent the music. Kati wears a pink dress. Ants wears a blue T-shirt. The room has light blue walls, a colorful striped rug on a wooden floor, a window showing a sunny spring garden with green grass, a few tiny spring flowers and a small bird perched on a tree branch, a low green shelf with toys, and animal drawings on the walls. Cheerful atmosphere.",
       "image": "page9.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "JUKU JA SÄDE NAERAVAD.",
-      "scene": "Juku and Säde are standing by the small puddle, watching their boat float. They are both laughing joyfully, holding hands. The sun shines brightly on the green grass and spring trees in the sunny outdoor park. Cartoon style.",
+      "text": "NAD ON VÄGA RÕÕMSAD.",
+      "scene": "Kati and Ants are sitting back down at the small round wooden table in the cozy children's playroom. They are holding their homemade musical shakers, smiling widely and looking content and proud of their music-making. Kati wears a pink dress. Ants wears a blue T-shirt. The room has light blue walls, a colorful striped rug on a wooden floor, a window showing a sunny spring garden with green grass, a few tiny spring flowers and a small bird perched on a tree branch, a low green shelf with toys, and animal drawings on the walls. Cheerful atmosphere.",
       "image": "page10.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     }
   ]
 }
