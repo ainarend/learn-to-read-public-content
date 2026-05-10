@@ -1,0 +1,101 @@
+{
+  "date": "2026-05-19",
+  "language": "et",
+  "title": "JUTA JA OTT EHITAVAD SILLA",
+  "generatedAt": "2026-05-10T22:40:16.718Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUTA",
+      "type": "rabbit",
+      "description": "Väike valge jänes suurte roosade kõrvade ja pehmete käppadega, kandmas väikest sinist vesti. Tema silmad on suured ja uudishimulikud, näoilme on alati rõõmus ja sõbralik. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "OTT",
+      "type": "squirrel",
+      "description": "Väike pruun orav koheva saba ja teravate kõrvadega, kandmas väikest rohelist mütsi. Tema silmad on säravad ja nutikad, näoilme on energiline ja abivalmis. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Metsaraja ääres",
+      "description": "Lush green spring forest with tall trees, soft mossy ground, and bright sunlight filtering through the leaves. A narrow, sparkling clear stream gently flows across a small dirt path. Wildflowers are blooming. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Metsaserv",
+      "description": "Sunny spring forest edge with a scattering of fallen twigs and leaves on the soft green ground. Tall trees line the background. Gentle sunlight. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUTA JA OTT ON METSAS.",
+      "scene": "Juta, a white rabbit in a blue vest, and Ott, a brown squirrel in a green hat, walk happily side-by-side on a narrow dirt path through a lush green spring forest. Sunlight filters through the leaves. Wildflowers are blooming. Both characters have joyful expressions.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NÄE, VÄIKE OJA!",
+      "scene": "Juta and Ott stand by a narrow, sparkling clear stream that gently flows across the dirt path in the lush spring forest. Juta points to the stream with one paw, an excited expression on her face. Ott looks at the stream curiously, his tail slightly wagging.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "KUIDAS ÜLE SAAB?",
+      "scene": "Juta and Ott look at the stream with thoughtful expressions. Juta taps her chin with a paw. Ott puts a paw on his hip, looking at the stream and thinking hard. They are still by the stream in the spring forest.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "TEEME SILLA!",
+      "scene": "Juta and Ott look at each other, their faces brightening with a shared idea. Ott raises a paw excitedly in the air. Juta nods enthusiastically. They are by the stream in the spring forest.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD KORJAVAD OKSI.",
+      "scene": "Juta, a white rabbit in a blue vest, and Ott, a brown squirrel in a green hat, are at the sunny edge of the spring forest. They are carefully picking up small, thin twigs from the soft green ground. Ott holds a few twigs in his paws, Juta has one in her mouth. Both look focused and happy.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD PANEVA OKSAD.",
+      "scene": "Juta and Ott are back at the narrow stream in the spring forest. They are carefully placing the collected twigs across the stream, forming a small, simple bridge. Juta holds one end of a twig, and Ott places another twig next to it. Their expressions show teamwork.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SILD SAAB VALMIS!",
+      "scene": "Juta and Ott stand proudly next to their newly built small twig bridge, which spans the narrow stream. They both smile happily at their creation, admiring their handiwork. The bridge looks stable and neatly constructed.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SILLAST LÄHEB PÕRNIKAS.",
+      "scene": "A small, shiny green beetle is carefully walking across the twig bridge that Juta and Ott built. Juta and Ott watch the beetle with delight and satisfaction, standing on the dirt path next to the stream. They are smiling.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "JUTA JA OTT ON RÕÕMSAD.",
+      "scene": "Juta and Ott stand together by the stream, smiling brightly and giving each other a high-five with their paws. The twig bridge is visible behind them, spanning the stream. Sunlight beams down on the happy friends in the spring forest.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
