@@ -1,106 +1,100 @@
 {
   "date": "2026-05-12",
   "language": "et",
-  "title": "MARI JA JUKU EHITAVAD PESA",
-  "generatedAt": "2026-05-03T22:42:24.147Z",
+  "title": "JUKU JA SASS TEEVAD KIVIMUSTRI",
+  "generatedAt": "2026-05-11T16:52:03.417Z",
   "characters": [
     {
       "id": "char1",
-      "name": "MARI",
-      "type": "human",
-      "description": "Väike inimene, tüdruk, heledad lühikesed juuksed, kannab kollast kleiti ja roosasid kingi. Rõõmsameelne ja uudishimulik näoilme. Armas multifilmistiil.",
+      "name": "JÄNES JUKU",
+      "type": "rabbit",
+      "description": "Väike hall jänes suurte pikkade kõrvadega, kandmas väikest sinist vesti, uudishimulikud ja sõbralikud silmad. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "JUKU",
-      "type": "human",
-      "description": "Väike inimene, poiss, pruunid lühikesed juuksed, kannab sinist t-särki ja rohelisi pükse. Sõbralik ja abivalmis näoilme. Armas multifilmistiil.",
+      "name": "SIIL SASS",
+      "type": "hedgehog",
+      "description": "Väike pruun siil ümarate okastega, kandmas väikest punast salli, armsad väikesed silmad ja rõõmus naeratus. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "Mängunurk",
-      "description": "Cozy children's play corner inside a room with light blue walls, a soft green rug on the floor. There is a small, low wooden table in the center. A single window on the back wall shows a sunny spring garden outside. A small, simple toy shelf with a few colorful blocks is on the right wall. Warm, bright light from the window. Cartoon style.",
+      "name": "Päikeseline Tiigiäär",
+      "description": "A sunny forest clearing with a small, calm pond. The pond has clear, blue water. The ground is covered with soft green grass and some smooth, colourful stones scattered around. Tall green trees surround the clearing. Bright cheerful sunlight. Cartoon style.",
       "image": "loc1.png"
-    },
-    {
-      "id": "loc2",
-      "name": "Päikseline park",
-      "description": "Bright and sunny spring park with lush green grass, a few young trees with fresh green leaves. Clear blue sky with fluffy white clouds. Some colorful spring flowers (small and scattered) are visible in the grass. A simple wooden park bench is in the distance. Gentle sunlight. Cartoon style.",
-      "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "MARI JA JUKU MÄNGIVAD.",
-      "scene": "Mari and Juku are sitting on the green rug in their play corner, facing each other. Mari is holding a small, soft, blue toy bird in her hands. Juku is looking at the toy bird with a friendly smile. The room has light blue walls, a soft green rug, a low wooden table, a simple toy shelf, and a window showing a sunny spring garden. Warm, bright light from the window. Cartoon style.",
+      "text": "JÄNES JUKU ON TIIGI ÄÄRES.",
+      "scene": "Jänes Juku stands at the edge of a calm, clear blue pond in a sunny forest clearing. He is looking at the water with a curious expression. The ground is green grass with some colourful stones. Tall green trees surround the clearing. Bright cheerful sunlight. Cute cartoon style.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NENDE LINNUL POLE KODU.",
-      "scene": "Mari is gently holding the small blue toy bird, looking a little thoughtful. Juku is looking at the toy bird with concern, then looks at Mari with an idea forming. They are sitting on the green rug in their play corner. The room has light blue walls, a soft green rug, a low wooden table, a simple toy shelf, and a window showing a sunny spring garden. Warm, bright light from the window. Cartoon style.",
+      "text": "SIIL SASS ON KA SEAL.",
+      "scene": "Jänes Juku stands at the edge of a calm, clear blue pond. Siil Sass stands next to him, looking at the pond. Both have curious and friendly expressions. The ground is green grass with some colourful stones. Tall green trees surround the clearing. Bright cheerful sunlight. Cute cartoon style.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD LÄHEVAD ÕUE.",
-      "scene": "Mari and Juku are standing in the bright and sunny spring park. Mari is pointing excitedly towards some bushes on the left side of the scene. Juku is smiling and looking in the same direction. They are standing on lush green grass with small spring flowers around them. Clear blue sky with fluffy white clouds. Cartoon style.",
+      "text": "NAD NÄEVAD KIVE.",
+      "scene": "Jänes Juku and Siil Sass are kneeling on the soft green grass at the edge of the pond. They are pointing at various smooth, colourful stones scattered on the ground. Both have excited and curious expressions. Tall green trees surround the clearing. Bright cheerful sunlight. Cute cartoon style.",
       "image": "page3.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD OTSIVAD OKSAD.",
-      "scene": "Mari and Juku are kneeling on the lush green grass in the sunny park. Mari is carefully picking up a small, thin twig from the ground. Juku is looking under a small bush on the right side of the scene, searching for more twigs. Small spring flowers are scattered in the grass. Clear blue sky with fluffy white clouds. Cartoon style.",
+      "text": "KIVID ON ILUSAD.",
+      "scene": "Jänes Juku and Siil Sass are sitting on the green grass near the pond, closely examining several smooth, shiny, colourful stones they have picked up. They are holding the stones in their paws/hands, smiling. Tall green trees surround the clearing. Bright cheerful sunlight. Cute cartoon style.",
       "image": "page4.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD KORJAVAD LEHED.",
-      "scene": "Mari and Juku are still kneeling on the lush green grass in the sunny park. Mari is gently collecting soft, fresh green leaves and placing them in a small pile on the grass. Juku is holding a few green leaves in his hand, looking at them carefully. Small spring flowers are scattered in the grass. Clear blue sky with fluffy white clouds. Cartoon style.",
+      "text": "NAD KOGUVAD KIVE.",
+      "scene": "Jänes Juku and Siil Sass are actively moving around on the green grass near the pond, bending down to pick up more smooth, colourful stones. Juku holds a small pile of stones, and Sass is putting stones into a small, simple basket. Both are focused and happy. Tall green trees surround the clearing. Bright cheerful sunlight. Cute cartoon style.",
       "image": "page5.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "NAD EHITAVAD PESA.",
-      "scene": "Mari and Juku are sitting on the lush green grass in the sunny park. They have a small pile of twigs and leaves between them. Mari is carefully intertwining a thin twig with some leaves, starting to form a round nest shape with her hands. Juku is watching intently, ready to help, holding a few twigs. Small spring flowers are scattered in the grass. Clear blue sky with fluffy white clouds. Cartoon style.",
+      "text": "NAD SORTEERIVAD KIVE.",
+      "scene": "Jänes Juku and Siil Sass are sitting on the green grass near the pond. They have a collection of colourful stones laid out in front of them, sorted into small groups by color or size. They are carefully arranging the piles, looking thoughtful. Tall green trees surround the clearing. Bright cheerful sunlight. Cute cartoon style.",
       "image": "page6.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "NAD PUNUVAD PESA HOOLEGA.",
-      "scene": "Mari and Juku are focused on building the nest. Mari is still weaving twigs and leaves together, holding a partially formed nest in her hands. Juku is handing her a small, soft leaf to add to the nest. They are sitting on the lush green grass in the sunny park, surrounded by their gathered materials. Small spring flowers are scattered in the grass. Clear blue sky with fluffy white clouds. Cartoon style.",
+      "text": "NAD TEEVAD MUSTRI.",
+      "scene": "Jänes Juku and Siil Sass are kneeling on the green grass near the pond. They are carefully placing the colourful, sorted stones on the ground to form a simple, geometric pattern. A part of the pattern is already visible. They are working together, concentrating. Tall green trees surround the clearing. Bright cheerful sunlight. Cute cartoon style.",
       "image": "page7.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "VÄIKE PESA ON ILUS.",
-      "scene": "Mari and Juku are proudly holding up a small, beautifully woven nest made of twigs and leaves. They are smiling happily and looking at the finished nest. The nest is complete and looks cozy. They are sitting on the lush green grass in the sunny park. Small spring flowers are scattered in the grass. Clear blue sky with fluffy white clouds. Cartoon style.",
+      "text": "NENDE MUSTER KASVAB SUUREKS.",
+      "scene": "Jänes Juku and Siil Sass are standing back a little from their almost completed large, beautiful pattern made of colourful stones on the green grass. The pattern now covers a significant area. They are admiring their work, smiling proudly. Tall green trees surround the clearing. Bright cheerful sunlight. Cute cartoon style.",
       "image": "page8.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "LINNUL ON SOE KODU.",
-      "scene": "Mari and Juku are back in their play corner. Mari is gently placing the small blue toy bird into the newly built nest, which is now sitting on the small wooden table. Juku is looking at the bird in the nest with a warm smile. The room has light blue walls, a soft green rug, a low wooden table, a simple toy shelf, and a window showing a sunny spring garden. Warm, bright light from the window. Cartoon style.",
+      "text": "NENDE MUSTER ON VALMIS.",
+      "scene": "Jänes Juku and Siil Sass are sitting happily beside their fully completed, intricate and beautiful pattern made of colourful stones on the green grass. The pattern is clearly visible and looks vibrant. They are admiring it with satisfied expressions. Tall green trees surround the clearing. Bright cheerful sunlight. Cute cartoon style.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
-      "text": "MARI JA JUKU RÕÕMUSTAVAD.",
-      "scene": "Mari and Juku are standing next to the small wooden table in their play corner, both smiling broadly and looking at the nest. The small blue toy bird is resting comfortably in its new nest on the table. They are looking at the nest and the bird with joy. The room has light blue walls, a soft green rug, a low wooden table, a simple toy shelf, and a window showing a sunny spring garden. Warm, bright light from the window. Cartoon style.",
+      "text": "JUKU JA SASS RÕÕMUSTAVAD.",
+      "scene": "Jänes Juku and Siil Sass are joyfully celebrating next to their finished colourful stone pattern on the green grass by the pond. They are jumping slightly or clapping their paws, looking very happy and proud of their creation. Tall green trees surround the clearing. Bright cheerful sunlight. Cute cartoon style.",
       "image": "page10.png",
       "location_id": "loc1"
     }

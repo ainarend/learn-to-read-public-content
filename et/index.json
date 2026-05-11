@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-24",
+  "latestDate": "2026-05-12",
   "stories": [
+    {
+      "date": "2026-05-12",
+      "title": "JUKU JA SASS TEEVAD KIVIMUSTRI",
+      "pageCount": 10,
+      "characters": [
+        "JÄNES JUKU",
+        "SIIL SASS"
+      ]
+    },
     {
       "date": "2026-05-24",
       "title": "KASPAR JA EVI PABERPAADID",
