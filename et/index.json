@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-22",
+  "latestDate": "2026-05-24",
   "stories": [
+    {
+      "date": "2026-05-24",
+      "title": "KASPAR JA EVI PABERPAADID",
+      "pageCount": 9,
+      "characters": [
+        "KASPAR",
+        "EVI"
+      ]
+    },
     {
       "date": "2026-05-22",
       "title": "SIIM JA KRISTI TAIM",
