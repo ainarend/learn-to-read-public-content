@@ -1,0 +1,108 @@
+{
+  "date": "2026-05-22",
+  "language": "et",
+  "title": "SIIM JA KRISTI TAIM",
+  "generatedAt": "2026-05-11T00:12:02.272Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIM",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane poiss, lühikeste pruunide juustega, seljas kollane T-särk ja sinised lühikesed püksid. Tal on suured rõõmsad silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KRISTI",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk, pikkade blondide patsidega, seljas roosa kleit ja valged sandaalid. Tal on uudishimulik pilk ja heatujuline näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Cozy children's kitchen area with light green walls, light wooden floor. A sturdy, light brown wooden table with two small matching chairs in the center. A single window on the back wall showing green spring trees outside. Simple white cabinets on one wall, no upper cabinets. Soft, natural light from the window. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "AKNALAUD PÄIKESELOOMULISES TOAS",
+      "description": "Bright and airy room with light blue walls, a light wooden floor, and a large sunny window taking up most of the back wall. Outside the window, vibrant green spring trees are visible. A wide, low windowsill runs along the bottom of the window. No other furniture in the scene, only the window and windowsill. Warm, direct sunlight streams through the window. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIIM JA KRISTI ON KÖÖGIS.",
+      "scene": "Siim ja Kristi seisavad köögis puidust laua ääres. Siim kannab kollast T-särki ja siniseid pükse, Kristi roosat kleiti. Nende näod on rõõmsad ja uudishimulikud. Köögis on heledad rohelised seinad, puidust põrand ja akna taga paistavad rohelised kevadised puud. Cartoon stiil.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON UUS MÕTE.",
+      "scene": "Siim ja Kristi vaatavad üksteisele otsa laua ääres seistes, suured rõõmsad naeratused näol, nagu neil oleks just suurepärane idee tekkinud. Siim on pisut ettepoole kummardunud. Köögis on heledad rohelised seinad, puidust põrand ja akna taga paistavad rohelised kevadised puud. Cartoon stiil.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VALMISTAVAD MULLA.",
+      "scene": "Siim ja Kristi istuvad köögilaua taga väikestel toolidel. Nende ees laual on väike tühja mullaga pott ja kühvel. Siim hoiab kühvlit, Kristi vaatab potti naeratades. Köögis on heledad rohelised seinad, puidust põrand ja akna taga paistavad rohelised kevadised puud. Cartoon stiil.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD ISTUTAVAD TAIME.",
+      "scene": "Siim ja Kristi istuvad endiselt köögilaua taga väikestel toolidel. Nüüd on potis väike roheline taimeke. Kristi hoiab väikest taime õrnalt, Siim on kummardunud ja vaatab tähelepanelikult. Köögis on heledad rohelised seinad, puidust põrand ja akna taga paistavad rohelised kevadised puud. Cartoon stiil.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD VIIVAD TAIME AKNALAUALE.",
+      "scene": "Siim ja Kristi kõnnivad päikeselises toas. Kristi hoiab ettevaatlikult väikest rohelist taime potis. Siim kõnnib tema kõrval ja vaatab taime. Tuba on helesiniste seintega ja puidust põrandaga. Tagaseinal on suur aken, kust paistavad rohelised kevadised puud ja soe päikesepaiste. Cartoon stiil.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD KASTAVAD TAIME.",
+      "scene": "Siim ja Kristi seisavad päikeselises toas laia aknalaua ääres. Aknalaual on väike pott rohelise taimega. Siim hoiab väikest kastekannu ja kastab taime õrnalt, Kristi vaatab taimele naeratades. Tuba on helesiniste seintega ja puidust põrandaga. Tagaseinal on suur aken, kust paistavad rohelised kevadised puud ja soe päikesepaiste. Cartoon stiil.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PÄIKE PAISTAB TAIMELE.",
+      "scene": "Väike roheline taim potis seisab aknalaual. Soe, ere päikesevalgus langeb otse taimele. Aknast paistavad rohelised kevadpuud. Tuba on helesiniste seintega ja puidust põrandaga. Siim ja Kristi ei ole pildil. Cartoon stiil.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "TAIM KASVAB SUUREKS.",
+      "scene": "Aknalaual seisab nüüd suur, lopsakas roheline taim, mis on palju suuremaks kasvanud. Rohelised kevadised puud on aknast näha. Tuba on helesiniste seintega ja puidust põrandaga. Siim ja Kristi ei ole pildil. Cartoon stiil.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "TAIMEL ON PALJU MARJU.",
+      "scene": "Siim ja Kristi vaatavad rõõmsate nägudega aknalaual olevat suurt taime, mis on täis punaseid marju. Siim osutab marjadele, Kristi sirutab käe ühe marja poole. Tuba on helesiniste seintega ja puidust põrandaga. Tagaseinal on suur aken, kust paistavad rohelised kevadised puud ja soe päikesepaiste. Cartoon stiil.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD SÖÖVAD MAITSEVAID MARJU.",
+      "scene": "Siim ja Kristi seisavad aknalaua ääres, kumbki hoiab käes ühte punast marja ja sööb seda. Nende näod on täis rõõmu ja rahulolu. Taim marjadega on nende kõrval aknalaual. Tuba on helesiniste seintega ja puidust põrandaga. Tagaseinal on suur aken, kust paistavad rohelised kevadised puud ja soe päikesepaiste. Cartoon stiil.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

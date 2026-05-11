@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-20",
+  "latestDate": "2026-05-22",
   "stories": [
+    {
+      "date": "2026-05-22",
+      "title": "SIIM JA KRISTI TAIM",
+      "pageCount": 10,
+      "characters": [
+        "SIIM",
+        "KRISTI"
+      ]
+    },
     {
       "date": "2026-05-20",
       "title": "PEETER JA LIISA LOHE",
