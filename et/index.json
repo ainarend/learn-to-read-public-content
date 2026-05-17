@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-26",
+  "latestDate": "2026-05-27",
   "stories": [
+    {
+      "date": "2026-05-27",
+      "title": "SIIRI JA HEIKI AITAVAD LINDE",
+      "pageCount": 10,
+      "characters": [
+        "SIIL SIIRI",
+        "HIIR HEIKI"
+      ]
+    },
     {
       "date": "2026-05-26",
       "title": "MARI JA KALLE TEEVAD PILTE",

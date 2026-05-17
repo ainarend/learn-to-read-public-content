@@ -1,0 +1,102 @@
+{
+  "date": "2026-05-27",
+  "language": "et",
+  "title": "SIIRI JA HEIKI AITAVAD LINDE",
+  "generatedAt": "2026-05-17T23:25:52.299Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SIIRI",
+      "type": "hedgehog",
+      "description": "Väike pruun siil teravate okastega seljal, ümarate silmade ja väikese musta ninaga. Seljas on tal roheline lilledega põll. Armas ja sõbralik multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "HIIR HEIKI",
+      "type": "mouse",
+      "description": "Väike hall hiir suurte roosade kõrvade, pika saba ja vurrudega. Seljas on tal sinine triibuline pluus ja lühikesed püksid. Rõõmus ja abivalmis multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Aias",
+      "description": "A bright and sunny spring garden. Green grassy ground with a few small, colorful wildflowers scattered around. In the background, there's a simple, short wooden fence and a leafy green bush. The sky is clear blue with soft white clouds. The overall atmosphere is peaceful and cheerful. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIIL SIIRI JA HIIR HEIKI ON ÕUES.",
+      "scene": "Siil Siiri and Hiir Heiki are in a bright and sunny spring garden. Siiri the hedgehog stands on the green grass, looking around with a curious expression. Heiki the mouse stands next to her, also looking observant. There are a few small, colorful wildflowers on the grass. In the background, there's a simple, short wooden fence and a leafy green bush. The sky is clear blue with soft white clouds. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD VÄIKEST LINDU.",
+      "scene": "Siil Siiri and Hiir Heiki are in the sunny spring garden. They both look up towards a small, friendly-looking brown bird with blue wings, perched on a branch of the leafy green bush in the background. Siiri points a paw towards the bird. Heiki looks at the bird intently. The garden is green and bright with wildflowers. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LIND ON JANUNE.",
+      "scene": "Siil Siiri and Hiir Heiki are in the sunny spring garden, looking concerned. The small brown bird on the bush branch looks a bit sad and tired, perhaps a little droopy. Siiri and Heiki exchange a worried glance, understanding the bird's thirst. The garden environment remains consistent. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD OTSIVAD LAPIKU KIVI.",
+      "scene": "Siil Siiri and Hiir Heiki are in the sunny spring garden. They are both bent over, looking intently at the ground. Siiri is carefully sifting through some pebbles on the grass. Heiki is peering under a small wildflower, searching for something specific. Their expressions are focused. The garden is green with scattered wildflowers. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD PANEVAD KIVI MURULE.",
+      "scene": "Siil Siiri and Hiir Heiki are in the sunny spring garden. Siiri is carefully placing a smooth, flat, grey stone in a clear spot on the green grass. Heiki is watching her, ready to help. They are both smiling, proud of their find. The garden with its fence and bush is in the background. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD TOOVAD PUDELIGA VETT.",
+      "scene": "Siil Siiri and Hiir Heiki are in the sunny spring garden. Siiri is holding a small, clear plastic bottle filled with water in her paws, bringing it towards the flat stone on the grass. Heiki walks beside her, looking eager and ready to assist. The flat stone is visible on the green grass. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD VALAVAD VEE KIVILE.",
+      "scene": "Siil Siiri and Hiir Heiki are in the sunny spring garden. Siiri is gently tipping the small clear plastic bottle, pouring water onto the flat grey stone, creating a small puddle. Heiki watches the water carefully, his eyes wide with anticipation. The flat stone with water is now clearly visible on the green grass. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LINNUL ON NÜÜD VETT.",
+      "scene": "Siil Siiri and Hiir Heiki are in the sunny spring garden, looking proudly at the makeshift bird bath. The small brown bird is now perched on the edge of the flat grey stone, looking down at the water. Siiri and Heiki stand a little distance away, smiling, satisfied with their work. The garden setting is unchanged. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LIND JOOB KIVILT VETT.",
+      "scene": "Siil Siiri and Hiir Heiki are in the sunny spring garden. The small brown bird is happily drinking water from the puddle on the flat grey stone. Siiri and Heiki are watching the bird, smiling brightly, clearly delighted to see their efforts pay off. The garden setting is consistent. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SIIRI JA HEIKI ON RÕÕMSAD.",
+      "scene": "Siil Siiri and Hiir Heiki are in the sunny spring garden. They are standing side by side, hugging each other gently and smiling widely, expressing pure joy and satisfaction. The bird is still at the bird bath, or has flown off happily. The overall atmosphere is warm and joyful. The garden setting is consistent. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
