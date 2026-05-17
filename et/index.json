@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-25",
+  "latestDate": "2026-05-26",
   "stories": [
+    {
+      "date": "2026-05-26",
+      "title": "MARI JA KALLE TEEVAD PILTE",
+      "pageCount": 10,
+      "characters": [
+        "MARI",
+        "KALLE"
+      ]
+    },
     {
       "date": "2026-05-25",
       "title": "REIN JA MART TEEVAD PAADI",
