@@ -1,101 +1,95 @@
 {
   "date": "2026-05-24",
   "language": "et",
-  "title": "KASPAR JA EVI PABERPAADID",
-  "generatedAt": "2026-05-11T01:41:30.055Z",
+  "title": "PEETER JA LIISA TEEVAD TEKIST MAJA",
+  "generatedAt": "2026-05-17T21:09:42.308Z",
   "characters": [
     {
       "id": "char1",
-      "name": "KASPAR",
+      "name": "PEETER",
       "type": "human",
-      "description": "Väike inimene, rõõmsameelne poiss, lühikeste pruunide juuste ja säravate siniste silmadega. Seljas erekollane t-särk ja sinised lühikesed püksid. Sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
+      "description": "Väike inimene Peeter, umbes 5-aastane poiss. Tal on lühikesed helepruunid juuksed ja suured sinised silmad. Peeter kannab kollast pikkade varrukatega särki ja siniseid lühikesi pükse. Ta on rõõmsameelne ja uudishimulik. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "EVI",
+      "name": "LIISA",
       "type": "human",
-      "description": "Väike inimene, rõõmsameelne tüdruk, heledate patside ja suurte roheliste silmadega. Seljas roosa kleit ja rohelised sandaalid. Sõbralik ja mänguline näoilme. Armas multifilmistiil.",
+      "description": "Väike inimene Liisa, umbes 6-aastane tüdruk. Tal on pikad punakaspruunid patsid ja rohelised silmad. Liisa kannab roosat kleiti ja valgeid sukkpükse. Ta on energiline ja abivalmis. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "SÕBRALIK TUBA",
-      "description": "Cozy children's playroom with light blue walls and a soft patterned rug on the floor. A large wooden table is in the center, with two small wooden chairs. A window on the back wall shows a glimpse of green trees outside. A small wooden bookshelf is on the right wall, filled with colorful books. Warm, natural light fills the room. Cartoon style.",
+      "name": "ELUTUBA",
+      "description": "Cozy children's living room with light blue walls, a soft beige rug covering a wooden floor. There are two simple wooden chairs with colorful cushions. A single large window on the back wall shows a slightly rainy, green spring landscape outside. No specific wall decorations, keeping it simple. Warm, soft light fills the room. Cartoon style.",
       "image": "loc1.png"
-    },
-    {
-      "id": "loc2",
-      "name": "PÄIKESELINE AED",
-      "description": "Bright, sunny backyard garden with lush green grass and a few colorful spring flowers blooming. A large, clear puddle of water reflects the blue sky. In the background, there are green bushes and a wooden fence. The atmosphere is cheerful and fresh. Cartoon style.",
-      "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "KASPAR JA EVI ON TOAS.",
-      "scene": "Kaspar and Evi are sitting at the wooden table in the playroom. They are looking at each other and smiling, as if thinking of something fun. The room has light blue walls, a soft patterned rug, a bookshelf, and a window showing green trees outside. Warm light fills the room. Kaspar wears a yellow t-shirt and blue shorts. Evi wears a pink dress and green sandals.",
+      "text": "PEETER JA LIISA ON TOAS.",
+      "scene": "Peeter (the 5-year-old boy with short light brown hair, yellow shirt, blue shorts) and Liisa (the 6-year-old girl with long reddish-brown pigtails, pink dress) are standing in a cozy living room, looking around with a slightly bored but curious expression. They are not holding anything. The room has light blue walls, a soft beige rug, and a wooden floor. Two simple wooden chairs with colorful cushions are visible. A large window shows a rainy spring landscape outside. Warm, soft light fills the room. Cartoon style.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NEIL ON MÕTE.",
-      "scene": "Kaspar and Evi are still sitting at the wooden table. Evi points excitedly towards some colorful paper on the table, and Kaspar nods, smiling. There is a stack of colorful paper in red, blue, and yellow on the table in front of them. The playroom has light blue walls, a soft patterned rug, a bookshelf, and a window showing green trees outside. Warm light fills the room. Kaspar wears a yellow t-shirt and blue shorts. Evi wears a pink dress and green sandals.",
+      "text": "NEIL ON SUUR MÕTE.",
+      "scene": "Peeter and Liisa are standing in the living room, looking at each other with bright, excited smiles, their eyes wide as if a great idea has just struck them. Peeter is pointing his finger up as if making a suggestion. They are not holding anything. The room has light blue walls, a soft beige rug, and a wooden floor. Two simple wooden chairs with colorful cushions are visible. A large window shows a rainy spring landscape outside. Warm, soft light fills the room. Cartoon style.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD TEAVAD PABERPAATE.",
-      "scene": "Kaspar and Evi are actively folding colorful paper at the wooden table in the playroom, making paper boats. Colorful paper scraps in red, blue, and yellow are on the table. They are focused and happy. The playroom has light blue walls, a soft patterned rug, a bookshelf, and a window showing green trees outside. Warm light fills the room. Kaspar wears a yellow t-shirt and blue shorts. Evi wears a pink dress and green sandals.",
+      "text": "NAD VÕTAVAD TEKID.",
+      "scene": "Peeter and Liisa are in the living room, gathering soft blankets. Peeter is holding a folded blue blanket, and Liisa is pulling a colorful striped blanket from a pile on the floor. Both are smiling, focused on their task. The room has light blue walls, a soft beige rug, and a wooden floor. Two simple wooden chairs with colorful cushions are visible. A large window shows a rainy spring landscape outside. Warm, soft light fills the room. Cartoon style.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "IGAÜHEL ON PAAT.",
-      "scene": "Kaspar and Evi are proudly standing next to the wooden table, holding up their finished paper boats. Kaspar holds a blue boat, and Evi holds a red boat. They are smiling at each other. The table still has some paper scraps. The playroom has light blue walls, a soft patterned rug, a bookshelf, and a window showing green trees outside. Warm light fills the room. Kaspar wears a yellow t-shirt and blue shorts. Evi wears a pink dress and green sandals.",
+      "text": "NAD TOOVAD TOOLID.",
+      "scene": "Peeter and Liisa are moving the simple wooden chairs in the living room. Peeter is carefully pushing one wooden chair, and Liisa is pulling the other one. They are working together and smiling. The blankets they gathered are visible nearby on the floor. The room has light blue walls, a soft beige rug, and a wooden floor. A large window shows a rainy spring landscape outside. Warm, soft light fills the room. Cartoon style.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD LÄHEVAD ÕUE.",
-      "scene": "Kaspar and Evi are walking happily outside into the sunny backyard garden. They are holding their paper boats. Evi is now wearing small yellow rain boots, and Kaspar is wearing small green rain boots. Green grass and colorful spring flowers are visible in the bright garden. Kaspar wears a yellow t-shirt and blue shorts. Evi wears a pink dress.",
+      "text": "NAD EHITAVAD MAJA.",
+      "scene": "Peeter and Liisa are actively building a blanket fort in the living room. They are using the two wooden chairs as supports and carefully draping the colorful blankets over them to form a small \"house\" structure. One blanket is partly draped over a chair, and they are holding another blanket up to cover a gap. They are concentrating but smiling, enjoying the process. The room has light blue walls, a soft beige rug, and a wooden floor. A large window shows a rainy spring landscape outside. Warm, soft light fills the room. Cartoon style.",
       "image": "page5.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "SEAL ON SUUR LOMP.",
-      "scene": "Kaspar and Evi stand at the edge of a large, clear puddle in the sunny backyard garden. They are looking down at the puddle with curiosity and excitement. They are still holding their paper boats (Kaspar has blue, Evi has red) and wearing their rain boots (Evi has yellow, Kaspar has green). Green grass and colorful spring flowers are around the puddle. Kaspar wears a yellow t-shirt and blue shorts. Evi wears a pink dress.",
+      "text": "MAJA SAAB VALMIS!",
+      "scene": "Peeter and Liisa are standing proudly in front of their newly completed blanket fort in the living room. The fort is a cozy, enclosed structure made from the colorful blankets draped over the two wooden chairs. They are both smiling widely, looking at their creation with satisfaction. The room has light blue walls, a soft beige rug, and a wooden floor. A large window shows a rainy spring landscape outside. Warm, soft light fills the room. Cartoon style.",
       "image": "page6.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "NAD LASKAVAD PAADID VETTE.",
-      "scene": "Kaspar and Evi are carefully placing their paper boats into the large puddle in the sunny backyard garden. The blue boat and red boat are now floating on the clear water. They are kneeling slightly by the puddle, still wearing their rain boots (Evi has yellow, Kaspar has green). Green grass and colorful spring flowers are around them. Kaspar wears a yellow t-shirt and blue shorts. Evi wears a pink dress.",
+      "text": "NAD PUGESID SISSE.",
+      "scene": "Peeter and Liisa are playfully crawling into the entrance of their blanket fort in the living room. Their heads are just visible as they duck inside, their faces filled with excitement and curiosity. The colorful blanket fort is clearly visible. The room has light blue walls, a soft beige rug, and a wooden floor. A large window shows a rainy spring landscape outside. Warm, soft light fills the room. Cartoon style.",
       "image": "page7.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "PAADID UJUJAD HÄSTI.",
-      "scene": "The blue and red paper boats are floating gently on the clear water of the large puddle. Kaspar and Evi are watching them, smiling happily. They are standing near the puddle, wearing their rain boots (Evi has yellow, Kaspar has green). The sunny backyard garden is in the background with green grass and colorful spring flowers. Kaspar wears a yellow t-shirt and blue shorts. Evi wears a pink dress.",
+      "text": "SEE ON NENDE KODU.",
+      "scene": "Peeter and Liisa are comfortably settled inside their blanket fort in the living room. They are sitting on the soft beige rug, surrounded by the colorful blankets. Peeter is holding a small toy car, and Liisa is holding a soft teddy bear. They are looking at each other and smiling contentedly, enjoying their cozy new \"home\". The entrance to the fort is slightly open. The room has light blue walls, a soft beige rug, and a wooden floor. A large window shows a rainy spring landscape outside. Warm, soft light fills the room. Cartoon style.",
       "image": "page8.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "KASPAR JA EVI NAERAVAD.",
-      "scene": "Kaspar and Evi are laughing joyfully, pointing at their floating paper boats in the puddle. They are very happy, their faces full of delight. They are standing near the puddle, wearing their rain boots (Evi has yellow, Kaspar has green). The sunny backyard garden is in the background with green grass and colorful spring flowers. Kaspar wears a yellow t-shirt and blue shorts. Evi wears a pink dress.",
+      "text": "NAD ON VÄGA RÕÕMSAD.",
+      "scene": "Peeter and Liisa are still inside their blanket fort, looking out from the entrance with big, happy smiles. They are waving cheerfully, full of joy and pride in their creation. The cozy blanket fort is the main focus, showing their accomplishment. The room has light blue walls, a soft beige rug, and a wooden floor. A large window shows a rainy spring landscape outside. Warm, soft light fills the room. Cartoon style.",
       "image": "page9.png",
-      "location_id": "loc2"
+      "location_id": "loc1"
     }
   ]
 }

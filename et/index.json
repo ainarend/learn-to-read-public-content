@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-12",
+  "latestDate": "2026-05-24",
   "stories": [
+    {
+      "date": "2026-05-24",
+      "title": "PEETER JA LIISA TEEVAD TEKIST MAJA",
+      "pageCount": 9,
+      "characters": [
+        "PEETER",
+        "LIISA"
+      ]
+    },
     {
       "date": "2026-05-12",
       "title": "JUKU JA SASS TEEVAD KIVIMUSTRI",
