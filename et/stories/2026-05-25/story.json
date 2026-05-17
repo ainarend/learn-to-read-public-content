@@ -1,0 +1,101 @@
+{
+  "date": "2026-05-25",
+  "language": "et",
+  "title": "REIN JA MART TEEVAD PAADI",
+  "generatedAt": "2026-05-17T21:55:03.186Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE REIN",
+      "type": "fox",
+      "description": "Väike oranž rebane suurte teravate kõrvadega, valge kõhualusega, kandmas väikest sinist vesti. Tema saba on kohev ja valge otsaga. Rebane Rein on uudishimulik ja alati valmis tegutsema. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MÄGER MART",
+      "type": "badger",
+      "description": "Väike hall-must mäger valgete triipudega näol, kandmas väikest rohelist mütsi. Tema keha on jässakas ja jalad lühikesed. Mäger Mart on hoolas ja nutikas. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Koduaia töökoht",
+      "description": "Sunny backyard work area with a large sturdy wooden workbench in the center. The ground is covered with short green grass. In the background, there's a wooden fence and a few blooming spring bushes. Gentle sunlight. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Rahulik tiik",
+      "description": "Serene small pond surrounded by lush green grass and a few spring trees in bloom. The water is calm and reflects the sky. A few lily pads float on the water's surface. Warm, bright daylight. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REIN JA MART ON ÕUES.",
+      "scene": "Rebane Rein and Mäger Mart stand in a sunny backyard work area, next to a large sturdy wooden workbench. They are looking at each other, smiling, with an excited expression. The ground is green grass, a wooden fence and blooming bushes are in the background. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Rebane Rein and Mäger Mart stand next to the wooden workbench in their sunny backyard. Both are looking towards the table with thoughtful and happy expressions. Rein points a paw towards the table. Mart holds a small, plain piece of wood. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD PUUTÜKI.",
+      "scene": "Rebane Rein and Mäger Mart are at the wooden workbench in their sunny backyard. Rein holds a medium-sized block of light brown wood in his paws. Mart holds a small wooden saw. They both look focused on the wood. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MART SAAGIB PUUTÜKKI.",
+      "scene": "Mäger Mart is standing at the wooden workbench in the sunny backyard, carefully sawing the block of wood with a small wooden saw. Rebane Rein watches him intently, holding the other end of the wood to steady it. A small pile of sawdust is visible on the table next to the wood. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "REIN VÄRVIB PAATI.",
+      "scene": "A small, simple wooden boat, now assembled, sits on the wooden workbench in the sunny backyard. Rebane Rein is holding a small paintbrush and painting the boat with blue paint. Mäger Mart watches him, holding a small pot of blue paint. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PAAT ON NÜÜD VALMIS.",
+      "scene": "The small, simple wooden boat, now completely painted blue, sits finished on the wooden workbench in the sunny backyard. Rebane Rein and Mäger Mart stand next to it, admiring their work with proud smiles. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD VIIVAD PAADI VETTE.",
+      "scene": "Rebane Rein and Mäger Mart are at the edge of a serene small pond. Rein carefully holds the blue wooden boat in his paws, ready to place it gently on the water. Mart stands beside him, looking excited. Lush green grass and spring trees surround the pond. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PAAT UJUB VEES.",
+      "scene": "The small blue wooden boat is now floating gently on the calm surface of the pond. Rebane Rein and Mäger Mart are kneeling on the green grass beside the pond, watching their boat with happy, satisfied expressions. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "REIN JA MART ON RÕÕMSAD.",
+      "scene": "Rebane Rein and Mäger Mart are still kneeling by the pond, their little blue boat floating peacefully in front of them. They are both smiling broadly, looking at each other and giving a friendly high-paw. The setting is serene and joyful. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}

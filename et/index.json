@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-24",
+  "latestDate": "2026-05-25",
   "stories": [
+    {
+      "date": "2026-05-25",
+      "title": "REIN JA MART TEEVAD PAADI",
+      "pageCount": 9,
+      "characters": [
+        "REBANE REIN",
+        "MÄGER MART"
+      ]
+    },
     {
       "date": "2026-05-24",
       "title": "PEETER JA LIISA TEEVAD TEKIST MAJA",
