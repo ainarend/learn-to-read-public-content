@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-31",
+  "language": "et",
+  "title": "KATRI JA HEINO VÄRVIVAD KIVE",
+  "generatedAt": "2026-05-18T01:40:12.239Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KARU KATRI",
+      "type": "bear",
+      "description": "Väike pruun karu, pehmete ümarate kõrvadega, kandmas väikest sinist põlle, suured rõõmsad silmad ja sõbralik näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "HUNT HEINO",
+      "type": "wolf",
+      "description": "Väike hall hunt, teravate kõrvadega, kandmas väikest rohelist särki, suured uudishimulikud silmad ja lahke näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "JÕE ÄÄRES",
+      "description": "A serene riverbank with clear blue water gently flowing. The ground is covered with smooth grey and brown pebbles. Lush green grass grows along the bank. In the background, there are a few tall green trees. The sun is shining brightly, casting warm light. Cartoon style, calm and peaceful atmosphere.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KATRI JA HEINO ON JÕE ÄÄRES.",
+      "scene": "KARU KATRI seisab HUNT HEINO kõrval rahuliku jõe ääres. Jõgi voolab aeglaselt. Katri ja Heino vaatavad veepiiri. Katri kannab sinist põlle, Heino kannab rohelist särki. Päike paistab soojalt. Taustal on roheline rohi ja mõned puud. Armas multifilmistiil.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD LEIAVAD ILUSAID KIVE.",
+      "scene": "KARU KATRI ja HUNT HEINO kummarduvad jõe kaldal, vaatavad maas olevaid siledaid halli ja pruuni kive. Katri hoiab käes ühte halli kivi ja Heino osutab teisele kivile. Mõlemad naeratavad uudishimulikult. Jõgi voolab nende taga. Taustal on roheline rohi ja puud. Armas multifilmistiil.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD VÄRVID.",
+      "scene": "KARU KATRI ja HUNT HEINO istuvad rohelisel murul jõe kaldal. Nende ees on avatud väike värvikarp mitme erksavärvilise värviga ja mõned pintslid. Katri hoiab pintslit. Heino vaatab värve huviga. Päike paistab. Armas multifilmistiil.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KATRI VÄRVIB KIVI.",
+      "scene": "KARU KATRI istub rohelisel murul jõe kaldal, hoides käes halli kivi. Ta on alustanud kivi värvimist erkpunase värviga, kasutades pintslit. HUNT HEINO jälgib Katrit tähelepanelikult. Värvikarp ja pintslid on nende kõrval murul. Armas multifilmistiil.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "HEINO VÄRVIB KIVI.",
+      "scene": "HUNT HEINO istub rohelisel murul jõe kaldal, hoides käes teist halli kivi. Ta värvib kivi sinise värviga, kasutades pintslit. KARU KATRI naeratab ja vaatab Heino tegevust. Värvikarp ja pintslid on nende kõrval murul. Armas multifilmistiil.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LISAVAD TÄPPE KIVILE.",
+      "scene": "KARU KATRI ja HUNT HEINO istuvad rohelisel murul jõe kaldal. Nende ees on kaks osaliselt värvitud kivi: üks on punane ja teine sinine. Katri lisab punasele kivile kollaseid täppe pintsliga. Heino vaatab oma sinist kivi ja mõtleb, kuhu täppe panna. Värvikarp on lahti nende kõrval. Armas multifilmistiil.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KIVID ON VÄGA VÄRVILISED.",
+      "scene": "KARU KATRI ja HUNT HEINO hoiavad mõlemad käes värvilist kivi. Katri kivi on punane kollaste täppidega. Heino kivi on sinine roheliste täppidega. Kivide peal on nüüd palju värvilisi täppe ja jooni. Nad naeratavad rõõmsalt oma kauni loomingu üle. Värvikarp on maas nende kõrval. Armas multifilmistiil.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD PANEVAAD KIVID JÕE ÄÄRDE.",
+      "scene": "KARU KATRI ja HUNT HEINO asetavad oma värvilised kivid ettevaatlikult jõe kaldale, rohelise rohu äärde. Värvilised kivid on kenasti reas veepiiri lähedal. Nad vaatavad kive rahulolevalt. Jõgi voolab nende taga. Armas multifilmistiil.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KIVID NÄEVAD NII ILUSAD VÄLJA.",
+      "scene": "KARU KATRI ja HUNT HEINO seisavad jõe kaldal, imetledes oma värvilisi kive, mis on reas rohu peal. Kivide värvid säravad päikese käes. Mõlemad tegelased naeratavad laialt ja rõõmsalt. Jõgi voolab rahulikult taustal. Armas multifilmistiil.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
