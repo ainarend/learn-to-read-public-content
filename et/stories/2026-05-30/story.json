@@ -1,0 +1,102 @@
+{
+  "date": "2026-05-30",
+  "language": "et",
+  "title": "JUKU JA ANNA JOONISTAVAD KRITIGA",
+  "generatedAt": "2026-05-18T00:56:40.209Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane poiss, heledate juuste ja suurte rõõmsate silmadega. Seljas sinine T-särk ja lühikesed püksid. Jalas punased tossud. Sõbralik ja mänguhimuline näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ANNA",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk, pruunide patsikestega ja suurte säravate silmadega. Seljas roosa kleit ja valged sandaalid. Naerusuine ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Mänguplats",
+      "description": "A bright, sunny outdoor play area with a smooth, light grey asphalt or concrete surface. In the background, there's a low green grassy hill with a few colorful small flowers blooming, suggesting spring. The play area is bordered by a low wooden fence. Clear blue sky with a few fluffy white clouds above. Cheerful, open atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUKU JA ANNA LÄHEVAD ÕUE.",
+      "scene": "Juku ja Anna, mõlemad naeratavad, kõnnivad käsikäes mööda siledat halli asfaltpinda mänguplatsil. Taustal on roheline murumägi lilledega ja helesinine taevas. Juku kannab sinist T-särki ja lühikesi pükse, Anna roosat kleiti. Mõlemad hoiavad käes värvilisi kriidipakke. Armas multifilmistiil.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON KRITID KAASAS.",
+      "scene": "Juku ja Anna seisavad mänguplatsi hallil asfaltpinnal. Mõlemad hoiavad oma kriidipakke uhkelt ees, näol laiad naeratused. Juku hoiab sinist kriidipakki, Anna roosat. Kriidipakkides on näha värvilisi kriite. Taustal on roheline murumägi ja selge sinine taevas. Armas multifilmistiil.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD KRITID KÄTTE.",
+      "scene": "Anna ja Juku istuvad mänguplatsi siledal hallil asfaltpinnal. Anna on istuli põlvili, hoides ühte kollast kriiti. Juku on samuti istuli põlvili, hoides sinist kriiti. Mõlemad vaatavad rõõmsalt üksteise poole, valmis joonistama. Kriidipakid on nende kõrval maas. Armas multifilmistiil.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "ANNA JOONISTAB PÄIKEST.",
+      "scene": "Anna istub põlvili mänguplatsi hallil asfaldil, hoides kollast kriiti ja joonistades suurt kollast päikest maapinnale. Tema näol on keskendunud ja rõõmus ilme. Juku vaatab teda kõrval, naeratades. Taustal on roheline murumägi. Armas multifilmistiil.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PÄIKE ON KOLLANE.",
+      "scene": "Anna osutab rõõmsalt sõrmega kollasele päikesele, mille ta just kriidiga hallile asfaldile joonistas. Päike on suur ja erekollane, selged kiired joonistatud. Juku seisab Anna kõrval ja imetleb joonistust, naeratades. Mõlemad on istuli põlvili. Armas multifilmistiil.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "JUKU JOONISTAB LILLE.",
+      "scene": "Juku istub põlvili mänguplatsi hallil asfaldil, hoides sinist kriiti ja joonistades ilusat sinist lille maapinnale. Tema näol on keskendunud ja rõõmus ilme. Anna vaatab teda kõrval, naeratades. Anna joonistatud kollane päike on näha Juku joonistuse lähedal. Armas multifilmistiil.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LILL ON SININE.",
+      "scene": "Juku osutab rõõmsalt sõrmega sinisele lillele, mille ta just kriidiga hallile asfaldile joonistas. Lill on suur ja erk sinine, näha on ka roheline vars ja lehed. Anna seisab Juku kõrval ja imetleb joonistust, naeratades. Anna joonistatud kollane päike on lille lähedal. Mõlemad on istuli põlvili. Armas multifilmistiil.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NÜÜD ON PALJU PILTE.",
+      "scene": "Juku ja Anna on tõusnud püsti ja seisavad mänguplatsi hallil asfaldil, imetledes oma mitmeid kriidijoonistusi. Maapinnal on näha kollane päike, sinine lill ja veel mõned lihtsad värvilised kujundid, näiteks roheline puu ja punane süda. Mõlemad vaatavad joonistusi rõõmsalt ja naeratavad. Armas multifilmistiil.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PILTE ON KÕIKJAL.",
+      "scene": "Laia nurga alt näeb mänguplatsi halli asfalti, mis on täis Juku ja Anna värvilisi kriidijoonistusi. On päikesi, lilli, puid, loomi ja erinevaid kujundeid, mis katavad suurt ala. Juku ja Anna seisavad joonistuste keskel, vaadates neid rahulolevalt. Taustal paistab roheline murumägi ja sinine taevas. Armas multifilmistiil.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "JUKU JA ANNA ON RÕÕMSAD.",
+      "scene": "Juku ja Anna seisavad keset oma kriidijoonistusi hallil asfaltpinnal, mõlemad naeratavad laialt ja hoiavad üksteisel käest kinni. Nad vaatavad rõõmsalt oma loomingut. Nende ümber on näha kollased päikesed, sinised lilled ja teised värvilised kriidipildid. Taustal on murumägi ja selge sinine taevas. Armas multifilmistiil.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
