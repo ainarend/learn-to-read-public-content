@@ -1,95 +1,108 @@
 {
   "date": "2026-05-31",
   "language": "et",
-  "title": "KATRI JA HEINO VÄRVIVAD KIVE",
-  "generatedAt": "2026-05-18T01:40:12.239Z",
+  "title": "HIIR HANNA JA SIIL SASS TEEVAD LOHET",
+  "generatedAt": "2026-05-24T21:11:19.115Z",
   "characters": [
     {
       "id": "char1",
-      "name": "KARU KATRI",
-      "type": "bear",
-      "description": "Väike pruun karu, pehmete ümarate kõrvadega, kandmas väikest sinist põlle, suured rõõmsad silmad ja sõbralik näoilme. Armas multifilmistiil.",
+      "name": "HIIR HANNA",
+      "type": "mouse",
+      "description": "Väike hall hiir suurte roosade kõrvadega, kandmas väikest sinist vesti ja rõõmsat naeratust. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "HUNT HEINO",
-      "type": "wolf",
-      "description": "Väike hall hunt, teravate kõrvadega, kandmas väikest rohelist särki, suured uudishimulikud silmad ja lahke näoilme. Armas multifilmistiil.",
+      "name": "SIIL SASS",
+      "type": "hedgehog",
+      "description": "Väike pruun siil pehmete okastega, kandmas väikest rohelist salli, suured uudishimulikud silmad. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "JÕE ÄÄRES",
-      "description": "A serene riverbank with clear blue water gently flowing. The ground is covered with smooth grey and brown pebbles. Lush green grass grows along the bank. In the background, there are a few tall green trees. The sun is shining brightly, casting warm light. Cartoon style, calm and peaceful atmosphere.",
+      "name": "Käsitöötuba",
+      "description": "Cozy children's craft room with light blue painted walls, a light wooden floor, and a large window on the back wall showing a sunny spring landscape with green trees and a few small white clouds. A simple, small wooden table is in the center with two small chairs. A low, open shelf with colorful craft supplies (papers, crayons) is on the right wall. A string with a few cheerful paper stars hangs on the back wall. Bright, natural light from the window. Cheerful and inviting atmosphere. Cartoon style.",
       "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Päikeseline Rohuväli",
+      "description": "A sunny, expansive grassy field. Lush green grass covers the ground, with gently rolling hills in the distance. The sky is bright blue with scattered white clouds. A few distant green trees are visible on the horizon. The atmosphere is open, windy, and joyful, depicting a fresh spring day. Cartoon style.",
+      "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "KATRI JA HEINO ON JÕE ÄÄRES.",
-      "scene": "KARU KATRI seisab HUNT HEINO kõrval rahuliku jõe ääres. Jõgi voolab aeglaselt. Katri ja Heino vaatavad veepiiri. Katri kannab sinist põlle, Heino kannab rohelist särki. Päike paistab soojalt. Taustal on roheline rohi ja mõned puud. Armas multifilmistiil.",
+      "text": "HIIR HANNA JA SIIL SASS.",
+      "scene": "Hiir Hanna sits on a small wooden chair at the small wooden table, smiling warmly. Siil Sass sits on another small wooden chair opposite Hanna, looking thoughtful. The craft room has light blue walls, a wooden floor, a large window on the back wall showing a sunny spring landscape, and an open shelf with craft supplies on the right wall. A string with paper stars hangs on the back wall.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NAD LEIAVAD ILUSAID KIVE.",
-      "scene": "KARU KATRI ja HUNT HEINO kummarduvad jõe kaldal, vaatavad maas olevaid siledaid halli ja pruuni kive. Katri hoiab käes ühte halli kivi ja Heino osutab teisele kivile. Mõlemad naeratavad uudishimulikult. Jõgi voolab nende taga. Taustal on roheline rohi ja puud. Armas multifilmistiil.",
+      "text": "NEIL ON SUUR MÕTE.",
+      "scene": "Hiir Hanna and Siil Sass sit at the small wooden table. Hanna excitedly gestures with her paw, a big smile on her face. Sass looks at Hanna, his eyes wide with curiosity, a thoughtful expression. The craft room has light blue walls, a wooden floor, a large window on the back wall showing a sunny spring landscape, and an open shelf with craft supplies on the right wall. A string with paper stars hangs on the back wall.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD VÕTAVAD VÄRVID.",
-      "scene": "KARU KATRI ja HUNT HEINO istuvad rohelisel murul jõe kaldal. Nende ees on avatud väike värvikarp mitme erksavärvilise värviga ja mõned pintslid. Katri hoiab pintslit. Heino vaatab värve huviga. Päike paistab. Armas multifilmistiil.",
+      "text": "NAD TAHAVAD LOHET TEHA.",
+      "scene": "Hiir Hanna and Siil Sass sit at the small wooden table, looking at each other with determined expressions. On the table, there are some colorful sheets of paper. The craft room has light blue walls, a wooden floor, a large window on the back wall showing a sunny spring landscape, and an open shelf with craft supplies on the right wall. A string with paper stars hangs on the back wall.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "KATRI VÄRVIB KIVI.",
-      "scene": "KARU KATRI istub rohelisel murul jõe kaldal, hoides käes halli kivi. Ta on alustanud kivi värvimist erkpunase värviga, kasutades pintslit. HUNT HEINO jälgib Katrit tähelepanelikult. Värvikarp ja pintslid on nende kõrval murul. Armas multifilmistiil.",
+      "text": "NAD VÕTAVAD PABERIT.",
+      "scene": "Siil Sass stands beside the low, open shelf on the right wall, carefully pulling out a sheet of bright yellow paper. Hiir Hanna sits at the table, looking expectantly at Sass. The craft room has light blue walls, a wooden floor, a large window on the back wall showing a sunny spring landscape. A string with paper stars hangs on the back wall.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "HEINO VÄRVIB KIVI.",
-      "scene": "HUNT HEINO istub rohelisel murul jõe kaldal, hoides käes teist halli kivi. Ta värvib kivi sinise värviga, kasutades pintslit. KARU KATRI naeratab ja vaatab Heino tegevust. Värvikarp ja pintslid on nende kõrval murul. Armas multifilmistiil.",
+      "text": "NAD LÕIKAVAD PABERIT.",
+      "scene": "Hiir Hanna sits at the small wooden table, holding a small pair of child-safe scissors and carefully cutting a colorful piece of paper into a kite shape. Siil Sass sits next to her, watching intently, holding another piece of paper. The craft room has light blue walls, a wooden floor, a large window on the back wall showing a sunny spring landscape, and an open shelf with craft supplies on the right wall. A string with paper stars hangs on the back wall.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "NAD LISAVAD TÄPPE KIVILE.",
-      "scene": "KARU KATRI ja HUNT HEINO istuvad rohelisel murul jõe kaldal. Nende ees on kaks osaliselt värvitud kivi: üks on punane ja teine sinine. Katri lisab punasele kivile kollaseid täppe pintsliga. Heino vaatab oma sinist kivi ja mõtleb, kuhu täppe panna. Värvikarp on lahti nende kõrval. Armas multifilmistiil.",
+      "text": "NAD LIIMIVAD PABERIT.",
+      "scene": "Hiir Hanna and Siil Sass are both at the small wooden table, focused on their craft. Hanna holds a glue stick and is carefully applying glue to a paper shape. Sass is pressing another paper shape onto it to form part of a kite. Scattered paper scraps are on the table. The craft room has light blue walls, a wooden floor, a large window on the back wall showing a sunny spring landscape, and an open shelf with craft supplies on the right wall. A string with paper stars hangs on the back wall.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "KIVID ON VÄGA VÄRVILISED.",
-      "scene": "KARU KATRI ja HUNT HEINO hoiavad mõlemad käes värvilist kivi. Katri kivi on punane kollaste täppidega. Heino kivi on sinine roheliste täppidega. Kivide peal on nüüd palju värvilisi täppe ja jooni. Nad naeratavad rõõmsalt oma kauni loomingu üle. Värvikarp on maas nende kõrval. Armas multifilmistiil.",
+      "text": "LOHE ON NÜÜD VALMIS.",
+      "scene": "Hiir Hanna and Siil Sass stand proudly next to the small wooden table, holding up a beautifully crafted, colorful paper kite with a long tail. They both have big, happy smiles. The craft room has light blue walls, a wooden floor, a large window on the back wall showing a sunny spring landscape, and an open shelf with craft supplies on the right wall. A string with paper stars hangs on the back wall.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "NAD PANEVAAD KIVID JÕE ÄÄRDE.",
-      "scene": "KARU KATRI ja HUNT HEINO asetavad oma värvilised kivid ettevaatlikult jõe kaldale, rohelise rohu äärde. Värvilised kivid on kenasti reas veepiiri lähedal. Nad vaatavad kive rahulolevalt. Jõgi voolab nende taga. Armas multifilmistiil.",
+      "text": "NAD LÄHEVAD ÕUE.",
+      "scene": "Hiir Hanna and Siil Sass are outside in a sunny, grassy field. They are walking towards the viewer, holding the colorful kite. The sky is bright blue with scattered white clouds. Lush green grass covers the ground, and distant green trees are on the horizon. They both look eager.",
       "image": "page8.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 9,
-      "text": "KIVID NÄEVAD NII ILUSAD VÄLJA.",
-      "scene": "KARU KATRI ja HUNT HEINO seisavad jõe kaldal, imetledes oma värvilisi kive, mis on reas rohu peal. Kivide värvid säravad päikese käes. Mõlemad tegelased naeratavad laialt ja rõõmsalt. Jõgi voolab rahulikult taustal. Armas multifilmistiil.",
+      "text": "TUUL VIIB LOHE KÕRGELE.",
+      "scene": "Hiir Hanna and Siil Sass are in the sunny, grassy field, looking up excitedly. Hanna is holding the string of the colorful kite, which is flying high in the bright blue sky, pulled by the wind. Sass is pointing up at the kite with a huge smile. Lush green grass covers the ground, and distant green trees are on the horizon.",
       "image": "page9.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "HANNA JA SASS ON ÕNNELIKUD.",
+      "scene": "Hiir Hanna and Siil Sass are sitting happily on the lush green grass in the sunny field, watching their colorful kite gracefully flying high in the bright blue sky. They are both smiling joyfully, with a sense of accomplishment. Lush green grass covers the ground, and distant green trees are on the horizon.",
+      "image": "page10.png",
+      "location_id": "loc2"
     }
   ]
 }
