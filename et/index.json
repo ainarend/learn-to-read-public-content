@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-05-31",
+  "latestDate": "2026-06-01",
   "stories": [
+    {
+      "date": "2026-06-01",
+      "title": "ORAV OTT JA REBANE REIN TEEVAD LIIVALINNA",
+      "pageCount": 10,
+      "characters": [
+        "ORAV OTT",
+        "REBANE REIN"
+      ]
+    },
     {
       "date": "2026-05-31",
       "title": "HIIR HANNA JA SIIL SASS TEEVAD LOHET",
