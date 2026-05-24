@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-02",
+  "language": "et",
+  "title": "MARI JA PEETER TEEVAD MARJAMAHL A",
+  "generatedAt": "2026-05-24T22:41:08.957Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, roosade põskedega tüdruk. Seljas sinine kleit, jalas punased sandaalid. Tal on blondid patsid ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, prillidega poiss. Seljas roheline lühikeste varrukatega särk, jalas pruunid püksid. Tal on lühikesed pruunid juuksed ja rõõmsameelne ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Bright and clean kitchen with light yellow walls, a light wooden floor, and a single window on the back wall showing green trees outside. A sturdy white wooden table is in the center with two small wooden chairs. There are simple white kitchen cabinets on the wall. Warm sunlight fills the room. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "AED",
+      "description": "Sunny and colorful garden with lush green grass, various blooming flowers (red, yellow, blue) in the background, and a clear blue sky with a few white clouds. A small wooden picnic table with two small benches is under a leafy green tree. Warm summer light. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MARI JA PEETER ON KÖÖGIS.",
+      "scene": "Mari and Peeter are standing in a bright and clean kitchen. Mari is looking at Peeter and smiling. Peeter is looking around the kitchen with a thoughtful expression. The kitchen has light yellow walls, a light wooden floor, a single window on the back wall showing green trees outside, a sturdy white wooden table in the center with two small wooden chairs, and simple white kitchen cabinets on the wall. Warm sunlight fills the room.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Mari and Peeter are standing in the kitchen, looking at each other with bright, excited smiles, sharing a happy secret. Mari is pointing playfully towards the kitchen counter. Peeter is nodding. The kitchen has light yellow walls, a light wooden floor, a single window on the back wall showing green trees outside, a sturdy white wooden table in the center with two small wooden chairs, and simple white kitchen cabinets on the wall. Warm sunlight fills the room.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD MARJU.",
+      "scene": "Mari and Peeter are standing by a white kitchen cabinet. Peeter is carefully taking a small blue bowl full of red berries from inside the cabinet. Mari is looking at the berries with a happy smile. The kitchen has light yellow walls, a light wooden floor, a single window on the back wall showing green trees outside, a sturdy white wooden table in the center with two small wooden chairs, and simple white kitchen cabinets on the wall. Warm sunlight fills the room.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD PANEVAD MARJAD KAUSSI.",
+      "scene": "Mari and Peeter are standing at the white wooden table in the kitchen. Peeter is gently pouring the red berries from the blue bowl into a larger clear mixing bowl on the table. Mari is watching carefully with a focused expression. The kitchen has light yellow walls, a light wooden floor, a single window on the back wall showing green trees outside, a sturdy white wooden table in the center with two small wooden chairs, and simple white kitchen cabinets on the wall. Warm sunlight fills the room.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD SEGAVAD MARJU LUSIKAGA.",
+      "scene": "Mari and Peeter are sitting on small wooden chairs at the white wooden table in the kitchen. Mari is holding a large wooden spoon and happily stirring the red berries in the clear mixing bowl. Peeter is leaning in, watching the stirring with interest. The kitchen has light yellow walls, a light wooden floor, a single window on the back wall showing green trees outside, a sturdy white wooden table in the center with two small wooden chairs, and simple white kitchen cabinets on the wall. Warm sunlight fills the room.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LISAVAD VETT JUURDE.",
+      "scene": "Mari and Peeter are sitting at the white wooden table in the kitchen. Mari is still holding the wooden spoon in the clear mixing bowl with berries. Peeter is carefully pouring water from a small pitcher into the bowl. The kitchen has light yellow walls, a light wooden floor, a single window on the back wall showing green trees outside, a sturdy white wooden table in the center with two small wooden chairs, and simple white kitchen cabinets on the wall. Warm sunlight fills the room.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VALMIS ON MARJAMAHLA JOOK.",
+      "scene": "Mari and Peeter are standing proudly next to the white wooden table in the kitchen, looking at the clear mixing bowl which now contains a red berry juice drink. Mari is holding the wooden spoon, and Peeter has his hands on his hips, both smiling big. The kitchen has light yellow walls, a light wooden floor, a single window on the back wall showing green trees outside, a sturdy white wooden table in the center with two small wooden chairs, and simple white kitchen cabinets on the wall. Warm sunlight fills the room.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD VIIVAD JOOGI VÄLJA.",
+      "scene": "Mari and Peeter are carefully carrying the clear mixing bowl with the red berry juice drink. Mari is holding one side and Peeter the other, both walking towards the kitchen door (implied exit, or just turning towards the viewer as if leaving the room). They are smiling excitedly. The kitchen has light yellow walls, a light wooden floor, a single window on the back wall showing green trees outside, a sturdy white wooden table in the center with two small wooden chairs, and simple white kitchen cabinets on the wall. Warm sunlight fills the room.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD JOOVAD MAHLA VÄLJAS.",
+      "scene": "Mari and Peeter are sitting at a small wooden picnic table with two small benches under a leafy green tree in a sunny garden. They are happily drinking the red berry juice from small cups. The clear mixing bowl is on the table. The garden has lush green grass, various blooming flowers (red, yellow, blue) in the background, and a clear blue sky with a few white clouds. Warm summer light.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "MARI JA PEETER ON RÕÕMSAD!",
+      "scene": "Mari and Peeter are sitting at the small wooden picnic table in the sunny garden, their cups nearly empty. They are looking at each other, laughing happily, with big satisfied smiles. The garden has lush green grass, various blooming flowers (red, yellow, blue) in the background, and a clear blue sky with a few white clouds. Warm summer light.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
