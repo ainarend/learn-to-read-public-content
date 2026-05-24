@@ -1,0 +1,95 @@
+{
+  "date": "2026-06-03",
+  "language": "et",
+  "title": "JUKU JA LIISA MÄNGIVAD PEITUST",
+  "generatedAt": "2026-05-24T23:24:47.065Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane poiss. Tal on lühikesed pruunid juuksed ja suured sinised silmad. Kannab sinist T-särki ja lühikesi pruune pükse. Tal on alati rõõmus ja uudishimulik nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane tüdruk. Tal on pikad blondid patsid ja säravad rohelised silmad. Kannab roosat kleiti ja kollaseid sandaale. Liisa on alati naeratav ja energiline. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "MÄNGUVÄLJAK PARGIS",
+      "description": "Sunny children's playground in a park. Green grass, large colorful slide (red and yellow), a blue swing set, and a big oak tree with some roots showing. Bright blue sky with fluffy white clouds. Cheerful and inviting atmosphere. Cartoon style. The playground is spacious and well-maintained.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUKU JA LIISA ON PARGIS.",
+      "scene": "Juku and Liisa stand together on the green grass of the sunny playground. Juku wears a blue T-shirt and brown shorts. Liisa wears a pink dress and has blonde pigtails. They are smiling at each other. The large colorful slide (red and yellow), a blue swing set, and a big oak tree are visible in the background. Bright blue sky with fluffy white clouds.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD MÄNGIDA PEITUST.",
+      "scene": "Juku and Liisa are standing close to each other on the green grass, looking excited and happy. Liisa points towards the oak tree with a playful grin. The large colorful slide (red and yellow), a blue swing set, and a big oak tree are visible in the background. Bright blue sky with fluffy white clouds.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "JUKU LOEB KÜMMENI PUU JUURES.",
+      "scene": "Juku stands facing the large oak tree, his hands covering his eyes, counting aloud with a determined expression. Liisa is just starting to run away from Juku towards the blue swing set, giggling softly. The large colorful slide (red and yellow), a blue swing set, and a big oak tree are visible in the background. Bright blue sky with fluffy white clouds.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA PEIDAB END KIIGE TAHA.",
+      "scene": "Liisa is crouched down behind one of the posts of the blue swing set, peeking out with one eye and a mischievous smile. Only part of her pink dress and blonde pigtails are visible. Juku is still counting at the oak tree in the distance, his back to the viewer. The large colorful slide (red and yellow), a blue swing set, and a big oak tree are visible in the background. Bright blue sky with fluffy white clouds.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "JUKU OTSIB LIISAT HOOLEGA.",
+      "scene": "Juku has finished counting and is now walking slowly, looking around the playground with a thoughtful and searching expression. He is near the large colorful slide, looking towards the blue swing set. The large colorful slide (red and yellow), a blue swing set, and a big oak tree are visible in the background. Bright blue sky with fluffy white clouds.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "JUKU KÕNNIB RINGI HOOLEGA.",
+      "scene": "Juku is now walking near the large oak tree, carefully looking behind it and around its roots, his head tilted slightly, still searching for Liisa. He has a focused expression. The large colorful slide (red and yellow), a blue swing set, and a big oak tree are visible in the background. Bright blue sky with fluffy white clouds.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "JUKU NÄEB ROOSA KLEIDI OTSA.",
+      "scene": "Juku's eyes are wide with discovery, a small smile forming on his face. He is looking towards the blue swing set where a sliver of Liisa's pink dress is barely visible behind a swing post. The large colorful slide (red and yellow), a blue swing set, and a big oak tree are visible in the background. Bright blue sky with fluffy white clouds.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "JUKU LEIAB LIISA!",
+      "scene": "Juku has walked to the blue swing set and found Liisa. Liisa bursts out from behind the swing set with a joyful laugh, surprising Juku playfully. Juku smiles widely, happy to have found her. They are both clearly having fun. The large colorful slide (red and yellow), and a big oak tree are visible in the background. Bright blue sky with fluffy white clouds.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON VÄGA RÕÕMSAD.",
+      "scene": "Juku and Liisa are standing side-by-side in the middle of the playground, holding hands and beaming at the viewer. They both look very happy and content after their game of hide-and-seek. The large colorful slide (red and yellow), a blue swing set, and a big oak tree are visible in the background. Bright blue sky with fluffy white clouds.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
