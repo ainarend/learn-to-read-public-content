@@ -1,0 +1,95 @@
+{
+  "date": "2026-06-06",
+  "language": "et",
+  "title": "KATI JA MIHKEL EHITAVAD LIIVALOSSI",
+  "generatedAt": "2026-05-25T00:54:26.187Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KATI",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledad juuksed patsidega, seljas kollane ujumistrikoo, suured rõõmsad silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MIHKEL",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikesed pruunid juuksed, seljas sinine ujumispüksid, suured uudishimulikud silmad ja sõbralik nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "RAND",
+      "description": "A sunny, expansive sandy beach with clear blue water lapping gently at the shore in the background. The sand is light golden. A few small, scattered seashells are visible on the sand. The sky is clear blue with a few fluffy white clouds. The atmosphere is bright, warm, and joyful. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KATI JA MIHKEL ON RANNAS.",
+      "scene": "Kati and Mihkel are standing on a sunny, expansive sandy beach. Kati is a little girl with bright hair in pigtails, wearing a yellow swimsuit. Mihkel is a little boy with short brown hair, wearing blue swimming trunks. They are both smiling and looking out at the clear blue water. A few small, scattered seashells are on the sand. The sky is clear blue with fluffy white clouds. The atmosphere is bright and joyful. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Kati and Mihkel are standing on the sunny sandy beach, looking at each other with excited smiles. They are pointing towards the sand, as if sharing a good idea. Kati wears a yellow swimsuit, Mihkel wears blue swimming trunks. Clear blue water and a clear sky are in the background. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD KOGUVAD LIIVA.",
+      "scene": "Kati and Mihkel are kneeling on the sunny sandy beach. Kati is using a small red shovel to gather sand into a blue bucket. Mihkel is using his hands to scoop sand next to her. They both look focused and happy. The clear blue water is in the background. A few seashells are on the sand. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD TEEVAD SUURI MÄGESID.",
+      "scene": "Kati and Mihkel are working on the sunny sandy beach. They are carefully piling wet sand to form the base of a large sandcastle, creating big sand mountains. Kati is gently patting the sand with her hands. Mihkel is adding more sand from a full blue bucket. The clear blue water is in the background. They are both smiling. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD EHITAVAD KÕRGEID TORNE.",
+      "scene": "Kati and Mihkel are still building on the sunny sandy beach. They are now shaping taller, narrower sand towers on top of the large sand mountains they previously built, forming the structure of a sandcastle. Kati is using a small red trowel to smooth a tower. Mihkel is carefully adding a small amount of wet sand to another tower. Their sandcastle is starting to take shape. Clear blue water is in the background. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD PANEVAD KORKE PEALE.",
+      "scene": "Kati and Mihkel are decorating their sandcastle on the sunny sandy beach. The sandcastle now has several towers and a base. Kati is carefully placing a small white seashell on top of one of the sand towers. Mihkel is holding another seashell, ready to place it. They both look happy and proud. Clear blue water is in the background. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PÄIKE PAISTAB SOOJALT.",
+      "scene": "Kati and Mihkel are standing proudly next to their nearly finished sandcastle on the sunny sandy beach. The sandcastle is detailed with towers and shells. The sun is shining brightly and warmly over them. Kati is smiling broadly, Mihkel is giving a thumbs-up. Clear blue water and a bright blue sky with fluffy clouds are in the background. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LIIVALOSS ON VALMIS!",
+      "scene": "Kati and Mihkel are sitting on the sand next to their magnificent, fully completed sandcastle on the sunny sandy beach. The sandcastle is tall and elaborate, decorated with many seashells. Kati is clapping her hands with joy, and Mihkel is smiling widely, looking admiringly at their creation. Clear blue water and a bright blue sky are in the background. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KATI JA MIHKEL ON RÕÕMSAD.",
+      "scene": "Kati and Mihkel are standing on the sunny sandy beach, waving goodbye to their beautiful sandcastle. The sandcastle stands proudly behind them. Kati and Mihkel are holding hands, smiling happily. Clear blue water and a bright blue sky are in the background. The atmosphere is one of contentment and joy. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
