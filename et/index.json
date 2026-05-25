@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-06-03",
+  "latestDate": "2026-06-05",
   "stories": [
+    {
+      "date": "2026-06-05",
+      "title": "SIIL SASS JA KASS KATI LENNUTAVAD LOHE",
+      "pageCount": 10,
+      "characters": [
+        "SIIL SASS",
+        "KASS KATI"
+      ]
+    },
     {
       "date": "2026-06-03",
       "title": "JUKU JA LIISA MÄNGIVAD PEITUST",

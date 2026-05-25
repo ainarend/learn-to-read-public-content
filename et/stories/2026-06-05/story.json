@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-05",
+  "language": "et",
+  "title": "SIIL SASS JA KASS KATI LENNUTAVAD LOHE",
+  "generatedAt": "2026-05-25T00:10:14.384Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SASS",
+      "type": "hedgehog",
+      "description": "Väike hall siil suurte roheliste silmadega, kandmas väikest sinist vesti ja kollast särki. Tema selg on kaetud väikeste pehmete okastega. Sõbralik ja mänguline näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KASS KATI",
+      "type": "cat",
+      "description": "Väike oranž kass suurte roheliste silmadega, kandmas väikest punast kleiti. Tema saba on pikk ja kohev. Sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Aed",
+      "description": "A cozy green garden with a small wooden fence and blooming colorful flowers. The sun is shining brightly. In the background, there is a path leading to an open field. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Rohumaa",
+      "description": "A wide, green grassy field under a bright blue summer sky. In the background, there are a few gentle rolling hills with scattered green trees. The sun is shining brightly, casting soft shadows. The atmosphere is open and cheerful. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIIL SASS JA KASS KATI.",
+      "scene": "Siil Sass ja Kass Kati seisavad rõõmsalt rohelises aias, lillede ja väikese puidust aia keskel. Siil Sass on püsti ja naeratab, Kass Kati seisab tema kõrval. Päike paistab soojalt. Taustal on näha rada, mis viib avatud väljale.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON ILUS LOHE.",
+      "scene": "Siil Sass ja Kass Kati seisavad endiselt rohelises aias, lillede ja aia keskel. Kass Kati hoiab oma käppades suurt, värvilist, teemantikujulist lohet. Siil Sass vaatab lohet uudishimulikult ja rõõmsalt. Päike paistab. Taustal on näha rada, mis viib avatud väljale.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD LÄHEVAD VÄLJALE.",
+      "scene": "Siil Sass ja Kass Kati kõnnivad mööda rohelist rada aiast välja avatud rohumaa poole. Kass Kati hoiab lohet. Mõlemad on rõõmsad ja ootusärevad. Päike paistab ja taevas on sinine. Taustal on näha eemal rohelisi künkaid.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "TUUL PUHUB NÜÜD.",
+      "scene": "Siil Sass ja Kass Kati seisavad avatud rohelisel rohumaal. Kass Kati hoiab lohet. Siil Sass hoiab käes lohe nööri. Nende karvad ja riided liiguvad kergelt, mis näitab, et tuul on hakanud puhuma. Nad vaatavad üles taevasse. Päike paistab. Taustal on rohelised künkad ja puud.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD HOIAVAD LOHE.",
+      "scene": "Siil Sass ja Kass Kati seisavad avatud rohelisel rohumaal. Kass Kati hoiab lohet kindlalt maapinnast kõrgemal, valmis seda lendu laskma. Siil Sass hoiab nööri kindlalt käes. Nende näod on keskendunud ja rõõmsad. Tuul puhub kergelt. Päike paistab. Taustal on rohelised künkad ja puud.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LOHE TÕUSEB KÕRGELE.",
+      "scene": "Siil Sass ja Kass Kati vaatavad üles avatud rohelisel rohumaal. Värviline lohe on just maapinnalt tõusnud ja lendab kergelt taevasse. Lohe nöör on Siil Sassi käes. Mõlemad tegelased on väga elevil ja rõõmsad. Tuul puhub tugevamalt. Päike paistab. Taustal on rohelised künkad ja puud.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD JOOKSEVAD LOHEGA.",
+      "scene": "Siil Sass ja Kass Kati jooksevad rõõmsalt üle avatud rohelise rohumaa, käed õhus. Lohe lendab nende kohal kõrgel sinises taevas, nöör kindlalt Siil Sassi käes. Mõlemad on naeratavad ja energilised. Päike paistab. Taustal on rohelised künkad ja puud.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LOHE ON TAEVAS.",
+      "scene": "Siil Sass ja Kass Kati seisavad rõõmsalt avatud rohelisel rohumaal ja vaatavad üles. Värviline lohe on nüüd väga kõrgel sinises taevas. Lohe nöör on endiselt Siil Sassi käes. Nende näod on imetluses ja õnnelikud. Päike paistab. Taustal on rohelised künkad ja puud.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "VÄRVID SÄRAVAD SEAL.",
+      "scene": "Lähivõte värvilisest lohest, mis lendab kõrgel sinises taevas. Lohe paistab eredalt päikese käes ja selle värvid säravad. Allpool on uduselt näha roheline rohumaa ja eemal künkad. Taevas on selge ja helge.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SASS JA KATI ON RÕÕMSAD.",
+      "scene": "Siil Sass ja Kass Kati istuvad koos rohelisel rohumaal ja vaatavad üles taevasse lendavat lohet. Mõlemad naeratavad laialt ja on väga õnnelikud oma saavutuse üle. Siil Sass hoiab lohe nööri, mis ulatub üles taevasse. Päike paistab. Taustal on rohelised künkad ja puud.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
