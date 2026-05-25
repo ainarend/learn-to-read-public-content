@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-06-06",
+  "latestDate": "2026-06-07",
   "stories": [
+    {
+      "date": "2026-06-07",
+      "title": "ANU JA PEETER TEEVAD SIDRUNIJOOKI",
+      "pageCount": 8,
+      "characters": [
+        "ANU",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-06-06",
       "title": "KATI JA MIHKEL EHITAVAD LIIVALOSSI",

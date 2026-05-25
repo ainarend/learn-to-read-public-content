@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-07",
+  "language": "et",
+  "title": "ANU JA PEETER TEEVAD SIDRUNIJOOKI",
+  "generatedAt": "2026-05-25T01:38:35.681Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ANU",
+      "type": "human",
+      "description": "Väike inimene, tüdruk. Väikeste blondide patsidega, kandmas roosat T-särki ja siniseid lühikesi pükse. Suurte rõõmsate silmadega ja sõbraliku näoilmega. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, poiss. Lühikeste pruunide juustega, kandmas rohelist T-särki ja beeže lühikesi pükse. Suurte sõbralike silmadega ja uudishimuliku näoilmega. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Bright and cheerful kitchen with light yellow walls, a light wooden floor, and a large window on the back wall showing green summer trees and a bright blue sky. A simple wooden table is in the center with two small chairs. There are light-colored wooden cabinets on one wall. Warm, sunny light streams from the window. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "AED",
+      "description": "Sunny summer garden with lush green grass and a few colorful flowers blooming in the background. A small wooden picnic table with two small benches sits under a leafy green tree. Bright blue sky with a few fluffy white clouds. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "NEIL ON KUUM.",
+      "scene": "Anu and Peeter are sitting at the small wooden kitchen table in the center of the room. Anu is fanning herself with one hand, and Peeter is wiping his forehead, both looking a bit warm. Bright sun shines through the large window showing green summer trees. The kitchen has light yellow walls and a wooden floor.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD JAHEDAT JOOKI.",
+      "scene": "Anu and Peeter are still at the kitchen table. Anu is looking at Peeter with a hopeful expression, pointing towards the kitchen counter where a bowl of bright yellow lemons is visible. Peeter is nodding in agreement, also looking hopeful. The kitchen has light yellow walls and a wooden floor.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD SIDRUNID.",
+      "scene": "Anu is standing on a small wooden step stool next to the kitchen counter, reaching for a bowl of bright yellow lemons. Peeter stands next to her, looking on with anticipation. The kitchen has light yellow walls, a wooden floor, and wooden cabinets visible.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÕIKAVAD SIDRUNID POOLEKS.",
+      "scene": "Anu and Peeter are at the kitchen table. Anu carefully holds one half of a bright yellow lemon. Peeter is holding a child-safe plastic knife, gently pressing it against another lemon half on a small cutting board, pretending to cut it. They are focused and engaged. The kitchen has light yellow walls and a wooden floor.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD PIGISTAVAD SIDRUNIMAHLA.",
+      "scene": "Anu and Peeter are at the kitchen table. Anu holds a lemon half over a manual juicer, squeezing the juice into a large clear pitcher. Peeter watches, holding another lemon half ready to be squeezed. The pitcher already contains some lemon juice. The kitchen has light yellow walls and a wooden floor.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LISAVAD VEE JA SUHKRU.",
+      "scene": "Anu is carefully pouring water from a small pitcher into the larger pitcher that now contains the lemon juice. Peeter is carefully spooning white sugar from a small bowl into the large pitcher. Both are concentrating on their tasks. The kitchen has light yellow walls and a wooden floor.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "JOOK ON VALMIS!",
+      "scene": "Anu and Peeter are sitting at the small wooden picnic table in a sunny summer garden. Each holds a glass of freshly made lemonade with a small lemon slice. They are smiling brightly, looking proud of their drink. The garden has lush green grass and a leafy green tree.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SEE ON VÄGA MAGUS JA HEA.",
+      "scene": "Anu and Peeter are happily drinking their lemonade in the sunny garden, looking refreshed and content. They are still sitting at the small picnic table, enjoying the cool drink on a warm day. The garden has lush green grass and a leafy green tree.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    }
+  ]
+}
