@@ -1,93 +1,100 @@
 {
   "date": "2026-06-07",
   "language": "et",
-  "title": "ANU JA PEETER TEEVAD SIDRUNIJOOKI",
-  "generatedAt": "2026-05-25T01:38:35.681Z",
+  "title": "KARU KALLE JA REBANE REIN METSAS",
+  "generatedAt": "2026-05-31T21:08:56.349Z",
   "characters": [
     {
       "id": "char1",
-      "name": "ANU",
-      "type": "human",
-      "description": "Väike inimene, tüdruk. Väikeste blondide patsidega, kandmas roosat T-särki ja siniseid lühikesi pükse. Suurte rõõmsate silmadega ja sõbraliku näoilmega. Armas multifilmistiil.",
+      "name": "KARU KALLE",
+      "type": "bear",
+      "description": "Väike pruun karu pehmete ümarate kõrvadega, kandmas sinist lühikeste varrukatega särki. Tal on lai naeratus ja sõbralikud pruunid silmad. Armas multifilmistiil, sõbralik ja rõõmsameelne.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "PEETER",
-      "type": "human",
-      "description": "Väike inimene, poiss. Lühikeste pruunide juustega, kandmas rohelist T-särki ja beeže lühikesi pükse. Suurte sõbralike silmadega ja uudishimuliku näoilmega. Armas multifilmistiil.",
+      "name": "REBANE REIN",
+      "type": "fox",
+      "description": "Väike oranž rebane koheva valgeotsalise sabaga, kandmas rohelist t-särki. Tal on uudishimulik näoilme ja teravad nutikad silmad. Armas multifilmistiil, erk ja mänguline.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "KÖÖK",
-      "description": "Bright and cheerful kitchen with light yellow walls, a light wooden floor, and a large window on the back wall showing green summer trees and a bright blue sky. A simple wooden table is in the center with two small chairs. There are light-colored wooden cabinets on one wall. Warm, sunny light streams from the window. Cartoon style.",
+      "name": "Metsatee",
+      "description": "A sunny forest path. Tall, friendly-looking green trees with vibrant leaves line the path. Soft green moss and small ferns grow on the sides of the path. Warm, bright sunlight filters through the leaves, creating dappled patterns of light and shadow on the dirt path. The atmosphere is inviting and peaceful. Cartoon style.",
       "image": "loc1.png"
     },
     {
       "id": "loc2",
-      "name": "AED",
-      "description": "Sunny summer garden with lush green grass and a few colorful flowers blooming in the background. A small wooden picnic table with two small benches sits under a leafy green tree. Bright blue sky with a few fluffy white clouds. Cartoon style.",
+      "name": "Maasikate plats",
+      "description": "A hidden, sunny forest clearing. Wild strawberry plants with bright green leaves and small, vibrant red berries cover patches of the ground. The clearing is surrounded by tall, green, friendly-looking trees. Soft green grass and moss underfoot. The sunlight is bright and warm, illuminating the berries. Cartoon style.",
       "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "NEIL ON KUUM.",
-      "scene": "Anu and Peeter are sitting at the small wooden kitchen table in the center of the room. Anu is fanning herself with one hand, and Peeter is wiping his forehead, both looking a bit warm. Bright sun shines through the large window showing green summer trees. The kitchen has light yellow walls and a wooden floor.",
+      "text": "KARU KALLE JA REBANE REIN LÄHEVAD METSA.",
+      "scene": "Karu Kalle ja Rebane Rein kõnnivad rõõmsalt mööda päikesepaistelist metsa teed. Kalle hoiab käes tühja väikest punast korvi. Mõlemad naeratavad ja vaatavad edasi. Tee on rohelise sambla ja puudega ääristatud. Päikesekiired paistavad läbi puude. Armas multifilmistiil.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NAD TAHAVAD JAHEDAT JOOKI.",
-      "scene": "Anu and Peeter are still at the kitchen table. Anu is looking at Peeter with a hopeful expression, pointing towards the kitchen counter where a bowl of bright yellow lemons is visible. Peeter is nodding in agreement, also looking hopeful. The kitchen has light yellow walls and a wooden floor.",
+      "text": "NAD OTSIVAD MAIUSPALA METSAST.",
+      "scene": "Karu Kalle ja Rebane Rein kõnnivad mööda päikesepaistelist metsa teed, vaadates uudishimulikult ringi. Kalle hoiab endiselt punast korvi. Rein osutab esikäpaga puude vahele. Mõlemad on elevil ja otsivad midagi põnevat. Päikesekiired paistavad läbi puude. Armas multifilmistiil.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD VÕTAVAD SIDRUNID.",
-      "scene": "Anu is standing on a small wooden step stool next to the kitchen counter, reaching for a bowl of bright yellow lemons. Peeter stands next to her, looking on with anticipation. The kitchen has light yellow walls, a wooden floor, and wooden cabinets visible.",
+      "text": "METS ON VAIKNE JA ILUS.",
+      "scene": "Karu Kalle ja Rebane Rein seisavad rahulikult sügavamal metsa teel. Kalle hoiab korvi, Rein nuusutab õhku. Nende ümber on tihedad rohelised puud ja pehme sammal. Päikesevalgus langeb maapinnale, luues rahuliku ja kauni meeleolu. Armas multifilmistiil.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD LÕIKAVAD SIDRUNID POOLEKS.",
-      "scene": "Anu and Peeter are at the kitchen table. Anu carefully holds one half of a bright yellow lemon. Peeter is holding a child-safe plastic knife, gently pressing it against another lemon half on a small cutting board, pretending to cut it. They are focused and engaged. The kitchen has light yellow walls and a wooden floor.",
+      "text": "NAD NÄEVAD PUNASEID MARJU.",
+      "scene": "Karu Kalle ja Rebane Rein on sisenenud metsalagendikule. Nad näevad maapinnal kasvavaid rohelisi maasikalehti punaste marjadega. Kalle hoiab korvi, samal ajal kui Rein on kummardunud ja osutab rõõmsalt maasikatele. Mõlemad on üllatunud ja õnnelikud. Päike paistab eredalt lagendikule. Armas multifilmistiil.",
       "image": "page4.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 5,
-      "text": "NAD PIGISTAVAD SIDRUNIMAHLA.",
-      "scene": "Anu and Peeter are at the kitchen table. Anu holds a lemon half over a manual juicer, squeezing the juice into a large clear pitcher. Peeter watches, holding another lemon half ready to be squeezed. The pitcher already contains some lemon juice. The kitchen has light yellow walls and a wooden floor.",
+      "text": "NEED ON MAGUSAD MAASIKAD.",
+      "scene": "Karu Kalle ja Rebane Rein on metsalagendikul maasikataimede juures. Rein on kummardunud ja uurib lähedalt ühte punast maasikat. Kalle naeratab rõõmsalt, hoides endiselt punast korvi. Nende ümber on palju maasikalehti ja marju. Ereda päikesevalgusega lagendik. Armas multifilmistiil.",
       "image": "page5.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 6,
-      "text": "NAD LISAVAD VEE JA SUHKRU.",
-      "scene": "Anu is carefully pouring water from a small pitcher into the larger pitcher that now contains the lemon juice. Peeter is carefully spooning white sugar from a small bowl into the large pitcher. Both are concentrating on their tasks. The kitchen has light yellow walls and a wooden floor.",
+      "text": "KALLE KOGUB MARJU KORVI.",
+      "scene": "Karu Kalle kükitab metsalagendikul maasikataimede keskel. Ta korjab hoolikalt punaseid maasikaid ja asetab neid oma punasesse korvi, mis on osaliselt juba täidetud. Rein seisab tema kõrval ja vaatab innukalt pealt. Lagendik on täis maasikalehti ja marju. Armas multifilmistiil.",
       "image": "page6.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 7,
-      "text": "JOOK ON VALMIS!",
-      "scene": "Anu and Peeter are sitting at the small wooden picnic table in a sunny summer garden. Each holds a glass of freshly made lemonade with a small lemon slice. They are smiling brightly, looking proud of their drink. The garden has lush green grass and a leafy green tree.",
+      "text": "REIN AITAB KOGUDA MARJU.",
+      "scene": "Rebane Rein kükitab metsalagendikul Karu Kalle kõrval. Mõlemad korjavad punaseid maasikaid ja panevad neid Kalle punasesse korvi. Korv on nüüd peaaegu täis. Mõlemad naeratavad ja teevad koostööd. Maasikalehed ja marjad katavad maapinda. Armas multifilmistiil.",
       "image": "page7.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 8,
-      "text": "SEE ON VÄGA MAGUS JA HEA.",
-      "scene": "Anu and Peeter are happily drinking their lemonade in the sunny garden, looking refreshed and content. They are still sitting at the small picnic table, enjoying the cool drink on a warm day. The garden has lush green grass and a leafy green tree.",
+      "text": "KORV ON MAASIKAID TÄIS.",
+      "scene": "Karu Kalle ja Rebane Rein seisavad rõõmsalt metsalagendikul. Kalle hoiab nüüd täiesti täis punast korvi, mis on pungil sätendavaid punaseid maasikaid. Rein osutab korvile ja mõlemad naeratavad laialt, tundes uhkust oma saagi üle. Lagendik on endiselt päikesepaisteline. Armas multifilmistiil.",
       "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD SÖÖVAD MAGUSAID MAASIKAID.",
+      "scene": "Karu Kalle ja Rebane Rein istuvad rõõmsalt metsalagendikul rohelise rohu peal. Nende ees on punane korv, mis on veel poolenisti maasikaid täis. Kalle sööb ühte maasikat, Rein on just teise suhu panemas. Mõlemad on õnnelikud ja naudivad magusaid marju. Päikeseline ja rahulik hetk. Armas multifilmistiil.",
+      "image": "page9.png",
       "location_id": "loc2"
     }
   ]
