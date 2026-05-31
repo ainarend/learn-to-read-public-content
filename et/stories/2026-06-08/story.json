@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-08",
+  "language": "et",
+  "title": "SIIM JA LIISA TEEVAD PAADI",
+  "generatedAt": "2026-05-31T21:55:39.748Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SIIM",
+      "type": "hedgehog",
+      "description": "Väike pruun siil, ümarate kõrvade ja terava ninaga. Tal on seljas väike sinine vest. Sõbralik ja uudishimulik. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LIND LIISA",
+      "type": "bird",
+      "description": "Väike kollane lind, oranži noka ja suurte silmadega. Tal on peas väike roosa vibu. Rõõmsameelne ja energiline. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Tuba",
+      "description": "Cozy children's room with light blue walls and a wooden floor. A small, low, round wooden table is in the center. Two small chairs are placed around it. A single window on the back wall shows a sunny green garden outside. Plain walls with no decorations. Warm natural light from the window. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Õues tiigi ääres",
+      "description": "Sunny, lush green garden with vibrant green grass. A small, calm pond with lily pads and clear water is in the foreground. Tall green bushes and some colorful summer flowers are in the background. Bright blue sky with fluffy white clouds. Cheerful outdoor atmosphere. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIIL SIIM JA LIND LIISA ON TOAS.",
+      "scene": "Siil Siim sits at the small round wooden table, looking thoughtful. Lind Liisa perches on the back of his chair, looking at him with curiosity. The room has light blue walls, wooden floor, and a window showing a sunny green garden. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Siil Siim and Lind Liisa are both smiling happily at the small round wooden table. Siim is looking at a blank piece of colorful paper in front of him, and Liisa is flapping her wings excitedly. The room has light blue walls, wooden floor, and a window showing a sunny green garden. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD PABERI.",
+      "scene": "Siil Siim sits at the small round wooden table, holding a bright blue piece of paper in his paws. Lind Liisa is perched on the table next to him, pecking gently at the paper with her beak. The room has light blue walls, wooden floor, and a window showing a sunny green garden. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD MURRAVAD PABERIT.",
+      "scene": "Siil Siim sits at the small round wooden table, carefully folding the blue paper with his paws. Lind Liisa watches him intently, her head tilted, looking at the folding paper. The room has light blue walls, wooden floor, and a window showing a sunny green garden. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PAAT ON VALMIS!",
+      "scene": "Siil Siim holds up a finished, small blue paper boat in his paws, smiling proudly. Lind Liisa is perched on his head, looking at the boat with wide, happy eyes. The small round wooden table and chairs are behind them. The room has light blue walls, wooden floor, and a window showing a sunny green garden. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LÄHEVAD ÕUE.",
+      "scene": "Siil Siim and Lind Liisa walk together on lush green grass in a sunny garden. Siim holds the blue paper boat carefully. Liisa flies slightly above him. A small pond is visible ahead of them. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "TIIGIS ON VESI.",
+      "scene": "Siil Siim and Lind Liisa stand next to the edge of a small, calm pond in a sunny garden. The pond has lily pads. Siim points a paw towards the water, holding the paper boat in his other paw. Liisa looks at the water excitedly. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD PANEB PAADI VETTE.",
+      "scene": "Siil Siim gently places the blue paper boat onto the surface of the small pond. Lind Liisa is perched on his back, watching the boat touch the water. Lily pads are around the boat. The sunny garden background is visible. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PAAT SÕIDAB HOOGSALT.",
+      "scene": "The small blue paper boat is now floating freely on the pond, moving slightly. Siil Siim and Lind Liisa watch it, both smiling happily. The sunny garden and pond with lily pads are visible. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SIIM JA LIISA ON RÕÕMSAD.",
+      "scene": "Siil Siim and Lind Liisa stand close together by the pond, looking at their sailing paper boat. They are both smiling widely, filled with joy. The lush green garden and pond provide a cheerful backdrop. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

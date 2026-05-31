@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-06-07",
+  "latestDate": "2026-06-08",
   "stories": [
+    {
+      "date": "2026-06-08",
+      "title": "SIIM JA LIISA TEEVAD PAADI",
+      "pageCount": 10,
+      "characters": [
+        "SIIL SIIM",
+        "LIND LIISA"
+      ]
+    },
     {
       "date": "2026-06-07",
       "title": "KARU KALLE JA REBANE REIN METSAS",
