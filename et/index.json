@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-06-09",
+  "latestDate": "2026-06-10",
   "stories": [
+    {
+      "date": "2026-06-10",
+      "title": "ORAV OTT JA HIIR HELMI MAALIVAD",
+      "pageCount": 10,
+      "characters": [
+        "ORAV OTT",
+        "HIIR HELMI"
+      ]
+    },
     {
       "date": "2026-06-09",
       "title": "MIRA JA OTTO EHITAVAD LIIVALOSSI",
