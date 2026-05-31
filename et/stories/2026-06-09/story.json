@@ -1,0 +1,95 @@
+{
+  "date": "2026-06-09",
+  "language": "et",
+  "title": "MIRA JA OTTO EHITAVAD LIIVALOSSI",
+  "generatedAt": "2026-05-31T22:39:43.688Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MIRA",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledate juustega, kannab kollast ujumisriietust ja punast nokamütsi, suured rõõmsad silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "OTTO",
+      "type": "human",
+      "description": "Väike inimene, poiss, tumedate juustega, kannab sinist ujumispüksid ja rohelist särki, suured sõbralikud silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "RAND",
+      "description": "A sunny sandy beach with soft golden sand. Clear blue ocean water gently laps at the shore in the background. A few fluffy white clouds are in the bright blue sky. There are no other people or objects visible, only the sand, ocean, and sky. The atmosphere is peaceful and cheerful. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MIRA JA OTTO ON RANNAS.",
+      "scene": "Mira, a small girl with blonde hair wearing a yellow swimsuit and red baseball cap, and Otto, a small boy with dark hair wearing blue swim shorts and a green t-shirt, stand on a sunny sandy beach. They are looking around with happy, excited expressions. The clear blue ocean water is visible in the background. Fluffy white clouds are in the bright blue sky. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD LIIVALOSSI EHITADA.",
+      "scene": "Mira and Otto stand on a sunny sandy beach, looking at each other and smiling. Otto holds a small red shovel, and Mira holds a small blue bucket. They both look eager to start playing. The clear blue ocean water is visible in the background. Fluffy white clouds are in the bright blue sky. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD KAEVAVAD LIIVA.",
+      "scene": "Mira and Otto are kneeling on the sunny sandy beach. Otto uses his red shovel to dig sand into Mira's blue bucket. Mira watches intently, holding her bucket steady. A small mound of sand is forming next to them. The clear blue ocean water is visible in the background. Fluffy white clouds are in the bright blue sky. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "OTTO LISAB VETT.",
+      "scene": "Otto is sitting on the sunny sandy beach, holding his blue bucket filled with water. He carefully pours the water onto a growing mound of sand, where Mira is already starting to shape a base for a sandcastle. Mira looks on, ready to help. The clear blue ocean water is visible in the background. Fluffy white clouds are in the bright blue sky. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIRA TEEB TORNE.",
+      "scene": "Mira is kneeling on the sunny sandy beach, using her blue bucket to create a sand tower for their sandcastle. She carefully lifts the bucket, revealing a perfect sand tower. Otto watches with an amazed expression. The sandcastle foundation is clearly visible. The clear blue ocean water is visible in the background. Fluffy white clouds are in the bright blue sky. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LOSS KASVAB SUUREKS.",
+      "scene": "Mira and Otto are both working on their sandcastle on the sunny sandy beach. The sandcastle is now quite large, with multiple towers and walls. Otto is patting sand onto a wall, and Mira is adding more sand to a tower. They both look focused and happy. The clear blue ocean water is visible in the background. Fluffy white clouds are in the bright blue sky. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD KAUNISTAVAD LOSSI.",
+      "scene": "Mira and Otto are decorating their large sandcastle on the sunny sandy beach. Mira is carefully placing a small, smooth white seashell on one of the castle's towers. Otto is holding another seashell, looking for a spot to place it. The completed sandcastle is detailed with towers and walls. The clear blue ocean water is visible in the background. Fluffy white clouds are in the bright blue sky. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LIIVALOSS ON VALMIS.",
+      "scene": "Mira and Otto stand proudly next to their finished, beautifully decorated sandcastle on the sunny sandy beach. The sandcastle is large and impressive, adorned with several small white seashells. Mira and Otto are smiling broadly, looking at their creation. The clear blue ocean water is visible in the background. Fluffy white clouds are in the bright blue sky. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MIRA JA OTTO ON RÕÕMSAD.",
+      "scene": "Mira and Otto are sitting happily on the sunny sandy beach, a little distance from their magnificent sandcastle. They are laughing and giving each other a high-five, celebrating their achievement. The finished sandcastle is visible in the background. The clear blue ocean water is visible. Fluffy white clouds are in the bright blue sky. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
