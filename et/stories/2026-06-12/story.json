@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-12",
+  "language": "et",
+  "title": "JUKU JA LIISA MÄNGIVAD PEITUST",
+  "generatedAt": "2026-06-01T00:10:41.845Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne poiss. Tal on lühikesed pruunid juuksed. Seljas on sinine T-särk ja lühikesed püksid. Jalas on kollased jalanõud. Sõbralik ja mänguhimuline, armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, rõõmsameelne tüdruk. Tal on pikad blondid patsid. Seljas on roosa kleit. Jalas on punased sandaalid. Naeratav ja energiline, armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Pargi mänguväljak",
+      "description": "Park playground with bright green grass, a large blue slide, yellow swings, and a red climbing frame. Background shows green trees and a clear blue summer sky. Warm bright sunlight. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUKU JA LIISA ON PARGIS.",
+      "scene": "JUKU, a happy little boy with short brown hair, wearing a blue T-shirt and shorts, and LIISA, a happy little girl with long blonde braids, wearing a pink dress, are standing together on the bright green grass in a park playground. Behind them are a large blue slide, yellow swings, and a red climbing frame. Green trees and a clear blue summer sky are in the background. They are looking around, smiling. Warm bright sunlight.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD MÄNGIDA.",
+      "scene": "JUKU and LIISA are standing in the park playground, looking at each other with happy, excited expressions. JUKU has his hands on his hips, and LIISA is gesturing with her hands as if suggesting something. The bright green grass, large blue slide, yellow swings, and red climbing frame are visible. Green trees and a clear blue summer sky are in the background. Warm bright sunlight.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LIISA HAKKAB LUGEMA.",
+      "scene": "LIISA is standing with her back against the red climbing frame in the park playground, covering her eyes with her hands. JUKU is starting to run away to hide. The bright green grass, large blue slide, and yellow swings are visible. Green trees and a clear blue summer sky are in the background. Warm bright sunlight.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "JUKU PEIDAB END PUUDE TAHA.",
+      "scene": "JUKU is peeking from behind a thick green tree trunk at the edge of the park playground. Only part of his body is visible. He has a playful, mischievous smile. LIISA is not visible. The bright green grass, large blue slide, yellow swings, and red climbing frame are also visible in the distance. Green trees and a clear blue summer sky are in the background. Warm bright sunlight.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LIISA OTSIB JUKUT HOOLEGA.",
+      "scene": "LIISA is walking slowly and carefully on the bright green grass in the park playground, looking around with a focused but happy expression. Her hands are cupped around her eyes, pretending to search. The large blue slide, yellow swings, and red climbing frame are visible. Green trees and a clear blue summer sky are in the background. JUKU is hidden from view. Warm bright sunlight.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TA NÄEB JUKU JALGU.",
+      "scene": "LIISA is kneeling down slightly on the bright green grass in the park playground, looking intently towards the base of a green tree trunk. She has a surprised and happy expression, as she has spotted something. Partially visible behind the tree are JUKU's yellow shoes and the bottom of his shorts. The large blue slide, yellow swings, and red climbing frame are visible. Green trees and a clear blue summer sky are in the background. Warm bright sunlight.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LIISA LEIAB JUKU ÜLES.",
+      "scene": "LIISA is standing in front of the green tree trunk in the park playground, pointing playfully at JUKU, who has fully emerged from behind the tree. Both JUKU and LIISA are laughing happily. The bright green grass, large blue slide, yellow swings, and red climbing frame are visible. Green trees and a clear blue summer sky are in the background. Warm bright sunlight.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "JUKU ON VÄGA RÕÕMUS.",
+      "scene": "JUKU is standing in the park playground, throwing his arms up in the air in a gesture of playful excitement and happiness, smiling broadly. LIISA is standing next to him, also smiling. The bright green grass, large blue slide, yellow swings, and red climbing frame are visible. Green trees and a clear blue summer sky are in the background. Warm bright sunlight.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD MÄNGIVAD EDASI.",
+      "scene": "JUKU and LIISA are running playfully across the bright green grass in the park playground, holding hands and laughing. They are moving towards the yellow swings. The large blue slide and red climbing frame are visible in the background. Green trees and a clear blue summer sky are in the background. Warm bright sunlight.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEE ON VAHVA PÄEV.",
+      "scene": "JUKU and LIISA are sitting happily side-by-side on one of the yellow swings in the park playground, smiling at the viewer. Their legs are dangling. The bright green grass, large blue slide, and red climbing frame are visible. Green trees and a clear blue summer sky are in the background. Warm bright sunlight.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
