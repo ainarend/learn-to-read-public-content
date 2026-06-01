@@ -1,0 +1,95 @@
+{
+  "date": "2026-06-13",
+  "language": "et",
+  "title": "MARI JA PEETER TEEVAD PAADI",
+  "generatedAt": "2026-06-01T00:54:52.521Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene tüdruk, roosade põskedega. Tal on blondid patsid ja seljas kollane kleit. Tal on suured rõõmsad silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene poiss, pruunide juustega. Tal on seljas sinine särk ja rohelised lühikesed püksid. Ta on uudishimulik ja abivalmis. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Jõekallas",
+      "description": "Sunny river bank with calm, clear blue water on the left, grassy green bank on the right. A few smooth grey rocks near the water's edge. Green trees and bushes visible in the background across the river. Bright blue sky with a few fluffy white clouds. Warm summer day. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MARI JA PEETER ON JÕE ÄÄRES.",
+      "scene": "Mari ja Peeter are standing next to each other on a sunny grassy river bank. The calm, clear blue river water is to their left. They are looking at the river with curious and happy expressions. Green trees and bushes are visible across the river in the background. A few smooth grey rocks are near the water's edge. Bright blue sky with a few fluffy white clouds. Warm summer day. Mari is wearing a yellow dress and Peeter is wearing a blue shirt and green shorts.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Mari and Peeter are still standing on the sunny grassy river bank, looking at the calm blue river. They are smiling at each other with bright, excited expressions, as if they just had a brilliant idea. Mari has her finger on her chin, thinking. Peeter has a wide smile. Green trees and bushes are visible across the river in the background. A few smooth grey rocks are near the water's edge. Bright blue sky with a few fluffy white clouds. Mari is wearing a yellow dress and Peeter is wearing a blue shirt and green shorts.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TAHAVAD PAATI TEHA.",
+      "scene": "Mari and Peeter are now kneeling on the grassy river bank, facing each other. They both have thoughtful and determined expressions. Mari is gesturing towards the calm blue river with one hand. Peeter is nodding. Green trees and bushes are visible across the river in the background. A few smooth grey rocks are near the water's edge. Bright blue sky with a few fluffy white clouds. Mari is wearing a yellow dress and Peeter is wearing a blue shirt and green shorts.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD PABERI.",
+      "scene": "Mari and Peeter are kneeling on the grassy river bank. Mari is holding up a colourful piece of red paper in her hands. Peeter is looking at the paper with interest. They are both smiling. The calm blue river is beside them. Green trees and bushes are visible across the river in the background. A few smooth grey rocks are near the water's edge. Bright blue sky with a few fluffy white clouds. Mari is wearing a yellow dress and Peeter is wearing a blue shirt and green shorts.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD MURDVAD PABERIT.",
+      "scene": "Mari and Peeter are kneeling on the grassy river bank. They are both focused on folding the red piece of paper carefully with their hands. The paper is partially folded into a boat shape. The calm blue river is beside them. Green trees and bushes are visible across the river in the background. A few smooth grey rocks are near the water's edge. Bright blue sky with a few fluffy white clouds. Mari is wearing a yellow dress and Peeter is wearing a blue shirt and green shorts.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD TEEVAD ILUSA PAADI.",
+      "scene": "Mari and Peeter are kneeling on the grassy river bank, holding up a completed, beautifully folded red paper boat. They are smiling proudly at their creation. The paper boat has a simple, clean design. The calm blue river is beside them. Green trees and bushes are visible across the river in the background. A few smooth grey rocks are near the water's edge. Bright blue sky with a few fluffy white clouds. Mari is wearing a yellow dress and Peeter is wearing a blue shirt and green shorts.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PAAT LÄHEB NÜÜD VETTE.",
+      "scene": "Mari and Peeter are kneeling at the very edge of the grassy river bank. Peeter is carefully placing the red paper boat into the calm blue water. Mari is watching with eager anticipation. The paper boat is touching the water's surface. Green trees and bushes are visible across the river in the background. A few smooth grey rocks are near the water's edge. Bright blue sky with a few fluffy white clouds. Mari is wearing a yellow dress and Peeter is wearing a blue shirt and green shorts.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PAAT UJUB EEMALE.",
+      "scene": "Mari and Peeter are sitting on the grassy river bank, watching their red paper boat gently float away on the calm blue river. The boat is now a little distance from the bank. Both children have peaceful and happy expressions. Green trees and bushes are visible across the river in the background. A few smooth grey rocks are near the water's edge. Bright blue sky with a few fluffy white clouds. Mari is wearing a yellow dress and Peeter is wearing a blue shirt and green shorts.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MARI JA PEETER ON RÕÕMSAD.",
+      "scene": "Mari and Peeter are sitting closely together on the sunny grassy river bank, smiling broadly and looking very happy. They are watching their red paper boat, which is now a small speck floating further away on the calm blue river. Their faces are filled with joy. Green trees and bushes are visible across the river in the background. A few smooth grey rocks are near the water's edge. Bright blue sky with a few fluffy white clouds. Mari is wearing a yellow dress and Peeter is wearing a blue shirt and green shorts.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
