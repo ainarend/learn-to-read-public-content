@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-06-15",
+  "latestDate": "2026-06-16",
   "stories": [
+    {
+      "date": "2026-06-16",
+      "title": "LIISA JA PEETER TEEVAD SALATIT",
+      "pageCount": 10,
+      "characters": [
+        "LIISA",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-06-15",
       "title": "REIN JA SIIRI TEEVAD LINNUMAJA",
