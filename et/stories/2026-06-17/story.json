@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-17",
+  "language": "et",
+  "title": "KATI JA OTT TEEVAD PAADI",
+  "generatedAt": "2026-06-07T23:24:48.122Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KARU KATI",
+      "type": "bear",
+      "description": "Väike pruun karu, pehmete karvadega. Tal on seljas sinine vest ja peas roheline müts. Suured sõbralikud silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike punakaspruun orav, koheva sabaga. Tal on seljas kollane särk ja käpas pisike puitpulk. Uudishimulikud silmad ja rõõmsameelne nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "JÄRVE ÄÄRNE METS",
+      "description": "A sunny forest clearing next to a calm blue pond. The pond has clear blue water. Green grass covers the ground. Tall green trees with lush foliage surround the clearing. A few smooth grey rocks are near the pond's edge. Warm sunlight filters through the trees. Cheerful, natural cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KARU KATI JA ORAV OTT.",
+      "scene": "KARU KATI, a small brown bear wearing a blue vest and green hat, and ORAV OTT, a small reddish-brown squirrel wearing a yellow shirt, are standing next to a calm blue pond in a sunny forest clearing. They are looking at the water with curious, happy expressions. Tall green trees surround them and green grass covers the ground.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "KARU KATI, the small brown bear, and ORAV OTT, the small reddish-brown squirrel, are still standing by the calm blue pond in the sunny forest clearing. Kati points towards the water with a paw, looking excited. Ott nods eagerly. They both have bright, happy expressions.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "TEEME VÄIKESE PAADI.",
+      "scene": "KARU KATI, the small brown bear, and ORAV OTT, the small reddish-brown squirrel, are now on the green grass a little away from the pond's edge in the sunny forest clearing. Kati holds up a small, flat piece of light-brown bark in her paws. Ott looks at it with interest. They are discussing their idea, both smiling.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "OTT OTSIB OKSI.",
+      "scene": "ORAV OTT, the small reddish-brown squirrel, is scampering near the base of a tall green tree in the sunny forest clearing, searching for small sticks or twigs on the green grass. KARU KATI, the small brown bear, sits on a smooth grey rock near the calm blue pond, watching Ott and smiling.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KATI VÕTAB LEHTI.",
+      "scene": "KARU KATI, the small brown bear, is gently pulling a large, vibrant green leaf from a low-hanging bush or branch near the pond in the sunny forest clearing. ORAV OTT, the small reddish-brown squirrel, returns to Kati, holding a few small twigs in his paws, looking pleased.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD EHITAVAD PAADI.",
+      "scene": "KARU KATI, the small brown bear, and ORAV OTT, the small reddish-brown squirrel, are sitting together on the green grass near the pond in the sunny forest clearing. Kati holds the piece of bark. Ott is carefully attaching a twig (which serves as a mast) to it, using a large green leaf as a sail. They are focused and working together, smiling slightly.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PAAT LÄHEB VETTE.",
+      "scene": "KARU KATI, the small brown bear, carefully places their small, handmade boat (made of bark, twig mast, and leaf sail) onto the calm blue surface of the pond. ORAV OTT, the small reddish-brown squirrel, stands next to her, looking intently at the boat as it touches the water. Both characters are smiling with anticipation.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PAAT SÕIDAB HOOGSASTI.",
+      "scene": "The small, handmade boat (made of bark, twig mast, and leaf sail) is now floating and moving across the calm blue pond in the sunny forest clearing. KARU KATI, the small brown bear, and ORAV OTT, the small reddish-brown squirrel, are standing at the edge of the pond, watching the boat with wide smiles and happy expressions.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SEE ON NII LÕBUS!",
+      "scene": "KARU KATI, the small brown bear, and ORAV OTT, the small reddish-brown squirrel, are laughing happily, clapping their paws/hands as their little boat sails on the calm blue pond. They are clearly enjoying their creation and play in the sunny forest clearing.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA RÕÕMSAD.",
+      "scene": "KARU KATI, the small brown bear, and ORAV OTT, the small reddish-brown squirrel, are sitting together on the green grass next to the calm blue pond in the sunny forest clearing. They are leaning slightly against each other, watching their boat, which is still sailing nearby. They are smiling contentedly and look very happy with their summer adventure and their friendship.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
