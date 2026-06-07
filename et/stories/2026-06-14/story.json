@@ -1,102 +1,101 @@
 {
   "date": "2026-06-14",
   "language": "et",
-  "title": "KARU KALLE JA JÄNES JULIA LIIVALOSS",
-  "generatedAt": "2026-06-01T01:41:04.921Z",
+  "title": "TIIU JA MARKUS MAALIVAD PILTI",
+  "generatedAt": "2026-06-07T21:09:38.774Z",
   "characters": [
     {
       "id": "char1",
-      "name": "KARU KALLE",
-      "type": "bear",
-      "description": "SUUR PRUUN KARU, KES KANNAB SINIST TRIIBULIST T-SÄRKI JA LÜHIKESI ROHELISI PÜKSE. TAL ON SÕBRALIK NÄGU JA TA ON ALATI ABIVALMIS. ARMAS MULTIFILMISTIIL.",
+      "name": "TIIU",
+      "type": "human",
+      "description": "Väike inimene, tüdruk. Tal on kollased juuksed, mis on krunnis, seljas sinine kleit ja punased kingad. Tal on suured rõõmsad silmad ja armas naeratus. Ta on uudishimulik ja sõbralik. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "JÄNES JULIA",
-      "type": "rabbit",
-      "description": "VÄIKE VALGE JÄNES, KES KANNAB ROOSAT SEELIKUT JA KOLLAST MÜTSIKEST. TAL ON PIKAD KÕRVAD JA VÄGA RÕÕMUS NÄGU. ARMAS MULTIFILMISTIIL.",
+      "name": "MARKUS",
+      "type": "human",
+      "description": "Väike inimene, poiss. Tal on lühikesed pruunid juuksed, seljas roheline T-särk ja lühikesed püksid ning sinised tossud. Tal on laiad rõõmsad silmad ja avatud naeratus. Ta on energiline ja abivalmis. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "RAND",
-      "description": "Sunny sandy beach with a calm blue ocean in the background. Gentle waves lap at the shore. There are a few scattered seashells on the sand. Bright blue sky with a few fluffy white clouds. The atmosphere is peaceful and joyful. Cartoon style.",
+      "name": "Mängutuba",
+      "description": "Cozy children's playroom with light yellow walls, a light wooden floor. In the center, there's a small round wooden table with two small wooden chairs. On the back wall, there's a red wooden shelf filled with colorful art supplies like paint tubes, paintbrushes, and drawing books. A single rectangular window on the left wall shows a glimpse of a sunny green garden outside. The room is brightly lit by soft natural light. Cartoon style.",
       "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Päikeseline aed",
+      "description": "A sunny, vibrant green garden with lush grass. In the background, there's a large, old oak tree. Several colorful flowers (red, yellow, blue) are blooming in small clusters around the garden. A bright blue sky with a few fluffy white clouds. A small wooden easel with a blank white canvas or paper is placed on the grass. The overall atmosphere is cheerful and calm. Cartoon style.",
+      "image": "loc2.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "KALLE JA JULIA ON RANNAS.",
-      "scene": "Karu Kalle and Jänes Julia are standing on a sunny sandy beach near the calm blue ocean. Kalle is looking at the sand, and Julia is pointing towards it with a happy expression. The sky is bright blue with fluffy white clouds. Karu Kalle wears a blue striped t-shirt and green shorts. Jänes Julia wears a pink skirt and yellow cap.",
+      "text": "TIIU JA MARKUS ON MÄNGUTOAS.",
+      "scene": "Tiiu and Markus are sitting at the small round wooden table in the playroom, looking thoughtful. The red shelf with art supplies is visible on the back wall. Warm sunlight streams from the window on the left. The room has light yellow walls and a light wooden floor.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NAD TAHAVAD LOSSI TEHA.",
-      "scene": "Karu Kalle and Jänes Julia are standing on the sunny sandy beach. Kalle is holding a small blue bucket and Julia is holding a small red shovel. They are both looking at the sand with excited expressions, ready to start. The calm blue ocean is in the background. Karu Kalle wears a blue striped t-shirt and green shorts. Jänes Julia wears a pink skirt and yellow cap.",
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Tiiu and Markus are still sitting at the table in the playroom, now smiling brightly at each other, Tiiu pointing excitedly towards the art supplies on the red shelf. Warm sunlight streams from the window. The room has light yellow walls and a light wooden floor.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD KOGUVAD LIIVA KOKKU.",
-      "scene": "Karu Kalle is kneeling on the sunny sandy beach, scooping wet sand into his blue bucket with his hands. Jänes Julia is standing next to him, using her red shovel to push sand towards the bucket. They are working together. The calm blue ocean is in the background. Karu Kalle wears a blue striped t-shirt and green shorts. Jänes Julia wears a pink skirt and yellow cap.",
+      "text": "NAD VÕTAVAD VÄRVE JA PINTLEID.",
+      "scene": "Tiiu and Markus are standing by the red wooden shelf in the playroom. Tiiu is holding a tube of blue paint, and Markus is holding a paintbrush. They are picking more art supplies from the shelf, looking happy. Warm sunlight streams from the window. The room has light yellow walls and a light wooden floor.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "NAD TEEVAD SEINAD SUURTEKS.",
-      "scene": "Karu Kalle is carefully patting down a sand wall, making it taller. Jänes Julia is standing beside him, observing with an attentive expression. A small part of the sandcastle's base with sturdy walls is now visible on the sunny sandy beach. The calm blue ocean is in the background. Karu Kalle wears a blue striped t-shirt and green shorts. Jänes Julia wears a pink skirt and yellow cap.",
+      "text": "NAD LÄHEVAD VÄLJA.",
+      "scene": "Tiiu and Markus are now standing on the vibrant green grass in the sunny garden. They have just arrived and are carrying their small box of art supplies (paints, brushes). A small wooden easel is visible nearby. The garden has a large oak tree in the background and colorful flowers. Bright blue sky above.",
       "image": "page4.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 5,
-      "text": "NAD EHITAVAD TORNE.",
-      "scene": "Karu Kalle is gently placing a small sand bucket upside down to form a tower for the sandcastle. Jänes Julia is excitedly pointing at the growing sandcastle, which now has some walls and one small tower. They are on the sunny sandy beach. The calm blue ocean is in the background. Karu Kalle wears a blue striped t-shirt and green shorts. Jänes Julia wears a pink skirt and yellow cap.",
+      "text": "NAD OTSIVAD ILUSAT PAIKA.",
+      "scene": "Tiiu and Markus are walking slowly on the vibrant green grass in the sunny garden, holding their art supplies. They are looking around at the colorful flowers and the large oak tree, trying to decide where to set up their easel and what to paint. The small wooden easel is still nearby. Bright blue sky above.",
       "image": "page5.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 6,
-      "text": "NAD KAUNISTAVAD LOSSI.",
-      "scene": "Karu Kalle is carefully placing a small seashell onto the sandcastle wall. Jänes Julia is kneeling next to the sandcastle, holding another colorful seashell, ready to place it. The sandcastle now has several walls and towers, and a few seashells are already decorating it. They are on the sunny sandy beach. The calm blue ocean is in the background. Karu Kalle wears a blue striped t-shirt and green shorts. Jänes Julia wears a pink skirt and yellow cap.",
+      "text": "NAD HAKKAVAD MAALIMA.",
+      "scene": "Tiiu and Markus are both standing at the small wooden easel in the sunny garden. A blank white paper is on the easel. Markus is holding a paintbrush, dipping it into a small palette of paints. Tiiu is holding a different brush, looking at the blank paper with anticipation. The garden has a large oak tree in the background and colorful flowers. Bright blue sky above.",
       "image": "page6.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 7,
-      "text": "LOSS SAAB ILUSAKS.",
-      "scene": "Karu Kalle and Jänes Julia are standing back slightly from their almost finished sandcastle on the sunny sandy beach. The sandcastle is now fully decorated with seashells and looks impressive with multiple towers and walls. Kalle is smiling, and Julia is clapping her hands with joy. The calm blue ocean is in the background. Karu Kalle wears a blue striped t-shirt and green shorts. Jänes Julia wears a pink skirt and yellow cap.",
+      "text": "NAD MAALIVAD ROHTU JA LILLI.",
+      "scene": "Tiiu and Markus are both painting at the easel in the sunny garden. The paper on the easel now has green grass painted at the bottom and some colorful (red, yellow) flowers emerging from it. Markus is painting the grass, and Tiiu is carefully adding a yellow flower. They are focused and smiling. The garden has a large oak tree in the background and colorful flowers. Bright blue sky above.",
       "image": "page7.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 8,
-      "text": "KALLE JA JULIA NAERATAVAD.",
-      "scene": "Karu Kalle and Jänes Julia are standing next to their beautiful sandcastle, both smiling broadly and looking at each other. Their sandcastle stands proudly behind them on the sunny sandy beach. The calm blue ocean is in the background. Karu Kalle wears a blue striped t-shirt and green shorts. Jänes Julia wears a pink skirt and yellow cap.",
+      "text": "NENDE PILT ON NÜÜD VÄGA ILUS.",
+      "scene": "Tiiu and Markus are standing back from the easel in the sunny garden, admiring their finished painting. The painting on the easel shows vibrant green grass and several colorful flowers. Both children have big, proud smiles. The garden has a large oak tree in the background and colorful flowers. Bright blue sky above.",
       "image": "page8.png",
-      "location_id": "loc1"
+      "location_id": "loc2"
     },
     {
       "pageNumber": 9,
-      "text": "SEE ON NENDE SUUR LOSS.",
-      "scene": "Karu Kalle and Jänes Julia are admiring their sandcastle from a slight distance. Kalle has his arm around Julia's shoulder, and they both look very proud of their creation. The sandcastle is big and impressive on the sunny sandy beach. The calm blue ocean is in the background. Karu Kalle wears a blue striped t-shirt and green shorts. Jänes Julia wears a pink skirt and yellow cap.",
-      "image": "page9.png",
-      "location_id": "loc1"
-    },
-    {
-      "pageNumber": 10,
       "text": "NAD ON VÄGA RÕÕMSAD.",
-      "scene": "Karu Kalle and Jänes Julia are sitting happily on the sand next to their sandcastle. Julia is holding Kalle's hand, and both have wide, joyful smiles, looking at their masterpiece. The sun is shining brightly over the calm blue ocean. Karu Kalle wears a blue striped t-shirt and green shorts. Jänes Julia wears a pink skirt and yellow cap.",
-      "image": "page10.png",
-      "location_id": "loc1"
+      "scene": "Tiiu and Markus are hugging each other gently next to their beautiful finished painting on the easel in the sunny garden. They are laughing happily and looking at their artwork. The sun shines brightly. The garden has a large oak tree in the background and colorful flowers. Bright blue sky above.",
+      "image": "page9.png",
+      "location_id": "loc2"
     }
   ]
 }
