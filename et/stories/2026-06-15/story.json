@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-15",
+  "language": "et",
+  "title": "REIN JA SIIRI TEEVAD LINNUMAJA",
+  "generatedAt": "2026-06-07T21:54:01.597Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE REIN",
+      "type": "fox",
+      "description": "Väike oranž rebane lühikese pruuni püksipaariga. Tal on terav koon, suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL SIIRI",
+      "type": "hedgehog",
+      "description": "Väike pruun siil, millel on väikesed okkad seljal ja väike sinine põll ees. Tal on ümar nina, säravad silmad ja leebe naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline metsaserv",
+      "description": "A bright, sunny forest edge clearing. The ground is covered in green grass with a few small wildflowers. In the background, there are tall green pine trees and deciduous trees. A sturdy oak tree stands prominently in the middle-ground. The light is warm and golden, suggesting late afternoon summer sun. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REBANE REIN JA SIIL SIIRI.",
+      "scene": "REBANE REIN, a small orange fox, and SIIL SIIRI, a small brown hedgehog, stand side by side in a bright, sunny forest edge clearing. REIN waves a paw hello, and SIIRI smiles warmly. The ground is green grass with small wildflowers. Tall green trees are in the background. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "REBANE REIN and SIIL SIIRI look at each other, both with thoughtful expressions, as if sharing a secret idea. REIN points a paw up, and SIIRI nods. They are standing on green grass with wildflowers, under tall green trees in a sunny forest edge clearing. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD OTSIVAD LAUDU.",
+      "scene": "REBANE REIN and SIIL SIIRI are walking through the bright, sunny forest edge clearing. REIN carries a small, flat wooden board in his paws. SIIRI looks down at the green grass, searching for more wooden pieces. Tall green trees are in the background. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÕIKAVAD PUID.",
+      "scene": "REBANE REIN and SIIL SIIRI are kneeling on the green grass. REIN holds a small, safe-looking toy saw and pretends to cut a short, flat piece of wood. SIIRI holds another piece of wood steady for him. Small wooden pieces are scattered nearby on the grass. Tall green trees are in the background of the sunny forest edge clearing. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD KINNITAVAD KÜLGI.",
+      "scene": "REBANE REIN and SIIL SIIRI are carefully assembling the wooden pieces on the green grass. They are putting together the sides of a small, simple wooden birdhouse. REIN holds one side, and SIIRI presses another side against it. The birdhouse is just starting to take shape. They are in the sunny forest edge clearing. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "VALMIB LINNUMAJA!",
+      "scene": "REBANE REIN and SIIL SIIRI proudly stand next to a finished, simple wooden birdhouse. It has a small hole and a little perch. They are smiling happily at their creation. The birdhouse rests on the green grass in the sunny forest edge clearing. Tall green trees are in the background. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD VIIVAD LINNUMAJA PUU OTSA.",
+      "scene": "REBANE REIN and SIIL SIIRI are carefully placing the finished wooden birdhouse on a sturdy branch of the large oak tree in the bright, sunny forest edge clearing. REIN holds the birdhouse, and SIIRI helps balance it. They look focused and gentle. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "VÄIKE LIND LENDAB SINNA.",
+      "scene": "REBANE REIN and SIIL SIIRI stand a short distance from the oak tree, watching. A small, colorful bird is flying towards the birdhouse, its wings spread. The wooden birdhouse is now securely on the tree branch in the sunny forest edge clearing. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LIND ON RÕÕMUS!",
+      "scene": "The small, colorful bird is now sitting happily on the perch of the wooden birdhouse, chirping with joy. REBANE REIN and SIIL SIIRI are watching from below, smiling, their mission accomplished. They are in the sunny forest edge clearing. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "REIN JA SIIRI ON ÕNNELIKUD.",
+      "scene": "REBANE REIN and SIIL SIIRI stand together under the oak tree, looking up at the birdhouse with the happy bird on its perch. They are holding paws and smiling broadly, filled with joy and satisfaction. The bright, sunny forest edge clearing around them. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
