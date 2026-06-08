@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-19",
+  "language": "et",
+  "title": "MARI JA JUKU OTSIVAD KARPE",
+  "generatedAt": "2026-06-08T00:10:48.118Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk. Tal on heledad patsid ja seljas sinine T-särk ning punased lühikesed püksid. Ta on rõõmsameelne ja uudishimulik. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane poiss. Tal on lühikesed pruunid juuksed ja seljas roheline T-särk ning sinised lühikesed püksid. Ta on energiline ja abivalmis. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Liivarand",
+      "description": "A wide, sunny, golden sand beach with calm blue ocean waves gently lapping the shore in the background. Clear blue sky with a few fluffy white clouds. Scattered colorful seashells on the sand. The atmosphere is peaceful and joyful. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Lastetuba",
+      "description": "Cozy children's room with light blue walls, a wooden floor, and a single window on the back wall showing green trees outside. A small wooden table with two chairs is in the center of the room. A simple cork board is hanging on the wall. Warm daylight streams from the window. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MARI JA JUKU ON RANNAS.",
+      "scene": "Mari and Juku stand on a sunny golden sand beach, looking at the calm blue ocean. Mari wears a blue T-shirt and red shorts, Juku wears a green T-shirt and blue shorts. They both smile happily. Scattered colorful seashells are visible on the sand. The clear blue sky with a few fluffy white clouds is above them. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD PALJU KARPE.",
+      "scene": "Mari and Juku are on the sunny golden sand beach. They are kneeling down, pointing at and looking closely at various colorful seashells scattered on the sand near the water's edge. Mari wears a blue T-shirt and red shorts, Juku wears a green T-shirt and blue shorts. They look curious. The clear blue sky with a few fluffy white clouds is above them. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD KORVI KAASA.",
+      "scene": "Mari and Juku stand on the sunny golden sand beach. Mari holds an empty small woven basket. Juku points towards the water, smiling. Mari wears a blue T-shirt and red shorts, Juku wears a green T-shirt and blue shorts. Colorful seashells are still visible on the sand. The clear blue sky with a few fluffy white clouds is above them. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD OTSIVAD ILUSAID KARPE.",
+      "scene": "Mari and Juku are on the sunny golden sand beach, walking slowly along the water's edge. They are both bending down, scanning the sand carefully for shells. The small woven basket is in Mari's hand. Mari wears a blue T-shirt and red shorts, Juku wears a green T-shirt and blue shorts. The clear blue sky with a few fluffy white clouds is above them. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MARI LEIAB SUURE KARBI.",
+      "scene": "Mari is kneeling on the sunny golden sand beach, holding up a large, beautiful seashell in her hands, smiling broadly. Juku is standing next to her, looking at the shell with interest. The small woven basket is on the sand beside Mari. Mari wears a blue T-shirt and red shorts, Juku wears a green T-shirt and blue shorts. The clear blue sky with a few fluffy white clouds is above them. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "JUKU KORJAB VÄIKESI KARPE.",
+      "scene": "Juku is kneeling on the sunny golden sand beach, carefully picking up several small, colorful seashells and placing them into the small woven basket. Mari stands nearby, holding her large shell and watching Juku. Mari wears a blue T-shirt and red shorts, Juku wears a green T-shirt and blue shorts. The clear blue sky with a few fluffy white clouds is above them. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KORV ON KARPE TÄIS.",
+      "scene": "Mari and Juku are standing on the sunny golden sand beach, both looking into the small woven basket which is now full of a colorful assortment of seashells. They both look pleased. Mari wears a blue T-shirt and red shorts, Juku wears a green T-shirt and blue shorts. The clear blue sky with a few fluffy white clouds is above them. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD VIIVAD KARBID KOJU.",
+      "scene": "Mari and Juku are walking away from the sunny golden sand beach, towards the edge of the frame. Mari holds the full woven basket of shells. Juku walks beside her, looking back at the ocean one last time. They are both smiling. Mari wears a blue T-shirt and red shorts, Juku wears a green T-shirt and blue shorts. The clear blue sky with a few fluffy white clouds is above them. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD TEEVAD ILUSA PILDI.",
+      "scene": "Mari and Juku are sitting at a small wooden table in a cozy children's room with light blue walls and a wooden floor. They are carefully arranging the colorful seashells onto a piece of paper on the table, perhaps gluing them. The full woven basket is beside them. Mari wears a blue T-shirt and red shorts, Juku wears a green T-shirt and blue shorts. They are focused and happy. Warm daylight streams from the window on the back wall. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NENDE KARBID ON KENAD.",
+      "scene": "Mari and Juku are standing in their cozy children's room, proudly looking at their finished seashell artwork, which is now hanging on a simple cork board on the light blue wall. They both smile broadly, admiring their creation. Mari wears a blue T-shirt and red shorts, Juku wears a green T-shirt and blue shorts. Warm daylight streams from the window on the back wall. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

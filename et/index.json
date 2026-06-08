@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-06-17",
+  "latestDate": "2026-06-19",
   "stories": [
+    {
+      "date": "2026-06-19",
+      "title": "MARI JA JUKU OTSIVAD KARPE",
+      "pageCount": 10,
+      "characters": [
+        "MARI",
+        "JUKU"
+      ]
+    },
     {
       "date": "2026-06-17",
       "title": "KATI JA OTT TEEVAD PAADI",
