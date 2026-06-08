@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-21",
+  "language": "et",
+  "title": "LIISA JA PEETER TEEVAD PÄRGA",
+  "generatedAt": "2026-06-08T01:39:19.249Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledate juustega, kandmas kollast kleiti ja punaseid sandaale. Tal on suured rõõmsad silmad ja armas naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikeste pruunide juustega, kandmas sinist lühikeste varrukatega särki ja rohelisi lühikesi pükse. Tal on suured uudishimulikud silmad ja sõbralik nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline niit",
+      "description": "Sunny meadow near a forest edge. Green grass, scattered colorful wildflowers (yellow, red, blue). A few tall, green trees are visible at the very edge of the background. Bright blue sky with a few fluffy white clouds. Warm sunlight. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER MÄNGIVAD.",
+      "scene": "Liisa, a small girl with light hair, wearing a yellow dress and red sandals, is standing on green grass in a sunny meadow. She is smiling. Peeter, a small boy with short brown hair, wearing a blue short-sleeved shirt and green shorts, is standing next to her, also smiling. Colorful wildflowers are scattered around them. A few tall green trees are visible in the background under a bright blue sky with fluffy white clouds.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Liisa and Peeter are standing in a sunny meadow. Liisa has a thoughtful, curious expression, looking slightly up. Peeter stands next to her, a spark of an idea in his eyes, pointing one finger up. Colorful wildflowers are scattered around them on the green grass. Tall green trees are in the background under a bright blue sky.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD KOGUVAD LILLI.",
+      "scene": "Liisa and Peeter are kneeling on the green grass in a sunny meadow, carefully picking colorful wildflowers. Liisa is holding a few yellow and blue flowers in her hand. Peeter is reaching for a red flower. They both look focused and happy. Colorful wildflowers are abundant around them. Tall green trees are in the background under a bright blue sky.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LILLED ON ILUSAD.",
+      "scene": "Liisa and Peeter are sitting on the green grass in a sunny meadow, admiring a small pile of colorful wildflowers they have collected. Liisa is holding a bunch of flowers close, smiling. Peeter is looking at the flowers with a happy expression. The collected flowers are yellow, red, and blue. Tall green trees are in the background under a bright blue sky.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD PUNUVAD LILLI KOKKU.",
+      "scene": "Liisa and Peeter are sitting closely on the green grass in a sunny meadow. They are actively braiding the colorful wildflowers together. Liisa is holding the end of the developing garland, and Peeter is carefully weaving a new flower into it. Their expressions are concentrated and joyful. More colorful wildflowers are scattered nearby. Tall green trees are in the background under a bright blue sky.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KOKKU TULEB PÄRG.",
+      "scene": "Liisa and Peeter are sitting on the green grass in a sunny meadow, holding up a long, beautiful flower garland they have made. The garland is colorful with yellow, red, and blue flowers. They are both smiling proudly at their creation. Colorful wildflowers are scattered on the grass. Tall green trees are in the background under a bright blue sky.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PÄRG ON VÄGA PIKK.",
+      "scene": "Liisa and Peeter are standing in a sunny meadow, stretching out the very long and colorful flower garland between them. The garland extends almost across the whole scene. Liisa holds one end and Peeter holds the other. They are looking at its length with happy, amazed expressions. Colorful wildflowers are on the green grass. Tall green trees are in the background under a bright blue sky.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LIISA PANEB PÄRJA PÄHE.",
+      "scene": "Liisa is standing in a sunny meadow, wearing the colorful flower garland as a crown on her head. She is beaming with happiness. Peeter is standing next to her, clapping his hands gently and smiling. Colorful wildflowers are on the green grass. Tall green trees are in the background under a bright blue sky.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PEETER TANTSIB RÕÕMSALT.",
+      "scene": "Liisa, with the flower garland on her head, is smiling while watching Peeter. Peeter is happily dancing with his arms slightly outstretched, his face full of joy, in the sunny meadow. Colorful wildflowers are on the green grass. Tall green trees are in the background under a bright blue sky.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA ÕNNELIKUD.",
+      "scene": "Liisa, wearing her flower garland, and Peeter are standing close together in the sunny meadow, both hugging each other gently and smiling broadly. Their faces show pure joy and satisfaction. Colorful wildflowers are on the green grass. Tall green trees are in the background under a bright blue sky.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

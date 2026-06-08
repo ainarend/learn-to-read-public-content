@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-06-20",
+  "latestDate": "2026-06-21",
   "stories": [
+    {
+      "date": "2026-06-21",
+      "title": "LIISA JA PEETER TEEVAD PÄRGA",
+      "pageCount": 10,
+      "characters": [
+        "LIISA",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-06-20",
       "title": "SIIM JA HELEN TEEVAD PIKNIKKU",
