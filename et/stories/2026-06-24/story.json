@@ -1,0 +1,81 @@
+{
+  "date": "2026-06-24",
+  "language": "et",
+  "title": "MARI JA PEETER MÄNGIVAD",
+  "generatedAt": "2026-06-14T23:22:45.520Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, heledad juuksed patsidega, kandmas kollast kleiti. Rohelised kingad. Sõbralik ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikesed pruunid juuksed, kandmas sinist T-särki ja pruune lühikesi pükse. Oranžid kingad. Sõbralik ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Pargi mänguväljak",
+      "description": "A sunny outdoor children's playground in a park. Green grass everywhere. Blue sky with soft white clouds. A bright red slide, yellow swings with blue seats, and a small wooden climbing frame are visible. A few leafy green trees in the background. The atmosphere is cheerful and inviting. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MARI JA PEETER LÄHEVAD PARKI.",
+      "scene": "Mari and Peeter walk hand in hand towards a colorful playground in a sunny park. They are smiling happily. The green grass is lush, and the sky is blue with soft white clouds. A red slide and yellow swings are visible in the background. They wear their consistent clothing.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD KIIGE.",
+      "scene": "Mari and Peeter stand in front of a bright yellow swing with blue seats on the sunny park playground. They look at the swing with excited smiles on their faces. Green grass and trees are around them. They wear their consistent clothing.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "MARI ISTUB KIIGELE.",
+      "scene": "Mari sits on one of the yellow swings with blue seats, holding onto the chains and smiling. Peeter stands next to her, looking ready to push the swing. They are in the sunny park playground with green grass. They wear their consistent clothing.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PEETER LÜKKAB MARIT.",
+      "scene": "Peeter gently pushes Mari's yellow swing from behind. Mari is smiling brightly and her swing is moving a little. They are on the sunny park playground with green grass. They wear their consistent clothing.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KIIGED TÕUSEVAD KÕRGELE.",
+      "scene": "Mari is swinging very high on the yellow swing, laughing with joy. Peeter is still pushing her swing from behind, looking happy and engaged. They are on the sunny park playground. They wear their consistent clothing.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NÜÜD LÜKKAB MARI PEETRIT.",
+      "scene": "Peeter now sits on the other yellow swing. Mari stands next to him, pushing his swing gently. Both children are smiling and having fun. They are on the sunny park playground. They wear their consistent clothing.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD MÄNGIVAD KOOS.",
+      "scene": "Mari and Peeter are both swinging side-by-side on the yellow swings, smiling and laughing. The swings are moving gently as they enjoy their playtime together in the sunny park playground. They wear their consistent clothing.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    }
+  ]
+}

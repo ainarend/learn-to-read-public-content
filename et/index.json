@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-06-23",
+  "latestDate": "2026-06-24",
   "stories": [
+    {
+      "date": "2026-06-24",
+      "title": "MARI JA PEETER MÄNGIVAD",
+      "pageCount": 7,
+      "characters": [
+        "MARI",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-06-23",
       "title": "MIISU JA SIIM TEEVAD PAATI",
