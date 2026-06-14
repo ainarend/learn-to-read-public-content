@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-06-21",
+  "latestDate": "2026-06-22",
   "stories": [
+    {
+      "date": "2026-06-22",
+      "title": "REIN JA JUKU LENNUTAVAD LOHE",
+      "pageCount": 10,
+      "characters": [
+        "REBANE REIN",
+        "JÄNES JUKU"
+      ]
+    },
     {
       "date": "2026-06-21",
       "title": "KATI JA OTT TEEVAD LIIVALINNA",

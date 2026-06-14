@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-22",
+  "language": "et",
+  "title": "REIN JA JUKU LENNUTAVAD LOHE",
+  "generatedAt": "2026-06-14T21:54:26.511Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE REIN",
+      "type": "fox",
+      "description": "Väike oranžikaspunane rebane, pikkade saledate jalgade ja koheva sabaga. Tal on suured teravdatud kõrvad, säravad uudishimulikud silmad ja alati sõbralik naeratus. Rein kannab väikest rohelist särki. Armas ja multifilmistiilis.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES JUKU",
+      "type": "hare",
+      "description": "Väike hall jänes pikkade kohevate kõrvade ja lühikese valge sabaga. Tal on roosakas nina, suured elavad silmad ja veidi ulakas, kuid sõbralik näoilme. Juku kannab väikest sinist põlvpükse. Armas ja multifilmistiilis.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "AVAR VÄLI",
+      "description": "A vast, sunny, green grassy field with gentle rolling hills in the distance. The sky is bright blue with a few fluffy white clouds. There are scattered small wildflowers in yellow and red. No trees or buildings are visible close by, emphasizing openness. The overall atmosphere is cheerful and expansive. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REBANE REIN JA JÄNES JUKU ON VÄLJAL.",
+      "scene": "Rebane Rein and Jänes Juku are standing in a vast, sunny, green grassy field, looking around with curious and happy expressions. Rein stands on all fours, Juku sits on the grass. The sky is bright blue with a few fluffy white clouds. There are scattered small wildflowers in yellow and red. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE. LOHE LENNUTADA!",
+      "scene": "Rebane Rein and Jänes Juku are standing in a vast, sunny, green grassy field. Rein has a paw raised to his chin as if thinking, Juku has big excited eyes, both looking up at the bright blue sky. They both have big smiles. The sky is bright blue with a few fluffy white clouds. There are scattered small wildflowers in yellow and red. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "REIN VÕTAB SUURED PULGAD.",
+      "scene": "Rebane Rein is on all fours in a vast, sunny, green grassy field, carefully picking up two long, thin, light-brown sticks from the ground with his paws. Jänes Juku is watching Rein with an interested expression. The sky is bright blue with a few fluffy white clouds. There are scattered small wildflowers in yellow and red. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "JUKU LEIAB VÄRVILISE PABERI.",
+      "scene": "Jänes Juku is sitting on the green grass in a vast, sunny field, holding a large, brightly colored (e.g., red or blue) piece of paper in his paws. Rebane Rein is sitting nearby, looking at Juku and the paper. The sky is bright blue with a few fluffy white clouds. There are scattered small wildflowers in yellow and red. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD TEEVAD ILUSA LOHE.",
+      "scene": "Rebane Rein and Jänes Juku are kneeling on the green grass in a vast, sunny field, carefully assembling a kite. Rein is holding two sticks that form the frame, and Juku is gently placing the colorful paper over the frame, smoothing it out. A simple, colorful kite is taking shape. The sky is bright blue with a few fluffy white clouds. There are scattered small wildflowers in yellow and red. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "REIN HOIAB LOHE KÕRGEL.",
+      "scene": "Rebane Rein is standing tall in a vast, sunny, green grassy field, holding the brightly colored, finished kite high above his head with his paws. Jänes Juku stands nearby, looking up at the kite with eager anticipation. The sky is bright blue with a few fluffy white clouds. There are scattered small wildflowers in yellow and red. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "JUKU JOOKSEB KIIRESTI EDASI.",
+      "scene": "Jänes Juku is running quickly across the vast, sunny, green grassy field, looking back over his shoulder with a determined smile. Rebane Rein is standing still behind Juku, still holding the kite high, ready to release it. The sky is bright blue with a few fluffy white clouds. There are scattered small wildflowers in yellow and red. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LOHE TÕUSEB KÕRGELE.",
+      "scene": "The brightly colored kite is now off the ground, starting to rise into the bright blue sky. Rebane Rein is holding the string, looking up at the kite with a proud smile. Jänes Juku has stopped running and is also looking up excitedly. The vast, sunny, green grassy field with wildflowers is in the foreground. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LOHE LENDAB TUULES.",
+      "scene": "The brightly colored kite is flying high in the bright blue sky, swaying gently in the wind. Rebane Rein is still holding the string, his body relaxed. Jänes Juku is jumping a little, pointing at the kite with a huge joyful smile. The vast, sunny, green grassy field with wildflowers is visible below them. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "REIN JA JUKU ON RÕÕMSAD.",
+      "scene": "Rebane Rein and Jänes Juku are sitting happily on the green grass in the vast, sunny field, looking up at their kite flying high in the bright blue sky. They are smiling broadly, a sense of accomplishment and joy on their faces. The kite is a small detail in the sky. The sky has a few fluffy white clouds. There are scattered small wildflowers in yellow and red. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
