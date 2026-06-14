@@ -1,101 +1,94 @@
 {
   "date": "2026-06-21",
   "language": "et",
-  "title": "LIISA JA PEETER TEEVAD PÄRGA",
-  "generatedAt": "2026-06-08T01:39:19.249Z",
+  "title": "KATI JA OTT TEEVAD LIIVALINNA",
+  "generatedAt": "2026-06-14T21:08:59.405Z",
   "characters": [
     {
       "id": "char1",
-      "name": "LIISA",
-      "type": "human",
-      "description": "Väike inimene, tüdruk, heledate juustega, kandmas kollast kleiti ja punaseid sandaale. Tal on suured rõõmsad silmad ja armas naeratus. Armas multifilmistiil.",
+      "name": "KARU KATI",
+      "type": "bear",
+      "description": "Väike pruun karu, pehmete karvadega, seljas sinine triibuline pluus ja kollased lühikesed püksid. Suured sõbralikud silmad ja naeratav nägu. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
-      "name": "PEETER",
-      "type": "human",
-      "description": "Väike inimene, poiss, lühikeste pruunide juustega, kandmas sinist lühikeste varrukatega särki ja rohelisi lühikesi pükse. Tal on suured uudishimulikud silmad ja sõbralik nägu. Armas multifilmistiil.",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike hall orav, koheva sabaga, seljas roheline särk ja lühikesed punased püksid. Särab rõõmust ja on alati tegutsemas. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "Päikeseline niit",
-      "description": "Sunny meadow near a forest edge. Green grass, scattered colorful wildflowers (yellow, red, blue). A few tall, green trees are visible at the very edge of the background. Bright blue sky with a few fluffy white clouds. Warm sunlight. Cartoon style.",
+      "name": "Rand",
+      "description": "Sunny sandy beach with gentle blue ocean waves in the background. A few colorful beach toys (a red bucket, a yellow shovel, a small blue flag on a stick) are on the sand. Bright sun is shining from above. Clear blue sky with a few fluffy white clouds. Cartoon style.",
       "image": "loc1.png"
     }
   ],
   "pages": [
     {
       "pageNumber": 1,
-      "text": "LIISA JA PEETER MÄNGIVAD.",
-      "scene": "Liisa, a small girl with light hair, wearing a yellow dress and red sandals, is standing on green grass in a sunny meadow. She is smiling. Peeter, a small boy with short brown hair, wearing a blue short-sleeved shirt and green shorts, is standing next to her, also smiling. Colorful wildflowers are scattered around them. A few tall green trees are visible in the background under a bright blue sky with fluffy white clouds.",
+      "text": "KARU KATI JA ORAV OTT ON RANNAS.",
+      "scene": "Karu Kati, wearing a blue striped top and yellow shorts, and Orav Ott, wearing a green shirt and red shorts, are standing on a sunny sandy beach. They are looking at the blue ocean waves in the distance. A red bucket and a yellow shovel are lying on the sand near their feet. Both characters have friendly, happy expressions. The sky is clear blue with fluffy white clouds.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NEIL ON HEA MÕTE.",
-      "scene": "Liisa and Peeter are standing in a sunny meadow. Liisa has a thoughtful, curious expression, looking slightly up. Peeter stands next to her, a spark of an idea in his eyes, pointing one finger up. Colorful wildflowers are scattered around them on the green grass. Tall green trees are in the background under a bright blue sky.",
+      "text": "NEIL ON SUUR MÕTE.",
+      "scene": "Karu Kati and Orav Ott are standing on the sunny sandy beach, now facing each other and smiling brightly. Orav Ott has his paws up in an excited gesture, while Karu Kati nods thoughtfully. They look like they've just had a great idea. The red bucket and yellow shovel are still on the sand near them.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "NAD KOGUVAD LILLI.",
-      "scene": "Liisa and Peeter are kneeling on the green grass in a sunny meadow, carefully picking colorful wildflowers. Liisa is holding a few yellow and blue flowers in her hand. Peeter is reaching for a red flower. They both look focused and happy. Colorful wildflowers are abundant around them. Tall green trees are in the background under a bright blue sky.",
+      "text": "NAD VÕTAVAD LIIVA.",
+      "scene": "Karu Kati is kneeling on the sandy beach, using the yellow shovel to scoop sand into the red bucket. Orav Ott is standing next to her, watching eagerly and pointing at the sand. Both are smiling, focused on their task. The ocean is visible in the background.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "LILLED ON ILUSAD.",
-      "scene": "Liisa and Peeter are sitting on the green grass in a sunny meadow, admiring a small pile of colorful wildflowers they have collected. Liisa is holding a bunch of flowers close, smiling. Peeter is looking at the flowers with a happy expression. The collected flowers are yellow, red, and blue. Tall green trees are in the background under a bright blue sky.",
+      "text": "NAD VALAVAD VETT.",
+      "scene": "Karu Kati is carefully holding the red bucket, which is now filled with sand and some water, tilting it slightly. Orav Ott is holding a small seashell and pouring a tiny stream of water from it into the bucket. They are working together on the sunny sandy beach, both with concentrated and happy expressions.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "NAD PUNUVAD LILLI KOKKU.",
-      "scene": "Liisa and Peeter are sitting closely on the green grass in a sunny meadow. They are actively braiding the colorful wildflowers together. Liisa is holding the end of the developing garland, and Peeter is carefully weaving a new flower into it. Their expressions are concentrated and joyful. More colorful wildflowers are scattered nearby. Tall green trees are in the background under a bright blue sky.",
+      "text": "NAD TEEVAD SUURE KÜNKA.",
+      "scene": "Karu Kati and Orav Ott are standing proudly beside a large, cone-shaped mound of wet sand on the sunny beach. The red bucket and yellow shovel are lying on the sand nearby. They are smiling at their creation, ready for the next step.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "KOKKU TULEB PÄRG.",
-      "scene": "Liisa and Peeter are sitting on the green grass in a sunny meadow, holding up a long, beautiful flower garland they have made. The garland is colorful with yellow, red, and blue flowers. They are both smiling proudly at their creation. Colorful wildflowers are scattered on the grass. Tall green trees are in the background under a bright blue sky.",
+      "text": "NAD EHITAVAD SEINAD.",
+      "scene": "Karu Kati and Orav Ott are busy shaping the large sand mound into a sandcastle. Karu Kati is using her paws to pat down the sides, forming walls. Orav Ott is using the yellow shovel to smooth out a section of the wall. A red bucket is nearby. They are focused and happy, with the ocean in the background.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "PÄRG ON VÄGA PIKK.",
-      "scene": "Liisa and Peeter are standing in a sunny meadow, stretching out the very long and colorful flower garland between them. The garland extends almost across the whole scene. Liisa holds one end and Peeter holds the other. They are looking at its length with happy, amazed expressions. Colorful wildflowers are on the green grass. Tall green trees are in the background under a bright blue sky.",
+      "text": "NAD PANEVAAD LIPU.",
+      "scene": "Karu Kati is carefully placing a small blue flag on top of the sandcastle, which now has distinct walls and turrets. Orav Ott is standing beside the sandcastle, looking up at the flag with an excited smile. The red bucket and yellow shovel are on the sand at the base of the sandcastle. The sun shines brightly on their creation.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "LIISA PANEB PÄRJA PÄHE.",
-      "scene": "Liisa is standing in a sunny meadow, wearing the colorful flower garland as a crown on her head. She is beaming with happiness. Peeter is standing next to her, clapping his hands gently and smiling. Colorful wildflowers are on the green grass. Tall green trees are in the background under a bright blue sky.",
+      "text": "LIIVALINN ON NÜÜD VALMIS.",
+      "scene": "Karu Kati and Orav Ott are standing side-by-side, admiring their finished sandcastle. The sandcastle is detailed with walls and a blue flag on top. They are smiling broadly and looking at the sandcastle with pride. The red bucket and yellow shovel are neatly placed beside the sandcastle. The sunny beach and ocean are in the background.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
-      "text": "PEETER TANTSIB RÕÕMSALT.",
-      "scene": "Liisa, with the flower garland on her head, is smiling while watching Peeter. Peeter is happily dancing with his arms slightly outstretched, his face full of joy, in the sunny meadow. Colorful wildflowers are on the green grass. Tall green trees are in the background under a bright blue sky.",
+      "text": "KATI JA OTT ON RÕÕMSAD.",
+      "scene": "Karu Kati and Orav Ott are sitting happily on the sand beside their magnificent sandcastle. Karu Kati has her arm gently around Orav Ott, and both are laughing and looking at each other. Their completed sandcastle with the blue flag stands tall next to them. The sun is warm, and the ocean waves are calm in the background. They are clearly proud and delighted with their work.",
       "image": "page9.png",
-      "location_id": "loc1"
-    },
-    {
-      "pageNumber": 10,
-      "text": "NAD ON VÄGA ÕNNELIKUD.",
-      "scene": "Liisa, wearing her flower garland, and Peeter are standing close together in the sunny meadow, both hugging each other gently and smiling broadly. Their faces show pure joy and satisfaction. Colorful wildflowers are on the green grass. Tall green trees are in the background under a bright blue sky.",
-      "image": "page10.png",
       "location_id": "loc1"
     }
   ]
