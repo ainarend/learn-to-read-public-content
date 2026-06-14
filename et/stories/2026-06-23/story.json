@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-23",
+  "language": "et",
+  "title": "MIISU JA SIIM TEEVAD PAATI",
+  "generatedAt": "2026-06-14T22:40:57.090Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "HIIR MIISU",
+      "type": "mouse",
+      "description": "Väike hall hiir suurte ümarate kõrvadega, kandmas väikest sinist vesti. Tema silmad on suured ja uudishimulikud, näoilme sõbralik ja rõõmsameelne. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL SIIM",
+      "type": "hedgehog",
+      "description": "Väike pruun siil pehmete okastega seljal, kandmas väikest rohelist salli. Tal on väike must nina ja sõbralik naeratus. Uudishimulik ja abivalmis. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Töötoas",
+      "description": "A cozy workshop room with light blue walls, a light wooden floor, and a large window showing green trees outside. A sturdy wooden workbench is in the center of the room with various child-safe tools and craft materials neatly organized. One small wooden stool is nearby. Soft, natural light fills the room. Cartoon style. There are no additional wall decorations or furniture.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Tiigi ääres",
+      "description": "A calm, small pond surrounded by vibrant green grass and a few colorful summer flowers blooming near the edge. A few green lily pads float gently on the water's surface. The sky is bright blue with a warm, bright sunshine. Cartoon style. No other specific structures or objects.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "HIIR MIISU JA SIIL SIIM TAHAVAD PAATI.",
+      "scene": "Hiir Miisu ja Siil Siim seisavad rõõmsalt hubases töötoas suure puidust tööpingi ees. Nende näod on täis elevust ja mõtisklemist. Miisu osutab oma väikese käpaga pingile, Siim noogutab. Ruumi täidab pehme loomulik valgus. Tööpind on puhas. Miisu kannab sinist vesti ja Siim rohelist salli. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD KOGUVAD PAADIKS ASJU.",
+      "scene": "Hiir Miisu ja Siil Siim koguvad materjale puidust tööpingil. Miisu hoiab väikest puuklotsi, Siim valib erinevate väikeste puidujuppide hulgast. Mõlemad on keskendunud ja rõõmsad. Laual on ka pisikesi ohutuid tööriistu nagu haamer ja saag. Miisu kannab sinist vesti ja Siim rohelist salli. Hubane töötuba on valgustatud loomuliku valgusega. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "SIIM LÕIKAB LAUAST PAADIKERE.",
+      "scene": "Siil Siim istub väikese puidust tabureti peal ja lõikab hoolikalt väikest puidust lauda. Ta kasutab väikest saagi. Hiir Miisu seisab tema kõrval, jälgib hoolega ja hoiab teist lauajuppi stabiilsena. Tööpingil on saepuru ja veel mõned puidutükid. Miisu kannab sinist vesti ja Siim rohelist salli. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MIISU LIIMIB KÜLGI KOKKU.",
+      "scene": "Hiir Miisu istub puidust taburetil ja liimib kokku väikese paadi külgi. Ta hoiab ühte külge ja pigistab puiduliimi tuubist. Siil Siim seisab tema kõrval, ulatades talle teise paadi küljetüki. Nad töötavad koos ja on õnnelikud. Poolik paadikere on tööpingil. Miisu kannab sinist vesti ja Siim rohelist salli. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PAAT ON PEAAEGU VALMIS.",
+      "scene": "Hiir Miisu ja Siil Siim imetlevad peaaegu valmis väikest puidust paati, mis seisab tööpingil. Paadil on juba põhi ja küljed. Miisu patsutab paati õrnalt, Siim naeratab rahulolevalt. Töötuba on endiselt korras ja valge. Miisu kannab sinist vesti ja Siim rohelist salli. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LISAVAD PAADILE MASTI.",
+      "scene": "Hiir Miisu ja Siil Siim paigaldavad paadile masti. Miisu hoiab väikest puupulka püsti, mis on paadi keskele kinnitatud. Siim aitab tal masti tugevdada. Paat seisab tööpingil. Miisu kannab sinist vesti ja Siim rohelist salli. Hubases töötoas on kõik valgustatud loomuliku valgusega. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PAAT ON NÜÜD VÄGA ILUS.",
+      "scene": "Hiir Miisu ja Siil Siim vaatavad uhkusega oma valmis puidust paati, mis on tööpingil. Paat on nüüd täielik, kena ja sile, väikese mastiga. Mõlemad tegelased naeratavad laialt. Nad on oma tööga rahul. Miisu kannab sinist vesti ja Siim rohelist salli. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD VIIVAD PAADI VETTE.",
+      "scene": "Hiir Miisu ja Siil Siim on jõudnud väikese tiigi äärde. Siim hoiab valmis paati ettevaatlikult käppades ja on valmis seda vette laskma. Miisu seisab tema kõrval ja vaatab ootusärevalt tiigi poole. Tiigi ümber on roheline muru ja värvilised suvelilled. Päike paistab eredalt. Miisu kannab sinist vesti ja Siim rohelist salli. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PAAT UJUB HÄSTI JA KAUGELE.",
+      "scene": "Väike puidust paat ujub rahulikult ja sujuvalt tiigi veel. Hiir Miisu ja Siil Siim vaatavad kaldalt paati, nende silmad on täis imetlust ja rõõmu. Paat liigub aeglaselt edasi. Tiigil on mõned vesiroosilehed. Ümbritsev muru on roheline ja lilled õitsevad. Miisu kannab sinist vesti ja Siim rohelist salli. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "MIISU JA SIIM ON RÕÕMSAD.",
+      "scene": "Hiir Miisu ja Siil Siim seisavad tiigi kaldal, hoides käppasid kokku ja naeratades laialt. Nende valmis paat ujub endiselt tiigi pinnal. Päike paistab ja teeb päeva veelgi rõõmsamaks. Nad on õnnelikud oma uue paadiga. Miisu kannab sinist vesti ja Siim rohelist salli. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-06-22",
+  "latestDate": "2026-06-23",
   "stories": [
+    {
+      "date": "2026-06-23",
+      "title": "MIISU JA SIIM TEEVAD PAATI",
+      "pageCount": 10,
+      "characters": [
+        "HIIR MIISU",
+        "SIIL SIIM"
+      ]
+    },
     {
       "date": "2026-06-22",
       "title": "REIN JA JUKU LENNUTAVAD LOHE",
