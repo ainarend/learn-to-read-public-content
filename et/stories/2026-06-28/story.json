@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-28",
+  "language": "et",
+  "title": "SIIL SASS JA HIIR HELI EHITAVAD LIIVALOSSI",
+  "generatedAt": "2026-06-15T01:38:42.950Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SASS",
+      "type": "hedgehog",
+      "description": "Väike hall siil teravate okastega, mille otsad on heledad. Tal on väikesed mustad silmad ja sõbralik naeratus. Seljas on sinine ruuduline särk. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "HIIR HELI",
+      "type": "mouse",
+      "description": "Väike pruun hiir suurte ümarate kõrvadega, pikad tundlikud vurrud. Seljas on roosa kleit ja peas väike sinine lilleke. Tal on suured uudishimulikud silmad ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "RANNAS",
+      "description": "Sunny sandy beach with light golden sand. Calm blue ocean water with gentle waves in the background. A few smooth, light-colored pebbles scattered on the sand. Clear blue sky with a few fluffy white clouds. Bright, cheerful, and inviting atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIIL SASS JA HIIR HELI ON RANNAS.",
+      "scene": "Siil Sass and Hiir Heli are standing on a sunny sandy beach. Sass is looking around with curiosity, and Heli is smiling. In the background, there is calm blue ocean water with gentle waves and a clear blue sky. A few smooth, light-colored pebbles are scattered on the sand.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Siil Sass and Hiir Heli are looking at each other on a sunny sandy beach, both with thoughtful and happy expressions, a lightbulb moment. Heli is pointing towards the sand. In the background, there is calm blue ocean water with gentle waves and a clear blue sky. A few smooth, light-colored pebbles are scattered on the sand.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TAHAVAD EHITADA LIIVALOSSI.",
+      "scene": "Siil Sass and Hiir Heli are now sitting on the sunny sandy beach. Sass is holding a small red shovel, and Heli is holding a small blue bucket. They are looking at the sand with excited expressions. In the background, there is calm blue ocean water with gentle waves and a clear blue sky. A few smooth, light-colored pebbles are scattered on the sand.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD KOPA LIIVA.",
+      "scene": "Siil Sass is kneeling on the sunny sandy beach, holding a small red shovel and scooping sand into the small blue bucket, which Hiir Heli is holding steady. Both characters are focused on their task. In the background, there is calm blue ocean water with gentle waves and a clear blue sky. A few smooth, light-colored pebbles are scattered on the sand.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD VEAVAD KOPA LIIVA.",
+      "scene": "Siil Sass and Hiir Heli are walking together on the sunny sandy beach, carrying the small blue bucket filled with sand between them. They are working together. In the background, there is calm blue ocean water with gentle waves and a clear blue sky. A few smooth, light-colored pebbles are scattered on the sand.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD KOGUVAD PALJU LIIVA.",
+      "scene": "Siil Sass and Hiir Heli are both busy scooping and moving sand on the sunny sandy beach. Sass is using his red shovel, and Heli is using her blue bucket. There are already a few small piles of sand forming around them. In the background, there is calm blue ocean water with gentle waves and a clear blue sky. A few smooth, light-colored pebbles are scattered on the sand.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD TEEVAD SUURE KUHJA.",
+      "scene": "Siil Sass and Hiir Heli are standing next to a noticeably large pile of sand they have collected on the sunny sandy beach. They are smiling proudly at their work. The red shovel and blue bucket are resting nearby. In the background, there is calm blue ocean water with gentle waves and a clear blue sky. A few smooth, light-colored pebbles are scattered on the sand.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD EHITAVAD ILUSA LOSSI.",
+      "scene": "Siil Sass and Hiir Heli are actively shaping a sandcastle from the large pile of sand on the sunny sandy beach. Sass is patting down a wall, and Heli is carefully adding a turret. The sandcastle is starting to take a clear, detailed shape. The red shovel and blue bucket are nearby. In the background, there is calm blue ocean water with gentle waves and a clear blue sky. A few smooth, light-colored pebbles are scattered on the sand.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LOSS ON NÜÜD VALMIS!",
+      "scene": "Siil Sass and Hiir Heli are standing in front of a beautifully finished sandcastle on the sunny sandy beach. The sandcastle has turrets, walls, and a flag (made of a small shell or twig). They are both admiring their creation with big smiles. The red shovel and blue bucket are resting nearby. In the background, there is calm blue ocean water with gentle waves and a clear blue sky. A few smooth, light-colored pebbles are scattered on the sand.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SASS JA HELI ON ÕNNELIKUD.",
+      "scene": "Siil Sass and Hiir Heli are sitting happily next to their finished sandcastle on the sunny sandy beach. They are holding hands and looking out at the ocean, content with their achievement. The sandcastle is prominently featured. The red shovel and blue bucket are resting nearby. In the background, there is calm blue ocean water with gentle waves and a clear blue sky. A few smooth, light-colored pebbles are scattered on the sand.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
