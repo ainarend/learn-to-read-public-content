@@ -1,0 +1,101 @@
+{
+  "date": "2026-08-19",
+  "language": "et",
+  "title": "PEETER JA LIISA MAALIVAD PILTI",
+  "generatedAt": "2026-08-17T05:08:01.443Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane poiss, lühikeste pruunide juustega. Seljas roheline t-särk ja sinised lühikesed püksid. Jalas punased tossud. Tal on lai naeratus ja uudishimulikud silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk, pikkade blondide juustega, mis on patsis. Seljas kollane kleit ja roosad sandaalid. Tal on sõbralik naeratus ja säravad silmad. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Lastetuba",
+      "description": "Bright and tidy children's room with light blue walls and a warm wooden floor. A single large rectangular window is on the back wall, showing vibrant green trees outside. There is a small wooden toy chest in one corner. The room is simple and clean with no additional wall decorations. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Suvine aed",
+      "description": "Sunny and lush green garden. The ground is covered in vibrant green grass. In the background, there are a few clusters of blooming colorful flowers (red, yellow, purple) and some green bushes. The sky is clear and bright blue. No fences or buildings are visible, just nature. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "PEETER JA LIISA ON KODUS.",
+      "scene": "Peeter (a 5-year-old boy with short brown hair, wearing a green t-shirt and blue shorts, red sneakers) and Liisa (a 5-year-old girl with long blonde hair in a ponytail, wearing a yellow dress and pink sandals) are standing in a bright, tidy children's room. Peeter is looking at Liisa with a thoughtful expression. Liisa has a happy, anticipating smile. The room has light blue walls, a wooden floor, and a single large window showing green trees outside. There's a small wooden toy chest in one corner. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD MAALIDA PILTI.",
+      "scene": "Peeter and Liisa are standing in the same bright children's room. Peeter is holding a small blank white paper, showing it to Liisa. Liisa points excitedly at the paper. Both are smiling with anticipation. The room has light blue walls, a wooden floor, and a single large window showing green trees outside. There's a small wooden toy chest in one corner. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VIIVAD VÄRVID VÄLJA.",
+      "scene": "Peeter and Liisa are walking outside in a sunny, green garden. Peeter is carrying a small wooden art easel and a few paintbrushes. Liisa is holding a small, open wicker basket filled with colorful paint tubes (red, blue, yellow). Both are smiling and looking forward. The garden has lush green grass, a few blooming colorful flowers in the background, and a clear blue sky. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PABER ON VALMIS.",
+      "scene": "Peeter and Liisa are in the sunny garden. A small wooden art easel stands firmly on the lush green grass, with a blank white paper already clipped onto it. Peeter is standing next to the easel, adjusting the paper. Liisa is standing beside him, looking at the easel. Both are smiling, ready to paint. The garden has lush green grass, a few blooming colorful flowers in the background, and a clear blue sky. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PEETER VALIB SINISE VÄRVI.",
+      "scene": "Peeter and Liisa are in the sunny garden, standing in front of the art easel with the blank paper. Peeter is holding an open tube of blue paint in one hand and a paintbrush with a blue tip in the other, showing them to Liisa. Liisa is looking at the blue paint. They are both smiling. A small wooden palette with some paint dots is on a tiny wooden table next to the easel. The garden has lush green grass, a few blooming colorful flowers in the background, and a clear blue sky. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LIISA VALIB KOLLASE VÄRVI.",
+      "scene": "Peeter and Liisa are in the sunny garden, standing in front of the art easel. The paper on the easel has a few simple blue brushstrokes, possibly representing a sky. Liisa is now holding an open tube of yellow paint and a paintbrush with a yellow tip, showing them to Peeter. Peeter is looking at the yellow paint. They are both smiling. A small wooden palette with blue and yellow paint dots is on a tiny wooden table next to the easel. The garden has lush green grass, a few blooming colorful flowers in the background, and a clear blue sky. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD MAALIVAD SUURT PILTI.",
+      "scene": "Peeter and Liisa are in the sunny garden, actively painting on the paper on the easel. The paper now has a partially finished, colorful and abstract children's painting, depicting a blue sky with a yellow sun and green grass. Peeter is holding a paintbrush and adding a blue stroke to the sky. Liisa is holding a paintbrush and adding a yellow stroke to the sun. Both are concentrating and smiling. A small wooden palette with colorful paint dots is on a tiny wooden table next to the easel. The garden has lush green grass, a few blooming colorful flowers in the background, and a clear blue sky. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PILT ON VÄRVILINE JA ILUS.",
+      "scene": "Peeter and Liisa are in the sunny garden, standing proudly in front of the easel. The paper on the easel now shows a fully completed, vibrant, colorful and beautiful children's painting, e.g., a happy yellow sun, a blue stream, green trees, and colorful flowers. Peeter points at the painting with a joyful expression. Liisa claps her hands excitedly. Both are beaming with joy. The garden has lush green grass, a few blooming colorful flowers in the background, and a clear blue sky. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PEETER JA LIISA ON RÕÕMSAD.",
+      "scene": "Peeter and Liisa are in the sunny garden, embracing each other lightly and smiling brightly, looking very happy. The colorful painting is still visible on the easel in the background, a testament to their collaboration. The garden has lush green grass, a few blooming colorful flowers in the background, and a clear blue sky. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}

@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-08-18",
+  "latestDate": "2026-08-19",
   "stories": [
+    {
+      "date": "2026-08-19",
+      "title": "PEETER JA LIISA MAALIVAD PILTI",
+      "pageCount": 9,
+      "characters": [
+        "PEETER",
+        "LIISA"
+      ]
+    },
     {
       "date": "2026-08-18",
       "title": "REIN JA JUTA TEEVAD MAHLA",
