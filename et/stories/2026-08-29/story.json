@@ -1,0 +1,88 @@
+{
+  "date": "2026-08-29",
+  "language": "et",
+  "title": "KIKU JA MURI EHITAVAD LIIVALOSSI.",
+  "generatedAt": "2026-08-17T06:43:52.240Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KASS KIKU",
+      "type": "cat",
+      "description": "Väike oranž kass heledate triipudega, suured rohelised uudishimulikud silmad, kannab siniseid lühikesi pükse, sõbralik ja energiline naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KOER MURI",
+      "type": "dog",
+      "description": "Väike valge ja pruunilaiguline koer pehmete lontis kõrvadega, suured rõõmsad pruunid silmad, kannab rohelisi lühikesi pükse, mänguhimuline ja lahke ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline liivarand",
+      "description": "Sunny sandy beach next to calm sparkling blue sea, clear blue summer sky with bright sun, golden sand underfoot, a few small smooth seashells scattered in the sand, calm blue water horizon in the background, warm bright summer daylight. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KIKU JA MURI ON RANNAS.",
+      "scene": "Kass Kiku (orange cat wearing blue shorts) and koer Muri (spotted dog wearing green shorts) are standing side by side on the warm golden sand of a sunny beach. In the background is a calm sparkling blue sea under a clear sunny sky. Both characters look cheerful and excited.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD EHITADA LIIVALOSSI.",
+      "scene": "Kass Kiku (orange cat in blue shorts) and koer Muri (spotted dog in green shorts) are standing on the golden sand, happily pointing down at an empty patch of sand where they plan to build. The blue sea and sunny sky are in the background.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "MURI VÕTAB KOLLASE KÜHVI.",
+      "scene": "Koer Muri (spotted dog in green shorts) kneels on the golden sand, holding up a bright yellow plastic shovel in his paw with a big smile. Kass Kiku (orange cat in blue shorts) stands next to him holding a blue bucket, watching happily.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KIKU TÄIDAB ÄMBRI LIIVAGA.",
+      "scene": "Kass Kiku (orange cat in blue shorts) sits on the sand carefully scooping wet sand into a blue plastic bucket. Koer Muri (spotted dog in green shorts) is kneeling beside him holding the yellow shovel and helping to scoop sand.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SÕBRAD TEEVAD KÕRGE LIIVATORNI.",
+      "scene": "Kass Kiku (orange cat in blue shorts) and koer Muri (spotted dog in green shorts) carefully lift the upside-down blue bucket off the sand to reveal a neat, tall sand tower. Both friends smile with delight at their neat tower on the golden beach.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MURI KAUNISTAB LOSSI MERIKARPIDEGA.",
+      "scene": "Koer Muri (spotted dog in green shorts) gently places a pretty white seashell onto the top of the sandcastle. Kass Kiku (orange cat in blue shorts) kneels beside him, holding several small shells in his paw to help decorate.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SUUR LIIVALOSS ON VALMIS.",
+      "scene": "A beautiful complete sandcastle with sand towers, walls, and decorative white seashells stands proudly on the golden beach. Kass Kiku (orange cat in blue shorts) and koer Muri (spotted dog in green shorts) sit next to the finished sandcastle, admiring their creation proudly.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KIKU JA MURI ON RÕÕMSAD.",
+      "scene": "Kass Kiku (orange cat in blue shorts) and koer Muri (spotted dog in green shorts) are cheerfully clapping and waving their paws beside the finished seashell-decorated sandcastle on the sunny beach, with the blue sea and bright sunshine behind them.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
