@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-23",
+  "language": "et",
+  "title": "SAAMU JA JUTA LENNUTAVAD LOHET",
+  "generatedAt": "2026-08-17T05:42:01.021Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SAAMU",
+      "type": "hedgehog",
+      "description": "Väike pruun siil okkalise seljaga, roheline müts peas, suured mustad silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES JUTA",
+      "type": "rabbit",
+      "description": "Väike hall jänes pikkade kõrvadega, sinine kleit seljas, roosa lilleke kõrva taga, rõõmsameelne ja uudishimulik. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline väli",
+      "description": "Sunny, wide open grassy field with a gentle green hill in the background. A few fluffy white clouds are in the bright blue sky. No trees or buildings in the immediate vicinity to obstruct kite flying. Soft, natural lighting. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SAAMU JA JUTA ON VÄLJAL.",
+      "scene": "Siil Saamu ja Jänes Juta seisavad päikesepaistelisel rohelisel väljal. Saamu kannab rohelist mütsi, Juta sinist kleiti. Nad vaatavad ringi ja naeratavad rõõmsalt. Taevas on sinine ja pilved valged. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON SUUR LOHE.",
+      "scene": "Siil Saamu ja Jänes Juta seisavad päikesepaistelisel rohelisel väljal. Saamu hoiab suurt värvilist lohet maas, millel on pikk saba. Juta seisab tema kõrval ja osutab lohele, vaadates seda uudishimulikult. Mõlemad naeratavad. Taevas on sinine ja pilved valged. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD HOIAVAD LOHET KINNI.",
+      "scene": "Siil Saamu ja Jänes Juta seisavad päikesepaistelisel rohelisel väljal. Saamu hoiab kahe käega lohet püsti õhus, valmis lendama. Juta hoiab lohe niiti. Nad vaatavad üles taeva poole lootusrikka ilmega. Taevas on sinine ja pilved valged. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "JUTA JOOKSEB KIIRELT.",
+      "scene": "Jänes Juta jookseb kiiresti päikesepaistelisel rohelisel väljal, hoides lohe niiti kindlalt käes. Lohe on tema taga õhus, hakkamas tõusma. Siil Saamu seisab natuke eemal ja vaatab Jutale järele, julgustava naeratusega. Taevas on sinine ja pilved valged. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LOHE TÕUSEB KÕRGELE.",
+      "scene": "Värviline lohe tõuseb kõrgele päikesepaistelises sinises taevas. Jänes Juta seisab rohelisel väljal, hoides lohe niiti. Siil Saamu seisab tema kõrval ja vaatab üles lendavat lohet, mõlemad on põnevil. Taevas on sinine ja pilved valged. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TUUL PUHUB TUGEVALT.",
+      "scene": "Värviline lohe lendab kõrgel päikesepaistelises sinises taevas. Jänes Juta ja Siil Saamu seisavad rohelisel väljal, hoides koos lohe niiti. Nende juuksed ja müts (Saamul) lehvivad õrnalt tuules, mis lohet kõrgemal hoiab. Mõlemad naeratavad laialt. Taevas on sinine ja pilved valged. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LOHE LENDAB KAUGELE.",
+      "scene": "Värviline lohe lendab väga kaugele, kõrgele päikesepaistelises sinises taevas, olles väike punkt kauguses. Jänes Juta ja Siil Saamu seisavad rohelisel väljal, vaadates üles, hoides endiselt lohe niiti. Nende nägudel on imetlus ja rõõm. Taevas on sinine ja pilved valged. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD HOIAVAD NIITI.",
+      "scene": "Jänes Juta ja Siil Saamu seisavad rohelisel väljal, hoides kindlalt lohe niiti, mis ulatub üles kaugele taevasse. Nende nägudel on rahulolev ilme. Lohe on taevas nähtav kui väike täpp. Taevas on sinine ja pilved valged. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LOHE TANTSAB TAEVAS.",
+      "scene": "Värviline lohe tantsib õrnalt ja hõljub päikesepaistelises sinises taevas, tehes väikseid ringe. Jänes Juta ja Siil Saamu seisavad rohelisel väljal, vaadates üles lohet ja naeratades. Nende näod on täis rõõmu ja imetlust. Taevas on sinine ja pilved valged. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SAAMU JA JUTA ON RÕÕMSAD.",
+      "scene": "Siil Saamu ja Jänes Juta seisavad rohelisel väljal, vaadates üles taevasse, kus lohe ikka veel tantsib. Nad hoiavad üksteisel käest kinni ja naeratavad laialt, tundes rõõmu oma õnnestunud lohe lennutamisest. Taevas on sinine ja pilved valged. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
