@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-15",
+  "language": "et",
+  "title": "KARU KUSTI JA HIIR MIINU KORJAVAD MUSTIKAID",
+  "generatedAt": "2026-08-17T08:30:11.054Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KARU KUSTI",
+      "type": "bear",
+      "description": "Suur ja sõbralik pruun karu, seljas kollane särk ja sinised püksid, suur sooja naeratuse ja lahkete silmadega. Armas multifilmistiil, selged kontuurid.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "HIIR MIINU",
+      "type": "mouse",
+      "description": "Väike hall hiir suurte ümarate kõrvadega, seljas roosa kleit, pisike ja vilgas, rõõmsameelne näoilme. Armas multifilmistiil, selged kontuurid.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline suvemets",
+      "description": "Sunny summer forest with tall green pine trees, soft green moss floor, patches of bright blueberry bushes with ripe blue berries, warm yellow sunlight filtering through trees. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Kodu köök",
+      "description": "Cozy rustic kitchen with light wooden walls, wooden floor, a central wooden table, a single window on the back wall showing green forest outside, warm sunlight streaming in. Simple cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KARU KUSTI JA HIIR MIINU LÄHEVAD METSA.",
+      "scene": "Karu Kusti (large brown bear in yellow shirt and blue pants) and Hiir Miinu (small gray mouse in pink dress) walking together along a mossy path in a sunny summer forest. Karu Kusti carries a small empty woven basket in his hand. Warm sunlight filters through the trees.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD OTSIVAD METSAST MAGUSAID MUSTIKAID.",
+      "scene": "Karu Kusti and Hiir Miinu standing in the sunny forest, looking around attentively at the green bushes on the forest floor. Karu Kusti is holding his empty woven basket, and Hiir Miinu is looking with wide curious eyes.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "MIINU LEIAB SUURE MUSTIKAPÕÕSA.",
+      "scene": "Hiir Miinu pointing excitedly at a large green blueberry bush filled with ripe blue berries on the mossy ground. Karu Kusti stands nearby, looking delighted and holding his woven basket.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KUSTI KORJAB PALJU MARJU.",
+      "scene": "Karu Kusti kneeling beside the blueberry bush, carefully picking ripe blue berries and dropping them into his woven basket. Hiir Miinu stands beside him watching happily.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIINU PANEB MARJAD KORVI.",
+      "scene": "Hiir Miinu reaching her small paws towards the blueberry bush, picking berries and placing them into the woven basket held by Karu Kusti. Both characters are smiling joyfully.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NÜÜD ON KORV MARJU TÄIS.",
+      "scene": "Karu Kusti and Hiir Miinu standing in the sunny forest, looking down happily at the woven basket which is now completely full of round blue berries.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SÕBRAD VIIVAD KORVI KOJU.",
+      "scene": "Karu Kusti and Hiir Miinu walking hand in hand along the forest trail towards home, with Karu Kusti holding the full woven basket of blueberries. Sunbeams shine softly through the pine trees.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD TEEVAD KOOS MAITSVAT KOOKI.",
+      "scene": "Inside the cozy kitchen, Karu Kusti and Hiir Miinu stand at the central wooden table. Karu Kusti pours blueberries into a ceramic baking dish with cake batter, while Hiir Miinu holds a wooden spoon and smiles. Sunlight comes through the single window.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SÕBRAD SÖÖVAD SOOJA KOOKI.",
+      "scene": "Inside the cozy kitchen, Karu Kusti and Hiir Miinu sit together at the wooden table, eating slices of freshly baked blueberry cake from small ceramic plates, looking happy and delighted.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "KARU JA HIIR ON ÕNNELIKUD.",
+      "scene": "Inside the cozy kitchen, Karu Kusti and Hiir Miinu sit side by side at the wooden table, waving cheerfully with satisfied smiles, empty plates in front of them.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
