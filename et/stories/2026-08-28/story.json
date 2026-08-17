@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-28",
+  "language": "et",
+  "title": "SASSI JA OLLE LENNUTAVAD LOHET.",
+  "generatedAt": "2026-08-17T06:35:55.028Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SASSI",
+      "type": "hedgehog",
+      "description": "Väike pruun siil pehmete ümarate okastega, kandmas helesinist lühikeste käistega t-särki. Tal on suured sõbralikud mustad silmad, väike must nööpnina ja rõõmus naeratus. Armas ja pehme multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OLLE",
+      "type": "squirrel",
+      "description": "Väike oranž orav suure koheva sabaga ja armsate kõrvatuttidega, kandmas rohelisi lühikesi pükse. Tal on säravad uudishimulikud silmad ja lai rõõmsameelne naeratus. Armas ja pehme multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline liivarand",
+      "description": "A sunny, peaceful summer beach with soft golden sand, calm sparkling blue water in the background, low green grass-covered sand dunes along the shoreline, and a clear blue sky with a few fluffy white clouds. Warm golden summer sunlight. Cute cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIIL SASSI JA ORAV OLLE ON RANNAS.",
+      "scene": "Siil Sassi (wearing light blue t-shirt) and Orav Olle (wearing green shorts) are standing side by side on the warm golden sand of the beach. Behind them is calm blue water and gentle green dunes under a clear sunny summer sky. Both characters are smiling happily and looking forward. Landscape composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "SASSIL ON ILUS PUNANE LOHE.",
+      "scene": "Siil Sassi stands on the golden sand holding a bright red diamond-shaped kite in his hands. The kite has a long tail with colorful yellow and blue bows attached. Orav Olle stands beside him, clapping his paws excitedly. The background shows the sandy beach, blue sea, and clear sunny sky. Landscape composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "TUUL PUHUB TASA JA SOOJALT.",
+      "scene": "Siil Sassi and Orav Olle are standing on the beach as a warm summer breeze gently blows. The red kite's colorful ribbon tail flutters in the air, and Olle's fluffy orange tail sways gently. The green dune grass in the background bends slightly in the breeze under the bright sunny sky. Landscape composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "OLLE HOIAB PIKKA NÖÖRI.",
+      "scene": "Orav Olle holds a round wooden spool with white kite string wound around it tightly in both hands. Siil Sassi stands ready next to him, holding the red diamond kite up by its frame. Both are focused and smiling on the golden sandy beach with the blue ocean behind them. Landscape composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SASSI VISKAB LOHE KÕRGELE ÕHKU.",
+      "scene": "Siil Sassi reaches up high and tosses the red diamond kite into the air with a happy jump. Orav Olle stands a few steps away, holding the string spool as the string begins to unroll. The scene is full of energy against the sunny beach, blue water, and sky. Landscape composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PUNANE LOHE TÕUSEB KÕRGELE TAEVASSE.",
+      "scene": "The bright red diamond kite with its colorful bow tail is soaring high up into the bright blue sky. Below on the golden sandy beach, Siil Sassi and Orav Olle look up with wide happy eyes and open mouths, pointing up at the flying kite. Landscape composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LOHE LENDAB ILUSASTI TUULES.",
+      "scene": "The red kite dances gracefully in the sunny summer sky among gentle white clouds. Below, Orav Olle carefully holds the spool of string and Siil Sassi hops with joy on the golden sand. The sparkling sea and green dunes shine in the warm sunlight. Landscape composition.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SASSI JA OLLE JOOKSEVAD RÕÕMSALT.",
+      "scene": "Siil Sassi and Orav Olle run playfully side by side across the golden beach sand. Olle holds the string of the kite flying high above behind them. Footprints mark the sand, and the calm blue ocean gleams brightly under the sunny sky. Landscape composition.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SÕBRAD ON VÄGA ÕNNELIKUD.",
+      "scene": "Siil Sassi and Orav Olle stand together on the golden beach, smiling warmly at each other with happy faces. The red kite hovers high in the sunny blue sky above. The sparkling blue water and sunny green dunes complete the cheerful summer scene. Landscape composition.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
