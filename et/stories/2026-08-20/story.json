@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-20",
+  "language": "et",
+  "title": "KOIT JA OTT EHITAVAD LIIVALOSSI.",
+  "generatedAt": "2026-08-17T05:16:23.487Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KOER KOIT",
+      "type": "dog",
+      "description": "Väike pruun koer suurte rippuvate kõrvadega, kandmas väikest sinist kaelarihma, sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike punakaspruun orav koheva sabaga, seljas väike roheline vest, erk ja energiline näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "RANNAS",
+      "description": "A sunny sandy beach with soft golden sand, gentle blue ocean waves reaching the shore, and a few small white fluffy clouds in the sky. A few green tufts of beach grass are visible in the background. Bright daylight. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KOER KOIT ON RANNAS.",
+      "scene": "Koer Koit, a small brown dog with floppy ears and a blue collar, is standing on a sunny sandy beach near the gentle blue ocean waves. He looks curious and happy, gazing at the sea. The beach has soft golden sand, and a few small white fluffy clouds are in the sky. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ORAV OTT ON KA RANNAS.",
+      "scene": "Koer Koit is standing on the sunny sandy beach, looking at the ocean. Orav Ott, a small reddish-brown squirrel with a bushy tail and a green vest, is standing next to Koit, also looking at the ocean. Both characters appear happy and curious. The beach has soft golden sand, and gentle blue ocean waves are visible. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Koer Koit and Orav Ott are standing on the sunny sandy beach, looking at each other with bright, excited expressions. Koit wags his tail slightly. Ott has his paws together as if thinking. They are discussing something with happy faces. The soft golden sand and gentle blue ocean are in the background. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD KOGUVAD LIIVA.",
+      "scene": "Koer Koit is using his paws to gently push a small pile of soft golden sand together on the sunny beach. Orav Ott is using his front paws to scoop up sand, adding it to Koit's pile. Both look focused and happy. Gentle blue ocean waves are in the background. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD TEEVAD SEINA.",
+      "scene": "Koer Koit and Orav Ott are carefully patting and shaping a small, sturdy wall made of soft golden sand on the sunny beach. Koit uses his nose and paws to smooth the sand, while Ott uses his paws to press it firm. They look collaborative and pleased with their progress. The gentle blue ocean is visible behind them. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD EHITAVAD TORNI.",
+      "scene": "Koer Koit and Orav Ott are now building a small sand tower on top of their sand wall. Koit carefully places a larger chunk of wet sand, while Ott uses his paws to shape and refine the tower. Their sand creation is clearly taking the shape of a castle. They are concentrating with happy expressions. The beach environment is sunny. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "TORNI OTSAS ON LIPP.",
+      "scene": "Koer Koit and Orav Ott are standing proudly next to their nearly finished sandcastle on the sunny beach. Orav Ott is carefully inserting a small, colorful fabric flag (e.g., red or blue) into the very top of the highest sand tower. Koit watches with an approving, happy expression. The sandcastle has walls and towers. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LIIVALOSS ON VALMIS!",
+      "scene": "Koer Koit and Orav Ott are standing beside their beautifully completed sandcastle on the sunny beach. The sandcastle is detailed with walls, towers, and a colorful flag proudly waving from its peak. Both characters are looking at their creation with immense pride and joy, smiling broadly. The gentle blue ocean stretches behind them. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KOIT JA OTT MÄNGIVAD.",
+      "scene": "Koer Koit is playfully chasing Orav Ott in a small circle around their finished sandcastle on the sunny beach. Ott is scampering away playfully, looking over his shoulder at Koit with a happy grin. The sandcastle stands proudly in the background, with the gentle blue ocean waves. They are having fun. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA RÕÕMSAD.",
+      "scene": "Koer Koit and Orav Ott are sitting happily side-by-side on the soft golden sand next to their sandcastle, looking out at the gentle blue ocean. They are smiling broadly, enjoying the warm sun and their successful day at the beach. The completed sandcastle with its flag is next to them. Cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

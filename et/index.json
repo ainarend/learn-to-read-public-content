@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-08-19",
+  "latestDate": "2026-08-20",
   "stories": [
+    {
+      "date": "2026-08-20",
+      "title": "KOIT JA OTT EHITAVAD LIIVALOSSI.",
+      "pageCount": 10,
+      "characters": [
+        "KOER KOIT",
+        "ORAV OTT"
+      ]
+    },
     {
       "date": "2026-08-19",
       "title": "PEETER JA LIISA MAALIVAD PILTI",
