@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-25",
+  "language": "et",
+  "title": "JUTA JA MATI EHITAVAD MAJA.",
+  "generatedAt": "2026-08-17T05:57:31.935Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUTA",
+      "type": "human",
+      "description": "Väike inimene Juta. Tal on lühikesed pruunid juuksed ja suured sõbralikud silmad. Juta kannab roosat T-särki ja siniseid lühikesi pükse. Tal on rõõmus ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MATI",
+      "type": "human",
+      "description": "Väike inimene Mati. Tal on lühikesed blondid juuksed ja naeratav nägu. Mati kannab rohelist T-särki ja pruune lühikesi pükse. Ta on energiline ja sõbralik. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "ELUTUBA",
+      "description": "Cozy children's living room with light blue walls, a soft light grey rug on a wooden floor, a large window on the back wall showing green trees and bright summer sky. A simple wooden coffee table is in the center. A large, comfy sofa with colorful pillows is against the right wall. The room is tidy and inviting. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUTA JA MATI ON TOAS.",
+      "scene": "Juta and Mati are standing in a cozy children's living room with light blue walls, a soft light grey rug, and a large window showing green trees. Juta wears a pink T-shirt and blue shorts, Mati wears a green T-shirt and brown shorts. They are looking around the tidy room with curious, friendly expressions. A comfy sofa with colorful pillows is visible against the right wall. Cartoon style, landscape.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Juta and Mati are standing in the cozy living room, looking at each other with bright, excited smiles and mischievous eyes, as if a fun idea just popped into their heads. Juta gestures slightly with her hand. The room has light blue walls, a light grey rug, a wooden coffee table, and a sofa with colorful pillows. Cartoon style, landscape.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD TEKID.",
+      "scene": "Juta and Mati are reaching for soft, colorful blankets. Mati is pulling a large blue blanket from the back of the comfy sofa. Juta is holding a yellow blanket, ready to use it. They are both smiling, focused on their task. The living room environment is consistent with light blue walls, a light grey rug, and a large window. Cartoon style, landscape.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD VÕTAVAD PADJAD.",
+      "scene": "Juta and Mati are gathering soft pillows. Juta holds a pink pillow in her arms, and Mati is grabbing a striped pillow from the sofa. Several colorful pillows are already piled on the light grey rug. They look happy and busy. The living room environment is consistent. Cartoon style, landscape.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD EHITAVAD MAJA.",
+      "scene": "Juta and Mati are actively building their 'house'. They are stretching and draping the colorful blankets over the wooden coffee table and sofa, creating a cozy fort structure. Pillows are arranged on the floor inside. They are collaborating, both reaching up and smiling. The living room environment is consistent. Cartoon style, landscape.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MAJA ON NÜÜD VALMIS.",
+      "scene": "Juta and Mati are standing back a little from their finished blanket fort, admiring their creation. The fort, made from blankets draped over the coffee table and sofa, looks inviting with pillows inside. They both have proud and satisfied smiles on their faces. The living room environment is consistent. Cartoon style, landscape.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD ISTUVAD MAJJA.",
+      "scene": "Juta and Mati are carefully crawling inside their blanket fort. Juta is already partly inside, and Mati is following her, peeking his head in. The fort looks cozy with blankets forming the walls and a soft floor of pillows. They are both smiling excitedly. The living room environment is consistent. Cartoon style, landscape.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD LOEVAD RAAMATUT.",
+      "scene": "Juta and Mati are sitting comfortably inside their blanket fort, surrounded by colorful pillows and blankets. They are looking at an open children's book together, holding it up, engrossed in the story. They both have gentle, happy expressions. The light from the window softly illuminates the cozy interior of the fort. Cartoon style, landscape.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MAJA ON NII MUGAV!",
+      "scene": "Juta and Mati are still inside their blanket fort, looking very comfortable and content. Juta is leaning against a pillow, and Mati is snuggled close, both smiling broadly. The fort's interior, made of blankets and pillows, looks incredibly cozy and inviting. The light from the window streams in, highlighting their happy faces. Cartoon style, landscape.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "JUTA JA MATI ON RÕÕMSAD.",
+      "scene": "Juta and Mati are sitting side-by-side inside their homemade blanket fort, beaming with joy. They both have big, cheerful smiles on their faces, eyes sparkling with happiness. The fort provides a snug, private space, filled with their blankets and pillows. The living room background is visible outside the fort entrance. Cartoon style, landscape.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
