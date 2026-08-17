@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-08-26",
+  "latestDate": "2026-08-27",
   "stories": [
+    {
+      "date": "2026-08-27",
+      "title": "MARI JA TOOMAS PIKNIKUL",
+      "pageCount": 10,
+      "characters": [
+        "MARI",
+        "TOOMAS"
+      ]
+    },
     {
       "date": "2026-08-26",
       "title": "LIISA JA PEETER TEEVAD MUUSIKAT.",

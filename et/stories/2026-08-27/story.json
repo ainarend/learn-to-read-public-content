@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-27",
+  "language": "et",
+  "title": "MARI JA TOOMAS PIKNIKUL",
+  "generatedAt": "2026-08-17T06:14:48.722Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk. Blondid juuksed kahe patsis, seljas roosa kleit ja valged sandaalid. Suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "TOOMAS",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane poiss. Pruunid lühikesed juuksed, seljas sinine T-särk ja hallid lühikesed püksid, sinised tossud. Suured rõõmsad silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Cozy children's kitchen with light yellow walls, wooden floor, a single rectangular window on the back wall showing green trees outside. A small wooden table with two chairs is in the center. On the left wall, there's a simple shelf with a few colorful plates. Warm sunlight streams through the window. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "AED",
+      "description": "Sunny green garden with lush grass, a few colorful flowers blooming (e.g., red, yellow, blue), and a large leafy tree in the background. The sky is clear blue with a few fluffy white clouds. The ground is flat green grass. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MARI JA TOOMAS MÕTLEVAD.",
+      "scene": "Mari and Toomas are sitting at a small wooden table in the kitchen, looking at each other with thoughtful expressions. Mari has her finger on her chin, and Toomas is smiling gently. The kitchen has light yellow walls and a wooden floor, with warm sunlight coming through the window. A simple shelf with colorful plates is on the left wall.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD PIKNIKUT.",
+      "scene": "Mari and Toomas are standing excitedly next to the small wooden table in the kitchen. Mari is pointing enthusiastically with one hand, and Toomas is clapping his hands happily. They both have big smiles. The kitchen has light yellow walls and a wooden floor, with warm sunlight coming through the window. A simple shelf with colorful plates is on the left wall.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD KOGUVAD ASJU.",
+      "scene": "Mari and Toomas are busy in the kitchen, gathering items for their picnic. Mari is reaching for a small red apple on the wooden table, while Toomas holds a sandwich wrapped in paper. The kitchen has light yellow walls and a wooden floor, with warm sunlight coming through the window. A simple shelf with colorful plates is on the left wall.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MARI VÕTAB KORVI.",
+      "scene": "Mari is standing by the small wooden table in the kitchen, carefully picking up a woven picnic basket. She has a determined and happy expression. Toomas is standing next to her, watching with a smile. The kitchen has light yellow walls and a wooden floor, with warm sunlight coming through the window. A simple shelf with colorful plates is on the left wall.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "TOOMAS KANNAB PLEEDI.",
+      "scene": "Toomas is carefully carrying a folded blue picnic blanket in his arms, walking towards the kitchen door. Mari walks beside him, looking ready to go. They both have excited expressions. The kitchen has light yellow walls and a wooden floor, with warm sunlight coming through the window. A simple shelf with colorful plates is on the left wall.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LÄHEVAD AEDA.",
+      "scene": "Mari and Toomas are walking happily through a sunny green garden. Mari is holding the picnic basket, and Toomas is still carrying the folded blue blanket. Lush green grass and colorful flowers are around them, with a large leafy tree in the background under a clear blue sky. They are walking side by side, smiling.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD LAOTAVAD PLEEDI.",
+      "scene": "Mari and Toomas are kneeling on the green grass in the sunny garden, working together to spread out the blue picnic blanket. Mari holds one corner, and Toomas holds another. Colorful flowers are visible nearby. The sky is clear and blue, and a large leafy tree is in the background.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD SÖÖVAD MAITSVAT SÖÖKI.",
+      "scene": "Mari and Toomas are sitting happily on the blue picnic blanket in the sunny garden, enjoying their picnic. The picnic basket is open, and they are both eating sandwiches with big smiles on their faces. Colorful flowers bloom around them. The sky is clear blue with fluffy white clouds, and a large leafy tree is in the background.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD NÄEVAD LIBLIKAT.",
+      "scene": "Mari and Toomas are sitting on their blue picnic blanket, looking up with wide, amazed eyes at a colorful butterfly fluttering gracefully nearby. Mari is pointing gently at the butterfly. They both have joyful expressions. The sunny green garden is vibrant with flowers and a leafy tree in the background.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "MARI JA TOOMAS ON ÕNNELIKUD.",
+      "scene": "Mari and Toomas are sitting close together on their blue picnic blanket in the sunny garden, hugging each other and smiling brightly. The picnic basket is nearby, and the butterfly is still visible, fluttering in the distance. They look very happy and content. The garden is lush with green grass and blooming flowers, under a clear blue sky.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
