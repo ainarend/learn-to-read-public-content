@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-24",
+  "language": "et",
+  "title": "ORAV OTT JA REBANE REIN RANNAS",
+  "generatedAt": "2026-08-17T05:49:03.454Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike pruun orav, pika koheva sabaga. Tal on seljas väike, helesinine vest ja valge kõht. Tema silmad on suured, säravad ja uudishimulikud. Näoilme on sõbralik ja rõõmsameelne. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "REBANE REIN",
+      "type": "fox",
+      "description": "Väike oranž rebane, valge kõhu ja käpajalgadega. Tal on seljas väike, heleroheline särk. Tema kõrvad on teravad ja ta suu on sõbralikus naeratuses. Silmad on erksad ja rõõmsad. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Rand",
+      "description": "A sunny, wide sandy beach with gentle waves lapping at the shore. The sand is golden and smooth. In the distance, a calm blue sea meets a clear sky with a few fluffy white clouds. There are no other people or buildings visible, just nature. Bright, cheerful, cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ORAV OTT JA REBANE REIN.",
+      "scene": "Orav Ott ja Rebane Rein seisavad rõõmsalt rannaliival. Ott naeratab ja Rein viipab käpaga. Päike paistab soojalt. Nende ümber on lai kuldne liivarand ja tagapool sinine meri.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD LÄHEVAD RANDA.",
+      "scene": "Orav Ott ja Rebane Rein kõnnivad mööda rannaliiva mere poole, seljad vaataja poole. Nad hoiavad üksteise käpast kinni ja on rõõmsad. Päike paistab soojalt. Nende ümber on lai kuldne liivarand ja tagapool sinine meri.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LIIV ON SOE JA PEHME.",
+      "scene": "Orav Ott ja Rebane Rein istuvad rannaliival, käpad liivas. Nende näod on rõõmsad ja nad tunnevad liiva pehmust. Päike paistab soojalt. Nende ümber on lai kuldne liivarand ja tagapool sinine meri.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "OTT KAEVAB LIIVASSE AUKU.",
+      "scene": "Orav Ott istub rannaliival ja kaevab oma väikese punase labidaga liivasse auku. Rebane Rein vaatab teda kõrval seistes huviga. Päike paistab soojalt. Nende ümber on lai kuldne liivarand ja tagapool sinine meri.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "REIN KOGUB LIIVA KOPPA.",
+      "scene": "Rebane Rein istub rannaliival ja täidab väikese kollase kopaga liiva. Orav Ott hoiab väikest punast labidat käpas ja vaatab Reinu. Päike paistab soojalt. Nende ümber on lai kuldne liivarand ja tagapool sinine meri.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD TEEVAD LIIVALOSSI.",
+      "scene": "Orav Ott ja Rebane Rein töötavad koos liivalossi kallal. Ott asetab koppa liiva losse torniks. Rein silub liiva käpaga. Losse alus on juba näha. Päike paistab soojalt. Nende ümber on lai kuldne liivarand ja tagapool sinine meri.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LOSS KASVAB SUUREKS.",
+      "scene": "Orav Ott ja Rebane Rein seisavad uhkelt oma suure, valmis liivalossi kõrval. Lossil on tornid ja seinad. Nad naeratavad uhkelt. Päike paistab soojalt. Nende ümber on lai kuldne liivarand ja tagapool sinine meri.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD KAUNISTAVAD LOSSI.",
+      "scene": "Orav Ott paneb väikese merekarbi liivalossi tippu. Rebane Rein asetab lossi ette väikese pruuni kivikese. Nad kaunistavad oma loodud liivalossi. Päike paistab soojalt. Nende ümber on lai kuldne liivarand ja tagapool sinine meri.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NENDE LOSS ON VÄGA ILUS.",
+      "scene": "Orav Ott ja Rebane Rein istuvad rahulolevalt oma kauni liivalossi ees. Nad naeratavad ja vaatavad oma loomingut. Loss on uhke ja kaunistatud. Päike paistab soojalt. Nende ümber on lai kuldne liivarand ja tagapool sinine meri.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
