@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-21",
+  "language": "et",
+  "title": "KATI JA SILLU TEEVAD MAJA",
+  "generatedAt": "2026-08-17T05:24:29.659Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KARU KATI",
+      "type": "bear",
+      "description": "Väike pruun karu pehme karvaga, kandmas väikest sinist lühikeste varrukatega särki, ümarate kõrvadega ja sõbraliku näoilmega. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL SILLU",
+      "type": "hedgehog",
+      "description": "Väike hall siil pruunide okastega, kandmas väikest rohelist salli kaelas, pisikeste mustade silmadega ja uudishimuliku naeratusega. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "PÄIKESELINE METSAÄÄR",
+      "description": "A bright and sunny forest clearing with tall green trees around the edges. The ground is covered with soft green grass and scattered fallen leaves and small twigs. There are a few larger smooth grey rocks. Clear blue sky visible above. The atmosphere is warm, inviting, and peaceful. Cute cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KATI JA SILLU ON METSAS.",
+      "scene": "Karu Kati and Siil Sillu are standing together in a bright and sunny forest clearing, looking around curiously at the trees and grass. They have happy, inquisitive expressions. The ground is covered with green grass and scattered fallen leaves. Tall green trees line the edge of the clearing. Clear blue sky above. Cute cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Karu Kati and Siil Sillu are standing in the bright and sunny forest clearing. They are looking at each other with wide, excited smiles, and Kati is pointing one paw towards an open spot on the grassy ground, indicating a shared, good idea. The clearing has tall green trees and a clear blue sky. Cute cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD KOGUVAD PUUOKSI.",
+      "scene": "Karu Kati is gently picking up a medium-sized fallen tree branch from the grassy ground in the bright and sunny forest clearing. Siil Sillu is diligently pushing a smaller twig with his nose. Both characters are focused on gathering materials for their project. Tall green trees and clear blue sky are visible. Cute cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD OTSIVAD LEHTI.",
+      "scene": "Karu Kati is kneeling on the soft green grass in the bright and sunny forest clearing, gathering a pile of large green leaves into her paws. Siil Sillu is nearby, carefully using his nose to find and push more leaves towards Kati. They are working together. Tall green trees and clear blue sky are visible. Cute cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD EHITAVAD MAJA.",
+      "scene": "Karu Kati is carefully placing a long, sturdy branch vertically into the grassy ground to form part of a small, simple structure, like a tiny fort frame. Siil Sillu is standing next to her, holding a smaller twig, watching intently with a helpful expression in the bright and sunny forest clearing. Tall green trees and clear blue sky are visible. Cute cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MAJA KASVAB SUUREKS.",
+      "scene": "Karu Kati and Siil Sillu are both actively working on their small hideaway in the bright and sunny forest clearing. The structure has now taken more shape, with several branches forming the walls and roof frame. Kati is adding more branches, and Sillu is placing leaves onto the branches. Tall green trees and clear blue sky are visible. Cute cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD PANEVAD SAMMALT.",
+      "scene": "Karu Kati is gently pressing a clump of soft, green moss onto the roof of their almost completed small hideaway, which is made of branches and leaves. Siil Sillu is standing proudly next to her, holding another piece of moss, ready to help. The hideaway looks cozy in the bright and sunny forest clearing. Tall green trees and clear blue sky are visible. Cute cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MAJA ON VALMIS!",
+      "scene": "Karu Kati and Siil Sillu are standing together, smiling widely and proudly in front of their completed small hideaway. It is a charming, cozy structure made entirely of branches, leaves, and moss. They are admiring their hard work in the bright and sunny forest clearing. Tall green trees and clear blue sky are visible. Cute cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD LÄHEVAD SISSE.",
+      "scene": "Karu Kati is carefully crouching to enter the small opening of their newly built, cozy hideaway, made of branches, leaves, and moss. Siil Sillu is already peeking out from inside the hideaway, smiling with excitement. They are enjoying their creation in the bright and sunny forest clearing. Tall green trees and clear blue sky are visible. Cute cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NAD ON VÄGA RÕÕMSAD.",
+      "scene": "Karu Kati and Siil Sillu are sitting comfortably and happily inside their cozy, small hideaway, which is made of branches, leaves, and moss. Both characters are smiling widely, feeling pleased with their new play space. Gentle sunlight filters into their hideaway in the bright forest clearing. Tall green trees and clear blue sky are visible. Cute cartoon style.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
