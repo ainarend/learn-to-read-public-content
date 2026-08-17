@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-17",
+  "language": "et",
+  "title": "MIISU JA LIISU PABERPAAT",
+  "generatedAt": "2026-08-17T04:18:51.412Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KASS MIISU",
+      "type": "cat",
+      "description": "Väike oranž-valge triibuline kassipoeg, roheliste silmade ja pikkade vurrudega, kandmas väikest sinist salli. Sõbralik ja uudishimulik. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LIND LIISU",
+      "type": "bird",
+      "description": "Väike kollane varblane, pruunide tiibade ja sabaotsaga, teravate mustade silmade ja pisikese oranži nokaga. Liisu on rõõmsameelne ja energiline. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Tagahoov",
+      "description": "A bright and sunny backyard with lush green grass, a small wooden fence in the background, a few colorful flowers blooming along the fence. A small, simple wooden picnic table and two small wooden chairs are in the center. The sun is shining brightly from above. Cute cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Jõekallas",
+      "description": "A peaceful small stream or pond in a sunny summer forest clearing. The water is clear and calm, reflecting the blue sky. Green mossy banks with small pebbles and a few tall green reeds. Sunlight filters through the surrounding green trees. Cute cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KASS MIISU JA LIND LIISU.",
+      "scene": "Kass Miisu, a small orange-and-white striped kitten, sits on a small wooden chair at a simple wooden picnic table in a bright sunny backyard. Lind Liisu, a small yellow sparrow, perches on the back of Miisu's chair. Both look forward with friendly expressions. The backyard has lush green grass and a wooden fence with colorful flowers in the background.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Kass Miisu sits at the small wooden picnic table in the bright sunny backyard, looking at a stack of colorful paper on the table with an excited expression. Lind Liisu perches on the table next to the paper, chirping happily. The backyard has lush green grass and a wooden fence with colorful flowers in the background.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD PABERPAATE.",
+      "scene": "Kass Miisu is carefully folding a piece of colorful paper into a boat shape at the small wooden picnic table in the bright sunny backyard. Lind Liisu is holding a small piece of paper in her beak, trying to help. Several crumpled paper pieces are on the table. The backyard has lush green grass and a wooden fence with colorful flowers in the background.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PAAT SAAB VALMIS.",
+      "scene": "Kass Miisu proudly holds up a perfectly folded, colorful paper boat with both paws. Lind Liisu perches on the edge of the paper boat, chirping happily and admiring their work. They are still at the small wooden picnic table in the bright sunny backyard. The backyard has lush green grass and a wooden fence with colorful flowers in the background.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD LÄHEVAD JÕE ÄÄRDE.",
+      "scene": "Kass Miisu, carrying the colorful paper boat carefully in her mouth, walks along a path on the green mossy bank of a peaceful small stream in a sunny summer forest clearing. Lind Liisu flies just above Miisu, guiding the way. The stream has clear, calm water and is surrounded by green trees.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD PANEVAD PAADI VETTE.",
+      "scene": "Kass Miisu carefully lowers the colorful paper boat into the clear water of the small stream. She kneels on the green mossy bank, her paws just touching the water. Lind Liisu perches on a nearby reed, watching with anticipation. The stream is in a sunny summer forest clearing with green trees.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VÄIKE PAAT UJUB.",
+      "scene": "The colorful paper boat floats gently on the clear water of the small stream. Kass Miisu and Lind Liisu stand on the green mossy bank, watching the boat with happy, curious expressions. The stream is in a sunny summer forest clearing.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PAAT UJUB KIIRESTI EDASI.",
+      "scene": "The colorful paper boat floats a bit further away and faster on the clear water of the small stream, propelled by a gentle current. Kass Miisu and Lind Liisu are smiling and running playfully along the green mossy bank, following their boat. The stream is in a sunny summer forest clearing.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MIISU JA LIISU NAERAVAD.",
+      "scene": "Kass Miisu and Lind Liisu are standing on the green mossy bank next to the small stream, laughing joyfully as their colorful paper boat continues to float happily. They are looking at the boat, their faces full of delight. The stream is in a sunny summer forest clearing.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SEE ON SUUR RÕÕM!",
+      "scene": "Kass Miisu and Lind Liisu are sitting together on the green mossy bank of the small stream, watching their colorful paper boat float calmly in the distance. They are smiling, content and happy. Lind Liisu is perched on Miisu's head. The scene is peaceful and full of summer sunlight. The stream is in a sunny summer forest clearing.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

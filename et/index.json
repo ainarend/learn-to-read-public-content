@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-06-28",
+  "latestDate": "2026-08-17",
   "stories": [
+    {
+      "date": "2026-08-17",
+      "title": "MIISU JA LIISU PABERPAAT",
+      "pageCount": 10,
+      "characters": [
+        "KASS MIISU",
+        "LIND LIISU"
+      ]
+    },
     {
       "date": "2026-06-28",
       "title": "SIIL SASS JA HIIR HELI EHITAVAD LIIVALOSSI",
@@ -318,15 +327,6 @@
       ]
     },
     {
-      "date": "2026-05-12",
-      "title": "JUKU JA SASS TEEVAD KIVIMUSTRI",
-      "pageCount": 10,
-      "characters": [
-        "JÄNES JUKU",
-        "SIIL SASS"
-      ]
-    },
-    {
       "date": "2026-05-24",
       "title": "KASPAR JA EVI PABERPAADID",
       "pageCount": 9,
@@ -414,6 +414,15 @@
       "characters": [
         "KUTSU",
         "PÄÄSU"
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "title": "JUKU JA SASS TEEVAD KIVIMUSTRI",
+      "pageCount": 10,
+      "characters": [
+        "JÄNES JUKU",
+        "SIIL SASS"
       ]
     },
     {
@@ -1389,33 +1398,6 @@
       ]
     },
     {
-      "date": "2026-01-21",
-      "title": "JULI JA HELE UISUTAMAS",
-      "pageCount": 10,
-      "characters": [
-        "JÄNES JULI",
-        "HIIR HELE"
-      ]
-    },
-    {
-      "date": "2026-01-17",
-      "title": "JUSS JA SIILU SOOJAD KINDASTE",
-      "pageCount": 9,
-      "characters": [
-        "JUSS",
-        "SIILU"
-      ]
-    },
-    {
-      "date": "2026-01-16",
-      "title": "KUSTI JA RENI LINNUMAJA",
-      "pageCount": 10,
-      "characters": [
-        "KARU KUSTI",
-        "REBANE RENI"
-      ]
-    },
-    {
       "date": "2026-01-25",
       "title": "KATI JA MART EHITAVAD MAJA",
       "pageCount": 10,
@@ -1452,6 +1434,15 @@
       ]
     },
     {
+      "date": "2026-01-21",
+      "title": "JULI JA HELE UISUTAMAS",
+      "pageCount": 10,
+      "characters": [
+        "JÄNES JULI",
+        "HIIR HELE"
+      ]
+    },
+    {
       "date": "2026-01-20",
       "title": "SÄDE JA OSSY SOE SALL",
       "pageCount": 9,
@@ -1479,6 +1470,24 @@
       ]
     },
     {
+      "date": "2026-01-17",
+      "title": "JUSS JA SIILU SOOJAD KINDASTE",
+      "pageCount": 9,
+      "characters": [
+        "JUSS",
+        "SIILU"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "title": "KUSTI JA RENI LINNUMAJA",
+      "pageCount": 10,
+      "characters": [
+        "KARU KUSTI",
+        "REBANE RENI"
+      ]
+    },
+    {
       "date": "2026-01-15",
       "title": "ANNA JA PEETER TEEVAD LUMEMEMME",
       "pageCount": 10,
@@ -1494,24 +1503,6 @@
       "characters": [
         "KASS MIU",
         "KARU RUKS"
-      ]
-    },
-    {
-      "date": "2026-01-07",
-      "title": "LIISA JA SOE TEKK",
-      "pageCount": 9,
-      "characters": [
-        "LIISA",
-        "TIIGER"
-      ]
-    },
-    {
-      "date": "2026-01-03",
-      "title": "PALLI JA TRIINU LUMELOSS",
-      "pageCount": 8,
-      "characters": [
-        "PALLI",
-        "TRIINU"
       ]
     },
     {
@@ -1551,6 +1542,15 @@
       ]
     },
     {
+      "date": "2026-01-07",
+      "title": "LIISA JA SOE TEKK",
+      "pageCount": 9,
+      "characters": [
+        "LIISA",
+        "TIIGER"
+      ]
+    },
+    {
       "date": "2026-01-06",
       "title": "MART JA KRISTIINE LUMELINNUS",
       "pageCount": 10,
@@ -1575,6 +1575,15 @@
       "characters": [
         "ANNA",
         "KASPAR"
+      ]
+    },
+    {
+      "date": "2026-01-03",
+      "title": "PALLI JA TRIINU LUMELOSS",
+      "pageCount": 8,
+      "characters": [
+        "PALLI",
+        "TRIINU"
       ]
     },
     {
@@ -1605,21 +1614,21 @@
       ]
     },
     {
-      "date": "2025-12-29",
-      "title": "KETU JA OTT TEEJOOMINE",
-      "pageCount": 10,
-      "characters": [
-        "KETU",
-        "OTT"
-      ]
-    },
-    {
       "date": "2025-12-30",
       "title": "KATI JA KRISTJAN SÖÖGIMAJA",
       "pageCount": 10,
       "characters": [
         "KATI",
         "KRISTJAN"
+      ]
+    },
+    {
+      "date": "2025-12-29",
+      "title": "KETU JA OTT TEEJOOMINE",
+      "pageCount": 10,
+      "characters": [
+        "KETU",
+        "OTT"
       ]
     },
     {
@@ -1758,21 +1767,21 @@
       ]
     },
     {
-      "date": "2025-12-13",
-      "title": "KATI JA ANTS KÜPSEKÖÖGIS",
-      "pageCount": 10,
-      "characters": [
-        "KATI",
-        "ANTS"
-      ]
-    },
-    {
       "date": "2025-12-14",
       "title": "VÄRVILINE LEHETÖÖ",
       "pageCount": 8,
       "characters": [
         "ORIKAS OLI",
         "SIIL SASS"
+      ]
+    },
+    {
+      "date": "2025-12-13",
+      "title": "KATI JA ANTS KÜPSEKÖÖGIS",
+      "pageCount": 10,
+      "characters": [
+        "KATI",
+        "ANTS"
       ]
     },
     {
