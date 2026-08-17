@@ -1,0 +1,88 @@
+{
+  "date": "2026-08-16",
+  "language": "et",
+  "title": "JUKU JA KATI KORJAVAD METSAS MARJU",
+  "generatedAt": "2026-08-17T07:40:31.143Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike poiss tumepruunide juuste ja kollase särgiga, linased lühikesed püksid, suured rõõmsad silmad ja sõbralik naeratus. Armas ja soe multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KATI",
+      "type": "human",
+      "description": "Väike tüdruk heledate patside ja punase suvekleidiga, patsidesse põimitud punased paelad, suured uudishimulikud silmad ja rõõmus ilme. Armas ja soe multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline marjamets",
+      "description": "Sunny summer forest clearing with green grass, tall pine and birch trees in the background, low blueberry and wild strawberry bushes on the ground, warm sunlight streaming through tree leaves, clear light blue sky visible above. Cute and cheerful children's book illustration style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "JUKU JA KATI LÄHEVAD METSA.",
+      "scene": "Juku, a young boy with brown hair in a yellow t-shirt and linen shorts, and Kati, a young girl with blonde pigtails in a red summer dress, are walking happily together along a narrow dirt path into a sunny green forest. Both children are carrying small empty metal buckets. Warm summer sunlight shines through the birch trees. Cute cartoon style, landscape orientation.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "METSAS ON PALJU MAGUSAID MARJU.",
+      "scene": "Juku and Kati are standing in a sunny forest clearing surrounded by green bushes covered with ripe red strawberries and blue blueberries. Juku points excitedly at the berry bushes with a big happy smile. Kati claps her hands in excitement. Soft sunlight illuminates the green grass and background trees. Cute cartoon style, landscape orientation.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "JUKU KORJAB SINISEID MARJU ÄMBRISSE.",
+      "scene": "Juku is crouching on the green forest grass, carefully picking blue blueberries from a low bush and placing them into his small metal bucket. His bucket already has a few berries inside. Kati stands beside him, looking on cheerfully with her own bucket ready. Warm sunlight filters through tree branches. Cute cartoon style, landscape orientation.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KATI KORJAB PUNASEID MARJU ÄMBRISSE.",
+      "scene": "Kati is kneeling on the grassy forest ground, picking bright red wild strawberries from a green bush and dropping them into her small metal bucket. Juku is sitting next to her, putting another blue berry into his own bucket. Green grass and bright trees fill the cozy background under warm sunlight. Cute cartoon style, landscape orientation.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NENDE ÄMBRID ON NÜÜD TÄIS.",
+      "scene": "Juku and Kati sit side by side on the soft forest grass, holding up their small metal buckets which are now completely full of colorful red strawberries and blue blueberries. Both children have big proud smiles on their faces. Sunlight streams through the surrounding birch trees. Cute cartoon style, landscape orientation.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LAPSED SÖÖVAD KOOS MAGUSAID MARJU.",
+      "scene": "Juku and Kati are sitting cross-legged on the green forest grass with their full buckets set between them, eating berries together. Juku is popping a blueberry into his mouth, and Kati is enjoying a ripe red strawberry. Both children look content and delighted. Bright summer day setting. Cute cartoon style, landscape orientation.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "MARJAD MAITSEVAD NENDELE VÄGA HÄSTI.",
+      "scene": "Juku and Kati sit together on the grass, chewing happily with closed eyes and smiling joyfully. Tiny berry juice marks are on their cheerful faces. Their filled buckets sit safely on the grass beside them in the sunny forest glade. Warm sunshine glows around them. Cute cartoon style, landscape orientation.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "JUKU JA KATI ON VÄGA RÕÕMSAD.",
+      "scene": "Juku and Kati are standing up in the sunny forest clearing, holding hands with one hand and holding their berry buckets with the other, jumping happily with huge joyful smiles. Bright summer sunlight beams down through the forest trees onto the green meadow. Cute cartoon style, landscape orientation.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
