@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-18",
+  "language": "et",
+  "title": "REIN JA JUTA TEEVAD MAHLA",
+  "generatedAt": "2026-08-17T04:41:38.962Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE REIN",
+      "type": "fox",
+      "description": "Väike oranž rebane pehme sabaga, seljas sinine põll ja peas väike kollane päikesesirm. Suured sõbralikud silmad ja rõõmsameelne naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES JUTA",
+      "type": "hare",
+      "description": "Väike hall jänes pikkade kõrvadega, seljas roosa kleit ja peas väike roheline peapael. Suured uudishimulikud silmad ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "KÖÖK",
+      "description": "Cozy cottage kitchen with light yellow wooden walls and a checkered blue and white floor. A large wooden table is in the center with two small chairs. A single window on the back wall shows green trees and bright summer sky. There's a simple shelf with a few colorful plates on the right wall. Warm sunlight fills the room. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "METSASALU",
+      "description": "Sunny forest glade with lush green grass and tall green trees in the background. A large red berry bush with ripe red berries is visible. Bright blue sky with a few fluffy white clouds. Warm summer atmosphere. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REIN JA JUTA ON KÖÖGIS.",
+      "scene": "Rebane Rein, wearing a blue apron and yellow sun visor, and Jänes Juta, in a pink dress and green headband, are standing happily in a cozy cottage kitchen with light yellow wooden walls and a checkered blue and white floor. A wooden table with two chairs is in the center. Sunlight streams through the window showing green trees. They look a bit warm.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD KÜLMA MAHLA.",
+      "scene": "Rebane Rein and Jänes Juta are still in the cozy kitchen. Rein is gently fanning himself with one hand, and Juta is looking at him, both looking a bit thirsty. They are standing near the wooden table. The room is bright with summer sunlight.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD ISE MAHLA.",
+      "scene": "Rebane Rein and Jänes Juta are in the cozy kitchen, smiling brightly at each other. Rein points enthusiastically towards the window, suggesting they will make something themselves. Juta nods, excited. The wooden table and chairs are visible.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÄHEVAD MARJU OTSIMA.",
+      "scene": "Rebane Rein and Jänes Juta are walking together through a sunny forest glade. The grass is lush green, and tall green trees are in the background. Rein holds a small empty basket. They are looking around, searching for something. The sky is bright blue with white clouds.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD KORJAVAD PUNASEID MARJU.",
+      "scene": "Rebane Rein and Jänes Juta are standing next to a large red berry bush in the sunny forest glade. Rein is carefully picking red berries and putting them into the small basket he holds. Juta is also gently picking berries and adding them to the basket. They both look focused and happy. The berry bush is full of ripe red berries.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD PESEVAD MARJAD PUHTAKS.",
+      "scene": "Rebane Rein and Jänes Juta are back in the cozy kitchen. They are standing at the wooden table in the center. On the table, there is a large bowl filled with water, and they are carefully placing the red berries they collected into the water to wash them. Sunlight shines through the window.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD PANEVAD MARJAD KANNU.",
+      "scene": "Rebane Rein and Jänes Juta are at the wooden table in the kitchen. They are carefully pouring the washed red berries from the bowl into a clear glass pitcher. Rein holds the bowl, and Juta is steadying the pitcher. Both are smiling, anticipating their juice.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD VALAVAD PEALE VETT.",
+      "scene": "Rebane Rein and Jänes Juta are at the wooden table in the kitchen. Rein is holding a small clear jug of water and pouring it into the pitcher that now contains the red berries. Juta watches with a happy smile. The pitcher is nearly full with berries and water.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD JOOVAD MAITSVAT MAHLA.",
+      "scene": "Rebane Rein and Jänes Juta are sitting happily on the lush green grass in the sunny forest glade. Each character is holding a small cup filled with red berry juice and is taking a sip. The pitcher of juice is sitting next to them on the grass. They look refreshed and content.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "MAHL ON NÜÜD JAHE JA HEA.",
+      "scene": "Rebane Rein and Jänes Juta are still sitting on the green grass in the sunny forest glade. Their small cups are now empty, placed next to them. Both characters have wide, satisfied smiles and look very refreshed. The berry bush and tall trees are in the background. They are enjoying the good feeling of their cool juice.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
