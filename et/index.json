@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-08-25",
+  "latestDate": "2026-08-26",
   "stories": [
+    {
+      "date": "2026-08-26",
+      "title": "LIISA JA PEETER TEEVAD MUUSIKAT.",
+      "pageCount": 9,
+      "characters": [
+        "LIISA",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-08-25",
       "title": "JUTA JA MATI EHITAVAD MAJA.",

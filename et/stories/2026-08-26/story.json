@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-26",
+  "language": "et",
+  "title": "LIISA JA PEETER TEEVAD MUUSIKAT.",
+  "generatedAt": "2026-08-17T06:05:31.099Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike rõõmsameelne inimene, heledad lühikesed juuksed, kandmas rohelist kleiti ja valgeid sandaale. Suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike rõõmsameelne inimene, tumedad lühikesed juuksed, kandmas sinist t-särki, lühikesi pükse ja punaseid tosse. Suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline aed",
+      "description": "A sunny green garden with lush grass, a few colorful flowers blooming in the background. A large red and white checkered picnic blanket is spread on the grass in the center. The background features a wooden fence and some distant green trees under a bright blue sky. Warm summer daylight. Cute cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER ON AIAS.",
+      "scene": "Liisa and Peeter stand in a sunny green garden, smiling brightly. The large red and white checkered picnic blanket is spread neatly on the grass in the center of the scene. The garden has a wooden fence and distant green trees under a blue sky.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Liisa and Peeter stand in the sunny green garden, looking at each other with bright, thoughtful expressions, as if discussing an exciting idea. The picnic blanket remains on the grass. They are smiling warmly.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LIISA TOOB TRUMMID.",
+      "scene": "Liisa walks into the sunny green garden, happily holding a small, colorful toy drum with two drumsticks. Peeter watches her with a cheerful smile. The picnic blanket is still on the grass.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PEETER TOOB KITARRI.",
+      "scene": "Peeter walks into the sunny green garden, happily holding a small, colorful toy guitar. Liisa watches him with a cheerful smile. The small toy drum is now placed on the red and white checkered picnic blanket.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD ISTUVAD VAAIPILE.",
+      "scene": "Liisa and Peeter sit comfortably on the large red and white checkered picnic blanket in the sunny green garden. The toy drum and toy guitar are placed on the blanket next to them. They are both smiling.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD MÄNGIVAD MUUSIKAT.",
+      "scene": "Liisa sits on the picnic blanket, happily tapping her small toy drum with drumsticks. Peeter sits next to her, strumming his small toy guitar. They are both smiling and focused on playing their instruments.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "MUUSIKA KÕLAB RÕÕMSALT.",
+      "scene": "Liisa and Peeter are still sitting on the picnic blanket in the sunny garden, joyfully playing their toy drum and toy guitar. Their faces show happiness and excitement as they make music together. Bright, cheerful musical notes float gently around them.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD ON VÄGA ÕNNELIKUD.",
+      "scene": "Liisa and Peeter are sitting on the red and white checkered picnic blanket in the sunny garden, their toy instruments placed neatly beside them. They are gently hugging each other, smiling broadly and looking very content and happy.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SEE ON NENDE PÄEV.",
+      "scene": "Liisa and Peeter are still sitting on the red and white checkered picnic blanket in the sunny garden, with their toy instruments nearby. They are smiling warmly at the viewer, looking proud and perfectly content with their day. The garden is bright and inviting.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
