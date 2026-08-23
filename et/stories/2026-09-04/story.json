@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-04",
+  "language": "et",
+  "title": "PEETER JA LIISA LENNUTAVAD TUULELOHET",
+  "generatedAt": "2026-08-23T22:09:43.179Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane poiss lühikeste pruunide juuste ja sinise jopega. Talle meeldib mängida. Lõbus ja naeratav ilme, tumesinised püksid ja rohelised kummikud jalas. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane tüdruk kollase sügismantli ja kahe briketi-pruuni punupatsiga. Rõõmsameelne ja uudishimulik, punased kummikud jalas. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene mägi",
+      "description": "A grassy green hill in autumn with colorful yellow and orange trees in the background. Clear blue sky with a few fluffy white clouds. Colorful autumn leaves floating softly in the air. Bright daylight, simple clean background, cozy children's illustration style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ÕUES PUHUB TUGEV SÜGISTUUL.",
+      "scene": "Peeter (boy in blue jacket) and Liisa (girl in yellow coat) stand together on top of a grassy hill, looking out as colorful yellow and orange leaves blow past them in the autumn breeze. Bright sunny day, soft blue sky.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "PEETER JA LIISA LÄHEVAD MÄELE.",
+      "scene": "Peeter and Liisa walk up the green grassy hill side-by-side. Liisa carries a folded bright yellow and red kite with ribbon tails under her arm. Green grass on the hill with scattered autumn leaves.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON KAASAS SUUR TUULELOHE.",
+      "scene": "Peeter and Liisa stand at the top of the hill, proudly holding open a big bright diamond-shaped tuulelohe (kite) with colorful ribbons attached to its tail. Peeter holds a wooden handle with white string wound around it.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA HOIAB TUULELOHE NÖÖRI.",
+      "scene": "Liisa holds the string handle tightly with both hands, looking ready and excited with a big smile. Peeter stands a few steps behind her, gently holding up the colorful kite above his head, ready to release it.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PEETER JOOKSEB KIIRESTI MÄEL.",
+      "scene": "Peeter runs happily down the grassy slope, letting go of the kite as the breeze catches it. Liisa stays at the peak holding the string handle tightly, watching the kite begin to lift.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TUULELOHE TÕUSEB KÕRGELE TAEVASSE.",
+      "scene": "The colorful red and yellow kite soars high into the clear blue sky above the hill, its long colorful tail fluttering in the wind. Down on the hill, Peeter and Liisa look up into the sky with happy, excited expressions.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "TUULELOHE LENDAB KÕRGEL ÕHUS.",
+      "scene": "A beautiful view of the bright kite flying steadily high up in the blue sky with fluffy clouds. Below on the hill, Peeter and Liisa are seen holding the string together, laughing and looking up.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PEETER JA LIISA ON RÕÕMSAD.",
+      "scene": "Close-up shot of Peeter and Liisa standing together on the grassy hill, holding the kite string together, both smiling cheerfully at the viewer. In the sky above behind them, the bright kite floats gently.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
