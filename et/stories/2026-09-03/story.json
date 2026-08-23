@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-03",
+  "language": "et",
+  "title": "MIISU JA MUKI KORJAVAD ÕUNA",
+  "generatedAt": "2026-08-23T22:02:26.697Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KASS MIISU",
+      "type": "cat",
+      "description": "Väike valge kass roheliste silmade ja roosa ninaga, kaelas punane triibuline sall. Sõbralik ja armsa ilmega multifilmitegelane.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KOER MUKI",
+      "type": "dog",
+      "description": "Väike pruun koer lühikeste lottis kõrvadega, jalass sinised püksid. Rõõmsameelne ja uudishimulik multifilmitegelane.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "Sunny autumn garden with soft green grass scattered with red and yellow fallen leaves. In the center stands a medium wooden apple tree with green leaves and shiny red apples. A low brown wooden fence is visible in the background under a blue sky. A bright yellow woven basket sits on the grass next to a small blue water bucket. Warm autumn sunlight throughout. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MIISU JA MUKI ON AIAS.",
+      "scene": "Kass Miisu (small white cat wearing a red striped scarf) and Koer Muki (small brown dog wearing blue trousers) stand side-by-side in the sunny autumn garden. Soft green grass with scattered yellow autumn leaves under their feet. In the background is an apple tree with green leaves and red apples, and a low wooden fence. Both characters have happy, smiling expressions. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD PUU OTSAS PUNAST ÕUNA.",
+      "scene": "In the sunny autumn garden, Kass Miisu (white cat with red scarf) and Koer Muki (brown dog with blue trousers) stand together under the green apple tree, looking up into the tree branches. High on a branch hangs a shiny red apple. Muki points upward with his paw. Background has soft grass with fallen yellow leaves and a low wooden fence. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "ÕUN ON SUUR JA MAHLANE.",
+      "scene": "View of a branch of the green apple tree in the autumn garden, showing a large, shiny red apple hanging surrounded by leaves. Below, Kass Miisu (white cat with red scarf) and Koer Muki (brown dog with blue trousers) look up with eager, excited expressions. Bright autumn daylight, background features yellow leaves on green grass. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MUKI SIRUTAB KÄPA ÕUNA POOLE.",
+      "scene": "Under the apple tree in the autumn garden, Koer Muki (brown dog in blue trousers) stands on tiptoes, stretching his paw as high as he can toward the shiny red apple on the branch. Kass Miisu (white cat with red scarf) stands nearby watching carefully. Grass with scattered autumn leaves in the background. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIISU AITAB MUKIL ÕUNA SAADA.",
+      "scene": "In the sunny autumn garden under the apple tree, Kass Miisu (white cat with red scarf) kneels down so Koer Muki (brown dog in blue trousers) can stand on her shoulders to reach higher. Muki stretches out his hand toward the big red apple on the branch. Both have cheerful expressions. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MUKI VÕTAB OKSALT PUNASE ÕUNA.",
+      "scene": "In the autumn garden under the apple tree, Koer Muki (brown dog in blue trousers) holds the big shiny red apple safely in both paws after picking it from the tree. Kass Miisu (white cat with red scarf) claps her paws joyfully next to him. A yellow woven basket sits on the grass nearby. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD PESEVAD ÕUNA VEES PUHTAKS.",
+      "scene": "In the sunny autumn garden, Kass Miisu (white cat with red scarf) and Koer Muki (brown dog in blue trousers) kneel together on the grass next to a small blue water bucket. Muki carefully washes the shiny red apple in the clean water, creating small splashes. A yellow woven basket sits nearby. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MIISU JA MUKI SÖÖVAD ÕUNA.",
+      "scene": "In the autumn garden, Kass Miisu (white cat with red scarf) and Koer Muki (brown dog in blue trousers) sit side-by-side on the soft green grass. The big red apple has been cut into two juicy slices, and each character holds and eats a slice with a big happy smile. The yellow woven basket sits beside them. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SÕBRAD ON VÄGA ÕNNELIKUD.",
+      "scene": "In the sunny autumn garden with the apple tree behind them, Kass Miisu (white cat with red scarf) and Koer Muki (brown dog in blue trousers) sit close together, smiling warmly at each other. Green grass, scattered yellow leaves, and a low wooden fence under a clear blue sky. Cartoon style.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}

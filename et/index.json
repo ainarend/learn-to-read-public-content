@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-09-02",
+  "latestDate": "2026-09-03",
   "stories": [
+    {
+      "date": "2026-09-03",
+      "title": "MIISU JA MUKI KORJAVAD ÕUNA",
+      "pageCount": 9,
+      "characters": [
+        "KASS MIISU",
+        "KOER MUKI"
+      ]
+    },
     {
       "date": "2026-09-02",
       "title": "MARI JA JUKU EHITAVAD LAEVA",
