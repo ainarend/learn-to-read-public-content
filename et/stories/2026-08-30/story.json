@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-30",
+  "language": "et",
+  "title": "REIN JA KATI VÄRVIVAD KIVE",
+  "generatedAt": "2026-08-23T21:26:23.057Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REIN",
+      "type": "fox",
+      "description": "Väike oranž rebane pehme koheva sabaga, seljas roheline t-särk ja sinised lühikesed püksid, suured uudishimulikud silmad ning sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KATI",
+      "type": "bear",
+      "description": "Väike heleroosa-pruun karu ümarate kõrvadega, seljas kollane suvekleit, suured säravad silmad ning soe rõõmus naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Päikeseline aed",
+      "description": "Sunny garden with lush green lawn, a small round wooden table in the middle, a vibrant flowerbed with red and yellow blossoms behind the table, a light wooden fence, and clear blue summer sky with warm sunlight. Bright cheerful color palette, simple clean background, cartoon illustration style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REIN JA KATI ON AIAS.",
+      "scene": "Rein the small orange fox wearing a green t-shirt and blue shorts, and Kati the small bear wearing a yellow summer dress, stand happily on the green lawn in the sunny garden. A small wooden table is next to them. Clear blue sky above.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Rein and Kati stand near the wooden table in the garden, looking at each other excitedly with happy expressions and raised hands as if they just got a great fun idea.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "KATI OTSIB SILEDAID KIVE.",
+      "scene": "Kati the small bear kneels down happily on the green grass near the wooden table, picking up smooth round grey stones from the lawn and smiling cheerfully.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "REIN TOOB VÄRVID JA PINTSLID.",
+      "scene": "Rein the small fox walks over to the wooden table carrying a set of colorful paint pots and small paintbrushes, placing them onto the wooden table.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KATI VÄRVIB KIVI PUNASEKS.",
+      "scene": "Kati sits at the wooden table, carefully holding a paintbrush and painting a smooth round stone bright red. Rein stands next to her, watching attentively with a smile.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "REIN TEEB KIVILE KOLLASED TÄPID.",
+      "scene": "Rein the small fox holds a fine paintbrush and carefully paints small yellow polka dots onto the red painted stone sitting on the wooden table. Kati watches happily.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NÜÜD ON KIVI NAGU LEPATRIINU.",
+      "scene": "Rein and Kati sit together at the wooden table, proudly admiring the freshly painted stone that now looks like a cute bright ladybug sitting on the table in front of them.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD PANEVAD KIVID LILLEPEENRASSE.",
+      "scene": "Rein and Kati gently place their painted ladybug stone into the colorful flowerbed next to bright flowers, decorating the garden.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "REIN JA KATI ON RÕÕMSAD.",
+      "scene": "Rein the fox and Kati the bear stand side by side next to the decorated flowerbed, smiling brightly, cheering with raised arms and feeling very happy with their creation.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}

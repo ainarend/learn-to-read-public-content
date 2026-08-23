@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-08-29",
+  "latestDate": "2026-08-30",
   "stories": [
+    {
+      "date": "2026-08-30",
+      "title": "REIN JA KATI VÄRVIVAD KIVE",
+      "pageCount": 9,
+      "characters": [
+        "REIN",
+        "KATI"
+      ]
+    },
     {
       "date": "2026-08-29",
       "title": "KIKU JA MURI EHITAVAD LIIVALOSSI",
