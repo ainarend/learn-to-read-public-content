@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-02",
+  "language": "et",
+  "title": "MARI JA JUKU EHITAVAD LAEVA",
+  "generatedAt": "2026-08-23T21:53:17.496Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk heledate juuste ja punase vihmakuuega. Tal on rohelised kummikud ja sõbralik rõõmsameelne naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane poiss tumedate juuste ja sinise vihmakuuega. Tal on kollased kummikud ja uudishimulik särav ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "Autumn garden with green grass scattered with yellow and orange leaves. A clear blue rainwater puddle is in the middle of the yard. Simple wooden fence in the background and two apple trees with red apples. Gentle cloudy daylight, cheerful autumn rainy atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MARI JA JUKU ON AIAS.",
+      "scene": "Mari wearing a red raincoat and green boots, and Juku wearing a blue raincoat and yellow boots, stand together in an autumn garden with a wooden fence and apple trees. Orange leaves fall gently around them. Mari and Juku are smiling happily.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "AIAS ON SUUR LOIK.",
+      "scene": "Mari and Juku stand on the green grass in the autumn garden, pointing excitedly at a large clear rainwater puddle on the ground in front of them. Yellow leaves float near the edges of the puddle.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "JUKU LEIAB TÜKI PUUKOORT.",
+      "scene": "Juku kneels near the large puddle in the autumn garden, holding up a small curved piece of tree bark in his hands with a big proud smile. Mari watches him with excitement.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MARI OTSIB KOLLAST LEHTE.",
+      "scene": "Mari bends down on the grass near the puddle in the garden and picks up a bright yellow maple leaf. Juku sits nearby holding the piece of tree bark.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD TEEVAD VÄIKESE LAEVA.",
+      "scene": "Mari and Juku sit on the grass together next to the puddle. Mari carefully attaches the yellow leaf upright like a sail onto the piece of tree bark that Juku holds, creating a tiny toy bark boat.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "JUKU PANEB LAEVA LOIKU.",
+      "scene": "Juku kneels by the edge of the large rainwater puddle, gently placing the small tree-bark boat with its yellow leaf sail onto the surface of the water. Mari leans forward watching eagerly.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LAEV SÕIDAB VEE PEAL.",
+      "scene": "The small bark boat with its leaf sail floats smoothly across the clear blue puddle. Mari and Juku clap their hands joyfully while sitting beside the puddle in the garden.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MARI JA JUKU RÕÕMUSTAVAD.",
+      "scene": "Mari and Juku stand side by side next to the puddle in the autumn garden, holding hands and jumping with bright joyful smiles as their small bark boat sails in the puddle. Autumn leaves scatter around them.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}

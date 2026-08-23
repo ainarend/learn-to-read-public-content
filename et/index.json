@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-09-01",
+  "latestDate": "2026-09-02",
   "stories": [
+    {
+      "date": "2026-09-02",
+      "title": "MARI JA JUKU EHITAVAD LAEVA",
+      "pageCount": 8,
+      "characters": [
+        "MARI",
+        "JUKU"
+      ]
+    },
     {
       "date": "2026-09-01",
       "title": "OTT JA SASSI TEEVAD LEHEKROONI",
