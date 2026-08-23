@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-01",
+  "language": "et",
+  "title": "OTT JA SASSI TEEVAD LEHEKROONI",
+  "generatedAt": "2026-08-23T21:44:38.246Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike oranž orav suurte koheva sabaga ja kõrvapintslitega, kandmas rohelist vesti, suured uudishimulikud silmad ja rõõmsameelne naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL SASSI",
+      "type": "hedgehog",
+      "description": "Väike hallikas-pruun siil pehmete okastega, kandmas kollast salli, ümmargune must nina ja sõbralikud säravad silmad. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene mets",
+      "description": "Autumn forest with bright golden birch tree and red maple tree, ground covered with colorful yellow and red fallen leaves, soft green mossy grass path in the center, gentle warm autumn sunlight filtering through trees. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Suur tammepuu",
+      "description": "At the base of a large ancient oak tree with warm brown bark, colorful maple and birch leaves scattered on the ground, cozy mossy clearing in front of a small hedgehog burrow entrance under tree roots. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ORAV OTT JA SIIL SASSI MÄNGIVAD METSAS.",
+      "scene": "Orav Ott (a cute orange squirrel wearing a green vest) and Siil Sassi (a cute hedgehog wearing a yellow scarf) are playing happily together on a mossy path in an autumn forest. Ott is leaping playfully while Sassi smiles warmly. Colorful yellow and red leaves are scattered on the ground. Sunny autumn daylight through golden birch trees.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD PALJU VÄRVILISI LEHTI.",
+      "scene": "Orav Ott and Siil Sassi stand side by side on the mossy forest path, pointing together at a rich pile of vibrant red, orange, and yellow autumn leaves on the ground. Ott has curious eyes and Sassi looks delighted. Colorful autumn forest in the background.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL TULEB HEA MÕTE.",
+      "scene": "Orav Ott holds his paws together enthusiastically, expressing excitement. Siil Sassi nods cheerfully next to him among the bright fallen autumn leaves. They are looking at each other with happy smiles, sharing a fun idea. Forest setting with golden sunlight.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD KORJAVAD MAAST KOLLASEID LEHTI.",
+      "scene": "Orav Ott carefully picks up a bright yellow maple leaf from the mossy ground and places it into a small woven wooden basket. Siil Sassi kneels nearby on the ground, picking up another golden leaf. Scattered autumn leaves lie around them.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SASSI LEIAB SUURE PUNASE LEHE.",
+      "scene": "Siil Sassi proudly holds up a beautiful, perfect large red maple leaf with both paws. Orav Ott stands beside him, clapping his paws joyfully. The basket with gathered leaves rests on the mossy ground.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "OTT JA SASSI TEEVAD ILUSA KROONI.",
+      "scene": "At the base of a large oak tree with warm brown bark, Orav Ott and Siil Sassi sit together on the mossy ground. They are carefully interweaving yellow and red autumn leaves into a round decorative leaf crown. The small woven basket sits beside them.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "OTT PANEB KROONI SASSILE PÄHE.",
+      "scene": "At the base of the large oak tree, Orav Ott stands on tiptoes and gently places the freshly made vibrant autumn leaf crown onto Siil Sassi's head. Sassi sits happily, smiling proudly with closed eyes in pure delight.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SASSI ON KROONI ÜLE VÄGA RÕÕMUS.",
+      "scene": "Siil Sassi proudly wears the colorful autumn leaf crown on his head, looking down happily at his reflection in a small clear water puddle near the oak tree roots. Orav Ott stands nearby cheering with open arms.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MÕLEMAD SÕBRAD ON VÄGA ÕNNELIKUD.",
+      "scene": "Orav Ott and Siil Sassi (who is happily wearing his leaf crown) give each other a warm friendly hug at the base of the large oak tree, surrounded by glowing golden fall foliage and warm afternoon sunlight.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}

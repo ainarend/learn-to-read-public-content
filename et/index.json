@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-08-31",
+  "latestDate": "2026-09-01",
   "stories": [
+    {
+      "date": "2026-09-01",
+      "title": "OTT JA SASSI TEEVAD LEHEKROONI",
+      "pageCount": 9,
+      "characters": [
+        "ORAV OTT",
+        "SIIL SASSI"
+      ]
+    },
     {
       "date": "2026-08-31",
       "title": "LIISA JA PEETER TEEVAD JOOKI",
