@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-31",
+  "language": "et",
+  "title": "LIISA JA PEETER TEEVAD JOOKI",
+  "generatedAt": "2026-08-23T21:35:09.614Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, 5-aastane tüdruk heleroosas suvekleidis, kollase peapaela ja pruunide juustega. Rõõmsad sinised silmad ja laia naeratusega armas multifilmi stiilis tüdruk.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, 6-aastane poiss sinise lühikeste käistega särgi ja roheliste lühikeste pükstega. Lühikesed heledad juuksed, lõbus ja aktiivne poisike armsa multifilmi stiilis.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Kodu aed",
+      "description": "Sunny green garden with lush grass, bright raspberry bushes loaded with pinkish-red berries on the left side, a small wooden picnic table in the center, a clear blue sky with soft white clouds, warm summer sunlight. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER ON AIAS",
+      "scene": "Liisa and Peeter are standing together in the middle of a sunny green garden. Liisa wears a light pink summer dress and Peeter wears a blue short-sleeved shirt and green shorts. In the background are green grass, green raspberry bushes with ripe red berries, a wooden picnic table, and a clear blue sky. Both children are smiling happily. Landscape view.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES ON VÄGA SOE",
+      "scene": "Liisa and Peeter stand in the same sunny garden looking up at the bright warm sun in the sky with happy facial expressions. Sunlight illuminates the green grass and wooden table. Environment is identical to previous page. Landscape composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PEETER TOOB SUURE KANNU",
+      "scene": "Peeter holds a big clear glass pitcher with both hands and places it carefully on top of the wooden picnic table in the center of the garden. Liisa stands next to the table, watching him excitedly. Green garden background with raspberry bushes remains identical.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA KORJAB MAGUSAID VAARIKAID",
+      "scene": "Liisa stands next to the raspberry bushes on the left side of the garden, gently picking sweet red raspberries from the bush and holding a small bowl filled with picked berries. Peeter stands beside her with a smile. Garden environment remains identical.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD PANEVAD MARJAD KANNU",
+      "scene": "Liisa and Peeter stand together at the wooden table. Liisa carefully drops bright red raspberries from her bowl into the clear glass pitcher sitting on the wooden table. Peeter looks inside the pitcher enthusiastically.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PEETER VALAB KANNU VETT",
+      "scene": "Peeter holds a small water jug and carefully pours clear water into the glass pitcher containing the fresh raspberries on the wooden table. Liisa watches happily with hands together.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LIISA SEGAB JOOKI LUSIKAGA",
+      "scene": "Liisa uses a large wooden spoon to gently stir the water and raspberries inside the glass pitcher on the wooden table, making the liquid turn light pink. Peeter watches with a giant smile.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MAITSEV JOOK ON VALMIS",
+      "scene": "On the wooden table stands the completed pitcher filled with pink raspberry drink. Liisa and Peeter stand beside the table clapping their hands cheerfully in the sunny garden.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LAPSED JOOVAD KÜLMA JOOKI",
+      "scene": "Liisa and Peeter sit at the wooden picnic table in the garden, each holding a small glass cup filled with pink raspberry drink and sipping happily with straws.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "JOOK MAITSEB VÄGA HÄSTI",
+      "scene": "Liisa and Peeter sit at the wooden picnic table, giving a thumbs-up sign with joyful faces. Their empty cups sit on the table next to the glass pitcher in the warm sunny garden.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

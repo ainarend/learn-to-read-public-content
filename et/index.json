@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-08-30",
+  "latestDate": "2026-08-31",
   "stories": [
+    {
+      "date": "2026-08-31",
+      "title": "LIISA JA PEETER TEEVAD JOOKI",
+      "pageCount": 10,
+      "characters": [
+        "LIISA",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-08-30",
       "title": "REIN JA KATI VÄRVIVAD KIVE",
