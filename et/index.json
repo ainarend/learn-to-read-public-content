@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-09-04",
+  "latestDate": "2026-09-05",
   "stories": [
+    {
+      "date": "2026-09-05",
+      "title": "LIISA JA JUKU OTSIVAD AARDEID",
+      "pageCount": 10,
+      "characters": [
+        "LIISA",
+        "JUKU"
+      ]
+    },
     {
       "date": "2026-09-04",
       "title": "PEETER JA LIISA LENNUTAVAD TUULELOHET",

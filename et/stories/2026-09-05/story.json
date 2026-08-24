@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-05",
+  "language": "et",
+  "title": "LIISA JA JUKU OTSIVAD AARDEID",
+  "generatedAt": "2026-06-15T00:56:11.587Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, tüdruk, punased juuksed kahe patsidega, seljas sinine lühikeste varrukatega kleit, jalas kollased kingad. Tema silmad on suured ja uudishimulikud, nägu on rõõmus ja sõbralik. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, poiss, lühikesed pruunid juuksed, seljas roheline T-särk ja pruunid lühikesed püksid, jalas punased tossud. Tema silmad on suured ja avatud, nägu on energiline ja vallatu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Laste aed",
+      "description": "Cozy children's garden/backyard in summer. Lush green grass covers the ground. There are colorful blooming flowers (like red, yellow, blue small flowers) scattered around the edges. A small, friendly apple tree stands on the left. In the background, a light brown wooden fence separates the garden from other houses, and a bright blue sky with fluffy white clouds is visible above the fence. A small wooden sandbox is visible in the right corner. Warm, bright sunlight illuminates the scene. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA JUKU MÄNGIVAD AIAS.",
+      "scene": "Liisa ja Juku on laste aias. Liisa istub rohelisel murul ja Juku seisab tema kõrval, mõlemad naeratavad. Ümberringi on erkroheline muru ja värvilised õitsvad lilled. Väike õunapuu on vasakul. Päike paistab soojalt. Cartoon stiilis.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Liisa ja Juku istuvad murul aias. Nad vaatavad teineteisele otsa suurte silmadega ja neil on mõlemal suured rõõmsad naeratused. Juku viipab käega, justkui oleks tal põnev idee. Ümberringi on erkroheline muru ja värvilised õitsvad lilled. Väike õunapuu on vasakul. Päike paistab soojalt. Cartoon stiilis.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD JOONISTAVAD AARDEKAARTI.",
+      "scene": "Liisa ja Juku on murul aias. Liisa hoiab käes suurt paberilehte ja Juku hoiab värvipliiatsit. Juku joonistab paberile lihtsat aardekaarti. Mõlemad vaatavad kaarti keskendunult ja põnevusega. Ümberringi on erkroheline muru ja värvilised õitsvad lilled. Väike õunapuu on vasakul. Päike paistab soojalt. Cartoon stiilis.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÄHEVAD OTSIMA AARDET.",
+      "scene": "Liisa ja Juku jalutavad mööda aeda. Liisa hoiab paberist aardekaarti ja Juku osutab oma sõrmega ette. Nad vaatavad ringi uudishimulike silmadega, otsides oma aaret. Ümberringi on erkroheline muru ja värvilised õitsvad lilled. Väike õunapuu on vasakul. Päike paistab soojalt. Cartoon stiilis.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LIISA NÄEB SUURT KIVI.",
+      "scene": "Liisa kummardub rohelisel murul ja osutab oma sõrmega maas olevale suurele ümarale kivile. Juku seisab tema kõrval ja vaatab samuti kivi poole, näol põnev ilme. Ümberringi on erkroheline muru ja värvilised õitsvad lilled. Väike õunapuu on vasakul. Päike paistab soojalt. Cartoon stiilis.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "JUKU VÕTAB VÄIKESE LABIDA.",
+      "scene": "Juku on laste aias. Ta hoiab käes väikest sinist mängulabidat ja naeratab energiliselt. Liisa seisab tema kõrval ja naeratab samuti, vaadates Jukut. Ümberringi on erkroheline muru ja värvilised õitsvad lilled. Väike õunapuu on vasakul. Päike paistab soojalt. Cartoon stiilis.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD KAEVAVAD VÄIKESE AUGU.",
+      "scene": "Juku kükitab murul aias ja kaevab oma väikese sinise mängulabidaga väikest auku. Liisa seisab tema kõrval, kummardudes kergelt, ja vaatab põnevusega, kuidas Juku kaevab. Ümberringi on erkroheline muru ja värvilised õitsvad lilled. Väike õunapuu on vasakul. Päike paistab soojalt. Cartoon stiilis.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD LEIAVAD PEIDETUD AARDE.",
+      "scene": "Juku on just kaevanud väikese augu ja ulatab sealt välja väikese värvilise eseme. Liisa vaatab seda suurte silmadega ja rõõmsalt. Nad on mõlemad õnnelikud, et leidsid aarde. Ümberringi on erkroheline muru ja värvilised õitsvad lilled. Väike õunapuu on vasakul. Päike paistab soojalt. Cartoon stiilis.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "AARE ON VÄIKE MÄNGUASI.",
+      "scene": "Liisa ja Juku hoiavad käes väikest säravat punast mänguautot. Mõlemad vaatavad mänguasja naeratades ja imetledes. Nad seisavad aias murul, päike paistab neile peale. Ümberringi on erkroheline muru ja värvilised õitsvad lilled. Väike õunapuu on vasakul. Päike paistab soojalt. Cartoon stiilis.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "LIISA JA JUKU ON RÕÕMSAD.",
+      "scene": "Liisa ja Juku seisavad aias murul, hoides üksteisel käest ja naeratades laialt. Mõlemad vaatavad rõõmsalt kaamerasse. Nende leid, väike punane mänguauto, on nende jalgade ees murul. Ümberringi on erkroheline muru ja värvilised õitsvad lilled. Väike õunapuu on vasakul. Päike paistab soojalt. Cartoon stiilis.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ],
+  "repurposedFrom": "2026-06-27"
+}
