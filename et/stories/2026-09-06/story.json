@@ -1,0 +1,102 @@
+{
+  "date": "2026-09-06",
+  "language": "et",
+  "title": "OTT JA SASS MÄNGIVAD LEHTEDEGA",
+  "generatedAt": "2026-08-30T23:18:07.608Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike oranž orav koheva sabaga, kandmas rohelist mütsi, suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL SASS",
+      "type": "hedgehog",
+      "description": "Väike hall siil okastega seljal, kandmas kollast salli, ümar nina ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Värviline sügismets",
+      "description": "Sunny autumn forest path surrounded by tall oak and maple trees with vibrant red, yellow, and orange leaves. Light brown dirt ground with soft green moss at the edges. Golden afternoon light filtering through the colorful leaves. Cozy autumn atmosphere. Cartoon children's book style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ORAV OTT JA SIIL SASS ON METSAS.",
+      "scene": "Orav Ott (a small orange squirrel with a green hat) and Siil Sass (a small gray hedgehog with a yellow scarf) stand side by side on a dirt path in a sunny autumn forest. Colorful red and yellow leaves hang from the trees around them. They are looking at each other happily.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "METSAS KUKUVAD VÄRVILISED LEHED.",
+      "scene": "In the sunny autumn forest, bright yellow and red autumn leaves fall gently from the trees around Orav Ott and Siil Sass. Orav Ott and Siil Sass look up at the air with happy, excited expressions as leaves float down.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "SÕBRAD TEEVAD SUURE LEHEHUNNIKU.",
+      "scene": "Orav Ott and Siil Sass stand on the forest path next to a small starting pile of autumn leaves. Orav Ott points at the ground cheerfully, suggesting an idea to Siil Sass.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "OTT KORJAB KOLLASEID LEHTI.",
+      "scene": "Orav Ott sits on his knees on the forest ground, gathering bright yellow maple leaves in his arms to bring to the pile. Siil Sass is visible nearby in the background watching smilingly.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SASS KORJAB PUNASEID LEHTI.",
+      "scene": "Siil Sass gathers vibrant red oak leaves into his small paws while standing under a tree. Orav Ott is carrying his yellow leaves toward the center of the path.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD KANNAVAD LEHED KOKKU.",
+      "scene": "Orav Ott and Siil Sass walk together toward the middle of the forest path, both carrying large bunches of colorful red and yellow leaves to dump onto the pile.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LEHEHUNNIK ON NÜÜD SUUR.",
+      "scene": "A huge, soft pile of colorful red, orange, and yellow autumn leaves sits on the forest path. Orav Ott and Siil Sass stand next to the big leaf pile, holding hands and smiling proudly.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "OTT JA SASS HÜPPAVAD LEHTEDESSE.",
+      "scene": "Orav Ott and Siil Sass are captured mid-air jumping together straight into the big soft pile of red and yellow autumn leaves with joyful, excited expressions.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LEHED LENDAVAD ÕHUS.",
+      "scene": "Bright yellow and red leaves spray happily into the air all around Orav Ott and Siil Sass as they land in the leaf pile. Both characters are laughing.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SÕBRAD ON RÕÕMSAD JA ÕNNELIKUD.",
+      "scene": "Orav Ott and Siil Sass sit cozy inside the soft pile of leaves on the sunny forest path, resting with a couple of autumn leaves resting gently on their heads, looking at each other with wide, cheerful smiles.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
