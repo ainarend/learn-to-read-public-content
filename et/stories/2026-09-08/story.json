@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-08",
+  "language": "et",
+  "title": "RUUDI JA KUSTI KORJAVAD ÕUNU",
+  "generatedAt": "2026-08-30T23:38:17.168Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE RUUDI",
+      "type": "fox",
+      "description": "Väike oranž rebane nimega Ruudi, seljas roheline kampsun, suured püstised kõrvad, kohev saba ja rõõmus ilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KARU KUSTI",
+      "type": "bear",
+      "description": "Suur sõbralik pruun karu nimega Kusti, seljas kollane vest, naeratav nägu ja pehmed ümarad kõrvad. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Õunaaed",
+      "description": "Sunny autumn apple garden with green grass scattered with a few fallen yellow leaves, green apple trees with ripe red apples, light wooden fence in the background under clear blue sky, warm autumn sunshine. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Maja terrass",
+      "description": "Cozy wooden porch of a small cottage with warm wooden floorboards, a simple wooden bench against the wooden wall, view of autumn trees in background. Sunny autumn day. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "RUUDI JA KUSTI ON AIAS.",
+      "scene": "Rebane Ruudi in his green sweater and Karu Kusti in his yellow vest are standing together in the sunny autumn garden surrounded by green apple trees with red apples. Green grass with yellow leaves on the ground, wooden fence in the background. Both look happy and curious. Bright sunny day. Landscape view.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUNAPUU OTSAS ON PUNASED ÕUNAD.",
+      "scene": "Rebane Ruudi and Karu Kusti stand under a large green apple tree in the garden, looking up at juicy red apples high on the branches. Rebane Ruudi points upwards happily. Green grass with yellow leaves on the ground, wooden fence in background.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "KUSTI EI ULATU ÕUNATENI.",
+      "scene": "Karu Kusti stands under the apple tree, stretching his arm up high trying to reach the red apples, but he cannot reach them. Rebane Ruudi stands next to him, watching thoughtfully with a hand on his chin. Green apple tree, wooden fence in background.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "RUUDI TOOB SUURE KASTI.",
+      "scene": "Rebane Ruudi carries a sturdy small wooden box/crate across the grassy garden towards the apple tree. Karu Kusti watches him enthusiastically, clapping his paws. Bright autumn garden with apple trees and wooden fence.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "RUUDI RONIB KASTI PEALE.",
+      "scene": "Rebane Ruudi climbs carefully onto the wooden box placed under the apple tree. Karu Kusti holds the wooden box steadily with both paws to help him. Rebane Ruudi reaches up toward the branch filled with red apples.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "RUUDI NOPIB MAGUSA ÕUNA.",
+      "scene": "Standing on the wooden box, Rebane Ruudi happily picks a big, bright red apple from the branch. Karu Kusti smiles below, holding a wicker basket ready on the grass. Sunny autumn garden background.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SÕBRAD TÄIDAVAD SUURE KORVI.",
+      "scene": "Rebane Ruudi and Karu Kusti stand together by a large woven wicker basket on the grass, putting bright red apples into it. The basket is almost full of shiny red apples. Both characters are smiling brightly in the autumn garden.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD KANNAVAD KORVI TERRASSILE.",
+      "scene": "Rebane Ruudi and Karu Kusti carry the full woven basket of apples together onto the wooden cottage porch. Rebane Ruudi holds one side of the handle and Karu Kusti holds the other. Warm wooden floorboards, sunny wooden porch.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "RUUDI JA KUSTI SÖÖVAD ÕUNU.",
+      "scene": "Rebane Ruudi and Karu Kusti sit side by side on a small wooden bench on the porch. Each character is holding a crunchy red apple, taking a tasty bite and smiling happily. The basket full of apples sits on the wooden floor next to them.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "NENDE KÕHUD ON NÜÜD TÄIS.",
+      "scene": "Rebane Ruudi and Karu Kusti sit relaxed on the bench on the sunny porch, rubbing their bellies with content smiles. Apple cores lie neatly in a small dish next to the basket. Cozy autumn atmosphere, warm sunlight.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
