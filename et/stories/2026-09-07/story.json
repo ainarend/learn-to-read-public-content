@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-07",
+  "language": "et",
+  "title": "KASS MIIA JA KOER MUKI KÜPSETAVAD KOOKI",
+  "generatedAt": "2026-08-30T23:27:46.340Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KASS MIIA",
+      "type": "cat",
+      "description": "Väike valge ja oranži kirju kass rohelise põllega, suurte roheliste silmade ja sõbraliku naeratusega. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KOER MUKI",
+      "type": "dog",
+      "description": "Väike pruun kutsikas sinise kaelarätikuga, lopergustega kõrvadega ja rõõmsameelse näoilmega. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Kodu köök",
+      "description": "Cozy home kitchen with light green walls, wooden floor, a single rectangular window on the back wall showing colorful autumn tree leaves, a wooden dining table in the center, a white baking oven against the right wall, and simple wooden cupboards on the left. Warm sunlight comes through the window. Simple and clean cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MIIA JA MUKI ON KÖÖGIS.",
+      "scene": "Kass Miia and Koer Muki stand side by side in a cozy kitchen with light green walls and a wooden floor. Kass Miia wears a small green apron and Koer Muki wears a blue bandana. They are standing near a wooden table in the middle of the room, looking around happily. Sunbeams shine through a single back window showing autumn leaves outside.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "MUKI VÕTAB PUNASED ÕUNAD.",
+      "scene": "Koer Muki stands at the wooden table in the green kitchen, lifting a small wicker basket filled with shiny red apples onto the table. Kass Miia watches him attentively with a smile, leaning against the wooden table. Warm kitchen setting with the white oven visible in the background.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "MIIA LÕIKAB ÕUNAD TÜKKIDEKS.",
+      "scene": "Kass Miia stands on a small stool at the wooden kitchen table, carefully cutting a bright red apple into neat slices on a wooden cutting board using a child-safe wooden knife. Koer Muki stands beside her, holding a plate to catch the fresh apple slices. Green walls and sunny autumn window in the background.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MUKI SEGAB TAIGNAT SUURES KAUSIS.",
+      "scene": "Koer Muki stands at the wooden table, holding a large wooden spoon with both paws and happily stirring smooth cake batter in a big yellow mixing bowl. Cut apple slices rest on a wooden board next to the bowl. Kass Miia watches joyfully, pointing at the bowl.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIIA PANEB KOOGI SOOJA AHJU.",
+      "scene": "Kass Miia wears oven mitts and carefully slides a round cake tin filled with apple cake batter into the open door of the warm white baking oven. Koer Muki stands nearby watching closely with excited eyes. The kitchen floor and light green walls are bathed in warm light.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KOOGI LÕHN TÄIDAB TERVE KÖÖGI.",
+      "scene": "Kass Miia and Koer Muki sit happily on wooden chairs by the central table in the light green kitchen, sniffing the air with closed eyes and satisfied smiles. Gentle cartoon steam curlicues rise from the closed white oven door, representing the wonderful baking smell.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VALMIS KOOK ON VÄGA MAITSEV.",
+      "scene": "A freshly baked golden apple cake sits on a wooden platter in the middle of the wooden table. Kass Miia and Koer Muki stand at the table, looking admiringly at the beautiful warm cake. The kitchen window shows the colorful autumn trees outside.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MIIA JA MUKI SÖÖVAD RÕÕMSALT.",
+      "scene": "Kass Miia and Koer Muki sit together at the wooden table in the green kitchen, each eating a delicious slice of apple cake off small colorful plates. Both characters have joyful expressions and crumbs on their cheeks. Sunlight warms the cheerful room.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
