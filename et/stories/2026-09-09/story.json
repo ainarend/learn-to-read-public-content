@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-09",
+  "language": "et",
+  "title": "PEETER JA LIISA TEEVAD PABERPAADID",
+  "generatedAt": "2026-08-30T23:48:32.711Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike poiss Peeter heledate pruunide juuste ja rõõmsate siniste silmadega, kandmas sinist vihmajopet, kollaseid kummikuid ja tumedaid pükse. Armas ja soe multifilmistiil, sõbralik ja uudishimulik ilme.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike tüdruk Liisa kollaste patside ja suurte roheliste silmadega, kandmas punast vihmajopet ja rohelisi kummikuid. Armas ja rõõmsameelne multifilmistiil, naeratav ja aktiivne.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Laste mängutuba",
+      "description": "Cozy children's playroom with light blue walls, light wooden floor, single square window showing colorful autumn trees outside, wooden craft table in center with two small wooden chairs, pink shelf on right wall with toys. Warm soft indoor sunlight. Clean simple cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Sügisene aed",
+      "description": "Autumn garden with gravel path, large clear water puddle in center, wooden fence in background, colorful orange and yellow autumn trees on sides, fallen autumn leaves scattered on grass. Bright autumn daytime light. Clean simple cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "PEETER JA LIISA ON TOAS.",
+      "scene": "Peeter and Liisa are standing next to a small wooden craft table in a cozy playroom with light blue walls and a light wooden floor. Peeter wears his blue jacket and yellow rubber boots. Liisa wears her red jacket and green rubber boots. On the table are sheets of yellow and red craft paper. Warm sunlight comes in from a square window showing orange trees outside.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "LIISA TEEB KOLLASE PABERPAADI.",
+      "scene": "Liisa sits on a wooden chair at the craft table in the blue playroom. She is happily folding a sheet of bright yellow paper into a small paper boat. Peeter sits next to her watching with interest. Light wooden floor, pink toy shelf on the right wall.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PEETER TEEB PUNASE PABERPAADI.",
+      "scene": "Peeter sits at the wooden craft table in the blue playroom, holding up a completed bright red paper boat with a proud smile. Liisa sits beside him holding her yellow paper boat. Both neat paper boats are clearly visible. Light wooden floor, soft daylight.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "ÕUES ON SUUR VEELÕIK.",
+      "scene": "View of the outdoor garden path with colorful orange and yellow autumn trees on both sides and a wooden fence behind. A large clear water puddle rests right in the center of the gravel path, reflecting the sky. Fallen leaves surround the puddle.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LAPSED LÄHEVAD AEDA MÄNGIMA.",
+      "scene": "Peeter and Liisa walk out onto the garden gravel path towards the big puddle. Peeter wears his blue jacket and yellow boots, holding his red paper boat. Liisa wears her red jacket and green boots, holding her yellow paper boat. Bright autumn leaves fall around them.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LIISA PANEB PAADI VETTE.",
+      "scene": "Liisa kneels carefully beside the large water puddle on the garden gravel path. She gently places her yellow paper boat onto the calm water surface. Peeter stands beside her watching happily, holding his red paper boat. Wooden fence and golden trees in the background.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PEETER PANEB KA PAADI VETTE.",
+      "scene": "Peeter kneels beside Liisa at the edge of the large water puddle on the garden path. He gently places his red paper boat into the water right next to Liisa's yellow paper boat. Both children look down with big joyful expressions.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MÕLEMAD PAADID UJUVAD VEE PEAL.",
+      "scene": "Close view of the clear water puddle on the gravel path. The red paper boat and the yellow paper boat float smoothly side-by-side across the water. Peeter and Liisa squat at the water's edge with broad smiles. Colorful autumn leaves drift near the water.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "PEETER JA LIISA ON ÕNNELIKUD.",
+      "scene": "Peeter and Liisa stand together by the puddle in the sunny autumn garden, waving happily. The yellow and red paper boats float peacefully in the puddle nearby. Bright yellow autumn leaves frame the top of the scene.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}
