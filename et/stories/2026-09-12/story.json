@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-12",
+  "language": "et",
+  "title": "HIIR TIIU JA JÄNES JUKU VEERETAVAD KÕRVITSAT",
+  "generatedAt": "2026-08-31T00:20:37.833Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "HIIR TIIU",
+      "type": "mouse",
+      "description": "Väike hall hiir suurte ümarate kõrvadega, kandmas väikest punast kampsunit, suured uudishimulikud silmad ja sõbralik rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES JUKU",
+      "type": "rabbit",
+      "description": "Väike valge jänes pikkade pehmete kõrvadega, kandmas kollast vesti, laia naeratuse ja lõbusa ilmega. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "Colorful autumn garden with green grass, falling yellow and orange leaves from trees in the background, a simple low wooden fence on the left wall side, warm afternoon sunlight. Cozy autumn atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Kodu köök",
+      "description": "Cozy warm kitchen with yellow walls, wooden floor, single window on the back wall showing autumn leaves outside, central wooden kitchen table, simple wooden cabinets on the right wall. Warm interior lighting. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "HIIR TIIU JA JÄNES JUKU ON AIAS.",
+      "scene": "Hiir Tiiu, a tiny grey mouse wearing a red sweater, and Jänes Juku, a small white rabbit wearing a yellow vest, are standing together in a bright autumn garden on green grass. Yellow leaves fall gently around them. The background has a simple wooden fence and autumn trees under warm sunlight.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD AIAS SUURT KÕRVITSAT.",
+      "scene": "Hiir Tiiu and Jänes Juku point happily at a giant, bright orange pumpkin resting on the green grass in the autumn garden. Leaves lie around the pumpkin. The mouse and rabbit look excited with wide eyes.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "SUUR KÕRVITS ON VÄGA RASKE.",
+      "scene": "Jänes Juku tries to lift the huge orange pumpkin with both hands, straining playfully with a funny focused face. Hiir Tiiu stands nearby with hands on cheeks, looking surprised at how big and heavy the pumpkin is.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD LÜKKAVAD KÕRVITSAT KOOS RÕÕMSALT.",
+      "scene": "Hiir Tiiu and Jänes Juku stand side by side, both pushing the big orange pumpkin forward together with big smiles on their faces across the green autumn grass.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KÕRVITS VEEREB MÖÖDA ROHELIST ROHTU.",
+      "scene": "The big orange pumpkin rolls smoothly across the green grass towards a cozy wooden house. Hiir Tiiu and Jänes Juku run joyfully behind it, cheering with raised paws.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD VEERETAVAD KÕRVITSA SOOJA MAJJA.",
+      "scene": "Inside the cozy kitchen with yellow walls and wooden floor, Hiir Tiiu and Jänes Juku push the large orange pumpkin through the open doorway into the center of the room next to the wooden table.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD TEEVAD KÕRVITSAST SOOJA KOOKI.",
+      "scene": "In the cozy kitchen, Jänes Juku stirs ingredients in a big baking bowl at the wooden kitchen table, while Hiir Tiiu holds a slice of orange pumpkin. A round pumpkin cake is baking inside the visible cozy kitchen oven.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KOOK LÕHNAB VÄGA HÄSTI.",
+      "scene": "A freshly baked golden pumpkin pie sits on the center of the wooden kitchen table, with tiny steam swirls rising from it. Hiir Tiiu and Jänes Juku close their eyes happily and sniff the delicious smell.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "TIIU JA JUKU SÖÖVAD MAITSEVAT KOOKI.",
+      "scene": "Hiir Tiiu and Jänes Juku sit together at the wooden kitchen table, happily eating tasty slices of pumpkin pie from small plates with big cheerful smiles.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "MÕLEMAD SÕBRAD ON VÄGA RÕÕMSAD.",
+      "scene": "Hiir Tiiu and Jänes Juku give each other a high-five next to the kitchen table with empty cake plates. They both look super happy and satisfied in their cozy autumn kitchen.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
