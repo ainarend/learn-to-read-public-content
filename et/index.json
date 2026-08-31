@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-09-10",
+  "latestDate": "2026-09-11",
   "stories": [
+    {
+      "date": "2026-09-11",
+      "title": "KASS MIU JA KOER POPI TEEVAD SUPPI",
+      "pageCount": 8,
+      "characters": [
+        "KASS MIU",
+        "KOER POPI"
+      ]
+    },
     {
       "date": "2026-09-10",
       "title": "SIIL SIMO JA ORAV OTTO TEEVAD LEHEHUNNIKU",

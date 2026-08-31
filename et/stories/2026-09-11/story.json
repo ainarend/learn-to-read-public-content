@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-11",
+  "language": "et",
+  "title": "KASS MIU JA KOER POPI TEEVAD SUPPI",
+  "generatedAt": "2026-08-31T00:09:37.524Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KASS MIU",
+      "type": "cat",
+      "description": "Väike valge kass roheliste silmade ja oranžide täppidega, kandmas rohelist põlle. Armas ja rõõmsameelne multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KOER POPI",
+      "type": "dog",
+      "description": "Väike pruun koer lottis kõrvadega ja kollase põllega. Koeral on suur sõbralik naeratus. Armas ja rõõmsameelne multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Õdus köök",
+      "description": "Cozy kitchen with light blue walls, light wooden floor, single window on the back wall with raindrops on glass and orange autumn leaves visible outside, central wooden kitchen counter with a big red soup pot, wooden shelf on the left wall with spice jars. Bright, clean, cheerful cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ÕUES SAJAB PALJU VIHMA.",
+      "scene": "Inside the cozy kitchen with light blue walls and light wooden floor, Kass Miu (a small white cat with orange spots in a green apron) and Koer Popi (a small brown dog with floppy ears in a yellow apron) are standing near a window. Raindrops are pattering on the windowpane, and colorful autumn leaves are visible outside. Miu and Popi look out with curious, friendly expressions.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "MIU JA POPI TAHAVAD SUPPI.",
+      "scene": "In the cozy kitchen with light blue walls, Kass Miu and Koer Popi stand at the central wooden kitchen counter. On the counter sits a large red soup pot. Miu points at the red pot enthusiastically, and Popi smiles with joy. Rain is visible outside the window in the background.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "POPI TOOB SUURED ORANŽID PORGANDID.",
+      "scene": "In the cozy kitchen, Koer Popi in his yellow apron walks cheerfully toward the kitchen counter carrying a small wooden basket filled with bright orange carrots with leafy green tops. Kass Miu in her green apron watches Popi happily while standing by the wooden counter next to the big red soup pot.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MIU PESEB PORGANDID PUHTAKS.",
+      "scene": "Kass Miu in her green apron stands on a small wooden step stool at the kitchen sink inside the cozy blue kitchen. She is carefully washing the bright orange carrots under running water from the tap. Koer Popi stands beside her holding a clean towel, smiling warmly.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "POPI PANEB PORGANDID POTTI.",
+      "scene": "In the cozy kitchen, Koer Popi wearing his yellow apron carefully places sliced orange carrot pieces into the large red soup pot sitting on the stove counter. Soft warm steam begins to rise from the pot. Kass Miu stands next to him watching with excited open eyes.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MIU SEGAB LUSIKAGA SUPPI.",
+      "scene": "Kass Miu in her green apron stands on a small wooden step stool next to the red pot in the cozy kitchen. She holds a wooden spoon and gently stirs the vegetable soup in the pot. Koer Popi stands beside her, watching contentedly.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SOE SUPP LÕHNAB VÄGA HÄSTI.",
+      "scene": "In the cozy blue kitchen, delicious warm steam spirals up into the air from the red soup pot on the counter. Kass Miu and Koer Popi lean in close to the pot, closing their eyes with happy, satisfied smiles as they enjoy the pleasant aroma of the warm soup.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SÕBRAD SÖÖVAD RÕÕMSALT SOOJA SUPPI.",
+      "scene": "Kass Miu and Koer Popi sit together at the wooden kitchen counter in the cozy blue kitchen. Both are holding spoons, happily eating warm vegetable soup from small ceramic bowls. They smile warmly at each other. Outside the window, rain falls gently, making the kitchen feel bright and cozy.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
