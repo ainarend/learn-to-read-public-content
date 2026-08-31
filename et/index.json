@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-09-09",
+  "latestDate": "2026-09-10",
   "stories": [
+    {
+      "date": "2026-09-10",
+      "title": "SIIL SIMO JA ORAV OTTO TEEVAD LEHEHUNNIKU",
+      "pageCount": 9,
+      "characters": [
+        "SIIL SIMO",
+        "ORAV OTTO"
+      ]
+    },
     {
       "date": "2026-09-09",
       "title": "PEETER JA LIISA TEEVAD PABERPAADID",

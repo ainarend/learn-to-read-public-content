@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-10",
+  "language": "et",
+  "title": "SIIL SIMO JA ORAV OTTO TEEVAD LEHEHUNNIKU",
+  "generatedAt": "2026-08-31T00:00:01.679Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SIMO",
+      "type": "hedgehog",
+      "description": "Väike hall siil pehmete okastega, kandmas kollast salli, suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OTTO",
+      "type": "squirrel",
+      "description": "Väike oranž orav koheva sabaga, kandmas rohelist mütsi, suur särav naeratus ja mänguhimuline olemus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene metsAalune",
+      "description": "Autumn forest clearing with tall oak and maple trees showing bright red, orange, and yellow foliage. Green grass ground with some scattered colorful fallen leaves. Soft warm autumn daylight. Simple clean cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIIL SIMO JA ORAV OTTO ON METSAS.",
+      "scene": "Siil Simo (a small grey hedgehog with a yellow scarf) and Orav Otto (a small orange squirrel with a green hat) stand side by side in a colorful autumn forest clearing. They are smiling and looking around at the big trees with orange and yellow leaves. Green grass ground underfoot.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "METSAS PUHUB SOE SÜGISTUUL.",
+      "scene": "Siil Simo (wearing a yellow scarf) and Orav Otto (wearing a green hat) look up into the sky as a gentle wind blows tree branches. Leaves are floating gently in the air around them.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PUNASED JA KOLLASED LEHED LANGEVAD.",
+      "scene": "Siil Simo and Orav Otto reach their arms up happily while bright red and yellow autumn leaves fall gently from the trees like rain around them in the forest clearing.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SIMO TEEB SUURE LEHEHUNNIKU.",
+      "scene": "Siil Simo uses his little paws to gather a pile of colorful leaves on the grass. A small mound of leaves is growing in front of him. Orav Otto watches with a happy expression.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "OTTO TOOB JUURDE PALJU LEHTI.",
+      "scene": "Orav Otto carries an armful of bright red leaves and dumps them onto Siil Simo's leaf pile. Simo is smiling and helping guide the leaves onto the pile.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LEHEHUNNIK KASVAB VÄGA SUUREKS.",
+      "scene": "Siil Simo and Orav Otto stand next to a very tall, fluffy pile of colorful autumn leaves that is now taller than both of them. They both look super excited.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SIMO JA OTTO HÜPPAVAD HUNNIKUSSE.",
+      "scene": "Siil Simo and Orav Otto jump high into the air together right above the huge pile of colorful autumn leaves, diving into it with joyful faces.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LEHED LENDAVAD KÕRGELE ÕHKU.",
+      "scene": "Siil Simo and Orav Otto are sitting inside the leaf pile as leaves splash out and fly up into the air around them in a big colorful burst.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SIMO JA OTTO NAERAVAD RÕÕMSALT.",
+      "scene": "Siil Simo and Orav Otto sit side by side in the leafy pile with bright colorful leaves resting on their heads, laughing together happily.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
