@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-16",
+  "language": "et",
+  "title": "REIN JA JUKU LENNUTAVAD LOHET",
+  "generatedAt": "2026-09-06T23:15:04.873Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE REIN",
+      "type": "fox",
+      "description": "Väike oranž rebane koheva valge otsaga sabaga, kandmas rohelist kampsunit, suured meeldivad silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES JUKU",
+      "type": "rabbit",
+      "description": "Väike hall jänes pikkade püstiste kõrvadega, kandmas kollast salli ja sinist pait, uudishimulik ning rõõmsameelne. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Toa käsitöönurk",
+      "description": "Cozy children's craft room with light blue walls, wooden floor, a single rectangular window on the back wall showing colorful autumn trees outside, a low wooden table in the center, yellow curtains, warm light inside. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Sügisene mägi",
+      "description": "Grassy hilltop under a sunny blue sky, scattered yellow and orange autumn trees, colorful falling leaves blowing in gentle wind, soft rolling hills in background. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "TÄNA ON VÄGA TUULINE ILM.",
+      "scene": "Rebane Rein and Jänes Juku stand inside a cozy room with light blue walls and a wooden floor, looking out of a window. Outside the window, yellow leaves are blowing in the wind. Rebane Rein wears a green sweater, and Jänes Juku wears a blue shirt and yellow scarf. They look excited and happy. LANDSCAPE composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "REIN JA JUKU TEEVAD LOHET.",
+      "scene": "Rebane Rein and Jänes Juku sit together at a low wooden table in the center of the craft room with light blue walls. On the table are colorful paper, wooden sticks, scissors, and string. Rein and Juku smile as they begin crafting. LANDSCAPE composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "JUKU LÕIKAB PUNAST PABERIT.",
+      "scene": "Jänes Juku sits at the wooden table in the room with light blue walls, carefully using child-safe scissors to cut a large diamond shape out of bright red paper. Rebane Rein watches closely with a smiling expression. LANDSCAPE composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "REIN PANEB PABERILE NÖÖRI.",
+      "scene": "Rebane Rein sits at the wooden table, attaching a long white string and colorful ribbon tails to the red diamond-shaped paper kite. Jänes Juku helps hold the kite steady, smiling happily. Light blue walls and window in background. LANDSCAPE composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "ILUS LOHE ON VALMIS.",
+      "scene": "Rebane Rein and Jänes Juku hold up the finished red diamond kite together in the light blue room. The kite has bright bow-ties on its string tail. Both characters are smiling with pride and joy. LANDSCAPE composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "SÕBRAD JOOKSEVAD SUURELE MÄELE.",
+      "scene": "Rebane Rein and Jänes Juku are running outside on a grassy green hill with colorful yellow autumn trees around them. Rebane Rein wears a green sweater, Jänes Juku wears a yellow scarf. Rein holds the red kite while Juku runs alongside him. LANDSCAPE composition.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LOHE TÕUSEB KÕRGELE ÕHKU.",
+      "scene": "On the grassy hill under a bright blue sky, Rebane Rein holds the string spool while the bright red kite flies high up into the air. Jänes Juku jumps joyfully and points up at the flying kite. Swirling wind and autumn leaves drift through the air. LANDSCAPE composition.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LOHE TANTSIB TUULE KÄES.",
+      "scene": "Close-up shot of the bright red kite dancing smoothly in the blue autumn sky among floating yellow leaves, attached to a long thin white string stretching down towards the green hill. High energetic autumn mood. LANDSCAPE composition.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "REIN JA JUKU ON RÕÕMSAD.",
+      "scene": "Rebane Rein and Jänes Juku stand side-by-side on top of the grassy hill under the sunny autumn sky, holding the kite string together. The red kite floats happily high above them. Both friends have huge cheerful smiles. LANDSCAPE composition.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}
