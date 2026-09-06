@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-15",
+  "language": "et",
+  "title": "KATI JA MATI KORJAVAD ÕUNU",
+  "generatedAt": "2026-09-06T23:06:51.090Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KATI",
+      "type": "human",
+      "description": "Väike inimene, armas 5-aastane tüdruk kollase kampsuni ja siniste teksapükstega, punased juuksed kahes patsis, suured pruunid silmad ja sõbralik rõõmsameelne naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MATI",
+      "type": "human",
+      "description": "Väike inimene, armas 5-aastane poiss rohelise pusa ja pruunide pükstega, tumedad lühikesed juuksed, elav ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "Sunny autumn garden with a green lawn, a large leafy apple tree laden with round red apples, a simple brown wooden fence in the background, and colorful orange leaves falling softly. Bright and cheerful cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Hubane köök",
+      "description": "Cozy home kitchen with light yellow painted walls, wooden floor, a square wooden table in the middle, a kitchen counter with a sink on the right side, and a single window on the back wall looking out at the sunny garden. Warm sunlight streaming through window. Cute clean cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KATI JA MATI ON AIAS.",
+      "scene": "Kati wearing a yellow sweater and blue jeans, and Mati wearing a green hoodie and brown pants, stand together in a sunny autumn garden. In front of them is a large apple tree with bright red apples hanging from its branches. Kati and Mati are smiling and looking up at the tree. Bright sunlight and falling autumn leaves in the background. Simple cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD PUNASEID ÕUNU.",
+      "scene": "Kati and Mati standing in the sunny garden, pointing excitedly with their hands up towards the ripe red apples hanging on the branches of the big apple tree. Kati wears her yellow sweater and Mati wears his green hoodie. Both look happy and excited. Green grass and wooden fence in the background.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "KATI KORJAB SUURE ÕUNA.",
+      "scene": "Kati standing on tiptoes under the apple tree, reaching up with both hands to pick a shiny big red apple off a low branch. Mati stands right beside her in his green hoodie, watching her with a big smile. The green lawn has a small empty woven basket resting on it near their feet.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MATI KORJAB TEISE ÕUNA.",
+      "scene": "Mati reaching up to pick another big red apple from the lower tree branch. Kati is standing beside him, holding her freshly picked red apple close to her chest in her yellow sweater, smiling broadly. A small woven basket sits on the green grass beside them.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD PANEVAD ÕUNAD KORVI.",
+      "scene": "Kati and Mati kneeling together on the green grass under the apple tree. They are gently placing their red apples into a small woven wooden basket. The basket now has several red apples inside. Kati wears her yellow sweater and Mati wears his green hoodie. Cheerful atmosphere.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD VIIVAD KORVI TUPPA.",
+      "scene": "Kati and Mati walking together into the cozy kitchen, carrying the woven basket full of red apples between them. The kitchen has yellow walls, wooden floor, a wooden table, and a window on the back wall. Kati wears her yellow sweater and Mati wears his green hoodie.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD PESEVAD SUURED ÕUNAD.",
+      "scene": "Mati standing on a small step stool at the kitchen sink, washing a bright red apple under gentle running tap water. Kati stands next to him in her yellow sweater, carefully holding a clean red apple in her hands. The wooden basket of apples rests on the nearby kitchen counter.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KATI JA MATI SÖÖVAD ÕUNU.",
+      "scene": "Kati and Mati sitting side by side at the square wooden kitchen table, taking happy crunchy bites out of their clean red apples. The basket of red apples rests in the middle of the wooden table. Yellow walls and window in background. Soft warm light.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KATI JA MATI ON RÕÕMSAD.",
+      "scene": "Kati and Mati sitting happily at the wooden kitchen table, holding up their half-eaten delicious red apples and smiling brightly at the reader. Warm cozy kitchen setting with light yellow walls and sunlight streaming through the window. Extremely cheerful ending.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}
