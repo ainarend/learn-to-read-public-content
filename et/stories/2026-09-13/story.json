@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-13",
+  "language": "et",
+  "title": "LIISA JA PEETER UJUTAVAD PAATE",
+  "generatedAt": "2026-09-06T22:47:56.603Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, viieaastane tüdruk, tumedad juuksed, seljas kollane vihmamantel ja kollane vihmamüts ning jalas punased kummikud. Sõbralik, naerusuine ja uudishimulik. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, kuueaastane poiss, heledad lühikesed juuksed, seljas sinine vihmamantel ja jalas rohelised kummikud. Lõbus ja tegus ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Aed sügisel",
+      "description": "A cozy autumn garden with green grass partially covered by colorful yellow and orange fallen autumn leaves, a low wooden fence in the background, and a clean water puddle on a small cobblestone path. Raindrops create gentle ripples in the puddle. Bright cheerful colors, clean cute children's book illustration style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER ON AIAS.",
+      "scene": "Liisa (a young girl in a yellow raincoat, yellow rain hat, and red rubber boots) and Peeter (a young boy in a blue raincoat and green rubber boots) stand together in a cheerful autumn garden with colorful autumn leaves on the ground. They are smiling warmly.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES SADAB LÕBUSAT VIHMA.",
+      "scene": "Liisa and Peeter stand in the autumn garden while a gentle, cheerful autumn rain falls around them. Raindrops ripple in a clear puddle on the ground near their boots. Both children look up at the rain with joyful smiles.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NEIL ON HEA MÕTE.",
+      "scene": "Liisa and Peeter kneel close to the rain puddle on the garden path. Peeter points with a big smile toward bright yellow leaves lying on the grass, having a fun idea.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PEETER LEIAB SUURE KOLLASE LEHE.",
+      "scene": "Peeter bends down near the wooden garden fence and carefully picks up a bright yellow autumn maple leaf from the ground. Liisa watches him with wide, happy eyes.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LIISA PANEB LEHE LOIKU.",
+      "scene": "Liisa gently places the large bright yellow leaf onto the surface of the rain puddle. Peeter watches eagerly beside her.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LEHEST SAAB ILUS VÄIKE PAAT.",
+      "scene": "The big yellow leaf floats gracefully on the surface of the clear water puddle like a tiny boat. Liisa and Peeter clap their hands with excitement as they gaze at the leaf boat.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "TUUL PUHUB PAADI EDASI.",
+      "scene": "A gentle autumn breeze blows across the garden, creating gentle ripples in the water and sailing the small leaf boat across the puddle. Liisa and Peeter laugh as they follow the boat with their eyes.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LIISA JA PEETER ON RÕÕMSAD.",
+      "scene": "Liisa and Peeter stand side by side next to the puddle, holding hands and laughing happily. The tiny leaf boat floats safely in the puddle in the bright, colorful garden.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
