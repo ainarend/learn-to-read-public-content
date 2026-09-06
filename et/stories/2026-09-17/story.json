@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-17",
+  "language": "et",
+  "title": "PIRET JA TÕNU TEEVAD MÄNGUASJU",
+  "generatedAt": "2026-09-06T23:24:06.236Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PIRET",
+      "type": "human",
+      "description": "Väike inimene, armas 5-aastane tüdruk blondide juuste ja kahe patsiga, seljas kollane kampsun ja sinised püksid, rõõmsameelne ilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "TÕNU",
+      "type": "human",
+      "description": "Väike inimene, armas 6-aastane poiss pruunide lühikeste juustega, seljas roheline kampsun ja pruunid püksid, naerul näoga ja uudishimulik. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "Sunny autumn garden with vibrant orange and yellow leaves on grass, a large oak tree on the left with fallen acorns on the ground, a wooden garden bench nearby. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Lastetuba",
+      "description": "Cozy children's craft room with warm yellow walls, a wooden floor, a sturdy low wooden table in the center with two small wooden chairs, a single window on the back wall showing colorful autumn trees outside. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "PIRET JA TÕNU ON AIAS.",
+      "scene": "Piret, a cute 5-year-old girl with blonde pigtails in a yellow sweater, and Tõnu, a 6-year-old boy with short brown hair in a green sweater, are standing together in a sunny autumn garden. The grass has colorful orange and yellow fallen leaves, and a large oak tree stands nearby. They are smiling and looking around happily. Bright cheerful autumn sunlight.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD LEIAVAD PALJU TÕRUSID.",
+      "scene": "Piret and Tõnu are kneeling on the grass under the large oak tree in the autumn garden. Piret points excitedly at a group of brown acorns scattered on the ground amidst yellow leaves. Tõnu leans forward with a smile, looking at the acorns.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "TÕNU KORJAB TÕRUSID KORVI.",
+      "scene": "Tõnu is kneeling in the autumn garden, carefully placing shiny brown acorns into a small woven wooden basket. Piret stands next to him, holding two acorns in her hands and smiling. The autumn oak tree and colorful fallen leaves are around them.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LAPSED LÄHEVAD SOOJA TUPPA.",
+      "scene": "Piret and Tõnu are walking into a cozy children's craft room with yellow walls and a wooden floor. Tõnu is carrying the small woven basket full of acorns. A low wooden table with two chairs sits in the center, and warm sunlight shines through the window.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD TEEVAD TÕRUDEST LOOMI.",
+      "scene": "Piret and Tõnu are sitting at the wooden table in the cozy room. The basket of acorns, along with small wooden sticks and toothpicks, is placed on the table. Piret and Tõnu are happily picking up acorns and sticks to start crafting.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TÕNU TEEB TÕRUST HOBUSE.",
+      "scene": "Tõnu sits at the wooden table in the room, proudly holding up a small horse figure made from acorns and wooden stick legs. On the table are remaining acorns and sticks. Piret watches him with enthusiasm and smiles.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PIRET TEEB TÕRUST KOERA.",
+      "scene": "Piret sits at the wooden table, carefully attaching tiny stick legs to an acorn to make a cute acorn dog figure. Tõnu sits next to her, setting his completed acorn horse on the table and watching her work happily.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "UUED MÄNGUASJAD ON ILUSAD.",
+      "scene": "Piret and Tõnu sit together at the wooden table in the bright cozy room, looking happily at the finished acorn horse and acorn dog standing neatly on the table in front of them. The children smile with pride.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LAPSED MÄNGIVAD KOOS RÕÕMSALT.",
+      "scene": "Piret holds the acorn dog figure while Tõnu holds the acorn horse figure on the wooden craft table, gently moving them around as if playing a game together. Both children are laughing and smiling joyfully in the bright cozy room.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}
