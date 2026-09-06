@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-18",
+  "language": "et",
+  "title": "SAMMI JA OTT TEEVAD LEHEPESA",
+  "generatedAt": "2026-09-06T23:31:45.624Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SAMMI",
+      "type": "hedgehog",
+      "description": "Väike hall siil pruunide pehmete okastega, kandmas kollast salli, suured tumedad silmad ja rõõmus naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Kohev punane orav suure koheva sabaga, kandmas rohelist mütsi, uudishimulik ja sõbralik näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene mets",
+      "description": "Autumn forest glade surrounded by birch and maple trees, green mossy ground covered with colorful red and yellow autumn leaves, a wooden log on the right side, warm sunlight filtering through branches. Cozy autumn landscape style, colorful trees, cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SAMMI JA OTT ON METSAS.",
+      "scene": "In a sunny autumn forest glade, Siil Sammi (a small grey hedgehog wearing a yellow scarf) and Orav Ott (a fluffy red squirrel wearing a green hat) stand together on green mossy ground. Bright red and yellow autumn leaves lie scattered around. Both look around with cheerful expressions. Surrounded by tall autumn trees. Simple clear outdoor setting in landscape format.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "METSAS ON PALJU VÄRVILISI LEHTI.",
+      "scene": "Siil Sammi and Orav Ott stand in the forest looking down at colorful fallen maple leaves in shades of bright red, orange, and yellow covering the ground. Sunlight filters through the colorful trees in the background. Siil Sammi wears his yellow scarf and Orav Ott wears his green hat.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD SOOJA LEHEPESA.",
+      "scene": "Siil Sammi and Orav Ott are starting to gather leaves near a wooden log on the right. Siil Sammi points excitedly at a spot on the mossy ground. Orav Ott nods happily. Colorful autumn trees surround the glade.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SAMMI TASSIB PUNASEID LEHTI.",
+      "scene": "Siil Sammi (wearing his yellow scarf) carries a big bundle of bright red autumn leaves in his arms toward a growing leaf pile near the wooden log. Orav Ott watches enthusiastically. Warm sunlight shines through the forest trees.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "OTT TASSIB KOLLASEID LEHTI.",
+      "scene": "Orav Ott (wearing his green hat) carries a large pile of bright yellow leaves in his paws, walking happily toward the red and yellow leaf nest next to the wooden log. Siil Sammi stands nearby, placing a red leaf onto the pile.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LEHEPESA ON VÄGA SUUR.",
+      "scene": "A huge, soft pile of colorful red, orange, and yellow autumn leaves sits ready on the forest ground next to the wooden log. Siil Sammi and Orav Ott stand right beside the huge cozy leaf pile, admiring their creation with big open-mouthed smiles.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD HÜPPAVAD PEHMESSE PESASSE.",
+      "scene": "Siil Sammi and Orav Ott jump joyfully into the middle of the soft colorful leaf pile. Leaves fly lightly in the air around them. Both have joyful, delighted face expressions. Bright sunny autumn forest background.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SAMMI JA OTT ON RÕÕMSAD.",
+      "scene": "Siil Sammi and Orav Ott sit cozy inside the deep soft pile of red and yellow autumn leaves, hugging each other cheerfully. Both wear happy smiles. The sun shines warmly through the colorful autumn tree canopy.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
