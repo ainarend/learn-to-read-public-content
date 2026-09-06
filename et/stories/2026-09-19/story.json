@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-19",
+  "language": "et",
+  "title": "LIISA JA PEETER TEEVAD ÕUNAKOOKI",
+  "generatedAt": "2026-09-06T23:40:41.612Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk heledate patsidega, kandes punast põlle, kollast särki ja siniseid pükse. Armas ja rõõmsameelne ilme, suured pruunid silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane poiss pruunide lühikeste juustega, kandes sinist põlle, rohelist särki ja pruune pükse. Sõbralik ja terane näoilme, suured rohelised silmad. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Kodu köök",
+      "description": "Cozy, warm home kitchen with pastel yellow walls, light wooden floor, single window on the back wall showing colourful orange autumn tree outside. A light wooden kitchen counter and table in the center, built-in kitchen oven on the right wall. Clean and friendly atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER ON KÖÖGIS.",
+      "scene": "Liisa (blonde girl with red apron) and Peeter (brown-haired boy with blue apron) are standing together in the cozy yellow kitchen. They are smiling and looking at the wooden kitchen counter. The kitchen has light wooden floors, yellow walls, and a window showing autumn trees with falling orange leaves. Bright warm daylight.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TEEVAD MAITSVAT ÕUNAKOOKI.",
+      "scene": "Liisa and Peeter are standing behind the wooden counter in the cozy yellow kitchen. On the counter, there are red apples, flour, a mixing bowl, and a baking pan. Liisa points excitedly to the red apples while Peeter smiles warmly. The kitchen setting remains identical with yellow walls and a window showing autumn trees.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PEETER PANEB ÕUNAVIILUD KAUSSI.",
+      "scene": "Peeter is standing at the wooden counter in the cozy yellow kitchen, placing sliced red apples into a large ceramic mixing bowl. Liisa stands next to him, watching happily. On the counter are fresh red apples and a cutting board. The yellow walls and autumn window view match the kitchen perfectly.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA SEGAB TAINAST SUURES KAUSIS.",
+      "scene": "Liisa holds a wooden spoon with both hands and carefully stirs the cake dough inside the large ceramic bowl on the wooden kitchen counter. Peeter stands beside her, cheering her on with a wide smile. The cozy yellow kitchen with light wooden floors remains exactly the same.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD PANEVAD KOOGI AHJU.",
+      "scene": "Peeter carefully holds a round baking pan filled with cake batter, putting it into the open kitchen oven on the right wall. Liisa stands nearby, holding the oven door open safely. The cozy yellow kitchen layout and details are consistent with previous scenes.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KÖÖKI TULEB MAGUS LÕHN.",
+      "scene": "Liisa and Peeter are sitting at the wooden kitchen table, looking towards the oven with happy expressions and sniffing the air with delight. Little curly steam lines rise gently near the oven. The yellow kitchen walls and autumn window view remain identical.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SOE KOOK ON VALMIS.",
+      "scene": "A freshly baked golden-brown apple cake in a baking pan sits on the wooden table in the cozy yellow kitchen. Liisa and Peeter stand next to the table, looking at the warm cake with big joyful smiles. The kitchen setting is unchanged.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PEETER JA LIISA SÖÖVAD KOOKI.",
+      "scene": "Liisa and Peeter are sitting at the wooden kitchen table, happily eating slices of golden apple cake off small white plates. They each have a fork and look delighted. The yellow kitchen background with the autumn window view remains exactly the same.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LAPSED ON RÕÕMSAD JA RAHUL.",
+      "scene": "Liisa and Peeter are sitting together at the kitchen table with empty cake plates in front of them, smiling cheerfully and giving a thumbs-up. The warm, sunlit yellow kitchen with the autumn window view remains consistent.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
