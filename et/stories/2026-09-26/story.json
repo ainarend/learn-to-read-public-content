@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-26",
+  "language": "et",
+  "title": "SAMMI JA OTT KORJAVAD ÕUNU",
+  "generatedAt": "2026-09-13T23:52:15.555Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SAMMI",
+      "type": "hedgehog",
+      "description": "Väike siil pehmete pruunide okastega, seljas kollane kampsun, suur must nina ja sõbralikud säravad silmad. Armas ja rõõmus multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike oranž orav koheva sabaga, seljas sinine vest, suured uudishimulikud silmad ja naeratav nägu. Armas ja rõõmus multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Aias",
+      "description": "A bright sunny autumn garden with green grass scattered with a few orange leaves. In the center is a large apple tree with green leaves and bright red apples hanging from branches. A woven wooden basket sits on the grass near the tree trunk. Cute cartoon style, warm lighting.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SAMMI JA OTT ON AIAS.",
+      "scene": "Siil Sammi (a small hedgehog in a yellow sweater) and Orav Ott (a small orange squirrel in a blue vest) stand side by side in a sunny autumn garden with green grass. They look happy and friendly. A large apple tree is visible in the background and a empty woven basket rests on the grass nearby. Warm sunlight, cheerful cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD NÄEVAD SUURT ÕUNAPUUD.",
+      "scene": "Siil Sammi in his yellow sweater and Orav Ott in his blue vest look up together at a tall apple tree in the garden. Orav Ott points happily toward the green tree branches filled with bright red apples. The woven basket sits on the grass beside them.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PUU KÜLJES ON PUNASED ÕUNAD.",
+      "scene": "Close-up scene in the sunny garden showing the lower branches of the apple tree filled with ripe red apples. Orav Ott stands near the trunk pointing at a shiny red apple hanging within reach. Siil Sammi watches enthusiastically.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "OTT KORJAB ÜHE PUNASE ÕUNA.",
+      "scene": "Orav Ott (orange squirrel in a blue vest) reaches up on his tiptoes and carefully picks a bright red apple off a low branch. Siil Sammi (small hedgehog in a yellow sweater) stands nearby holding his hands out with a big happy smile.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SAMMI PANEB ÕUNA SUURDE KORVI.",
+      "scene": "Siil Sammi in his yellow sweater carefully places a bright red apple into the wooden woven basket on the green grass. Orav Ott stands next to him holding another red apple ready to pass it over. Sunny garden background.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD KORJAVAD PALJU PUNASEID ÕUNU.",
+      "scene": "Siil Sammi and Orav Ott work together near the apple tree, picking bright red apples from low branches and adding them to the basket. Both characters look energetic and cheerful. The basket is half full of shiny red apples.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KORV ON NÜÜD ÕUNU TÄIS.",
+      "scene": "Siil Sammi and Orav Ott stand together beside the woven basket, which is now completely full of delicious red apples. They give each other a high-five with joyful expressions under the sunny apple tree.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SAMMI JA OTT SÖÖVAD MAGUSAID ÕUNU.",
+      "scene": "Siil Sammi in his yellow sweater and Orav Ott in his blue vest sit comfortably side by side on the green grass in the sunny garden. Each holds a crisp red apple and takes a happy bite. The full apple basket sits beside them.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
