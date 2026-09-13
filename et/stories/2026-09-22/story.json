@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-22",
+  "language": "et",
+  "title": "OTT JA SAMI MÄNGIVAD LEHTEDEGA",
+  "generatedAt": "2026-09-13T23:16:49.761Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike oranž orav koheva sabaga, seljas väike roheline vest, suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL SAMI",
+      "type": "hedgehog",
+      "description": "Väike pruun siil pehmete okastega, kaelas punane sall, ümar nina ja rõõmus ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "A cozy garden setting in autumn with bright green grass, a large old oak tree on the right with colorful red, orange, and yellow autumn leaves, a small low wooden fence in the background, crisp blue sky with light fluffy clouds, warm gentle autumn sunlight streaming down. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "OTT JA SAMI ON AIAS",
+      "scene": "Orav Ott (a small orange squirrel with a fluffy tail wearing a green vest) and Siil Sami (a cute hedgehog with a red scarf) are standing together on green grass in a sunny garden under a big oak tree with colorful autumn leaves. They look around cheerfully. The garden has a wooden fence and blue sky in the background.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "KIRJUD LEHED KUKUVAD PUULT",
+      "scene": "Bright yellow, red, and orange leaves are gently drifting down from the branches of the big oak tree onto the grass. Orav Ott and Siil Sami look up at the falling colorful leaves with delight, holding their hands up excitedly in the sunny garden.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "OTT VÕTAB KOLLASE REHA",
+      "scene": "Orav Ott holds a small yellow children's garden rake and begins gathering the fallen colorful autumn leaves together on the green grass. Siil Sami stands nearby watching attentively and clapping hands happily.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "NAD TEEVAD SUURE LEHEHUNNIKU",
+      "scene": "Orav Ott and Siil Sami have gathered a giant, tall pile of colorful autumn leaves on the green lawn. Orav Ott stands next to the pile holding his yellow rake, looking proud, while Siil Sami smiles widely at the giant leaf pile.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SAMI HÜPPAB OTSE HUNNIKUSSE",
+      "scene": "Siil Sami jumps high into the air right above the big pile of colorful leaves, mid-flight with a joyful expression and arms open wide. Orav Ott watches enthusiastically from the side in the sunny garden.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "OTT HÜPPAB KA LEHTEDE SISSE",
+      "scene": "Orav Ott leaps excitedly through the air towards the giant pile of autumn leaves. Siil Sami is already sitting happily inside the soft leaf pile, popping his head out and waving.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KIRJUD LEHED LENDAVAD ÕHUS",
+      "scene": "Both Orav Ott and Siil Sami are sitting together in the middle of the leaf pile, throwing big handfuls of yellow, orange, and red autumn leaves high into the air, creating a shower of falling colorful leaves around them.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SÕBRAD MÄNGIVAD RÕÕMSALT KOOS",
+      "scene": "Orav Ott and Siil Sami sit side by side on the lawn amidst scattered autumn leaves, high-fiving each other with huge happy smiles. Warm sunlight shines through the tree leaves onto the happy friends.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
