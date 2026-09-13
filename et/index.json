@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-09-20",
+  "latestDate": "2026-09-21",
   "stories": [
+    {
+      "date": "2026-09-21",
+      "title": "MIISU JA MUKU KORJAVAD SEENI",
+      "pageCount": 8,
+      "characters": [
+        "KASS MIISU",
+        "KOER MUKU"
+      ]
+    },
     {
       "date": "2026-09-20",
       "title": "MIA JA MIKK LENNUTAVAD TUULELOHET",

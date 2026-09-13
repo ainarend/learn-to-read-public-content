@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-21",
+  "language": "et",
+  "title": "MIISU JA MUKU KORJAVAD SEENI",
+  "generatedAt": "2026-09-13T23:08:14.905Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KASS MIISU",
+      "type": "cat",
+      "description": "Väike valge kass oranžide täppidega, suurte roheliste silmadega, kandmas kollast kampsunit. Armas ja rõõmsameelne multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KOER MUKU",
+      "type": "dog",
+      "description": "Väike pruun koer pikkade lottis kõrvadega, rohelise salliga, sõbraliku ja uudishimuliku ilmega. Armas ja soe multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene mets",
+      "description": "An autumn forest with tall pine and birch trees, colorful yellow and orange leaves on the trees and scattered on the green mossy ground. Soft golden autumn sunlight filtering through the trees. Cozy and peaceful outdoor woodland atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Õdus köök",
+      "description": "A cozy cottage kitchen with light green walls, a wooden floor, and a wooden kitchen counter against the wall. A single small window in the background shows colorful autumn trees. Warm inviting indoor light. Simple clean layout. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MIISU JA MUKU ON METSAS.",
+      "scene": "Kass Miisu (a small white cat with orange spots wearing a yellow sweater) and Koer Muku (a small brown dog with floppy ears wearing a green scarf) stand together in an autumn forest. Colorful yellow and red leaves fall gently around them onto green moss. Golden sunlight streams through the trees. Cartoon style, landscape composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "SÜGISEL KASVAVAD METSAS PALJUD SEENED.",
+      "scene": "In the colorful autumn forest with yellow trees and mossy ground, several cute brown and red mushrooms are growing out of the green moss. Kass Miisu and Koer Muku stand nearby, pointing at the mushrooms with happy smiles. Golden sunlight shines down. Cartoon style, landscape composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "SÕBRAD OTSIVAD KORVI SEENI.",
+      "scene": "Kass Miisu and Koer Muku are walking carefully through the autumn forest ground. Koer Muku carries a small red woven basket in his paw. They are looking closely at the ground covered in orange leaves and moss to find mushrooms. Cartoon style, landscape composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MIISU LEIAB ÜHE SUURE SEENE.",
+      "scene": "Kass Miisu kneels down happily on the mossy forest floor next to a large brown mushroom. Koer Muku walks closer with his red basket, watching with an excited smile. Autumn forest trees and golden light in the background. Cartoon style, landscape composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MUKU PANEB SEENE PUNASESSE KORVI.",
+      "scene": "Koer Muku carefully places the big brown mushroom into the red woven basket held in his paws. Kass Miisu stands right next to him, smiling broadly and pointing at the basket. Colorful autumn forest surrounding them. Cartoon style, landscape composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PUNANE KORV ON JUBA TÄIS.",
+      "scene": "Koer Muku holds the red basket, which is now completely filled with beautiful mushrooms. Kass Miisu claps her paws together with joy. They stand on the mossy path in the sunny autumn forest. Cartoon style, landscape composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD KANNAVAD KORVI KOJU.",
+      "scene": "In a cozy kitchen with light green walls and a wooden floor, Kass Miisu and Koer Muku set the red basket full of mushrooms on a wooden table. A window behind them shows autumn trees. They both look happy and proud. Cartoon style, landscape composition.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MIISU JA MUKU SÖÖVAD SEENEVÕILEIBA.",
+      "scene": "Kass Miisu and Koer Muku sit at the wooden table in the cozy green-walled kitchen. On the table are plates with delicious mushroom sandwiches. They are eating happily and smiling at each other. Sunlight streams through the kitchen window. Cartoon style, landscape composition.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    }
+  ]
+}
