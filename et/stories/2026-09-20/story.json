@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-20",
+  "language": "et",
+  "title": "MIA JA MIKK LENNUTAVAD TUULELOHET",
+  "generatedAt": "2026-09-13T22:59:59.923Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MIA",
+      "type": "human",
+      "description": "Väike inimene, armas tüdruk heledate juuste ja kollase vihmajopega, punased kummikud jalas. Suured sõbralikud silmad ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MIKK",
+      "type": "human",
+      "description": "Väike inimene, armas poiss pruunide juuste ja sinise jopega, rohelised kummikud jalas. Sõbralik ja tegus näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Maja hoov",
+      "description": "Cozy yard outside a small wooden house with yellow autumn trees, green grass with scattered fallen leaves, wooden fence on the side, cloudy blue sky. Warm autumn atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Sügisene mägi",
+      "description": "A gentle grassy hill with yellow-green autumn grass, colorful autumn trees in the background, blue sky with light white clouds, cozy small wooden house visible far below in the distance. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MIA JA MIKK LÄHEVAD ÕUE.",
+      "scene": "Mia (blonde girl in yellow raincoat and red boots) and Mikk (brown-haired boy in blue jacket and green boots) walk out of the front door of a cozy wooden house into the yard. Colorful autumn leaves lie on the grass around them. Both children have big happy smiles.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES PUHUB SUUR TUUL.",
+      "scene": "Mia and Mikk stand in the yard of the cozy wooden house. A strong autumn breeze blows leaves through the air. Mia's coat and hair flutter gently in the wind. Mikk looks up at the sky smiling.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "MIKK VÕTAB PUNASE TUULELOHE.",
+      "scene": "In the yard outside the wooden house, Mikk holds a bright red diamond-shaped kite with a cheerful smiling face drawn on it. Mia stands next to him, clapping her hands with excitement.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MIA HOIAB PIKKA NÖÖRI.",
+      "scene": "In the yard, Mia holds the wooden spool of white string attached to the red kite. Mikk holds the red kite up in the air, getting ready to launch it. Autumn trees surround them.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIKK JOOKSEB MÄEST ÜLES.",
+      "scene": "Mikk runs up a gentle grassy hill holding the red kite above his head. Mia runs behind him on the grassy slope, holding the spool of string tightly. The wooden house is visible in the valley below.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TUULELOHE TÕUSEB KÕRGELE TAEVASSE.",
+      "scene": "On top of the grassy hill, the bright red diamond kite soars up high into the blue sky. Mikk stands on the hill raising his arms in joy. Mia stands beside him, unwinding the string from the spool.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "MIA JA MIKK VAATAVAD LOHET.",
+      "scene": "Mia and Mikk stand together on top of the grassy hill, both holding the kite string together and looking up into the blue sky with wide happy eyes. The red kite dances high in the air above them.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LOHE LENDAB KÕRGEL ÕHUS.",
+      "scene": "Close-up view of the bright red diamond kite floating high in the soft blue sky with fluffy clouds. Ribbons on its tail wave in the breeze. Below on the hill, Mia and Mikk are tiny happy figures cheering.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MIA JA MIKK ON ÕNNELIKUD.",
+      "scene": "Mia and Mikk sit side by side on the grassy autumn hill, holding the kite spool together and smiling warmly at each other. The red kite flies peacefully in the sunny sky above them.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}
