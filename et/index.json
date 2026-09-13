@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-09-24",
+  "latestDate": "2026-09-25",
   "stories": [
+    {
+      "date": "2026-09-25",
+      "title": "MARI JA JUKU MÄNGIVAD VIHMAS",
+      "pageCount": 10,
+      "characters": [
+        "MARI",
+        "JUKU"
+      ]
+    },
     {
       "date": "2026-09-24",
       "title": "RIHO JA JUTTA LENNUTAVAD TUULELOHET",

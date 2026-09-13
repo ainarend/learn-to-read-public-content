@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-25",
+  "language": "et",
+  "title": "MARI JA JUKU MÄNGIVAD VIHMAS",
+  "generatedAt": "2026-09-13T23:44:12.873Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, armas 5-aastane eesti tüdruk pruunide patsidega, kandes kollast vihmamantlit ja punaseid kummikuid. Rõõmsameelne naerusuine ilme, armsas multifilmistiilis.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, armas 6-aastane eesti poiss heledate lühikeste juustega, kandes sinist vihmamantlit ja rohelisi kummikuid. Uudishimulik ja lõbus näoilme, armsas multifilmistiilis.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Laste tuba",
+      "description": "Cozy children's bedroom with light blue walls, light wooden floor, single window on back wall showing rain falling outside on autumn trees, small rug in center, white wardrobe on left wall. Warm indoor lighting, clean simple cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Sügisene aed",
+      "description": "Autumn garden with green grass scattered with orange and yellow leaves, simple low wooden fence in the background, small tree with colorful autumn leaves, a wide shallow rainwater puddle in the center of the lawn. Gentle grey rainy sky in background. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ÕUES SAJAB SOOJA VIHMA.",
+      "scene": "Inside the cozy children's room with blue walls and wooden floor. Mari, a little girl with brown braids wearing a yellow raincoat and red boots, and Juku, a little boy with blonde hair wearing a blue raincoat and green boots, stand near a window on the back wall. They are looking out the window at gentle rain falling on colorful autumn trees outside. Smiling excited expressions.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "MARI JA JUKU PANEVAD SAAPAD JALGA.",
+      "scene": "Inside the same children's room with blue walls and wooden floor. Mari sits on a small wooden stool putting on her bright red rubber boots. Juku is sitting next to her on the floor pulling on his green rubber boots. Mari wears her yellow raincoat and Juku wears his blue raincoat. Happy expressions on both kids.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD VÕTAVAD KIRJUD VIHMAVARJUD.",
+      "scene": "Inside the same children's room with blue walls and wooden floor. Mari and Juku stand near the room door. Mari is holding a bright red umbrella with white polka dots. Juku is holding a bright yellow umbrella. Mari wears her yellow raincoat and red boots, Juku wears his blue raincoat and green boots. They are excited to go play outside.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LAPSED LÄHEVAD AEDA MÄNGIMA.",
+      "scene": "In the autumn garden with green grass scattered with yellow leaves and a low wooden fence. Rain is gently falling. Mari in her yellow raincoat, red boots, holding her open red polka-dot umbrella, steps happily onto the grass. Juku in his blue raincoat, green boots, holding his open yellow umbrella, walks beside her. Both kids are smiling cheerfully.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "AIAS ON SUUR LOMP.",
+      "scene": "In the same autumn garden. A large, clear rainwater puddle sits in the middle of the grass. Mari and Juku stand at the edge of the puddle, looking down at it with wide, joyful eyes. Mari holds her open red polka-dot umbrella, wearing yellow raincoat and red boots. Juku holds his open yellow umbrella, wearing blue raincoat and green boots.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MARI HÜPPAB OTSE LOMPI.",
+      "scene": "In the same autumn garden. Mari in her yellow raincoat and red boots jumps high into the middle of the large rainwater puddle, holding her open red polka-dot umbrella. Water splashes around her red boots. Juku stands at the edge of the puddle holding his yellow umbrella, watching her with a big delighted smile.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "JUKU HÜPPAB SAMUTI LOMPI.",
+      "scene": "In the same autumn garden. Juku in his blue raincoat and green boots jumps dynamically into the puddle right next to Mari, holding his open yellow umbrella. Water splashes around his green boots. Mari is splashing next to him, both kids laughing with open mouths.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "VESI PRITSIB KÕRGELE ÕHKU.",
+      "scene": "In the same autumn garden. Both Mari and Juku are stomping happily in the rainwater puddle together. High clear water droplets and splashes fly into the air around them. Mari holds her red polka-dot umbrella, Juku holds his yellow umbrella. Both kids are laughing joyfully.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LAPSED NAERAVAD RÕÕMSA HÄÄLEGA.",
+      "scene": "In the same autumn garden. Mari and Juku stand together inside the puddle, side by side, holding their umbrellas and laughing cheerfully while looking at each other. Mari wears her yellow raincoat and red boots. Juku wears his blue raincoat and green boots.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "MARI JA JUKU ON RÕÕMSAD.",
+      "scene": "In the same autumn garden under gentle rain. Mari and Juku stand close together on the grass next to the puddle, holding their colorful umbrellas up high and waving happily towards the viewer. Mari in yellow raincoat and red boots, Juku in blue raincoat and green boots. Bright, happy smiles on their faces.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
