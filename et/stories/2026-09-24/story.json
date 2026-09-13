@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-24",
+  "language": "et",
+  "title": "RIHO JA JUTTA LENNUTAVAD TUULELOHET",
+  "generatedAt": "2026-09-13T23:33:34.957Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE RIHO",
+      "type": "fox",
+      "description": "Väike punakasoranž rebane koheva sabaga, kandmas rohelist kootud kampsunit ja kollast salli. Suured sõbralikud silmad ja rõõmus ilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES JUTTA",
+      "type": "rabbit",
+      "description": "Väike helehall jänes pikkade kõrvadega, kandmas punast kleiti ja väikest sinist mütsi. Suured uudishimulikud silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Hubane tuba",
+      "description": "Cozy craft room with warm beige walls, light wooden floor, single large square window on the back wall showing orange autumn leaves outside. Wooden table in center with craft paper, scissors, and ribbons. Soft sunlight streaming from window. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Sügisene küngas",
+      "description": "Grassy green hill under a clear blue sky with light fluffy clouds and colorful orange autumn leaves blowing in the wind. A few autumn trees with golden leaves on the horizon. Bright sunny day with gentle wind. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REBANE RIHO JA JÄNES JUTTA ON TOAS.",
+      "scene": "Rebane Riho (a small orange fox in a green sweater and yellow scarf) and Jänes Jutta (a small grey rabbit in a red dress and blue hat) are standing in a cozy room. The room has warm beige walls, light wooden floor, and a wooden table in the center. A large square window on the back wall shows colorful autumn trees outdoors. They are smiling warmly at each other. Bright friendly atmosphere. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES PUHUB TUGEV SÜGISTUUL.",
+      "scene": "Rebane Riho (orange fox in green sweater) and Jänes Jutta (grey rabbit in red dress) are looking out through the large square window inside the cozy room. Outside the window, colorful red and yellow autumn leaves are swirling around in the wind under a bright sky. The cozy room has warm beige walls and a wooden floor. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD MEISTERDAVAD SUURT TUULELOHET.",
+      "scene": "Rebane Riho (orange fox) and Jänes Jutta (grey rabbit) are sitting at the wooden table in the cozy room. They are together assembling a diamond-shaped red and yellow kite using craft paper and sticks on the wooden table. Glue and colorful paper scraps lie on the table. The room has warm beige walls and a wooden floor. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "JUTTA SEOB LOHELE PIKA PAELA.",
+      "scene": "Jänes Jutta (grey rabbit in red dress) carefully ties a long blue ribbon decorated with small colorful bows to the bottom of the red and yellow diamond kite. Rebane Riho (orange fox in green sweater) holds the kite steady on the wooden table. The room has warm beige walls and a wooden floor. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SÕBRAD LÄHEVAD KÕRGELE KÜNKALE.",
+      "scene": "Rebane Riho (orange fox in green sweater and yellow scarf) carrying the bright red and yellow kite, and Jänes Jutta (grey rabbit in red dress) are walking together up a smooth green grassy hill outdoors. The sky is bright blue with light clouds, and autumn trees with golden leaves line the distant horizon. Wind gently blows through the grass. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "RIHO JOOKSEB TUULELOHET HOIDES.",
+      "scene": "Rebane Riho (orange fox in green sweater) runs happily across the green grassy hill, holding the line of the bright red and yellow kite. Jänes Jutta (grey rabbit in red dress) stands nearby, cheering and waving her arms. Golden autumn leaves swirl in the breeze around them on the grassy hill under a bright blue sky. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "TUULELOHE LENDAB KÕRGELE ÕHKU!",
+      "scene": "High above the grassy green hill, the bright red and yellow diamond-shaped kite with its long fluttering blue ribbon flies high in the clear blue sky among soft clouds. Below on the hill, Rebane Riho (orange fox) holds the string while looking up in wonder next to Jänes Jutta (grey rabbit). Swirling golden leaves drift in the air. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "RIHO JA JUTTA RÕÕMUSTAVAD KOOS.",
+      "scene": "Rebane Riho (orange fox in green sweater) and Jänes Jutta (grey rabbit in red dress) are jumping happily together on the green grassy hill, holding hands and smiling brightly. The colorful red kite flies high above them in the bright blue sky. Autumn leaves gently fall around them. Warm, joyful atmosphere. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    }
+  ]
+}
