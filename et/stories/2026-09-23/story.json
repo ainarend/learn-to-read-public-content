@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-23",
+  "language": "et",
+  "title": "LIISA JA PEETER KÜPSETAVAD KOOKI",
+  "generatedAt": "2026-09-13T23:24:25.106Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, heledate patsidega tüdruk, kandmas kollast kampsunit ja siniseid pükse. Rõõmus ja sõbralik näoilme, suured pruunid silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, lühikeste pruunide juustega poiss, kandmas rohelist kampsunit ja halle pükse. Naerusuine ja uudishimulik. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Kodu köök",
+      "description": "Cozy home kitchen with light blue walls, light wooden floor, single square window on the back wall showing colorful yellow and red autumn tree leaves outside. A light wooden table in the center, white kitchen counters and stove on the right wall. Warm sunlight streaming through the window. Simple and clean cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA PEETER ON KÖÖGIS.",
+      "scene": "Liisa and Peeter stand next to each other in the cozy kitchen, smiling at the viewer. Liisa is a little girl with blonde pigtails in a yellow sweater and blue pants. Peeter is a little boy with brown hair in a green sweater and grey pants. Behind them is a light wooden table and light blue walls. The window on the back wall shows yellow autumn leaves.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON PUNASED ÕUNAD.",
+      "scene": "Liisa and Peeter are standing at the wooden table in the light blue kitchen. On the table sits a wooden bowl full of shiny red autumn apples. Liisa (blonde pigtails, yellow sweater) points at the apples happily. Peeter (brown hair, green sweater) reaches out to pick up one red apple with a big smile.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PEETER PESEB MAITSVAD ÕUNAD.",
+      "scene": "Peeter (brown hair, green sweater) stands on a low stool at the white kitchen sink, washing red apples under clear running water. A bowl with clean red apples sits beside the sink. Liisa (blonde pigtails, yellow sweater) stands nearby watching him clap her hands happily. Light blue walls, cozy sunny atmosphere.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA LÕIKAB ÕUNAD TÜKKIDEKS.",
+      "scene": "Liisa (blonde pigtails, yellow sweater) sits at the central wooden table, carefully slicing red apples into smaller pieces on a wooden cutting board with a plastic child-safe knife. Peeter (brown hair, green sweater) stands next to her, looking at the sliced apples. Light blue walls and window with autumn leaves in background.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LAPSED PANEVAD ÕUNAD TAINASSE.",
+      "scene": "Liisa and Peeter stand together at the wooden table in the kitchen. Peeter (green sweater) holds the cutting board with apple slices, sliding them into a large yellow bowl filled with golden cake dough. Liisa (yellow sweater) holds a wooden spoon, ready to mix. Both children look enthusiastic and excited.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PEETER PANEB KOOGI AHJU.",
+      "scene": "Peeter (green sweater) carefully places a round baking tray containing the apple cake batter into the open white oven door. Liisa (yellow sweater) stands beside him, smiling proudly and clapping her hands. The cozy light blue kitchen background remains unchanged.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "ÕUNAKOOK KÜPSEB KULDSEKS JA SOOJAKS.",
+      "scene": "Liisa and Peeter sit closely at the wooden table in the light blue kitchen, looking happily at a freshly baked, golden-brown apple cake resting on a white ceramic plate in the center of the table. Gentle wisps of steam rise from the warm cake.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LAPSED SÖÖVAD MAITSVAT KOOKI.",
+      "scene": "Liisa and Peeter are sitting at the wooden table in the light blue kitchen, eating slices of delicious apple cake from small red plates using small forks. Both children have big joyful smiles on their faces. Warm sunlight shines through the window showing yellow autumn trees.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
