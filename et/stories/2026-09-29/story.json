@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-29",
+  "language": "et",
+  "title": "MIKK JA KATI MAALIVAD PILTE",
+  "generatedAt": "2026-09-20T23:21:07.727Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "HIIR MIKK",
+      "type": "mouse",
+      "description": "Väike hall hiir suurte ümarate kõrvadega, kandmas rohelist kampsunit, sõbralik ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KASS KATI",
+      "type": "cat",
+      "description": "Väike valge kass kollaste silmadega, kandmas kollast kleiti, uudishimulik ja armas näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Mängutuba",
+      "description": "Cozy children's playroom with light blue walls, light wooden floor, a single rectangular window on the back wall showing rain falling on colorful autumn trees outside. A small wooden round table sits in the middle with two small chairs. Cozy daylight ambiance. Cartoon illustration style, simple and clean.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "VÄLJAS SAJAB SÜGISEST VIHMA.",
+      "scene": "Hiir Mikk (a small gray mouse in a green sweater) and Kass Kati (a small white cat in a yellow dress) stand by a rectangular window inside a room with light blue walls and a wooden floor. Raindrops fall outside against autumn trees visible through the window. Both characters look out the window with calm, curious expressions. Landscape view.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "MIKK JA KATI ON TOAS.",
+      "scene": "Inside the cozy playroom with light blue walls and a wooden floor, Hiir Mikk (small gray mouse in a green sweater) and Kass Kati (small white cat in a yellow dress) turn towards a small round wooden table in the center of the room. They are talking happily to each other, smiling warmly.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "MIKK VÕTAB PUHTAD PABERID.",
+      "scene": "Hiir Mikk (small gray mouse in a green sweater) stands at the round wooden table, holding a stack of large white blank papers and carefully placing them onto the table. Kass Kati (small white cat in a yellow dress) stands next to him, watching enthusiastically. Light blue walls, single window with rain visible in background.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KATI VÕTAB KOLLASED VÄRVID.",
+      "scene": "Kass Kati (small white cat in a yellow dress) reaches out and takes small jars of vibrant yellow paint and paintbrush from a shelf, placing them on the round wooden table. Hiir Mikk (small gray mouse in a green sweater) watches with a big happy smile. Light blue walls, light wooden floor.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD MAALIVAD PUNASEID LEHTI.",
+      "scene": "Hiir Mikk and Kass Kati sit on small wooden chairs at the round wooden table. Kass Kati holds a paintbrush and paints bright red autumn leaves on a piece of paper on the table. Hiir Mikk watches joyfully, paint jars on the table. Room with light blue walls.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MIKK MAALIB KOLLASE PUU.",
+      "scene": "Hiir Mikk sits at the round wooden table holding a paintbrush, carefully painting a big bright yellow autumn tree on his paper. Paint jars and colorful leaf paintings lie on the table. Kass Kati sits next to him, smiling and clapping her paws cheerfully. Light blue walls background.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD PANEVAD PILDID SEINALE.",
+      "scene": "Hiir Mikk and Kass Kati are sticking their finished paintings of red leaves and yellow trees onto the light blue wall using small bits of tape. The beautiful colorful autumn paintings hang side-by-side on the wall. Both characters are smiling brightly.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MIKK JA KATI ON RÕÕMSAD.",
+      "scene": "Hiir Mikk and Kass Kati stand side-by-side in the center of the room, standing together and smiling proudly at the colorful autumn tree paintings taped neatly to the light blue wall behind them. Warm cozy daylight streams through the window. Happy ending.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}

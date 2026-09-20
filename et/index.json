@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-09-28",
+  "latestDate": "2026-09-29",
   "stories": [
+    {
+      "date": "2026-09-29",
+      "title": "MIKK JA KATI MAALIVAD PILTE",
+      "pageCount": 8,
+      "characters": [
+        "HIIR MIKK",
+        "KASS KATI"
+      ]
+    },
     {
       "date": "2026-09-28",
       "title": "KASPAR JA BRUNO LENNUTAVAD LOHET",
