@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-28",
+  "language": "et",
+  "title": "KASPAR JA BRUNO LENNUTAVAD LOHET",
+  "generatedAt": "2026-09-20T23:13:39.134Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE KASPAR",
+      "type": "fox",
+      "description": "Väike oranž rebane koheva sabaga, kandmas rohelist kampsunit. Armas ja uudishimulik näoilme, suured säravad nööpsilmad. Multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KOER BRUNO",
+      "type": "dog",
+      "description": "Väike pruun koer lopergustega kõrvadega, kandmas sinist salli. Sõbralik ja rõõmus ilme, suured säravad silmad. Multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene küngas",
+      "description": "A open grassy hill in autumn with soft orange and yellow grass, a few colorful birch trees with falling red and yellow leaves in the background, a bright breezy blue sky with soft white clouds, warm cheerful atmosphere, children's book illustration style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KASPAR JA BRUNO ON MÄEL.",
+      "scene": "Rebane Kaspar wearing his green sweater and Koer Bruno wearing his blue scarf stand side-by-side on top of a grassy hill in autumn. Orange and yellow autumn leaves fall gently from birch trees in the background. They both look happy under a bright breezy sky.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "TÄNA ON SUUR TUUL.",
+      "scene": "Rebane Kaspar and Koer Bruno stand on top of the grassy autumn hill as a gust of wind blows colorful autumn leaves across the frame. Kaspar holds his sweater tightly, while Bruno's blue scarf flutters in the breeze. Both characters look excited.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "BRUNO TOOB KOLLASE LOHE.",
+      "scene": "Koer Bruno proudly holds up a bright diamond-shaped yellow kite with colorful ribbon tails. Rebane Kaspar stands next to him, clapping his paws with enthusiasm on the grassy autumn hill.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KASPAR HOIAB PIKKA NÖÖRI.",
+      "scene": "Rebane Kaspar holds a wooden spool wrapped with white string attached to the yellow kite. Koer Bruno holds the kite up high above his head, ready to release it into the wind.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "TUUL VÕTAB LOHE KAASA.",
+      "scene": "The wind catches the yellow kite and lifts it up into the air as Koer Bruno lets go of it. Rebane Kaspar grips the wooden string spool tightly, watching the kite soar.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LOHE LENDAB KÕRGELE ÕHKU.",
+      "scene": "The bright yellow diamond kite floats high up in the blue sky above the grassy hill. Rebane Kaspar looks up at the soaring kite while Koer Bruno jumps cheerfully beside him.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SÕBRAD JOOKSEVAD JA NAERAVAD.",
+      "scene": "Rebane Kaspar runs across the grassy autumn hill holding the kite string, while Koer Bruno runs happily alongside him. They are both laughing joyously as the yellow kite flies high behind them.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LENNUTAMINE ON NII LÕBUS!",
+      "scene": "Rebane Kaspar and Koer Bruno sit happily together on the grassy hill, holding the kite spool together and looking up at the yellow kite dancing high in the autumn sky.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}

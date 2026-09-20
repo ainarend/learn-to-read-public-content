@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-09-27",
+  "latestDate": "2026-09-28",
   "stories": [
+    {
+      "date": "2026-09-28",
+      "title": "KASPAR JA BRUNO LENNUTAVAD LOHET",
+      "pageCount": 8,
+      "characters": [
+        "REBANE KASPAR",
+        "KOER BRUNO"
+      ]
+    },
     {
       "date": "2026-09-27",
       "title": "PEETER JA LIISA TEEVAD SUPPI",
