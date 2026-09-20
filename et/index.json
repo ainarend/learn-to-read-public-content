@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-10-01",
+  "latestDate": "2026-10-02",
   "stories": [
+    {
+      "date": "2026-10-02",
+      "title": "MUKI JA JUKU LENNUTAVAD LOHET",
+      "pageCount": 8,
+      "characters": [
+        "KOER MUKI",
+        "JÄNES JUKU"
+      ]
+    },
     {
       "date": "2026-10-01",
       "title": "PEETER JA LIISA KÜPSETAVAD ÕUNAKOOKI",

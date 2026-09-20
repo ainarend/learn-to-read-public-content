@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-02",
+  "language": "et",
+  "title": "MUKI JA JUKU LENNUTAVAD LOHET",
+  "generatedAt": "2026-09-20T23:48:02.641Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KOER MUKI",
+      "type": "dog",
+      "description": "Väike kollakaspruun koer lottis kõrvade, musta nina ja sooja sõbraliku naeratusega. Kaelas kergelt lehviv roheline sall. Armas ja rõõmsameelne multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES JUKU",
+      "type": "rabbit",
+      "description": "Väike hall jänes pikkade kõrvade, pehme valge kõhualuse ja mugava sinise kampsuniga. Suured uudishimulikud silmad ja lõbus näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Kodu aed sügisel",
+      "description": "A cozy backyard garden in autumn with green grass sprinkled with colorful yellow and red fallen leaves. A simple wooden fence in the background with a small cozy house visible behind it. Crisp daylight and clean background. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Avar roheline mägi",
+      "description": "A sunny grassy hill outdoors on a windy autumn day with yellow and orange trees in the distance. Clear bright blue sky with soft white clouds, and colorful autumn leaves drifting in the air. Simple and beautiful landscape composition in cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MUKI JA JUKU ON AIAS.",
+      "scene": "Koer Muki, a friendly yellow-brown dog with a green scarf, and Jänes Juku, a cute gray rabbit with a blue sweater, stand together in a cozy autumn garden with green grass covered in colorful fallen leaves. A simple wooden fence and small house are in the background.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "MUKI LEIAB SUURE PUNASE LOHE.",
+      "scene": "In the autumn garden, Koer Muki holds up a large bright red diamond kite with colorful tail ribbons. Jänes Juku stands beside him, smiling and clapping his hands happily. The ground has scattered yellow and red autumn leaves.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "SÕBRAD LÄHEVAD KÕRGELE MÄELE.",
+      "scene": "Koer Muki and Jänes Juku walk up a grassy hill together. Koer Muki holds the red kite carefully under his arm. Jänes Juku walks next to him, pointing happily towards the hill top. Colorful autumn trees frame the background under a blue sky.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MÄEL PUHUB LÕBUS SÜGISTUUL.",
+      "scene": "On top of the sunny grassy hill, a cheerful autumn breeze blows. Koer Muki's green scarf and Jänes Juku's long ears rustle gently in the wind. A few colorful autumn leaves float through the air around them.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MUKI HOIAB TUGEVALT LOHE NÖÖRI.",
+      "scene": "On top of the grassy hill, Koer Muki sits on the green grass, securely holding a wooden spool with kite string in both paws. He looks eager and ready. Jänes Juku stands next to him holding the red kite upright in the air.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "JUKU VISKAB LOHE KÕRGELE ÕHKU.",
+      "scene": "On the windy hill, Jänes Juku gently tosses the red diamond kite high into the air with both arms outstretched. Koer Muki stands nearby holding the string spool, watching with wide excited eyes.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "PUNANE LOHE LENDAB KÕRGELE TAEVASSE.",
+      "scene": "The bright red kite flies high up into the clear blue sky above the hill, ribbon tails trailing in the wind. Down on the hill, Koer Muki and Jänes Juku look up into the sky with joyful expressions.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MUKI JA JUKU ON VÄGA ÕNNELIKUD.",
+      "scene": "Koer Muki and Jänes Juku jump for joy together on top of the grassy hill, cheering and smiling happily. The red kite floats gracefully high above them in the bright sunny autumn sky.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    }
+  ]
+}
