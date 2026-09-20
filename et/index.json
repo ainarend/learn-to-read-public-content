@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-09-30",
+  "latestDate": "2026-10-01",
   "stories": [
+    {
+      "date": "2026-10-01",
+      "title": "PEETER JA LIISA KÜPSETAVAD ÕUNAKOOKI",
+      "pageCount": 8,
+      "characters": [
+        "PEETER",
+        "LIISA"
+      ]
+    },
     {
       "date": "2026-09-30",
       "title": "OTT JA SASSI KORJAVAD LEHTI",
