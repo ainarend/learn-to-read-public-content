@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-30",
+  "language": "et",
+  "title": "OTT JA SASSI KORJAVAD LEHTI",
+  "generatedAt": "2026-09-20T23:31:29.995Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike oranžikas orav koheva sabaga, seljas roheline kampsun, suured uudishimulikud silmad ja rõõmsameelne naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL SASSI",
+      "type": "hedgehog",
+      "description": "Väike pruun siil pehmete okastega, kaelas kollane sall, armas nööpnina ja sõbralik näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "Sunny autumn garden with green grass, red and yellow leafed trees, simple wooden fence in the background, warm sunlight, clean bright atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "OTT JA SASSI ON AIAS.",
+      "scene": "Orav Ott in a green sweater and Siil Sassi in a yellow scarf stand together in the autumn garden on green grass under bright trees. Warm sunny autumn day. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "SÜGISEL KUKUB PALJU LEHTI.",
+      "scene": "Colorful red, yellow, and orange leaves are falling softly from trees around Orav Ott and Siil Sassi. Both look up at the falling leaves happily. Same autumn garden.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "OTT JA SASSI KORJAVAD LEHTI.",
+      "scene": "Orav Ott holds a small wooden rake and Siil Sassi holds a small basket, picking up colorful autumn leaves from the grass. Garden background.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "OTT REHITSEB LEHTI HUNNIKUSSE.",
+      "scene": "Orav Ott uses his wooden rake to push bright red and yellow leaves into a neat pile on the green lawn. Siil Sassi watches happily.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SASSI TOOB LEHTI JUURDE.",
+      "scene": "Siil Sassi carries a basket full of colorful leaves and pours them onto the growing leaf pile. Orav Ott smiles next to the pile.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LEHEHUNNIK ON NÜÜD SUUR.",
+      "scene": "A giant, fluffy pile of bright autumn leaves stands on the lawn. Orav Ott and Siil Sassi stand beside the huge pile, bouncing excitedly.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "OTT JA SASSI HÜPPAVAD HUNNIKUSSE.",
+      "scene": "Orav Ott and Siil Sassi jump joyfully through the air straight into the center of the giant leaf pile, splashing leaves around.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MÄNG TEEB SÕBRAD RÕÕMSAKS.",
+      "scene": "Orav Ott and Siil Sassi sit popping out from inside the huge soft leaf pile with leaves on their heads, laughing with delight.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "OTT JA SASSI ON RÕÕMSAD.",
+      "scene": "Orav Ott and Siil Sassi sit together on the grass next to the scattered leaf pile, hugging and smiling warmly at each other in the warm autumn sunlight.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
