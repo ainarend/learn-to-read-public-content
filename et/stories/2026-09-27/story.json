@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-27",
+  "language": "et",
+  "title": "PEETER JA LIISA TEEVAD SUPPI",
+  "generatedAt": "2026-09-20T23:05:48.691Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane poiss halli kampsuni ja siniste pükstega, tumepruunid lühikesed juuksed, lõbus naeratus ja suured pruunid silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane tüdruk kollase kampsuni ja punaste pükstega, heledad patsid, rõõmus soe ilme ja uudishimulikud sinised silmad. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Koozne köök",
+      "description": "Cozy autumn kitchen with yellow painted walls, light wooden floor, single window on the back wall showing colorful autumn trees with falling orange leaves outside. In the center is a sturdy light wooden table with wooden chairs. On the right side of the room is a simple stove with a large metal cooking pot. Sunny warm atmosphere, bright and clean cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "PEETER JA LIISA ON KÖÖGIS.",
+      "scene": "Peeter, a 5-year-old boy in a grey sweater, and Liisa, a 6-year-old girl with blonde braids in a yellow sweater, stand in the middle of a cozy kitchen. Sunlight streams through the kitchen window which shows autumn trees outside. The kitchen has yellow walls and a wooden floor.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON SUUR NÄLG.",
+      "scene": "Peeter and Liisa stand by the wooden table in the cozy yellow kitchen, pointing playfully to their tummies and smiling. An empty bowl sits on the wooden table. Outside the window, autumn leaves are falling.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LIISA TOOB LAUALE PORGANDID.",
+      "scene": "Liisa, wearing her yellow sweater, places several bright orange carrots onto the wooden table in the cozy kitchen. Peeter stands beside her, watching with joy. The kitchen walls are yellow with a window showing autumn trees.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PEETER PESEB KÕRVITSA PUHTAKS.",
+      "scene": "Peeter stands by a small water sink in the kitchen, washing a small round orange pumpkin with water. Liisa stands next to him, watching happily. The room has yellow walls and wooden floors.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PEETER PANEB KÕRVITSA POTTI.",
+      "scene": "Peeter carefully puts the small clean pumpkin into a large metal pot resting on the stove. Liisa stands beside him watching attentively. Warm cozy kitchen with yellow walls.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LIISA SEGAB SUPPI LUSIKAGA.",
+      "scene": "Liisa holds a wooden spoon and gently stirs the soup inside the large metal pot on the warm stove. Gentle steam rises from the pot. Peeter stands next to her, looking happy.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SOE SUPP LÕHNAB HÄSTI.",
+      "scene": "Peeter and Liisa lean closer to the cooking pot on the stove, sniffing the delicious warm steam rising from the soup with big happy smiles. Sunlight fills the warm kitchen.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PEETER JA LIISA SÖÖVAD SUPPI.",
+      "scene": "Peeter and Liisa sit at the wooden table in the cozy kitchen, eating delicious warm soup from ceramic bowls with spoons. They have satisfied, happy expressions.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
