@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-10-02",
+  "latestDate": "2026-10-03",
   "stories": [
+    {
+      "date": "2026-10-03",
+      "title": "REBANE REIN JA KARU KATI KORJAVAD SEENI",
+      "pageCount": 8,
+      "characters": [
+        "REBANE REIN",
+        "KARU KATI"
+      ]
+    },
     {
       "date": "2026-10-02",
       "title": "MUKI JA JUKU LENNUTAVAD LOHET",

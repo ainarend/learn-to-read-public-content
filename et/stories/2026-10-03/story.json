@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-03",
+  "language": "et",
+  "title": "REBANE REIN JA KARU KATI KORJAVAD SEENI",
+  "generatedAt": "2026-09-20T23:55:54.188Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "REBANE REIN",
+      "type": "fox",
+      "description": "Väike oranž rebane koheva sabaga, kandmas kollast vihmamantlit ja siniseid kummikuid. Suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KARU KATI",
+      "type": "bear",
+      "description": "Suur pruun karu, kandmas punast vihmamantlit ja rohelisi kummikuid. Käes on punane punutud korv seente korjamiseks. Sõbralik ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene mets",
+      "description": "An autumn forest path with tall colorful trees having red, orange, and yellow leaves. Green mossy ground with autumn leaves fallen here and there. Gentle autumn rain dripping from leaves. Cozy and bright forest atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Kodu soe köök",
+      "description": "A cozy rustic wooden cabin kitchen with warm wooden log walls, wooden floor, a central wooden table with two chairs, a stone stove on the right, a single small window on the back wall showing rain outside. Warm orange lighting. Simple, clean, cozy setup. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "REIN JA KATI LÄHEVAD METSA",
+      "scene": "Rebane Rein, a small orange fox wearing a yellow raincoat and blue rainboots, walks alongside Karu Kati, a friendly brown bear wearing a red raincoat and green boots. They are walking down a vibrant forest trail lined with colourful autumn trees with yellow and orange leaves. Kati carries a wicker basket. Raindrops fall gently around them. Bright and cheerful cartoon illustration.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "METSAS SAJAB SOOJA VIHMA",
+      "scene": "Rebane Rein and Karu Kati stand under umbrellas in the autumn forest. Gentle rain drips down through colourful orange and yellow tree canopy. Rein in his yellow raincoat looks up happily at the raindrops, holding a small red umbrella. Kati in red raincoat holds a green umbrella and smiles. The forest floor is covered in colorful fallen leaves and green moss.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "REIN LEIAB ILUSA SUURE SEENE",
+      "scene": "Rebane Rein kneels down on the mossy forest floor near the base of a birch tree, pointing with excitement at a large brown mushroom with a white stalk growing in the grass. Karu Kati stands behind Rein, looking down with a joyful face and holding her wicker basket. Autumn leaves lie scattered around them in the rainy forest.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KATI PANEB SEENE KORVI",
+      "scene": "Karu Kati carefully places the large brown mushroom inside her woven wicker basket. Rebane Rein stands next to her, clapping his hands happily. Both characters are wearing their raincoats and boots on the mossy forest path surrounded by golden autumn trees.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD LEIAVAD VEEL PALJU SEENI",
+      "scene": "Rebane Rein and Karu Kati are gathering mushrooms in the autumn forest. Rein holds two small yellow mushrooms, while Kati gently picks another mushroom from the mossy ground. The wicker basket sits on the ground between them, already half-full of mushrooms. Colorful orange leaves fall softly around them.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KATI KANNAB RASKET TÄIS KORVI",
+      "scene": "Karu Kati proudly carries the full wicker basket, brimming with brown and yellow mushrooms. Rebane Rein walks beside Kati, smiling warmly and giving a thumbs up. They walk along the path through the golden autumn forest, rain dropping softly.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SÕBRAD JÕUAVAD SOOJA KOJU",
+      "scene": "Rebane Rein and Karu Kati step inside a warm, cozy wooden cabin kitchen. The wicker basket full of mushrooms is set on a wooden kitchen table. Kati takes off her red raincoat while Rein smiles, standing on the wooden floor. Sunlight and rain show through the single window in the background. Cozy warm indoor lighting.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD SÖÖVAD KOOS MAITSVAT TOITU",
+      "scene": "Rebane Rein and Karu Kati sit together at the wooden kitchen table inside their cozy wooden cabin. On the table are two bowls of warm mushroom soup and spoons. Both friends are happily eating their soup and smiling at each other. Warm light fills the cozy room.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    }
+  ]
+}
