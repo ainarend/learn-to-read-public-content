@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "HIIR MIKK",
       "type": "mouse",
-      "description": "Väike hall hiir suurte ümarate kõrvadega, kandmas rohelist kampsunit, sõbralik ja rõõmsameelne näoilme. Armas multifilmistiil.",
+      "description": "Väike hall hiir suurte ümarate kõrvadega, kaelas roheline sall, sõbralik ja rõõmsameelne näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
@@ -31,7 +31,7 @@
     {
       "pageNumber": 1,
       "text": "VÄLJAS SAJAB SÜGISEST VIHMA.",
-      "scene": "Hiir Mikk (a small gray mouse in a green sweater) and Kass Kati (a small white cat in a yellow dress) stand by a rectangular window inside a room with light blue walls and a wooden floor. Raindrops fall outside against autumn trees visible through the window. Both characters look out the window with calm, curious expressions. Landscape view.",
+      "scene": "Hiir Mikk (a small gray mouse with a green scarf) and Kass Kati (a small white cat in a yellow dress) stand on the wooden floor in front of a rectangular window inside a room with light blue walls. They are not on the table; the small round table and chairs are beside them. Raindrops fall outside against autumn trees visible through the window. Both characters look out the window with calm, curious expressions. Landscape view.",
       "image": "page1.png",
       "location_id": "loc1"
     },
