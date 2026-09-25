@@ -15,7 +15,7 @@
       "id": "char2",
       "name": "LIISA",
       "type": "human",
-      "description": "Väike inimene, umbes 6-aastane tüdruk pikemate blondide juuste, kollase kampsuni ja punase seelikuga. Rõõmsameelne näoilme, helged rohelised silmad. Armas multifilmistiil.",
+      "description": "Väike inimene, umbes 6-aastane tüdruk pikemate blondide juuste, kollase kleidi ja punase jakiga. Rõõmsameelne näoilme, helged rohelised silmad. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
@@ -57,8 +57,8 @@
     },
     {
       "pageNumber": 4,
-      "text": "LIISA TEEB KAUSIS SOOJA TAINAST.",
-      "scene": "Liisa stands at the wooden kitchen table, holding a wooden spoon and carefully stirring dough inside a large blue mixing bowl. Flour is lightly dusted on the table. She is wearing her yellow sweater and smiling proudly.",
+      "text": "LIISA SEGAB KAUSIS TAINAST.",
+      "scene": "Liisa stands at the wooden kitchen table, holding a wooden spoon and carefully stirring dough inside a large blue mixing bowl. Flour is lightly dusted on the table. She is wearing her red jacket over her yellow dress and smiling proudly.",
       "image": "page4.png",
       "location_id": "loc1"
     },
