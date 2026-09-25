@@ -31,7 +31,7 @@
     {
       "pageNumber": 1,
       "text": "PEETER JA LIISA ON KÖÖGIS.",
-      "scene": "Peeter, a 5-year-old boy in a yellow hooded sweater and blue beret, and Liisa, a 6-year-old girl with blonde braids in a yellow sweater and red overalls, stand in the middle of a cozy kitchen. Sunlight streams through the kitchen window which shows autumn trees outside. The kitchen has yellow walls and a wooden floor.",
+      "scene": "Peeter, a 5-year-old boy, and Liisa, a 6-year-old girl with blonde braids, stand on the wooden floor in the middle of a cozy kitchen, full body visible, both dressed exactly as in their reference images. Sunlight streams through the kitchen window which shows autumn trees outside. The kitchen has yellow walls and a wooden floor.",
       "image": "page1.png",
       "location_id": "loc1"
     },
