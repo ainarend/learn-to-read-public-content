@@ -8,21 +8,21 @@
       "id": "char1",
       "name": "PEETER",
       "type": "human",
-      "description": "Väike inimene, umbes 5-aastane poiss halli kampsuni ja siniste pükstega, tumepruunid lühikesed juuksed, lõbus naeratus ja suured pruunid silmad. Armas multifilmistiil.",
+      "description": "Väike inimene, umbes 5-aastane poiss kollase kapuutsiga kampsuni, sinise pehme mütsi ja tumepruunide lühikeste pükstega, tumepruunid lühikesed juuksed, lõbus naeratus ja suured pruunid silmad. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
       "name": "LIISA",
       "type": "human",
-      "description": "Väike inimene, umbes 6-aastane tüdruk kollase kampsuni ja punaste pükstega, heledad patsid, rõõmus soe ilme ja uudishimulikud sinised silmad. Armas multifilmistiil.",
+      "description": "Väike inimene, umbes 6-aastane tüdruk kollase kampsuni ja punaste traksipükstega, heledad patsid, rõõmus soe ilme ja uudishimulikud sinised silmad. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
   "locations": [
     {
       "id": "loc1",
-      "name": "Koozne köök",
+      "name": "Kodune köök",
       "description": "Cozy autumn kitchen with yellow painted walls, light wooden floor, single window on the back wall showing colorful autumn trees with falling orange leaves outside. In the center is a sturdy light wooden table with wooden chairs. On the right side of the room is a simple stove with a large metal cooking pot. Sunny warm atmosphere, bright and clean cartoon style.",
       "image": "loc1.png"
     }
@@ -31,7 +31,7 @@
     {
       "pageNumber": 1,
       "text": "PEETER JA LIISA ON KÖÖGIS.",
-      "scene": "Peeter, a 5-year-old boy in a grey sweater, and Liisa, a 6-year-old girl with blonde braids in a yellow sweater, stand in the middle of a cozy kitchen. Sunlight streams through the kitchen window which shows autumn trees outside. The kitchen has yellow walls and a wooden floor.",
+      "scene": "Peeter, a 5-year-old boy in a yellow hooded sweater and blue beret, and Liisa, a 6-year-old girl with blonde braids in a yellow sweater and red overalls, stand in the middle of a cozy kitchen. Sunlight streams through the kitchen window which shows autumn trees outside. The kitchen has yellow walls and a wooden floor.",
       "image": "page1.png",
       "location_id": "loc1"
     },
