@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-10-04",
+  "latestDate": "2026-10-05",
   "stories": [
+    {
+      "date": "2026-10-05",
+      "title": "MARI JA PEETER KORJAVAD ÕUNU",
+      "pageCount": 10,
+      "characters": [
+        "MARI",
+        "PEETER"
+      ]
+    },
     {
       "date": "2026-10-04",
       "title": "OTT JA SASSI EHITAVAD LAEVA",

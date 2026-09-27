@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-05",
+  "language": "et",
+  "title": "MARI JA PEETER KORJAVAD ÕUNU",
+  "generatedAt": "2026-09-27T23:54:10.903Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, armas 5-aastane tüdruk kollase sügisjope, siniste teksapükste ja punaste kummikutega. Tal on blondid patsid ja sõbralik naerul nägu. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, armas 6-aastane poiss rohelise sügiskampsuni, pruunide pükste ja siniste kummikutega. Tal on pruunid lühikesed juuksed ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "Sunny autumn garden with vibrant green grass scattered with red and yellow autumn leaves. In the center stands a sturdy apple tree full of ripe red apples. A simple dark wooden fence is visible in the background under a clear blue sky. Warm cheerful lighting, clean cute cartoon illustration style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Õudne köök",
+      "description": "Cozy bright kitchen with soft yellow painted walls and light wooden floor. A sturdy wooden table sits in the middle. On the back wall, a single square window with white frame shows colourful autumn tree leaves outside. Warm sunny light streams through the window. Simple clean background, cute cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MARI JA PEETER LÄHEVAD AEDA.",
+      "scene": "Mari and Peeter walk holding hands into a sunny autumn garden. Mari wears a bright yellow autumn jacket, blue jeans, and red boots. Peeter wears a green autumn sweater, brown pants, and blue boots. Green grass is scattered with red and yellow leaves. In the background, a dark wooden fence sits beneath a sunny blue sky. Cute cartoon style, cheerful atmosphere.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "AIAS ON SUUR ÕUNAPUU.",
+      "scene": "Mari and Peeter stand in the garden looking up happily at a large apple tree. The tree has a thick brown trunk and bushy green leaves filled with many bright red apples. Yellow and red leaves lie scattered on the green grass below.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PUU KÜLJES ON PUNASED ÕUNAD.",
+      "scene": "Close view of green apple tree branches heavy with large, glossy red apples. Mari and Peeter stand nearby pointing excitedly up at the shiny red apples on the low branches.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MARI VÕTAB SUURE PUNASE ÕUNA.",
+      "scene": "Mari reaches up her hands to carefully pluck a big shiny red apple from a low branch of the apple tree. Peeter watches her with a happy smile while holding an empty wicker basket on the grass nearby.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PEETER PANEB ÕUNA KORVI.",
+      "scene": "Peeter bends down holding a brown woven wicker basket on the grass, gently placing the big red apple inside it. Mari stands next to him smiling and holding another fresh red apple.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD KORJAVAD KORVI ÕUNU TÄIS.",
+      "scene": "Mari and Peeter kneel together on the green grass beside the wicker basket, which is now completely full of round red apples. Both children look proud and happy under the warm sunny sky.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "MARI JA PEETER VIIVAD KORVI TUPPA.",
+      "scene": "Mari and Peeter carry the full wicker basket together into the cozy indoor kitchen. The kitchen has soft yellow walls, a light wooden floor, and a wooden table in the center. Daylight streams in from a window showing autumn trees outside.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PEETER PESEB PUNASED ÕUNAD PUHTAKS.",
+      "scene": "In the cozy kitchen, Peeter stands by a large blue bowl of water on the wooden table, carefully washing shiny red apples clean. Mari stands right next to him holding a clean wooden bowl to hold the washed apples.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "MARI JA PEETER SÖÖVAD MAGUSAID ÕUNU.",
+      "scene": "Mari and Peeter are sitting at the wooden kitchen table, each holding a juicy red apple and taking a delicious bite. The bowl of clean red apples rests in the center of the table. Sunlight streams brightly through the window behind them.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "ÕUNAD MAITSEVAD VÄGA HÄSTI.",
+      "scene": "Mari and Peeter sit happily at the wooden kitchen table, smiling brightly while finishing their crisp red apples. A warm, cozy scene in the yellow kitchen with sunlight pouring in.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}
