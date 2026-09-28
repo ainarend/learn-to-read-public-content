@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-06",
+  "language": "et",
+  "title": "LIISA JA JUKU MÄNGIVAD LEHTEDEGA",
+  "generatedAt": "2026-09-28T00:01:55.789Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, armas tüdruk heledate patsidega, seljas punane sügismantel, jalas sinised kummikud, rõõmus näoilme ja suured uudishimulikud silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, armas poiss pruunide juustega, seljas roheline sügisjope, jalas kollased kummikud, lõbus ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "A bright cozy autumn garden with green lawn covered in colorful yellow and red fallen leaves. In the background stands a small wooden house with yellow walls and a red tiled roof. A simple wooden fence surrounds the yard, and behind it are trees with bright orange, red, and golden autumn leaves. Sunny sky with soft light. Simple, cheerful children's book style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "LIISA JA JUKU ON AIAS.",
+      "scene": "Liisa (girl with blonde pigtails, red autumn coat, blue boots) and Juku (boy with brown hair, green jacket, yellow boots) standing together in the cozy garden, smiling cheerfully at each other. Autumn leaves are scattered on the green lawn. In the background is the yellow wooden house with a red roof, a wooden fence, and golden autumn trees. Landscape orientation.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "AIAS ON PALJU KOLLASEID LEHTI.",
+      "scene": "Liisa and Juku pointing with wide smiling eyes at the grass, which is covered in bright yellow and orange fallen leaves. In the background, the yellow house with a red roof and golden autumn trees are clearly visible under the crisp sunny autumn sky.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "JUKU VÕTAB VÄIKESE REHA.",
+      "scene": "Juku bends down on the lawn and picks up a small red children's leaf rake from the grass. Liisa stands next to him, watching excitedly. Leaves are scattered all over the ground around them in the sunny garden with yellow house in the background.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA KOGUB LEHED KOKKU.",
+      "scene": "Liisa is holding a small blue children's rake, carefully sweeping colorful autumn leaves together across the green lawn. Juku stands nearby holding his red rake. Background shows the cozy yellow wooden house with red roof and golden trees.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD TEEVAD SUURE LEHEHUNNIKU.",
+      "scene": "Liisa and Juku stand side by side proudly behind a massive, huge pile of gathered yellow, red, and orange leaves in the center of the lawn. Both kids are holding their tiny rakes and laughing happily.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "JUKU HÜPPAB LEHTEDE SISSE.",
+      "scene": "Juku jumps high into the air with arms spread out, about to land right into the big giant pile of colorful autumn leaves. Liisa stands next to the leaf pile, cheering joyfully. Bright autumn sunshine lights up the garden.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LIISA HÜPPAB SAMUTI HUNNIKUSSE.",
+      "scene": "Liisa jumps happily right into the middle of the big leaf pile, splashing colorful autumn leaves into the air all around her. Juku sits on the edge of the leaf pile, laughing and clapping. Yellow house in background.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LAPSED ON VÄGA ÕNNELIKUD.",
+      "scene": "Liisa and Juku sit together right inside the soft pile of golden leaves, surrounded by bright colorful fall foliage. They both have big joyful smiles on their faces, resting together in the cozy garden with the yellow house behind them.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
