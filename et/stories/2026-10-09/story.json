@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-09",
+  "language": "et",
+  "title": "KATI JA REIN TEEVAD ÕUNAMAHLA",
+  "generatedAt": "2026-09-28T00:30:21.267Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KARU KATI",
+      "type": "bear",
+      "description": "Suur pruun karu pehme karva ja soojade pruunide silmadega, kandmas kollast põlle. Lõbus ja hooliv ilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "REBANE REIN",
+      "type": "fox",
+      "description": "Väike oranž rebane koheva saba ja valge kõhualusega, kandmas siniseid traksipükse. Rõõmus ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Kodune köök",
+      "description": "Cozy kitchen in a wooden log cabin with light yellow painted walls, light wooden plank floor, a dark wood dining table in the center, and a large window on the back wall showing autumn trees with bright red and yellow leaves. Warm sunlight streams in through the window. Simple rustic kitchen setting with no extra wall decorations. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KARU KATI JA REBANE REIN ON KÖÖGIS.",
+      "scene": "Karu Kati wearing a yellow apron and Rebane Rein wearing blue overalls stand side by side in a cozy kitchen with light yellow walls and a wooden floor. Warm sunlight streams through a big window showing vibrant yellow autumn trees outside. Both characters are smiling and looking at each other.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON SUURED PUNASED ÕUNAD.",
+      "scene": "Karu Kati and Rebane Rein stand at the central wooden table in the cozy yellow kitchen. On the table is a wooden basket filled with large, shiny red apples. Rebane Rein points at the apples excitedly while Karu Kati smiles warmheartedly.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "KATI PESEB PUNASED ÕUNAD PUHTAKS.",
+      "scene": "Karu Kati stands by a wooden sink on the side of the cozy kitchen, gently washing big bright red apples in cool water. Rebane Rein stands next to her, holding a clean kitchen towel to dry the apples. Warm sunlight fills the kitchen.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "REIN LÕIKAB ÕUNAD VÄIKESTEKS TÜKKIDEKS.",
+      "scene": "Rebane Rein sits at the wooden table in the cozy yellow kitchen, carefully cutting a red apple into smaller pieces on a wooden cutting board using a child-friendly wooden knife. Karu Kati watches encouragingly from beside the table.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KATI PANEB ÕUNAD SUURDE POTTI.",
+      "scene": "Karu Kati places the freshly cut red apple slices into a large grey cooking pot resting on the dark wooden table. Rebane Rein stands beside her, handing her more apple pieces from the cutting board.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "REIN LISAB POTTI SOOJA VEE.",
+      "scene": "Rebane Rein carefully holds a small clay pitcher and pours clear water into the large cooking pot filled with red apple pieces on the dark wooden table. Karu Kati holds the pot steady with both hands, looking happy.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SÕBRAD TEEVAD MAITSEVAT ÕUNAMAHLA.",
+      "scene": "Karu Kati and Rebane Rein sit together at the wooden table in the cozy yellow kitchen. On the table sits the pot, and both characters hold wooden cups filled with fresh golden-red apple juice. Light steam floats up from the cups.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KATI JA REIN ON VÄGA ÕNNELIKUD.",
+      "scene": "Karu Kati and Rebane Rein sit side-by-side at the wooden kitchen table, happily clinking their wooden cups together in a toast. Warm autumn light streams through the window behind them, illuminating their joyful faces.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
