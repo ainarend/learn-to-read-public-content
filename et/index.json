@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-10-09",
+  "latestDate": "2026-10-10",
   "stories": [
+    {
+      "date": "2026-10-10",
+      "title": "PEETER JA LIISA MÄNGIVAD LEHTEDEGA",
+      "pageCount": 8,
+      "characters": [
+        "PEETER",
+        "LIISA"
+      ]
+    },
     {
       "date": "2026-10-09",
       "title": "KATI JA REIN TEEVAD ÕUNAMAHLA",

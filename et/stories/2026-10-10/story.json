@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-10",
+  "language": "et",
+  "title": "PEETER JA LIISA MÄNGIVAD LEHTEDEGA",
+  "generatedAt": "2026-09-28T00:38:38.697Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, 5-aastane helepruunide juustega poiss, seljas roheline kampsun ja sinised teksapüksid, jalas kollased kummikud. Sõbralik ja lõbus ilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, 4-aastane patsidega tüdruk punakate juustega, seljas kollane jope ja tumedad püksid, jalas punased kummikud. Rõõmsameelne naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "Sunny autumn garden with green grass scattered with bright yellow and orange fallen leaves. A wooden garden fence runs along the back. In the background, colorful birch and maple trees stand with autumn leaves. A small wooden bench sits near the side fence under a clear blue sky. Simple clean cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "PEETER JA LIISA ON AIAS",
+      "scene": "Peeter, a young boy with light brown hair wearing a green sweater and yellow boots, and Liisa, a young girl with red pigtails wearing a yellow jacket and red boots, are standing together in a sunny garden. Yellow and orange autumn leaves cover the green grass. The garden has a wooden fence and colorful autumn trees in the background.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "AIAS ON PALJU KOLLASEID LEHTI",
+      "scene": "Peeter and Liisa are standing close together on the grass, looking down at many bright yellow and red autumn leaves scattered around their boots. Peeter points happily at a big maple leaf on the ground while Liisa claps her hands.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PEETER VÕTAB SUURE REHA",
+      "scene": "Peeter is standing in the garden holding a big wooden rake with orange teeth. He is using it to carefully scrape fallen yellow leaves across the grass. Liisa stands beside him, watching with interest.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA VÕTAB VÄIKESE REHA",
+      "scene": "Liisa holds a smaller child-sized rake with red teeth and smiles as she rakes leaves into a small mound. Peeter continues raking right next to her in the sunny autumn garden.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD TEEVAD SUURE LEHEHUNNIKU",
+      "scene": "Peeter and Liisa are standing together behind a growing, high pile of bright yellow and red autumn leaves in the middle of the garden. Both kids hold their rakes and smile with pride.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LEHEHUNNIK ON VÄGA SUUR",
+      "scene": "Peeter and Liisa stand next to the gigantic pile of yellow and orange leaves that reaches up to Peeter's chest. They look at the tall pile of leaves with excited, open eyes.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LAPSED HÜPPAVAD LEHTEDE HULKA",
+      "scene": "Peeter and Liisa jump playfully right into the middle of the giant leaf pile. Colorful autumn leaves fly up into the air all around them as they splash into the pile.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "PEETER JA LIISA ON RÕÕMSAD",
+      "scene": "Peeter and Liisa are sitting in the middle of the scattered soft autumn leaves, laughing happily. A few leaves rest gently on their heads, and bright sunlight shines over the cozy garden scene.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
