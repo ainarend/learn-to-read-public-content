@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "KARU KATI",
       "type": "bear",
-      "description": "Suur pruun karu pehme karva ja soojade pruunide silmadega, kandmas kollast põlle. Lõbus ja hooliv ilme. Armas multifilmistiil.",
+      "description": "Suur pruun karu pehme karva ja soojade pruunide silmadega, kandmas kollast kampsunit. Lõbus ja hooliv ilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
@@ -31,7 +31,7 @@
     {
       "pageNumber": 1,
       "text": "KARU KATI JA REBANE REIN ON KÖÖGIS.",
-      "scene": "Karu Kati wearing a yellow apron and Rebane Rein wearing blue overalls stand side by side in a cozy kitchen with light yellow walls and a wooden floor. Warm sunlight streams through a big window showing vibrant yellow autumn trees outside. Both characters are smiling and looking at each other.",
+      "scene": "Karu Kati wearing a yellow sweater and Rebane Rein wearing blue overalls stand side by side in a cozy kitchen with light yellow walls and a wooden floor. Warm sunlight streams through a big window showing vibrant yellow autumn trees outside. Both characters are smiling and looking at each other.",
       "image": "page1.png",
       "location_id": "loc1"
     },
@@ -45,7 +45,7 @@
     {
       "pageNumber": 3,
       "text": "KATI PESEB PUNASED ÕUNAD PUHTAKS.",
-      "scene": "Karu Kati stands by a wooden sink on the side of the cozy kitchen, gently washing big bright red apples in cool water. Rebane Rein stands next to her, holding a clean kitchen towel to dry the apples. Warm sunlight fills the kitchen.",
+      "scene": "Karu Kati stands at the kitchen counter next to the stove, gently washing big bright red apples in a bowl of cool water. The dining table stays a plain table. Rebane Rein stands next to her, holding a clean kitchen towel to dry the apples. Warm sunlight fills the kitchen.",
       "image": "page3.png",
       "location_id": "loc1"
     },
@@ -65,7 +65,7 @@
     },
     {
       "pageNumber": 6,
-      "text": "REIN LISAB POTTI SOOJA VEE.",
+      "text": "REIN LISAB POTTI SOOJA VETT.",
       "scene": "Rebane Rein carefully holds a small clay pitcher and pours clear water into the large cooking pot filled with red apple pieces on the dark wooden table. Karu Kati holds the pot steady with both hands, looking happy.",
       "image": "page6.png",
       "location_id": "loc1"
