@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-08",
+  "language": "et",
+  "title": "SIIL SIPSI JA ORAV OTT MÄNGIVAD VIHMAS",
+  "generatedAt": "2026-09-28T00:21:46.512Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SIPSI",
+      "type": "hedgehog",
+      "description": "Väike armas siil pehmete spiraalsete okastega, kandmas kollast vihmamantilit ja punaseid kummikuid. Suured säravad mustad silmad ja lahe sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike kohev orav oranži karvaga ja suure koheva sabaga, kandmas sinist vihmamantilit ja rohelisi kummikuid. Rõõmus ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Metsamaja esik",
+      "description": "Cozy hallway inside a wooden forest cabin with light pine wood walls, dark wood floor, red wooden door leading outside, small wooden bench, coat rack on wall, warm soft indoor lighting. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Sügisene metsarada",
+      "description": "Autumn forest dirt path covered with colorful orange and yellow fallen leaves, large clean water puddle in the middle of the path, tall evergreen pine trees in background under gentle soft rain, daytime lighting. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ÕUES SAJAB SOOJA VIHMA.",
+      "scene": "Inside the cozy wooden cabin hallway with light pine wood walls and dark wood floor. Siil Sipsi and Orav Ott stand side by side looking through a small window on the wall at falling rain drops outside. Sipsi is a cute hedgehog in a yellow raincoat, Ott is an orange squirrel in a blue raincoat. Warm indoor atmosphere.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "SIPSI JA OTT PANEVAD SAAPAD JALGA.",
+      "scene": "Inside the same wooden cabin hallway. Siil Sipsi sits on a small wooden bench pulling bright red rubber boots onto his feet. Orav Ott stands next to the bench, putting bright green rubber boots onto his feet. Both look excited. Pine wood walls and dark wood floor visible.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD LÄHEVAD KOOS ÕUE.",
+      "scene": "Outside on the autumn forest dirt path covered in yellow and orange fallen leaves. Siil Sipsi in his yellow raincoat and red boots and Orav Ott in his blue raincoat and green boots walk out side-by-side, holding hands happily under soft rain.",
+      "image": "page3.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SIPSI NÄEB SUURT LOIKU.",
+      "scene": "On the autumn forest path. Siil Sipsi stops and points enthusiastically with his hand towards a big clear rain puddle right in the center of the path. Orav Ott stands beside him with wide joyful eyes, looking at the puddle.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "OTT HÜPPAB OTSE LOIKU.",
+      "scene": "On the autumn forest path. Orav Ott leaps up with both feet and jumps straight into the middle of the big rain puddle. Siil Sipsi stands at the puddle's edge, watching eagerly with a delighted smile.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "VESI PRITSIB IGALE POOLE.",
+      "scene": "On the autumn forest path. Orav Ott lands in the puddle, sending clear water droplets splashing high into the air in all directions. Siil Sipsi raises his arms in excitement as small water splashes spray around.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SIPSI HÜPPAB SAMUTI LOIKU.",
+      "scene": "On the autumn forest path. Siil Sipsi jumps high into the air and splashes right into the rain puddle next to Orav Ott. Both characters are jumping together in the water puddle.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SÕBRAD MÄNGIVAD KOOS VIHMA KÄES.",
+      "scene": "On the autumn forest path under rain. Siil Sipsi and Orav Ott holding hands while splashing happily together in the water puddle, smiling widely. Orange autumn leaves decorate the muddy ground around them.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "TOAS JOOVAD NAD SOOJA TEED.",
+      "scene": "Inside the cozy wooden cabin. Siil Sipsi and Orav Ott are sitting at a small wooden table, holding warm steaming tea mugs in their hands and smiling softly. Their raincoats and boots are neatly placed by the red wooden door in the background.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SÕBRAD ON VÄGA ÕNNELIKUD.",
+      "scene": "Inside the cozy wooden cabin. Close up view of Siil Sipsi and Orav Ott at the wooden table, clinking their warm mugs together, looking super happy, cozy, and contented after their fun rainy adventure.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
