@@ -28,7 +28,7 @@
     },
     {
       "id": "loc2",
-      "name": "Õudne köök",
+      "name": "Hubane köök",
       "description": "Cozy bright kitchen with soft yellow painted walls and light wooden floor. A sturdy wooden table sits in the middle. On the back wall, a single square window with white frame shows colourful autumn tree leaves outside. Warm sunny light streams through the window. Simple clean background, cute cartoon style.",
       "image": "loc2.png"
     }
@@ -51,28 +51,28 @@
     {
       "pageNumber": 3,
       "text": "PUU KÜLJES ON PUNASED ÕUNAD.",
-      "scene": "Close view of green apple tree branches heavy with large, glossy red apples. Mari and Peeter stand nearby pointing excitedly up at the shiny red apples on the low branches.",
+      "scene": "Close view of green apple tree branches heavy with large, glossy red apples. Mari and Peeter stand nearby pointing excitedly up at the shiny red apples on the low branches. The scene fills the whole picture edge to edge, with the ground continuing all the way to the bottom edge (no empty band at the bottom).",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "MARI VÕTAB SUURE PUNASE ÕUNA.",
-      "scene": "Mari reaches up her hands to carefully pluck a big shiny red apple from a low branch of the apple tree. Peeter watches her with a happy smile while holding an empty wicker basket on the grass nearby.",
+      "scene": "Mari reaches up her hands to carefully pluck a big shiny red apple from a low branch of the apple tree. Peeter watches her with a happy smile while holding an empty wicker basket on the grass nearby. The scene fills the whole picture edge to edge, with the ground continuing all the way to the bottom edge (no empty band at the bottom).",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "PEETER PANEB ÕUNA KORVI.",
-      "scene": "Peeter bends down holding a brown woven wicker basket on the grass, gently placing the big red apple inside it. Mari stands next to him smiling and holding another fresh red apple.",
+      "scene": "Peeter bends down holding a brown woven wicker basket on the grass, gently placing the big red apple inside it. Mari stands next to him smiling and holding another fresh red apple. The scene fills the whole picture edge to edge, with the ground continuing all the way to the bottom edge (no empty band at the bottom).",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "NAD KORJAVAD KORVI ÕUNU TÄIS.",
-      "scene": "Mari and Peeter kneel together on the green grass beside the wicker basket, which is now completely full of round red apples. Both children look proud and happy under the warm sunny sky.",
+      "scene": "Mari and Peeter kneel together on the green grass beside the wicker basket, which is now completely full of round red apples. Both children look proud and happy under the warm sunny sky. The scene fills the whole picture edge to edge, with the ground continuing all the way to the bottom edge (no empty band at the bottom).",
       "image": "page6.png",
       "location_id": "loc1"
     },
