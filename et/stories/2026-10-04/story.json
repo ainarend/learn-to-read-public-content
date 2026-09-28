@@ -8,14 +8,14 @@
       "id": "char1",
       "name": "ORAV OTT",
       "type": "squirrel",
-      "description": "Väike orav nimega Ott, kellel on kohev punakaspruun saba, pehme oraanžikas karv, valge kõht, kollane kootud kampsun ja suured rõõmsad silmad. Armas ja sõbralik multifilmistiil.",
+      "description": "Väike orav, kellel on kohev punakaspruun saba, pehme oraanžikas karv, valge kõht, ühevärviline kollane kootud kampsun ilma kirjade ja tähtedeta ning suured rõõmsad silmad. Armas ja sõbralik multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
       "name": "SIIL SASSI",
       "type": "hedgehog",
-      "description": "Väike siil nimega Sassi, kellel on pehmed hallikaspruunid okkad, armas ümar nina, roheline kootud kampsun ja laia naeratusega nägu. Armas ja sõbralik multifilmistiil.",
+      "description": "Väike siil, kellel on pehmed hallikaspruunid okkad, armas ümar nina, ühevärviline roheline kootud kampsun ilma kirjade ja tähtedeta ning laia naeratusega nägu. Armas ja sõbralik multifilmistiil.",
       "image": "char2.png"
     }
   ],
@@ -31,7 +31,7 @@
     {
       "pageNumber": 1,
       "text": "ORAV OTT JA SIIL SASSI MÄNGIVAD AIAS.",
-      "scene": "Orav Ott (a cute orange squirrel wearing a yellow sweater) and Siil Sassi (a cute hedgehog wearing a green sweater) are standing together in a sunny autumn garden, surrounded by green grass and colorful falling autumn leaves. Both characters are smiling happily. Landscape view, cheerful cartoon style.",
+      "scene": "Orav Ott (a cute orange squirrel wearing a plain yellow sweater with no letters) and Siil Sassi (a cute hedgehog wearing a plain green sweater with no letters) are standing together in a sunny autumn garden, surrounded by green grass and colorful falling autumn leaves. Both characters are smiling happily. Landscape view, cheerful cartoon style.",
       "image": "page1.png",
       "location_id": "loc1"
     },
@@ -59,14 +59,14 @@
     {
       "pageNumber": 5,
       "text": "ILUS VÄIKE LAEV ON VALMIS.",
-      "scene": "Orav Ott and Siil Sassi hold the finished little toy sailboat together. The boat is made of bark with a tall yellow leaf sail. Both characters look proud and overjoyed.",
+      "scene": "Orav Ott and Siil Sassi hold the finished little toy sailboat together. The boat is a flat piece of brown bark with a thin stick mast and a tall yellow maple leaf sail, and no cabin. Both characters look proud and overjoyed.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "SASSI PANEB LAEVA LOIKU.",
-      "scene": "Siil Sassi kneels gently at the edge of the clear rainwater puddle and places the small bark boat onto the water surface. Orav Ott watches enthusiastically right beside him.",
+      "scene": "Siil Sassi kneels gently at the edge of the clear rainwater puddle and places the small bark boat with its yellow leaf sail onto the water surface. Orav Ott watches enthusiastically right beside him.",
       "image": "page6.png",
       "location_id": "loc1"
     },
@@ -80,7 +80,7 @@
     {
       "pageNumber": 8,
       "text": "OTT JA SASSI ON VÄGA ÕNNELIKUD.",
-      "scene": "Orav Ott and Siil Sassi jump for joy next to the puddle, holding hands and cheering warmly. The bark boat rests peacefully near the edge of the puddle in the sunny autumn garden.",
+      "scene": "Orav Ott and Siil Sassi jump for joy next to the puddle, holding hands and cheering warmly. The small bark boat with its yellow leaf sail rests peacefully near the edge of the puddle in the sunny autumn garden.",
       "image": "page8.png",
       "location_id": "loc1"
     }
