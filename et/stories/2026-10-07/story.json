@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-07",
+  "language": "et",
+  "title": "KITI JA MUKI LENNUTAVAD LOHET",
+  "generatedAt": "2026-09-28T00:11:58.591Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KASS KITI",
+      "type": "cat",
+      "description": "Väike valge kass roosade kõrvade ja pehme sabaga, kandmas rohelist kampsunit, suured uudishimulikud sinised silmad ja rõõmsameelne naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KOER MUKI",
+      "type": "dog",
+      "description": "Väike pruun koer lühikeste lottis kõrvade ja liputava sabaga, kandmas kollast vesti, suured sõbralikud pruunid silmad ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene park",
+      "description": "A cheerful autumn park with green and golden-yellow grass, colorful autumn trees with orange and red leaves in the background, bright blue sky with a few soft white clouds, gentle breeze blowing leaves around, clean sunny landscape, soft lighting. Cute cartoon illustration style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KASS KITI JA KOER MUKI ON ÕUES.",
+      "scene": "Kass Kiti (small white cat in a green sweater) and Koer Muki (small brown dog in a yellow vest) stand together in a sunny autumn park on golden-green grass. Colorful orange and red autumn trees frame the background under a soft blue sky. Both look happy and excited to be outside.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES PUHUB TUGEV TUUL.",
+      "scene": "In the sunny autumn park with golden grass and colorful trees, a strong gentle autumn breeze blows fluttering colorful leaves through the air. The wind softly ruffles the fur and clothes of Kass Kiti (white cat in green sweater) and Koer Muki (brown dog in yellow vest), who laugh merrily.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "MUKI VÕTAB PUNASE LOHE.",
+      "scene": "Koer Muki (small brown dog in a yellow vest) holds a bright red diamond-shaped kite with colorful tail ribbons in his paws, holding it up proudly. Kass Kiti (small white cat in a green sweater) stands next to him on the grass, looking at the kite with bright curious eyes.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KITI HOIAB PIKKA NÖÖRI.",
+      "scene": "Kass Kiti (small white cat in a green sweater) carefully holds a wooden spool with long white string in her paws. Koer Muki (small brown dog in a yellow vest) stands nearby holding the red kite high up, ready to launch it. The autumn park background has yellow trees and clear blue sky.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "TUUL TÕSTAB LOHE TAEVASSE.",
+      "scene": "Koer Muki releases the red kite, and a sudden gentle gust of wind lifts the red diamond kite high into the air. Kass Kiti holds the white string firmly, smiling broadly as she watches the kite rise up into the blue sky over the autumn park.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LOHE LENDAB KÕRGEL TAEVAS.",
+      "scene": "The red diamond kite with yellow and blue fluttering ribbons flies high in the clear blue sky above the golden autumn trees. On the ground below, Kass Kiti and Koer Muki point up toward the flying kite in excitement.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "MUKI JA KITI JOOKSEVAD MURUL.",
+      "scene": "Koer Muki and Kass Kiti run happily together across the soft grass of the park, laughing and playing as the red kite sails high in the sky behind them. Autumn leaves scatter gently on the ground around their feet.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LOHE TANTSIB KAUNILT TAEVAS.",
+      "scene": "The bright red kite dances gracefully high up in the blue sky, swooping in elegant curves with colorful tail ribbons waving softly in the breeze. Sunbeams illuminate the flying kite against fluffy clouds.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SÕBRAD ON VÄGA RÕÕMSAD.",
+      "scene": "Kass Kiti and Koer Muki sit side by side on the autumn grass, smiling happily and holding hands. Kiti holds the kite spool gently while the red kite floats peacefully high above them in the sunny autumn sky.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
