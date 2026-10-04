@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-10-10",
+  "latestDate": "2026-10-11",
   "stories": [
+    {
+      "date": "2026-10-11",
+      "title": "JUKU JA TIIU TEEVAD SUPPI",
+      "pageCount": 8,
+      "characters": [
+        "JÄNES JUKU",
+        "HIIR TIIU"
+      ]
+    },
     {
       "date": "2026-10-10",
       "title": "PEETER JA LIISA MÄNGIVAD LEHTEDEGA",
