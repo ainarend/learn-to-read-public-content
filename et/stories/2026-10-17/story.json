@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "MARI",
       "type": "human",
-      "description": "Väike inimene, tüdruk heledate juuste ja patsiga, kõrvadel valged kohevad kõrvaklapid, seljas kollane jope ja sinised püksid, jalas punased kummikud. Sõbralik ja rõõmus näoilme. Armas multifilmistiil.",
+      "description": "Väike inimene, tüdruk heledate õlgadeni juustega, peas kollane lips ja valged kohevad kõrvaklapid, seljas kollane jope ja sinised püksid, jalas punased kummikud. Sõbralik ja rõõmus näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
@@ -80,7 +80,7 @@
     {
       "pageNumber": 8,
       "text": "MARI HÜPPAB SAMUTI LEHTEDESSE.",
-      "scene": "Mari leaps mid-air into the giant leaf pile right beside Peeter, who is sitting happily in the leaves. Colorful leaves spray into the air around them both in a playful moment. Colorful leaves and green grass fill the picture down to the bottom edge.",
+      "scene": "Mari leaps mid-air into the giant leaf pile right beside Peeter, who is sitting happily in the leaves. Colorful leaves spray into the air around them both in a playful moment. There is no white or plain stripe at the bottom; colorful leaves and green grass continue right to the bottom edge of the picture.",
       "image": "page8.png",
       "location_id": "loc1"
     },
