@@ -31,14 +31,14 @@
     {
       "pageNumber": 1,
       "text": "MIISU JA KUSTI ON TERRASSIL.",
-      "scene": "Kass Miisu in a light blue sweater and Koer Kusti in blue overalls are standing together on a cozy sunny wooden porch. In the background, colorful autumn trees with red and orange leaves are visible. Miisu and Kusti are smiling cheerfully at each other.",
+      "scene": "Kass Miisu in a light blue sweater and Koer Kusti in blue overalls are standing together on a cozy sunny wooden porch. In the background, colorful autumn trees with red and orange leaves are visible. Miisu and Kusti are smiling cheerfully at each other. Koer Kusti is a brown dog with floppy ears that have orange-yellow edges, wearing blue denim overalls with yellow buttons and a blue and cream baseball cap with a small red button on top (not a checked or gingham cap). Kass Miisu is a white cat with green eyes in a light blue knitted sweater.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "NAD OTSIVAD SUURI MÄNNIKÄBISID.",
-      "scene": "Kass Miisu and Koer Kusti kneel on the grass in the garden just below the wooden porch steps, picking up large brown pinecones from the ground covered in yellow leaves. A tall pine tree stands in the garden behind them. Miisu holds a large pinecone in her hands and smiles. No tree grows on or through the porch.",
+      "scene": "Kass Miisu and Koer Kusti kneel on the grass in the garden just below the wooden porch steps, picking up large brown pinecones from the ground covered in yellow leaves. Miisu holds a large pinecone in her hands and smiles. There is no tree on the porch; the porch floor is empty apart from the craft table and chairs. Koer Kusti is a brown dog with floppy ears that have orange-yellow edges, wearing blue denim overalls with yellow buttons and a blue and cream baseball cap with a small red button on top (not a checked or gingham cap). Kass Miisu is a white cat with green eyes in a light blue knitted sweater.",
       "image": "page2.png",
       "location_id": "loc1"
     },
@@ -66,7 +66,7 @@
     {
       "pageNumber": 6,
       "text": "VALMIS SAAB ARMAS KÄBILOOM.",
-      "scene": "On the wooden craft table on the sunny porch stands one cute handcrafted pinecone animal: a single brown pinecone body with two small googly craft eyes and an orange yarn tail. There is no other figure or toy on top of it. Kass Miisu and Koer Kusti sit at the table and look at the pinecone animal with happy expressions.",
+      "scene": "On the wooden craft table on the sunny porch stands one cute handcrafted pinecone animal: a single brown pinecone body with two small googly craft eyes and an orange yarn tail. There is no other figure or toy on top of it. Kass Miisu and Koer Kusti sit at the table and look at the pinecone animal with happy expressions. Koer Kusti is a brown dog with floppy ears that have orange-yellow edges, wearing blue denim overalls with yellow buttons and a blue and cream baseball cap with a small red button on top (not a checked or gingham cap). Kass Miisu is a white cat with green eyes in a light blue knitted sweater.",
       "image": "page6.png",
       "location_id": "loc1"
     },
