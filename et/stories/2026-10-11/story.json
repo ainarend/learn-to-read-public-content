@@ -15,7 +15,7 @@
       "id": "char2",
       "name": "HIIR TIIU",
       "type": "mouse",
-      "description": "Väike hall hiir suurte ümarate kõrvadega, kandmas kollast kleiti ja väikest punast põlle, armas ja uudishimulik näoilme. Armas multifilmistiil.",
+      "description": "Väike hall hiir suurte ümarate kõrvadega, kandmas kollast kleiti, punane lill pea peal, armas ja uudishimulik näoilme. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
@@ -44,28 +44,28 @@
     {
       "pageNumber": 2,
       "text": "NAD LEIAVAD SUURE KOLLASE KÕRVITSA.",
-      "scene": "In the sunny autumn garden, Jänes Juku and Hiir Tiiu stand next to a very big, round, bright yellow pumpkin sitting on the grass. They point at the pumpkin with big excited smiles on their faces.",
+      "scene": "In the sunny autumn garden, Jänes Juku and Hiir Tiiu stand next to a very big, round, bright yellow pumpkin sitting on the grass. They point at the pumpkin with big excited smiles on their faces. Juku is a rabbit with only a tiny round white cotton tail; he has no long tail.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "SÕBRAD VEERETAVAD KÕRVITSA TUPPA.",
-      "scene": "In the autumn garden, Jänes Juku and Hiir Tiiu work together to roll the big yellow pumpkin across the lawn toward the red front door of the wooden cottage.",
+      "scene": "In the autumn garden, Jänes Juku and Hiir Tiiu push the big yellow pumpkin with both hands, rolling it across the lawn toward the open red front door of the wooden cottage. Juku is a rabbit with only a tiny round white cotton tail; he has no long tail.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "TIIU TEEB KÕRVITSA VÄIKESTEKS TÜKKIDEKS.",
-      "scene": "In the cozy rustic kitchen with cream walls and wooden floor, Hiir Tiiu stands on a small stool at the wooden dining table. She uses a child-friendly knife to cut yellow pumpkin slices into small square chunks on a wooden cutting board. Jänes Juku stands beside her, smiling and watching.",
+      "scene": "In the cozy rustic kitchen with cream walls and wooden floor, Hiir Tiiu stands on a small stool at the wooden dining table. She uses a child-friendly knife to cut yellow pumpkin slices into small square chunks on a wooden cutting board. Jänes Juku stands beside her, smiling and watching. Juku is a rabbit with only a tiny round white cotton tail; he has no long tail.",
       "image": "page4.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 5,
       "text": "JUKU PANEB TÜKID SUURDE POTTI.",
-      "scene": "In the cozy kitchen, Jänes Juku carefully drops yellow pumpkin chunks into a large metal cooking pot placed on the black stove. Hiir Tiiu stands next to him, handing him another pumpkin chunk with a smile.",
+      "scene": "In the cozy kitchen, Jänes Juku carefully drops yellow pumpkin chunks into a large metal cooking pot standing on top of the small black wood-burning stove by the right wall. There is no other stove or cooker in the kitchen. Hiir Tiiu stands next to him, handing him another pumpkin chunk with a smile. Juku is a rabbit with only a tiny round white cotton tail; he has no long tail.",
       "image": "page5.png",
       "location_id": "loc2"
     },
@@ -79,7 +79,7 @@
     {
       "pageNumber": 7,
       "text": "SUPP LÕHNAB VÄGA HÄSTI.",
-      "scene": "In the cozy kitchen, Jänes Juku and Hiir Tiiu stand near the stove where the pot of orange soup sits. Swirls of fragrant steam drift upwards. Both characters close their eyes contentedly, sniffing the air with happy, smiling faces.",
+      "scene": "In the cozy kitchen, Jänes Juku and Hiir Tiiu stand next to the small black wood-burning stove by the right wall, where the pot of orange soup sits on top. There is no other stove or cooker in the kitchen. Swirls of fragrant steam drift upwards. Both characters close their eyes contentedly, sniffing the air with happy, smiling faces.",
       "image": "page7.png",
       "location_id": "loc2"
     },
