@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "JÄNES JUKU",
       "type": "rabbit",
-      "description": "Suur valge jänes pikkade kõrvadega, kandmas rohelist kampsunit ja siniseid pükse, suured sõbralikud silmad ja rõõmus ilme. Armas multifilmistiil.",
+      "description": "Suur valge jänes pikkade püstiste kõrvadega, kandmas rohelist kampsunit ja siniseid pükse, peas pole mütsi, suured sõbralikud silmad ja rõõmus ilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
@@ -37,56 +37,56 @@
     {
       "pageNumber": 1,
       "text": "JUKU JA TIIU ON AIAS.",
-      "scene": "Jänes Juku, a white rabbit in a green sweater, and Hiir Tiiu, a small grey mouse in a yellow dress and red apron, stand together in a sunny autumn garden filled with scattered yellow leaves on green grass. They are looking around happily. In the background is a quaint wooden cottage with a red door.",
+      "scene": "Jänes Juku, a white rabbit in a green sweater, and Hiir Tiiu, a small grey mouse in a yellow dress and red apron, stand together in a sunny autumn garden filled with scattered yellow leaves on green grass. They are looking around happily. In the background is a quaint wooden cottage with a red door. Jänes Juku is a white rabbit with two tall upright ears, wearing a green knitted sweater and blue trousers and nothing on his head (no hat), with only a tiny round white cotton tail. Hiir Tiiu is a small grey mouse in a yellow dress with a red flower on her head. The scene fills the picture down to the bottom edge.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "NAD LEIAVAD SUURE KOLLASE KÕRVITSA.",
-      "scene": "In the sunny autumn garden, Jänes Juku and Hiir Tiiu stand next to a very big, round, bright yellow pumpkin sitting on the grass. They point at the pumpkin with big excited smiles on their faces. Juku is a rabbit with only a tiny round white cotton tail; he has no long tail.",
+      "scene": "In the sunny autumn garden, Jänes Juku and Hiir Tiiu stand next to a very big, round, bright yellow pumpkin sitting on the grass. They point at the pumpkin with big excited smiles on their faces. Jänes Juku is a white rabbit with two tall upright ears, wearing a green knitted sweater and blue trousers and nothing on his head (no hat), with only a tiny round white cotton tail. Hiir Tiiu is a small grey mouse in a yellow dress with a red flower on her head. The scene fills the picture down to the bottom edge.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "SÕBRAD VEERETAVAD KÕRVITSA TUPPA.",
-      "scene": "In the autumn garden, Jänes Juku and Hiir Tiiu push the big yellow pumpkin with both hands, rolling it across the lawn toward the open red front door of the wooden cottage. Juku is a rabbit with only a tiny round white cotton tail; he has no long tail.",
+      "scene": "In the autumn garden, Jänes Juku and Hiir Tiiu push the big yellow pumpkin with both hands, rolling it across the lawn toward the open red front door of the wooden cottage. Jänes Juku is a white rabbit with two tall upright ears, wearing a green knitted sweater and blue trousers and nothing on his head (no hat), with only a tiny round white cotton tail. Hiir Tiiu is a small grey mouse in a yellow dress with a red flower on her head. The scene fills the picture down to the bottom edge.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "TIIU TEEB KÕRVITSA VÄIKESTEKS TÜKKIDEKS.",
-      "scene": "In the cozy rustic kitchen with cream walls and wooden floor, Hiir Tiiu stands on a small stool at the wooden dining table. She uses a child-friendly knife to cut yellow pumpkin slices into small square chunks on a wooden cutting board. Jänes Juku stands beside her, smiling and watching. Juku is a rabbit with only a tiny round white cotton tail; he has no long tail.",
+      "scene": "In the cozy rustic kitchen with cream walls and wooden floor, Hiir Tiiu stands on a small stool at the wooden dining table. She uses a child-friendly knife to cut yellow pumpkin slices into small square chunks on a wooden cutting board. Jänes Juku stands beside her, smiling and watching. Jänes Juku is a white rabbit with two tall upright ears, wearing a green knitted sweater and blue trousers and nothing on his head (no hat), with only a tiny round white cotton tail. Hiir Tiiu is a small grey mouse in a yellow dress with a red flower on her head. The scene fills the picture down to the bottom edge.",
       "image": "page4.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 5,
       "text": "JUKU PANEB TÜKID SUURDE POTTI.",
-      "scene": "In the cozy kitchen, Jänes Juku carefully drops yellow pumpkin chunks into a large metal cooking pot standing on top of the small black wood-burning stove by the right wall. There is no other stove or cooker in the kitchen. Hiir Tiiu stands next to him, handing him another pumpkin chunk with a smile. Juku is a rabbit with only a tiny round white cotton tail; he has no long tail.",
+      "scene": "In the cozy kitchen, Jänes Juku carefully drops yellow pumpkin chunks into a large metal cooking pot standing on top of the small black wood-burning stove by the right wall. There is no other stove or cooker in the kitchen, and nothing is flying in the air. Hiir Tiiu stands next to him, handing him another pumpkin chunk with a smile. Jänes Juku is a white rabbit with two tall upright ears, wearing a green knitted sweater and blue trousers and nothing on his head (no hat), with only a tiny round white cotton tail. Hiir Tiiu is a small grey mouse in a yellow dress with a red flower on her head. The scene fills the picture down to the bottom edge.",
       "image": "page5.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 6,
       "text": "KOOS SEGAVAD NAD SOOJA SUPPI.",
-      "scene": "In the cozy kitchen, Jänes Juku and Hiir Tiiu stand together by the stove. Both characters hold a long wooden spoon together, gently stirring thick orange pumpkin soup in the big pot. Gentle curls of steam rise from the pot.",
+      "scene": "In the cozy kitchen, Jänes Juku and Hiir Tiiu stand together by the stove. Both characters hold a long wooden spoon together, gently stirring thick orange pumpkin soup in the big pot. Gentle curls of steam rise from the pot. Jänes Juku is a white rabbit with two tall upright ears, wearing a green knitted sweater and blue trousers and nothing on his head (no hat), with only a tiny round white cotton tail. Hiir Tiiu is a small grey mouse in a yellow dress with a red flower on her head. The scene fills the picture down to the bottom edge.",
       "image": "page6.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 7,
       "text": "SUPP LÕHNAB VÄGA HÄSTI.",
-      "scene": "In the cozy kitchen, Jänes Juku and Hiir Tiiu stand next to the small black wood-burning stove by the right wall, where the pot of orange soup sits on top. There is no other stove or cooker in the kitchen. Swirls of fragrant steam drift upwards. Both characters close their eyes contentedly, sniffing the air with happy, smiling faces.",
+      "scene": "In the cozy kitchen, Jänes Juku and Hiir Tiiu stand next to the small black wood-burning stove by the right wall, where the pot of orange soup sits on top. There is no other stove or cooker in the kitchen. Swirls of fragrant steam drift upwards. Both characters close their eyes contentedly, sniffing the air with happy, smiling faces. Jänes Juku is a white rabbit with two tall upright ears, wearing a green knitted sweater and blue trousers and nothing on his head (no hat), with only a tiny round white cotton tail. Hiir Tiiu is a small grey mouse in a yellow dress with a red flower on her head. The scene fills the picture down to the bottom edge.",
       "image": "page7.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 8,
       "text": "JUKU JA TIIU SÖÖVAD MAITSVAT SUPPI.",
-      "scene": "In the cozy kitchen, Jänes Juku and Hiir Tiiu sit side-by-side at the wooden dining table. Each has a small bowl filled with warm orange pumpkin soup and a wooden spoon. They are happily eating their soup together with bright cheerful expressions.",
+      "scene": "In the cozy kitchen, Jänes Juku and Hiir Tiiu sit side-by-side at the wooden dining table. Each has a small bowl filled with warm orange pumpkin soup and a wooden spoon. They are happily eating their soup together with bright cheerful expressions. Jänes Juku is a white rabbit with two tall upright ears, wearing a green knitted sweater and blue trousers and nothing on his head (no hat), with only a tiny round white cotton tail. Hiir Tiiu is a small grey mouse in a yellow dress with a red flower on her head. The scene fills the picture down to the bottom edge.",
       "image": "page8.png",
       "location_id": "loc2"
     }
