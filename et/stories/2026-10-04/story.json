@@ -8,14 +8,14 @@
       "id": "char1",
       "name": "ORAV OTT",
       "type": "squirrel",
-      "description": "Väike orav, kellel on kohev punakaspruun saba, pehme oraanžikas karv, valge kõht, ühevärviline kollane kootud kampsun ilma kirjade ja tähtedeta ning suured rõõmsad silmad. Armas ja sõbralik multifilmistiil.",
+      "description": "Väike oranž orav, kellel on kohev punakaspruun saba, valge kõht, ühevärviline kollane kootud kampsun ilma mustrita ja suured rõõmsad silmad. Peas pole mütsi. Armas ja sõbralik multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
       "name": "SIIL SASSI",
       "type": "hedgehog",
-      "description": "Väike siil, kellel on pehmed hallikaspruunid okkad, armas ümar nina, ühevärviline roheline kootud kampsun ilma kirjade ja tähtedeta ning laia naeratusega nägu. Armas ja sõbralik multifilmistiil.",
+      "description": "Väike siil, kellel on seljas palju teravaid hallikaspruune okkaid, terav ninake, väikesed ümarad kõrvad ja ühevärviline roheline kootud kampsun. Armas ja sõbralik multifilmistiil.",
       "image": "char2.png"
     }
   ],
@@ -31,56 +31,56 @@
     {
       "pageNumber": 1,
       "text": "ORAV OTT JA SIIL SASSI MÄNGIVAD AIAS.",
-      "scene": "Orav Ott (a cute orange squirrel wearing a plain yellow sweater with no letters) and Siil Sassi (a cute hedgehog wearing a plain green sweater with no letters) are standing together in a sunny autumn garden, surrounded by green grass and colorful falling autumn leaves. Both characters are smiling happily. Landscape view, cheerful cartoon style.",
+      "scene": "Orav Ott (a cute orange squirrel wearing a plain yellow sweater with no letters) and Siil Sassi (a cute hedgehog wearing a plain green sweater with no letters) are standing together in a sunny autumn garden, surrounded by green grass and colorful falling autumn leaves. Both characters are smiling happily. Landscape view, cheerful cartoon style. Orav Ott is a small orange squirrel with a bushy reddish-brown tail (never pink), wearing a plain yellow knitted sweater with no stars or pattern and no hat. Siil Sassi is a small hedgehog: round body covered in spiky grey-brown quills, a small pointed snout with a black nose, small round ears; he is NOT an elephant or a pig and has no trunk and no big ears. He wears a plain green knitted sweater. The grass and garden path fill the picture down to the bottom edge.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "ÕUES ON SUUR SÜGISENE VEELOIK.",
-      "scene": "Orav Ott and Siil Sassi stand near a big clear rainwater puddle on a dirt path in the autumn garden. They look at the puddle with excitement and wonder, pointing at the water. Golden tree leaves frame the top of the scene.",
+      "scene": "Orav Ott and Siil Sassi stand near a big clear rainwater puddle on a dirt path in the autumn garden. They look at the puddle with excitement and wonder, pointing at the water. Golden tree leaves frame the top of the scene. Orav Ott is a small orange squirrel with a bushy reddish-brown tail (never pink), wearing a plain yellow knitted sweater with no stars or pattern and no hat. Siil Sassi is a small hedgehog: round body covered in spiky grey-brown quills, a small pointed snout with a black nose, small round ears; he is NOT an elephant or a pig and has no trunk and no big ears. He wears a plain green knitted sweater. The grass and garden path fill the picture down to the bottom edge.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "OTT LEIAB SUURE PUUKOORE.",
-      "scene": "Orav Ott kneels on the grass and holds up a smooth piece of brown tree bark, showing it proudly to Siil Sassi. Siil Sassi stands beside him, smiling with delight. Autumn leaves scatter the green ground around them.",
+      "scene": "Orav Ott kneels on the grass and holds up a flat, thin, smooth piece of brown tree bark (not a log), showing it proudly to Siil Sassi. Siil Sassi stands beside him, smiling with delight. Autumn leaves scatter the green ground around them. Orav Ott is a small orange squirrel with a bushy reddish-brown tail (never pink), wearing a plain yellow knitted sweater with no stars or pattern and no hat. Siil Sassi is a small hedgehog: round body covered in spiky grey-brown quills, a small pointed snout with a black nose, small round ears; he is NOT an elephant or a pig and has no trunk and no big ears. He wears a plain green knitted sweater. The grass and garden path fill the picture down to the bottom edge.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "SASSI PANEB KOLLASE LEHE PURJEKS.",
-      "scene": "Siil Sassi carefully sticks a bright yellow maple leaf onto the piece of bark to serve as a sailboat sail, while Orav Ott holds the bark steady on the ground near the puddle. Both are focused and smiling.",
+      "scene": "Siil Sassi carefully sticks a bright yellow maple leaf onto the piece of bark to serve as a sailboat sail, while Orav Ott holds the bark steady on the ground near the puddle. Both are focused and smiling. Orav Ott is a small orange squirrel with a bushy reddish-brown tail (never pink), wearing a plain yellow knitted sweater with no stars or pattern and no hat. Siil Sassi is a small hedgehog: round body covered in spiky grey-brown quills, a small pointed snout with a black nose, small round ears; he is NOT an elephant or a pig and has no trunk and no big ears. He wears a plain green knitted sweater. The grass and garden path fill the picture down to the bottom edge.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "ILUS VÄIKE LAEV ON VALMIS.",
-      "scene": "Orav Ott and Siil Sassi hold the finished little toy sailboat together. The boat is a flat piece of brown bark with a thin stick mast and a tall yellow maple leaf sail, and no cabin. Both characters look proud and overjoyed.",
+      "scene": "Orav Ott and Siil Sassi hold the finished little toy sailboat together. The boat is a flat piece of brown bark with a thin stick mast and a tall yellow maple leaf sail, and no cabin. Both characters look proud and overjoyed. Orav Ott is a small orange squirrel with a bushy reddish-brown tail (never pink), wearing a plain yellow knitted sweater with no stars or pattern and no hat. Siil Sassi is a small hedgehog: round body covered in spiky grey-brown quills, a small pointed snout with a black nose, small round ears; he is NOT an elephant or a pig and has no trunk and no big ears. He wears a plain green knitted sweater. The grass and garden path fill the picture down to the bottom edge.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "SASSI PANEB LAEVA LOIKU.",
-      "scene": "Siil Sassi kneels gently at the edge of the clear rainwater puddle and places the small bark boat with its yellow leaf sail onto the water surface. Orav Ott watches enthusiastically right beside him.",
+      "scene": "Siil Sassi kneels gently at the edge of the clear rainwater puddle and places the small bark boat with its yellow leaf sail onto the water surface. Orav Ott watches enthusiastically right beside him. Orav Ott is a small orange squirrel with a bushy reddish-brown tail (never pink), wearing a plain yellow knitted sweater with no stars or pattern and no hat. Siil Sassi is a small hedgehog: round body covered in spiky grey-brown quills, a small pointed snout with a black nose, small round ears; he is NOT an elephant or a pig and has no trunk and no big ears. He wears a plain green knitted sweater. The grass and garden path fill the picture down to the bottom edge.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
       "text": "LAEV UJUB LÕBUSALT LOIGUS.",
-      "scene": "The small bark sailboat with its bright yellow leaf sail floats gracefully across the clear puddle. Orav Ott and Siil Sassi walk happily along the edge of the puddle, watching their boat sail.",
+      "scene": "The small bark sailboat with its bright yellow leaf sail floats gracefully across the clear puddle. Orav Ott and Siil Sassi walk happily along the edge of the puddle, watching their boat sail. Orav Ott is a small orange squirrel with a bushy reddish-brown tail (never pink), wearing a plain yellow knitted sweater with no stars or pattern and no hat. Siil Sassi is a small hedgehog: round body covered in spiky grey-brown quills, a small pointed snout with a black nose, small round ears; he is NOT an elephant or a pig and has no trunk and no big ears. He wears a plain green knitted sweater. The grass and garden path fill the picture down to the bottom edge.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
       "text": "OTT JA SASSI ON VÄGA ÕNNELIKUD.",
-      "scene": "Orav Ott and Siil Sassi jump for joy next to the puddle, holding hands and cheering warmly. The small bark boat with its yellow leaf sail rests peacefully near the edge of the puddle in the sunny autumn garden.",
+      "scene": "Orav Ott and Siil Sassi jump for joy next to the puddle, holding hands and cheering warmly. The small bark boat with its yellow leaf sail rests peacefully near the edge of the puddle in the sunny autumn garden. Orav Ott is a small orange squirrel with a bushy reddish-brown tail (never pink), wearing a plain yellow knitted sweater with no stars or pattern and no hat. Siil Sassi is a small hedgehog: round body covered in spiky grey-brown quills, a small pointed snout with a black nose, small round ears; he is NOT an elephant or a pig and has no trunk and no big ears. He wears a plain green knitted sweater. The grass and garden path fill the picture down to the bottom edge.",
       "image": "page8.png",
       "location_id": "loc1"
     }
