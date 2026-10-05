@@ -8,14 +8,14 @@
       "id": "char1",
       "name": "KASS MIISU",
       "type": "cat",
-      "description": "Väike valge kass suurte roheliste silmadega, kandmas helekollast villast kampsunit, armas ja rõõmsameelne ilme. Multifilmistiil.",
+      "description": "Väike valge kass suurte roheliste silmadega, kandmas helesinist villast kampsunit, armas ja rõõmsameelne ilme. Multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
       "name": "KOER KUSTI",
       "type": "dog",
-      "description": "Väike pruun koer lottis kõrvadega, kandmas siniseid traksipükse, uudishimulik ja sõbralik ilme. Multifilmistiil.",
+      "description": "Väike pruun koer lottis kõrvadega, kandmas siniseid traksipükse ja sinivalget nokamütsi, uudishimulik ja sõbralik ilme. Multifilmistiil.",
       "image": "char2.png"
     }
   ],
@@ -30,56 +30,56 @@
   "pages": [
     {
       "pageNumber": 1,
-      "text": "MIISU JA KUSTI ON TERRASSIL",
-      "scene": "Kass Miisu in a light yellow sweater and Koer Kusti in blue overalls are standing together on a cozy sunny wooden porch. In the background, colorful autumn trees with red and orange leaves are visible. Miisu and Kusti are smiling cheerfully at each other.",
+      "text": "MIISU JA KUSTI ON TERRASSIL.",
+      "scene": "Kass Miisu in a light blue sweater and Koer Kusti in blue overalls are standing together on a cozy sunny wooden porch. In the background, colorful autumn trees with red and orange leaves are visible. Miisu and Kusti are smiling cheerfully at each other.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NAD OTSIVAD SUURI MÄNNIKÄBISID",
-      "scene": "Kass Miisu and Koer Kusti are kneeling near an autumn tree next to the wooden porch, picking up large brown pinecones from the ground covered in yellow leaves. Miisu holds a large pinecone in her hands and smiles.",
+      "text": "NAD OTSIVAD SUURI MÄNNIKÄBISID.",
+      "scene": "Kass Miisu and Koer Kusti kneel on the grass in the garden just below the wooden porch steps, picking up large brown pinecones from the ground covered in yellow leaves. A tall pine tree stands in the garden behind them. Miisu holds a large pinecone in her hands and smiles. No tree grows on or through the porch.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "KUSTI TOOB LAUALE PALJU KÄBISID",
+      "text": "KUSTI TOOB LAUALE PALJU KÄBISID.",
       "scene": "Koer Kusti in blue overalls carries a small basket full of pinecones and places it on the wooden craft table on the porch. Kass Miisu stands next to the wooden table, clapping her hands excitedly.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "MIISU PANEB KÄBILE VÄIKESED SILMAD",
+      "text": "MIISU PANEB KÄBILE VÄIKESED SILMAD.",
       "scene": "Kass Miisu sits on a small wooden chair at the craft table on the porch, carefully gluing two small craft eyes onto a large pinecone. Koer Kusti leans on the table, watching with a curious smile.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
-      "text": "KUSTI PANEB KÄBILE PIKA SABA",
+      "text": "KUSTI PANEB KÄBILE PIKA SABA.",
       "scene": "Koer Kusti sits at the wooden table on the porch, carefully attaching a small orange yarn tail to the pinecone that now has tiny eyes. Kass Miisu sits next to him and smiles brightly.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
-      "text": "VALMIS SAAB ARMAS KÄBILOOM",
-      "scene": "On the wooden craft table on the sunny porch, a cute handcrafted pinecone fox figure with craft eyes and an orange yarn tail stands proudly. Kass Miisu and Koer Kusti look at the cute pinecone animal with happy expressions.",
+      "text": "VALMIS SAAB ARMAS KÄBILOOM.",
+      "scene": "On the wooden craft table on the sunny porch stands one cute handcrafted pinecone animal: a single brown pinecone body with two small googly craft eyes and an orange yarn tail. There is no other figure or toy on top of it. Kass Miisu and Koer Kusti sit at the table and look at the pinecone animal with happy expressions.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "SÕBRAD TEEVAD PALJU UUSI LOOMI",
+      "text": "SÕBRAD TEEVAD PALJU UUSI LOOMI.",
       "scene": "Kass Miisu and Koer Kusti are sitting together at the wooden table on the sunny porch, busy crafting more pinecone creatures. Five colorful pinecone animals with clay ears and yarn tails are now sitting in a neat row on the table.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
-      "text": "KÄBILOOMAD MÄNGIVAD KOOS LAUAL",
+      "text": "KÄBILOOMAD MÄNGIVAD KOOS LAUAL.",
       "scene": "Kass Miisu and Koer Kusti gently hold and move the little pinecone animals on the wooden craft table, playing a fun game together. Warm autumn sunlight glows on the porch, creating a happy and peaceful scene.",
       "image": "page8.png",
       "location_id": "loc1"
