@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-10-12",
+  "latestDate": "2026-10-13",
   "stories": [
+    {
+      "date": "2026-10-13",
+      "title": "MIISU JA KUSTI TEEVAD KÄBILOOMI",
+      "pageCount": 8,
+      "characters": [
+        "KASS MIISU",
+        "KOER KUSTI"
+      ]
+    },
     {
       "date": "2026-10-12",
       "title": "OTT JA SASS LENNUTAVAD LOHET",
