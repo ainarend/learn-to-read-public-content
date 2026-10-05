@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "MARI",
       "type": "human",
-      "description": "Väike inimene, tüdruk heledate juuste ja kahe patsiga, seljas kollane kampsun ja sinised püksid, jalas punased kummikud. Sõbralik ja rõõmus näoilme. Armas multifilmistiil.",
+      "description": "Väike inimene, tüdruk heledate juuste ja patsiga, kõrvadel valged kohevad kõrvaklapid, seljas kollane jope ja sinised püksid, jalas punased kummikud. Sõbralik ja rõõmus näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
@@ -31,7 +31,7 @@
     {
       "pageNumber": 1,
       "text": "MARI JA PEETER ON AIAS.",
-      "scene": "Mari (blonde girl in yellow sweater, blue pants, red boots) and Peeter (brown-haired boy in green sweater, brown pants, yellow boots) stand side by side in a sunny autumn garden. The green grass is lightly scattered with colorful autumn leaves. A large apple tree with autumn leaves and a wooden fence are in the background.",
+      "scene": "Mari (blonde girl in yellow sweater, blue pants, red boots) and Peeter (brown-haired boy in green sweater, brown pants, yellow boots) stand side by side in a sunny autumn garden. The green grass is lightly scattered with colorful autumn leaves. A large apple tree with autumn leaves and a wooden fence are in the background. The green grass fills the picture down to the bottom edge.",
       "image": "page1.png",
       "location_id": "loc1"
     },
@@ -52,7 +52,7 @@
     {
       "pageNumber": 4,
       "text": "PEETER VÕTAB KA REHA.",
-      "scene": "Peeter holds up a slightly smaller wooden garden rake with a big smile. Mari stands next to him holding her own rake. They are both ready to work in the autumn garden.",
+      "scene": "Peeter holds up a slightly smaller wooden garden rake with a big smile. Mari stands next to him holding her own complete wooden rake, with a long handle and a toothed rake head at the bottom. They are both ready to work in the autumn garden.",
       "image": "page4.png",
       "location_id": "loc1"
     },
@@ -80,7 +80,7 @@
     {
       "pageNumber": 8,
       "text": "MARI HÜPPAB SAMUTI LEHTEDESSE.",
-      "scene": "Mari leaps mid-air into the giant leaf pile right beside Peeter, who is sitting happily in the leaves. Colorful leaves spray into the air around them both in a playful moment.",
+      "scene": "Mari leaps mid-air into the giant leaf pile right beside Peeter, who is sitting happily in the leaves. Colorful leaves spray into the air around them both in a playful moment. Colorful leaves and green grass fill the picture down to the bottom edge.",
       "image": "page8.png",
       "location_id": "loc1"
     },
