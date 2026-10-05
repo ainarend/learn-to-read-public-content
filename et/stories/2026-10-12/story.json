@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-12",
+  "language": "et",
+  "title": "OTT JA SASS LENNUTAVAD LOHET",
+  "generatedAt": "2026-10-05T00:06:16.889Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike oranž orav koheva sabaga, kandmas rohelist kootud kampsunit, suured rõõmsad silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "SIIL SASS",
+      "type": "hedgehog",
+      "description": "Väike hall siil pehmete okastega, kandmas kollast salli, uudishimulikud silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene park künkal",
+      "description": "Autumn park on a grassy hill with colorful orange and yellow oak trees in the background, a small wooden bench on the left side, clear blue sky with a gentle breeze, bright autumn light. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ORAV OTT JA SIIL SASS LÄHEVAD ÕUE.",
+      "scene": "Orav Ott in a green knitted sweater and Siil Sass in a yellow scarf stand together on a grassy autumn hill. Colorful red and orange trees are in the background, with a small wooden bench on the left side. Blue sky above. Both look happy and excited. Landscape composition.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "SUUR TUUL PUHUB ÕUES KÕVASTI.",
+      "scene": "On the same autumn hill, colourful autumn leaves are blowing through the air in the wind. Orav Ott and Siil Sass stand together, holding onto their clothes as the wind blows their green sweater and yellow scarf gently. The bright blue sky has light windy swirls. Landscape composition.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "OTT TOOB VÄLJA PUNASE LOHE.",
+      "scene": "Orav Ott stands on the grassy hill holding a bright diamond-shaped red kite with long colorful ribbons. Siil Sass stands beside Ott, pointing at the kite with a delighted expression. The background shows the same autumn hill with colorful trees and yellow wooden bench. Landscape composition.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SASS HOIAB KOLLAST NÖÖRI.",
+      "scene": "Siil Sass holds a roll of thick bright yellow string tightly with both hands, standing on the grassy hill. Orav Ott stands nearby, ready to release the red kite into the air. Green sweater on Ott, yellow scarf on Sass. Autumn background with trees and blue sky. Landscape composition.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LOHE LENDAB SUURE HOOGA ÕHKU.",
+      "scene": "The diamond-shaped red kite flies up into the bright blue sky. Siil Sass stands on the grassy hill below holding the yellow string, looking up in awe. Orav Ott raises his hands in excitement. Trees with orange leaves frame the hill. Landscape composition.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PUNANE LOHE TANTSIB KÕRGEL ÕHUS.",
+      "scene": "High in the bright blue sky, the red kite with fluttering ribbons dances gracefully in the wind. Below on the grassy hill, small figures of Orav Ott and Siil Sass can be seen looking up happily, holding the yellow string. Colorful autumn trees around the hill. Landscape composition.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SÕBRAD VAATAVAD ILUSAT LOHET KOOS.",
+      "scene": "Orav Ott and Siil Sass stand side by side on the grassy hill, both holding the yellow string together and looking up smiling at the red kite floating high in the sky. Warm autumn sunlight glows on the trees and grass. Landscape composition.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "OTT JA SASS ON VÄGA ÕNNELIKUD.",
+      "scene": "Orav Ott and Siil Sass jump happily on the grassy hill, cheering and clapping. The red kite flies steadily in the blue sky above them. The colorful autumn leaves create a bright frame. Both characters have big joyful smiles. Landscape composition.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
