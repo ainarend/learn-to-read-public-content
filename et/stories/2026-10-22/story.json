@@ -36,56 +36,56 @@
   "pages": [
     {
       "pageNumber": 1,
-      "text": "MARI JA PEETER VAATAVAD AKNAST",
-      "scene": "Mari, a 5-year-old girl with blonde pigtails in a yellow jacket, and Peeter, a 6-year-old boy in a red jacket, stand together inside the cozy hallway (loc1) looking out a big glass window. Outside the window, colorful autumn leaves are falling from trees. The hallway has cream walls, light wooden floor, and a wooden bench. Both children have happy curious expressions.",
+      "text": "MARI JA PEETER VAATAVAD AKNAST.",
+      "scene": "Mari, a 5-year-old girl with blonde pigtails in a yellow jacket, and Peeter, a 6-year-old boy in a red jacket, stand together in their socks, with no boots on yet, inside the cozy hallway (loc1) looking out a big glass window. A pair of bright blue and a pair of bright green rubber boots stand on the floor next to the wooden bench. Outside the window, colorful autumn leaves are falling from trees. The hallway has cream walls, light wooden floor, and a wooden bench. Both children have happy curious expressions.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NAD PANEVAD SAAPAD JALGA",
+      "text": "NAD PANEVAD SAAPAD JALGA.",
       "scene": "Mari and Peeter sit on a small wooden bench in the hallway (loc1). Mari is pulling on bright blue rubber boots over her feet while wearing her yellow jacket. Peeter is putting on bright green rubber boots while wearing his red jacket. They are getting ready to go outside, smiling happily.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "LAPSED LÄHEVAD AEDA MÄNGIMA",
+      "text": "LAPSED LÄHEVAD AEDA MÄNGIMA.",
       "scene": "Mari (yellow jacket, blue boots) and Peeter (red jacket, green boots) walk side-by-side into the sunny autumn garden (loc2). Bright orange, yellow, and red leaves are scattered across the green grass. Colorful trees stand in the background under a blue sky.",
       "image": "page3.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 4,
-      "text": "PEETER VÕTAB SUURE REHA",
+      "text": "PEETER VÕTAB SUURE REHA.",
       "scene": "Peeter (red jacket, green boots) stands in the autumn garden (loc2) holding a long wooden garden rake with a red rake head. He smiles proudly. Mari (yellow jacket, blue boots) stands beside him, pointing excitedly at the colorful leaves on the grass.",
       "image": "page4.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 5,
-      "text": "MARI REHITSEB LEHED KOKKU",
+      "text": "MARI REHITSEB LEHED KOKKU.",
       "scene": "Mari (yellow jacket, blue boots) holds a smaller garden rake and pulls red and yellow leaves together on the lawn in the garden (loc2). Peeter (red jacket, green boots) helps her using his big rake. The leaves are forming a nice growing pile.",
       "image": "page5.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 6,
-      "text": "NAD TEEVAD SUURE LEHEKUHJA",
+      "text": "NAD TEEVAD SUURE LEHEKUHJA.",
       "scene": "Mari and Peeter stand next to a huge, giant pile of colorful autumn leaves in the middle of the garden lawn (loc2). They both hold their rakes in hand and look at the tall leaf mound with big proud smiles.",
       "image": "page6.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 7,
-      "text": "LAPSED HÜPPAVAD LEHTEDE SISSE",
+      "text": "LAPSED HÜPPAVAD LEHTEDE SISSE.",
       "scene": "Mari (yellow jacket, blue boots) and Peeter (red jacket, green boots) jump together mid-air straight into the huge pile of colorful autumn leaves in the garden (loc2). Leaves fly up cheerfully around them as they leap with open arms and joyful expressions.",
       "image": "page7.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 8,
-      "text": "MARI JA PEETER ON ÕNNELIKUD",
+      "text": "MARI JA PEETER ON ÕNNELIKUD.",
       "scene": "Mari and Peeter are sitting right in the middle of the soft pile of autumn leaves in the garden (loc2), covered in bright red, orange, and yellow leaves. They are laughing joyfully together under the sunny autumn sky.",
       "image": "page8.png",
       "location_id": "loc2"
