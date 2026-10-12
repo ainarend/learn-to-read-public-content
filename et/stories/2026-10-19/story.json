@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-19",
+  "language": "et",
+  "title": "KATI JA JUSS KORJAVAD KÕRVITSAID",
+  "generatedAt": "2026-10-12T00:20:05.903Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KARU KATI",
+      "type": "bear",
+      "description": "Väike pruun karu kollase kootud kampsuniga, suurte ümarate kõrvade ja säravate pruunide silmadega, sõbralik ja naeratav. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "JÄNES JUSS",
+      "type": "rabbit",
+      "description": "Väike valge jänes sinise tunkepüksiga, pikkade pehmete kõrvade ja punase ninaga, rõõmus ja tegus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene köögiviljaaed",
+      "description": "Cozy autumn vegetable garden with a dark brown wooden fence, green patch with orange leaves, soil bed, single wooden wheelbarrow standing by the fence. Warm autumn sunlight, background trees with orange and red leaves. Cute cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Õuduseta soe köök",
+      "description": "Cozy kitchen with light blue walls, dark wooden floor, small wooden kitchen table in center, single window on back wall showing yellow autumn trees outside, green stove in corner. Soft warm indoor lighting. Cute cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KARU KATI JA JÄNES JUSS ON AIAS",
+      "scene": "Karu Kati (a cute brown bear in a yellow sweater) and Jänes Juss (a cute white rabbit in blue overalls) stand side by side in an autumn garden next to a wooden wheelbarrow. They are waving happily. Yellow and orange autumn leaves lie on the grass around them. Warm sunlight streams down, with a brown wooden fence in the background.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "AIAS KASVAB SUUR KOLLANE KÕRVITS",
+      "scene": "In the same autumn garden, a huge bright orange-yellow pumpkin sits in the middle of a dirt patch surrounded by green vine leaves. Karu Kati and Jänes Juss point at the big pumpkin with open wide eyes and happy excited expressions. The wooden wheelbarrow stands nearby near the brown wooden fence.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "KATI JA JUSS VEAVAD VÄIKEST KÄRU",
+      "scene": "Jänes Juss pulls the wooden wheelbarrow towards the big pumpkin in the garden while Karu Kati pushes it gently from behind. Both are smiling and looking focused on their task. The big pumpkin rests on the ground right in front of them near the brown wooden fence.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "JUSS LEIAB SUURE KOLLASE KÕRVITSA",
+      "scene": "Jänes Juss kneels next to the large orange-yellow pumpkin in the garden, touching its top excitedly. Karu Kati stands next to him cheerily clapping her paws. The wooden wheelbarrow is positioned right beside them in the autumn garden.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KATI TÕSTAB KÕRVITSA KÄRUSSE",
+      "scene": "Karu Kati carefully lifts the large orange-yellow pumpkin into the wooden wheelbarrow using both paws. Jänes Juss holds the handles of the wheelbarrow steady to keep it still, smiling with delight in the autumn garden.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD VEAVAD KÄRU KOJU KÖÖKI",
+      "scene": "Inside the cozy kitchen with light blue walls and dark wooden floor, Jänes Juss and Karu Kati are wheeling the wooden wheelbarrow containing the big orange pumpkin into the room. A green stove and small wooden table are visible.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KATI JA JUSS TEEVAD SOOJA SUPPI",
+      "scene": "Inside the cozy kitchen with light blue walls, Karu Kati stands at the wooden table stirring a large pot of steaming orange pumpkin soup with a wooden spoon. Jänes Juss stands on a small stool next to her, holding a wooden bowl and smiling happily. Slices of pumpkin lie on the wooden table.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KÕRVITSASUPP MAITSEB VÄGA HÄSTI",
+      "scene": "Karu Kati and Jänes Juss sit at the small wooden table in the cozy kitchen, each holding a wooden spoon and eating soup from full wooden bowls. Warm steam rises from the delicious pumpkin soup. Both characters have happy, satisfied expressions.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    }
+  ]
+}
