@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "MARI",
       "type": "human",
-      "description": "Väike inimene, tüdruk heledate õlgadeni juustega, peas kollane lips ja valged kohevad kõrvaklapid, seljas kollane jope ja sinised püksid, jalas punased kummikud. Sõbralik ja rõõmus näoilme. Armas multifilmistiil.",
+      "description": "Väike inimene, umbes 5-aastane tüdruk heledate sirgete õlgadeni juustega, peas kollane juuksepael ja valged kõrvasoojendajad, seljas kollane vest ja sinine pluus, sinised püksid, jalas punased kummikud. Sõbralik ja rõõmus näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
@@ -52,7 +52,7 @@
     {
       "pageNumber": 4,
       "text": "PEETER VÕTAB KA REHA.",
-      "scene": "Peeter stands smiling, holding a complete wooden garden rake with a long wooden handle and a toothed rake head at the bottom, its teeth resting on the grass. Mari stands next to him holding her own complete wooden rake, with a long handle and a toothed rake head at the bottom. They are both ready to work in the autumn garden.",
+      "scene": "Peeter stands smiling, holding a complete wooden garden rake with a long wooden handle and a toothed rake head at the bottom, its teeth resting on the grass. Mari stands next to him holding her own complete wooden rake, with a long handle and a toothed rake head at the bottom. They are both ready to work in the autumn garden. Mari is a 5-year-old girl with straight blonde shoulder-length hair, a yellow hair bow, white earmuffs, a yellow puffer vest over a blue top, blue trousers and red rubber boots. Peeter is a 6-year-old boy with short brown hair, a green hoodie, brown trousers and yellow rubber boots.",
       "image": "page4.png",
       "location_id": "loc1"
     },
@@ -66,7 +66,7 @@
     {
       "pageNumber": 6,
       "text": "LEHEHUNNIK ON VÄGA SUUR.",
-      "scene": "Mari and Peeter stand proudly beside a huge, tall pile of gathered red, orange, and yellow autumn leaves. They lean happily on their wooden rakes, looking at the massive leaf pile.",
+      "scene": "Mari and Peeter stand proudly beside a huge, tall pile of gathered red, orange, and yellow autumn leaves. They lean happily on their wooden rakes, looking at the massive leaf pile. Mari is a 5-year-old girl with straight blonde shoulder-length hair, a yellow hair bow, white earmuffs, a yellow puffer vest over a blue top, blue trousers and red rubber boots. Peeter is a 6-year-old boy with short brown hair, a green hoodie, brown trousers and yellow rubber boots.",
       "image": "page6.png",
       "location_id": "loc1"
     },
@@ -87,7 +87,7 @@
     {
       "pageNumber": 9,
       "text": "LAPSED NAERAVAD RÕÕMSALT KOOS.",
-      "scene": "Mari and Peeter sit side by side inside the huge leaf pile, covered in colorful autumn leaves, laughing together with arms raised in joy. Their two wooden rakes, with wooden handles and wooden heads, lie flat on the grass beside the pile.",
+      "scene": "Mari and Peeter sit side by side inside the huge leaf pile, covered in colorful autumn leaves, laughing together with arms raised in joy. Their two wooden rakes, with wooden handles and wooden heads, lie flat on the grass beside the pile. Mari is a 5-year-old girl with straight blonde shoulder-length hair, a yellow hair bow, white earmuffs, a yellow puffer vest over a blue top, blue trousers and red rubber boots. Peeter is a 6-year-old boy with short brown hair, a green hoodie, brown trousers and yellow rubber boots.",
       "image": "page9.png",
       "location_id": "loc1"
     }
