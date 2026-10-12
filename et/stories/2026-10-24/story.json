@@ -8,14 +8,14 @@
       "id": "char1",
       "name": "KOER KUSTI",
       "type": "dog",
-      "description": "Väike kollakaspruun koer suurte loperdavate kõrvadega, kandmas sinist triibulist salli, sõbraliku ja rõõmsameelse ilmega. Armas ja multifilmilik stiil.",
+      "description": "Väike kollakaspruun koer suurte loperdavate kõrvadega, kandmas siniseid triibulisi traksipükse, sõbraliku ja rõõmsameelse ilmega. Armas ja multifilmilik stiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
       "name": "JÄNES JUSSI",
       "type": "rabbit",
-      "description": "Väike valge jänes pikkade kõrvadega, kandmas kollast kampsunit, uudishimulike säravate silmadega ja naeratava näoga. Armas ja multifilmilik stiil.",
+      "description": "Väike valge jänes pikkade kõrvadega, kandmas kollast kapuutsiga vihmamantlit, uudishimulike säravate silmadega ja naeratava näoga. Armas ja multifilmilik stiil.",
       "image": "char2.png"
     }
   ],
@@ -31,42 +31,42 @@
     {
       "pageNumber": 1,
       "text": "KUSTI JA JUSSI ON PARGIS.",
-      "scene": "Koer Kusti (a small tan dog wearing a blue striped scarf) and Jänes Jussi (a small white rabbit in a yellow sweater) stand side by side on a grassy green hill in an autumn park. Colorful yellow and red leaves fall gently from trees in the background. Kusti and Jussi are smiling brightly under a soft blue sky.",
+      "scene": "Koer Kusti (a small tan dog wearing blue striped overalls) and Jänes Jussi (a small white rabbit in a yellow hooded raincoat) stand side by side on a grassy green hill in an autumn park. Colorful yellow and red leaves fall gently from trees in the background. Kusti and Jussi are smiling brightly under a soft blue sky. Koer Kusti is a small tan dog with big floppy ears in blue striped overalls; Jänes Jussi is a small white rabbit in a yellow hooded raincoat. The grassy hill fills the picture right down to the bottom edge, with no blurred or plain band at the bottom.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "ÕUES PUHUB TUGEV TUUL.",
-      "scene": "In the same autumn park, wind gently rustles through the colorful autumn trees. Leaves blow through the air. Koer Kusti and Jänes Jussi look up at the sky with excited expressions as Kusti's scarf and Jussi's ears flutter softly in the breeze.",
+      "scene": "In the same autumn park, wind gently rustles through the colorful autumn trees. Leaves blow through the air. Koer Kusti and Jänes Jussi look up at the sky with excited expressions as Kusti's ears and Jussi's ears flutter softly in the breeze. Koer Kusti is a small tan dog with big floppy ears in blue striped overalls; Jänes Jussi is a small white rabbit in a yellow hooded raincoat. The grassy hill fills the picture right down to the bottom edge, with no blurred or plain band at the bottom.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
-      "text": "SÕBRAD TEEVAD VÄRVILISE LOHE.",
-      "scene": "Koer Kusti and Jänes Jussi are sitting together on the grass in the park, holding a brightly colored diamond-shaped kite made of red, yellow, and blue plastic with long ribbons at the tail. Both look happy and proud.",
+      "text": "SÕBRADEL ON VÄRVILINE LOHE.",
+      "scene": "Koer Kusti and Jänes Jussi are sitting together on the grass in the park, holding a brightly colored diamond-shaped kite made of red, yellow, and blue plastic with long ribbons at the tail. Both look happy and proud. Koer Kusti is a small tan dog with big floppy ears in blue striped overalls; Jänes Jussi is a small white rabbit in a yellow hooded raincoat. The grassy hill fills the picture right down to the bottom edge, with no blurred or plain band at the bottom.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "JUSSI HOIAB TUGEVALT NÖÖRI.",
-      "scene": "Jänes Jussi stands firmly on the green grass in the park, holding tightly onto a wooden spool with white kite string. He looks up with a cheerful smile.",
+      "scene": "Jänes Jussi stands firmly on the green grass in the park, holding tightly onto a wooden spool with white kite string. Koer Kusti stands nearby holding the red, yellow and blue diamond kite with long ribbons. He looks up with a cheerful smile. Koer Kusti is a small tan dog with big floppy ears in blue striped overalls; Jänes Jussi is a small white rabbit in a yellow hooded raincoat. The grassy hill fills the picture right down to the bottom edge, with no blurred or plain band at the bottom.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "KUSTI JOOKSEB KIIRESTI MÖÖDA MURU.",
-      "scene": "Koer Kusti runs happily across the green grassy hill in the park, holding the colorful kite up to lift it into the autumn air. Leaves float gently around.",
+      "scene": "Koer Kusti runs happily across the green grassy hill in the park, holding the red, yellow and blue diamond kite with long ribbons up to lift it into the autumn air. Leaves float gently around. Koer Kusti is a small tan dog with big floppy ears in blue striped overalls; Jänes Jussi is a small white rabbit in a yellow hooded raincoat. The grassy hill fills the picture right down to the bottom edge, with no blurred or plain band at the bottom.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "VÄRVILINE LOHE LENDAB KÕRGELE.",
-      "scene": "The colorful diamond kite with long ribbons floats high up in the blue sky above the park. Down below on the grassy hill, Koer Kusti and Jänes Jussi look up, waving their paws merrily.",
+      "scene": "The red, yellow and blue diamond kite with long ribbons floats high up in the blue sky above the park. Down below on the grassy hill, Koer Kusti and Jänes Jussi look up, waving their paws merrily. Koer Kusti is a small tan dog with big floppy ears in blue striped overalls; Jänes Jussi is a small white rabbit in a yellow hooded raincoat. The grassy hill fills the picture right down to the bottom edge, with no blurred or plain band at the bottom.",
       "image": "page6.png",
       "location_id": "loc1"
     },
@@ -80,21 +80,21 @@
     {
       "pageNumber": 8,
       "text": "KUSTI JA JUSSI RÕÕMUSTAVAD KOOS.",
-      "scene": "Koer Kusti and Jänes Jussi jump happily together on the green hill in the park, looking up at the sky with big cheerful smiles.",
+      "scene": "Koer Kusti and Jänes Jussi jump happily together on the green hill in the park, looking up at the sky with big cheerful smiles. Koer Kusti is a small tan dog with big floppy ears in blue striped overalls; Jänes Jussi is a small white rabbit in a yellow hooded raincoat. The grassy hill fills the picture right down to the bottom edge, with no blurred or plain band at the bottom.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
       "text": "NAD LENNUTAVAD LOHET KAUA.",
-      "scene": "Koer Kusti and Jänes Jussi stand together holding the string spool, happily watching the colorful kite soar high in the sunny sky above the golden park trees.",
+      "scene": "Koer Kusti and Jänes Jussi stand together holding the string spool, happily watching the red, yellow and blue diamond kite with long ribbons soar high in the sunny sky above the golden park trees. Koer Kusti is a small tan dog with big floppy ears in blue striped overalls; Jänes Jussi is a small white rabbit in a yellow hooded raincoat. The grassy hill fills the picture right down to the bottom edge, with no blurred or plain band at the bottom.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
       "text": "SEE ON ILUS SÜGISPÄEV.",
-      "scene": "Wide peaceful shot of the autumn park. Koer Kusti and Jänes Jussi sit side by side on the grassy hill under a bright autumn sun, admiring their kite flying far above. Warm and satisfying scene.",
+      "scene": "Wide peaceful shot of the autumn park. Koer Kusti and Jänes Jussi sit side by side on the grassy hill under a bright autumn sun, admiring the red, yellow and blue diamond kite with long ribbons flying far above. Jänes Jussi holds the wooden string spool in his paws and the string runs from it up to the kite. Warm and satisfying scene. Koer Kusti is a small tan dog with big floppy ears in blue striped overalls; Jänes Jussi is a small white rabbit in a yellow hooded raincoat. The grassy hill fills the picture right down to the bottom edge, with no blurred or plain band at the bottom.",
       "image": "page10.png",
       "location_id": "loc1"
     }
