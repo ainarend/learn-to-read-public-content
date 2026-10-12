@@ -8,14 +8,14 @@
       "id": "char1",
       "name": "KARU KATI",
       "type": "bear",
-      "description": "Väike pruun karu suurte ümarate kõrvade ja säravate pruunide silmadega, peas kuldne kootud tutimüts, riideid pole. Sõbralik ja naeratav. Armas multifilmistiil.",
+      "description": "Väike pruun karu suurte ümarate kõrvade ja säravate pruunide silmadega, peas kuldne kootud tutiga müts ilma nokata, muid riideid pole. Sõbralik ja naeratav. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
       "name": "JÄNES JUSS",
       "type": "rabbit",
-      "description": "Väike valge jänes sinise kraega särgiga, pikkade pehmete kõrvade ja roosa ninaga, rõõmus ja tegus. Armas multifilmistiil.",
+      "description": "Väike valge jänes ühevärvilise sinise lühikeste varrukatega kraega särgiga (ilma mustrita, ilma vestita), peas pole midagi, pikkade pehmete kõrvade ja roosa ninaga, rõõmus ja tegus. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
@@ -37,56 +37,56 @@
     {
       "pageNumber": 1,
       "text": "KARU KATI JA JÄNES JUSS ON AIAS.",
-      "scene": "Karu Kati (a cute brown bear in a golden knitted bobble hat) and Jänes Juss (a cute white rabbit in a blue collared shirt) stand side by side in an autumn garden next to a wooden wheelbarrow. They are waving happily. Yellow and orange autumn leaves lie on the grass around them. Warm sunlight streams down, with a brown wooden fence in the background.",
+      "scene": "Karu Kati (a cute brown bear in a golden knitted bobble hat) and Jänes Juss (a cute white rabbit in a blue collared shirt) stand side by side in an autumn garden next to a wooden wheelbarrow. They are waving happily. Yellow and orange autumn leaves lie on the grass around them. Warm sunlight streams down, with a brown wooden fence in the background. Karu Kati is a brown bear with a golden knitted beanie with a pompom (no brim) and no clothes; Jänes Juss is a white rabbit with a pink nose, nothing on his head, wearing a plain solid blue short-sleeved polo shirt with no pattern and no vest. The grass and fallen leaves are painted in full detail all the way down to the very bottom edge of the picture.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "AIAS KASVAB SUUR KOLLANE KÕRVITS.",
-      "scene": "In the same autumn garden, a huge bright orange-yellow pumpkin sits in the middle of a dirt patch surrounded by green vine leaves. Karu Kati and Jänes Juss point at the big pumpkin with open wide eyes and happy excited expressions. The wooden wheelbarrow stands nearby near the brown wooden fence.",
+      "scene": "In the same autumn garden, a huge bright orange-yellow pumpkin sits in the middle of a dirt patch surrounded by green vine leaves. Karu Kati and Jänes Juss point at the big pumpkin with open wide eyes and happy excited expressions. The wooden wheelbarrow stands nearby near the brown wooden fence. Karu Kati is a brown bear with a golden knitted beanie with a pompom (no brim) and no clothes; Jänes Juss is a white rabbit with a pink nose, nothing on his head, wearing a plain solid blue short-sleeved polo shirt with no pattern and no vest. The grass and fallen leaves are painted in full detail all the way down to the very bottom edge of the picture.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "KATI JA JUSS VEAVAD VÄIKEST KÄRU.",
-      "scene": "Jänes Juss walks in front of the wooden wheelbarrow, pulling it by the front towards the big pumpkin, while Karu Kati pushes it from behind by the handles. Both are smiling and focused. The same huge orange pumpkin rests on the ground ahead of them, near the brown wooden rail fence. Karu Kati is a brown bear with a golden knitted bobble hat and no clothes; Jänes Juss is a white rabbit with a pink nose in a blue collared shirt. The grass and garden fill the picture right down to the bottom edge; there is no plain colored stripe or band at the bottom.",
+      "scene": "Jänes Juss walks in front of the wooden wheelbarrow, pulling it by the front towards the big pumpkin, while Karu Kati pushes it from behind by the handles. Both are smiling and focused. The same huge orange pumpkin rests on the ground ahead of them, near the brown wooden rail fence. Karu Kati is a brown bear with a golden knitted beanie with a pompom (no brim) and no clothes; Jänes Juss is a white rabbit with a pink nose, nothing on his head, wearing a plain solid blue short-sleeved polo shirt with no pattern and no vest. The grass and fallen leaves are painted in full detail all the way down to the very bottom edge of the picture.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "JUSS KATSUB SUURT KOLLAST KÕRVITSAT.",
-      "scene": "Jänes Juss kneels next to the same huge orange-yellow pumpkin as before in the garden, touching its top excitedly. Karu Kati stands next to him cheerily clapping her paws. The wooden wheelbarrow is positioned right beside them in the autumn garden. Karu Kati is a brown bear with a golden knitted bobble hat and no clothes; Jänes Juss is a white rabbit with a pink nose in a blue collared shirt. The grass and garden fill the picture right down to the bottom edge; there is no plain colored stripe or band at the bottom.",
+      "scene": "Jänes Juss kneels next to the same huge orange-yellow pumpkin as before in the garden, touching its top excitedly. Karu Kati stands next to him cheerily clapping her paws. The wooden wheelbarrow is positioned right beside them in the autumn garden. Karu Kati is a brown bear with a golden knitted beanie with a pompom (no brim) and no clothes; Jänes Juss is a white rabbit with a pink nose, nothing on his head, wearing a plain solid blue short-sleeved polo shirt with no pattern and no vest. The grass and fallen leaves are painted in full detail all the way down to the very bottom edge of the picture.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "KATI TÕSTAB KÕRVITSA KÄRUSSE.",
-      "scene": "Karu Kati carefully lifts the large orange-yellow pumpkin into the wooden wheelbarrow using both paws. Jänes Juss holds the handles of the wheelbarrow steady to keep it still, smiling with delight in the autumn garden. Karu Kati is a brown bear with a golden knitted bobble hat and no clothes; Jänes Juss is a white rabbit with a pink nose in a blue collared shirt. The grass and garden fill the picture right down to the bottom edge; there is no plain colored stripe or band at the bottom.",
+      "scene": "Karu Kati carefully lifts the large orange-yellow pumpkin into the one wooden wheelbarrow (there is only one wheelbarrow in the picture) using both paws. Jänes Juss holds the handles of the wheelbarrow steady to keep it still, smiling with delight in the autumn garden. Karu Kati is a brown bear with a golden knitted beanie with a pompom (no brim) and no clothes; Jänes Juss is a white rabbit with a pink nose, nothing on his head, wearing a plain solid blue short-sleeved polo shirt with no pattern and no vest. The grass and fallen leaves are painted in full detail all the way down to the very bottom edge of the picture.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "NAD VEAVAD KÄRU KOJU KÖÖKI.",
-      "scene": "Inside the cozy kitchen with light blue walls and dark wooden floor, Jänes Juss and Karu Kati push the wooden wheelbarrow with the big orange pumpkin across the wooden floor in the foreground. The small wooden table stands separately in the background by the window, not in front of the wheelbarrow; the green stove is in the corner. Karu Kati is a brown bear with a golden knitted bobble hat and no clothes; Jänes Juss is a white rabbit with a pink nose in a blue collared shirt.",
+      "scene": "Inside the cozy kitchen with light blue walls and dark wooden floor, Jänes Juss and Karu Kati push the wooden wheelbarrow with the big orange pumpkin across the wooden floor in the foreground. The small wooden table stands separately in the background by the window, not in front of the wheelbarrow; the green stove is in the corner. Karu Kati is a brown bear with a golden knitted beanie with a pompom (no brim) and no clothes; Jänes Juss is a white rabbit with a pink nose, nothing on his head, wearing a plain solid blue short-sleeved polo shirt with no pattern and no vest.",
       "image": "page6.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 7,
       "text": "KATI JA JUSS TEEVAD SOOJA SUPPI.",
-      "scene": "Inside the cozy kitchen with light blue walls, Karu Kati stands at the wooden table stirring a large pot of steaming orange pumpkin soup with a wooden spoon. Jänes Juss stands on a small stool next to her, holding a wooden bowl and smiling happily. Slices of pumpkin lie on the wooden table.",
+      "scene": "Inside the cozy kitchen with light blue walls, Karu Kati stands at the wooden table stirring a large pot of steaming orange pumpkin soup with a wooden spoon. Jänes Juss stands on a small stool next to her, holding a wooden bowl and smiling happily. Slices of pumpkin lie on the wooden table. Karu Kati is a brown bear with a golden knitted beanie with a pompom (no brim) and no clothes; Jänes Juss is a white rabbit with a pink nose, nothing on his head, wearing a plain solid blue short-sleeved polo shirt with no pattern and no vest.",
       "image": "page7.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 8,
       "text": "KÕRVITSASUPP MAITSEB VÄGA HÄSTI.",
-      "scene": "Karu Kati and Jänes Juss sit at the small wooden table in the cozy kitchen, each holding a wooden spoon and eating soup from full wooden bowls. Warm steam rises from the delicious pumpkin soup. Both characters have happy, satisfied expressions.",
+      "scene": "Karu Kati and Jänes Juss sit at the small wooden table in the cozy kitchen, each holding a wooden spoon and eating soup from full wooden bowls. Warm steam rises from the delicious pumpkin soup. Both characters have happy, satisfied expressions. Karu Kati is a brown bear with a golden knitted beanie with a pompom (no brim) and no clothes; Jänes Juss is a white rabbit with a pink nose, nothing on his head, wearing a plain solid blue short-sleeved polo shirt with no pattern and no vest.",
       "image": "page8.png",
       "location_id": "loc2"
     }
