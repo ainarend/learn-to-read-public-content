@@ -8,14 +8,14 @@
       "id": "char1",
       "name": "SIIL SAMMI",
       "type": "hedgehog",
-      "description": "Väike hall siil pehmete pruunide okastega, kandmas rohelist kootud salli ja kollaseid kummikuid. Suured uudishimulikud mustad silmad ja armas naeratus. Armas ja soe multifilmistiil.",
+      "description": "Väike siil, seljas palju pehmeid pruune okkaid, kaelas roheline kootud sall, jalas kollased kummikud. Ilma kampsunita. Suured uudishimulikud mustad silmad ja armas naeratus. Armas ja soe multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
       "name": "ORAV OLLE",
       "type": "squirrel",
-      "description": "Väike oranž orav koheva sabaga, kandmas siniseid traksipükse. Rõõmsameelne näoilme, suured säravad silmad ja ümarad kõrvatutid. Armas multifilmistiil.",
+      "description": "Väike oranž orav suure koheva oravasabaga, ilma triipudeta ja ilma prillideta, kandmas siniseid traksipükse. Rõõmsameelne näoilme, suured säravad silmad ja ümarad kõrvatutid. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
@@ -37,56 +37,56 @@
     {
       "pageNumber": 1,
       "text": "SAMMI JA OLLE ON KUURIS.",
-      "scene": "Siil Sammi wearing a green scarf and yellow boots, and Orav Olle in blue overalls stand together inside a cozy wooden garden shed. They are near a small wooden workbench. On the workbench are small wood scraps. Sammi and Olle look at each other with happy smiling expressions. Sunlight streams through the back window showing orange autumn leaves outside.",
+      "scene": "Siil Sammi wearing a green scarf and yellow boots, and Orav Olle in blue overalls stand together inside a cozy wooden garden shed. They are near a small wooden workbench. On the workbench are small wood scraps. Sammi and Olle look at each other with happy smiling expressions. Sunlight streams through the back window showing orange autumn leaves outside. Siil Sammi is a hedgehog with soft brown quills, a green knitted scarf and yellow rubber boots, no sweater. Orav Olle is a red squirrel (not a cat) with a big bushy squirrel tail without stripes, no glasses, wearing blue overalls. The picture fills the whole frame with no black bars and no plain band at the bottom.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "NAD TEEVAD PUUST VÄIKESE LAEVA.",
-      "scene": "Siil Sammi gently shapes a small wooden toy boat body on the wooden workbench. Orav Olle stands beside him holding a smooth wooden stick, looking excited. The garden shed has warm wooden walls, the workbench, and a back window with autumn trees visible.",
+      "scene": "Siil Sammi gently shapes a small wooden toy boat body on the wooden workbench. Orav Olle stands beside him holding a smooth wooden stick, looking excited. The garden shed has warm wooden walls, the workbench, and a back window with autumn trees visible. Siil Sammi is a hedgehog with soft brown quills, a green knitted scarf and yellow rubber boots, no sweater. Orav Olle is a red squirrel (not a cat) with a big bushy squirrel tail without stripes, no glasses, wearing blue overalls. The picture fills the whole frame with no black bars and no plain band at the bottom.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "OLLE PANEB LAEVALE KOLLASE PURJE.",
-      "scene": "Orav Olle carefully attaches a bright yellow autumn leaf as a sail to the stick mast on the small wooden toy boat resting on the workbench. Siil Sammi watches joyfully with hands clasped. The background shed remains identical with wooden walls and window.",
+      "scene": "Orav Olle himself, with his own paws, carefully attaches a bright yellow autumn leaf as a sail to the stick mast on the small wooden toy boat resting on the workbench. Siil Sammi watches joyfully with hands clasped. The background shed remains identical with wooden walls and window. Siil Sammi is a hedgehog with soft brown quills, a green knitted scarf and yellow rubber boots, no sweater. Orav Olle is a red squirrel (not a cat) with a big bushy squirrel tail without stripes, no glasses, wearing blue overalls. The picture fills the whole frame with no black bars and no plain band at the bottom.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "SÕBRAD LÄHEVAD SUURE LOIGU JUURDE.",
-      "scene": "Siil Sammi and Orav Olle walk across the green grass in the sunny garden towards a large rainwater puddle. Siil Sammi carefully holds the little wooden boat with its yellow leaf sail in both hands. Colorful autumn leaves are scattered on the grass under a bright sky.",
+      "scene": "Siil Sammi and Orav Olle walk across the green grass in the sunny garden towards a large rainwater puddle. Siil Sammi carefully holds the little wooden boat with its yellow leaf sail in both hands. Colorful autumn leaves are scattered on the grass under a bright sky. Siil Sammi is a hedgehog with soft brown quills, a green knitted scarf and yellow rubber boots, no sweater. Orav Olle is a red squirrel (not a cat) with a big bushy squirrel tail without stripes, no glasses, wearing blue overalls. The picture fills the whole frame with no black bars and no plain band at the bottom.",
       "image": "page4.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 5,
       "text": "SAMMI PANEB LAEVA VETTE UJUMA.",
-      "scene": "Siil Sammi kneels gently at the edge of the clear rainwater puddle and places the small wooden boat into the water. Orav Olle stands right beside him watching with big excited eyes. The yellow leaf sail stands upright on the floating toy boat.",
+      "scene": "Siil Sammi kneels gently at the edge of the clear rainwater puddle and places the small wooden boat into the water. Orav Olle stands right beside him watching with big excited eyes. The yellow leaf sail stands upright on the floating toy boat. Siil Sammi is a hedgehog with soft brown quills, a green knitted scarf and yellow rubber boots, no sweater. Orav Olle is a red squirrel (not a cat) with a big bushy squirrel tail without stripes, no glasses, wearing blue overalls. The picture fills the whole frame with no black bars and no plain band at the bottom.",
       "image": "page5.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 6,
       "text": "TUUL PUHUB OTSE PURJESSE.",
-      "scene": "A light autumn breeze blows across the rainwater puddle in the garden. The bright yellow leaf sail catches the wind, creating small ripples in the clear water. Siil Sammi and Orav Olle lean forward excitedly at the edge of the puddle, smiling happily.",
+      "scene": "The small wooden toy boat with its yellow leaf sail on a stick mast floats on the rainwater puddle in the garden; a light breeze fills the leaf sail, creating small ripples in the clear water. Siil Sammi and Orav Olle kneel at the edge of the puddle, smiling happily. Siil Sammi is a hedgehog with soft brown quills, a green knitted scarf and yellow rubber boots, no sweater. Orav Olle is a red squirrel (not a cat) with a big bushy squirrel tail without stripes, no glasses, wearing blue overalls. The picture fills the whole frame with no black bars and no plain band at the bottom.",
       "image": "page6.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 7,
       "text": "LAEV UJUB KAUGELE ÜLE LOIGU.",
-      "scene": "The little wooden toy boat floats smoothly across to the middle of the rainwater puddle. Siil Sammi and Orav Olle walk alongside the puddle edge, cheering and waving their hands in excitement.",
+      "scene": "The little wooden toy boat with its yellow leaf sail on a stick mast floats smoothly across to the middle of the rainwater puddle. Siil Sammi and Orav Olle walk alongside the puddle edge, cheering and waving their hands in excitement. Siil Sammi is a hedgehog with soft brown quills, a green knitted scarf and yellow rubber boots, no sweater. Orav Olle is a red squirrel (not a cat) with a big bushy squirrel tail without stripes, no glasses, wearing blue overalls. The picture fills the whole frame with no black bars and no plain band at the bottom.",
       "image": "page7.png",
       "location_id": "loc2"
     },
     {
       "pageNumber": 8,
       "text": "SAMMI JA OLLE ON VÄGA RÕÕMSAD.",
-      "scene": "Siil Sammi and Orav Olle high-five each other by the puddle edge in the sunny garden, jumping joyfully with big cheerful smiles. The small wooden boat with its yellow leaf sail rests at the far side of the clear puddle.",
+      "scene": "Siil Sammi and Orav Olle high-five each other by the puddle edge in the sunny garden, jumping joyfully with big cheerful smiles. The small wooden boat with its yellow leaf sail rests at the far side of the clear puddle. Siil Sammi is a hedgehog with soft brown quills, a green knitted scarf and yellow rubber boots, no sweater. Orav Olle is a red squirrel (not a cat) with a big bushy squirrel tail without stripes, no glasses, wearing blue overalls. The picture fills the whole frame with no black bars and no plain band at the bottom.",
       "image": "page8.png",
       "location_id": "loc2"
     }
