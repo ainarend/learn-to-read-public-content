@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-10-22",
+  "latestDate": "2026-10-24",
   "stories": [
+    {
+      "date": "2026-10-24",
+      "title": "KUSTI JA JUSSI LENNUTAVAD LOHET",
+      "pageCount": 10,
+      "characters": [
+        "KOER KUSTI",
+        "JÄNES JUSSI"
+      ]
+    },
     {
       "date": "2026-10-22",
       "title": "MARI JA PEETER MÄNGIVAD LEHTEDEGA",
