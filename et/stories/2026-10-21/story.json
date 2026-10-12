@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "MIISU",
       "type": "cat",
-      "description": "Väike valge kass roosa ninaga, kandmas rohelist kampsunit, suured uudishimulikud rohelised silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "description": "Üks väike valge kass roosa ninaga, kandmas rohelist kampsunit, suured uudishimulikud rohelised silmad ja sõbralik naeratus. Ainult üks tegelane. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
@@ -31,56 +31,56 @@
     {
       "pageNumber": 1,
       "text": "MIISU JA ROOSI ON SOOJAS KÖÖGIS.",
-      "scene": "Miisu the white cat in a green sweater and Roosi the orange fox in a yellow scarf stand together inside a cozy kitchen with light blue walls and a wooden floor. Sunlight and soft lamp light illuminate the room. Through the window on the back wall, yellow autumn leaves and light rain are visible. Miisu and Roosi look at each other with happy smiles.",
+      "scene": "Miisu the white cat in a green sweater and Roosi the orange fox in a yellow scarf stand together inside a cozy kitchen with light blue walls and a wooden floor. Sunlight and soft lamp light illuminate the room. Through the window on the back wall, yellow autumn leaves and light rain are visible. Miisu and Roosi look at each other with happy smiles. Miisu is a single white cat in a green knitted sweater (no pinafore). Roosi is an orange fox with a bushy tail and a yellow scarf (no overalls). There are only these two characters in the picture. The picture fills the whole frame with no black bars.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "NAD TAHAVAD KÜPSETADA MAGUSAT KOOGI.",
-      "scene": "Miisu the cat and Roosi the fox stand side by side at a simple wooden kitchen table in the light blue kitchen. On the wooden table sits a large blue mixing bowl and several red apples. Miisu points joyfully at the bowl while Roosi holds a small wooden spoon.",
+      "text": "NAD TAHAVAD KÜPSETADA MAGUSAT KOOKI.",
+      "scene": "Miisu the cat and Roosi the fox stand side by side at a simple wooden kitchen table in the light blue kitchen. On the wooden table sits a large blue mixing bowl and several red apples. Miisu points joyfully at the bowl while Roosi holds a small wooden spoon. Miisu is a single white cat in a green knitted sweater (no pinafore). Roosi is an orange fox with a bushy tail and a yellow scarf (no overalls). There are only these two characters in the picture. The picture fills the whole frame with no black bars.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "MIISU PANEB KAUSSI PUNASED ÕUNAD.",
-      "scene": "Miisu the white cat gently places sliced red apples into the large blue mixing bowl on the wooden kitchen table. Roosi the orange fox stands next to her, holding the bowl steady and smiling happily. The light blue walls and autumn window remain consistent.",
+      "scene": "Miisu the white cat gently places sliced red apples into the large blue mixing bowl on the wooden kitchen table. Roosi the orange fox stands next to her, holding the bowl steady and smiling happily. The light blue walls and autumn window remain consistent. Miisu is a single white cat in a green knitted sweater (no pinafore). Roosi is an orange fox with a bushy tail and a yellow scarf (no overalls). There are only these two characters in the picture. The picture fills the whole frame with no black bars.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
-      "text": "ROOSI SEGAB TAIGNAT SUURE LUSIKAGA.",
-      "scene": "Roosi the orange fox holds a large wooden spoon with both paws, stirring cake batter inside the blue mixing bowl on the wooden table. Miisu the cat stands beside her, watching attentively with wide happy eyes.",
+      "text": "ROOSI SEGAB TAINAST SUURE LUSIKAGA.",
+      "scene": "Roosi the orange fox holds a large wooden spoon with both paws, stirring cake batter inside the blue mixing bowl on the wooden table. Miisu the cat stands beside her, watching attentively with wide happy eyes. Miisu is a single white cat in a green knitted sweater (no pinafore). Roosi is an orange fox with a bushy tail and a yellow scarf (no overalls). There are only these two characters in the picture. The picture fills the whole frame with no black bars.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "NAD PANEVAD KOOGI SOOJA AHJU.",
-      "scene": "Miisu and Roosi together hold a round baking pan filled with batter and sliced apples, placing it into the open door of a warm, glowing oven on the right wall of the cozy kitchen.",
+      "scene": "Miisu and Roosi together hold a round baking pan filled with batter and sliced apples, placing it into the open door of a warm, glowing oven on the right wall of the cozy kitchen. Miisu is a single white cat in a green knitted sweater (no pinafore). Roosi is an orange fox with a bushy tail and a yellow scarf (no overalls). There are only these two characters in the picture. The picture fills the whole frame with no black bars.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "KÖÖGIS LÕHNAB NÜÜD VÄGA HÄSTI.",
-      "scene": "The oven door is now closed with a glowing warmth inside. Miisu the cat and Roosi the fox sit contentedly on small wooden chairs near the kitchen table, closing their eyes with delighted smiles as they sniff the delicious aroma in the warm light blue kitchen.",
+      "scene": "The oven door is now closed with a glowing warmth inside. Miisu the cat and Roosi the fox sit contentedly on small wooden chairs near the kitchen table, closing their eyes with delighted smiles as they sniff the delicious aroma in the warm light blue kitchen. Miisu is a single white cat in a green knitted sweater (no pinafore). Roosi is an orange fox with a bushy tail and a yellow scarf (no overalls). There are only these two characters in the picture. The picture fills the whole frame with no black bars.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
       "text": "SOE KOOK ON NÜÜD VALMIS.",
-      "scene": "Roosi the fox uses oven mitts to place a freshly baked, golden-brown apple cake onto the wooden kitchen table. A light, warm swirl of steam rises from the delicious cake. Miisu the cat claps her paws excitedly.",
+      "scene": "Roosi the fox uses oven mitts to place a freshly baked, golden-brown apple cake onto the wooden kitchen table. A light, warm swirl of steam rises from the delicious cake. Miisu the cat claps her paws excitedly. Miisu is a single white cat in a green knitted sweater (no pinafore). Roosi is an orange fox with a bushy tail and a yellow scarf (no overalls). There are only these two characters in the picture. The picture fills the whole frame with no black bars.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
       "text": "MIISU JA ROOSI SÖÖVAD KOOKI.",
-      "scene": "Miisu the white cat and Roosi the orange fox sit at the wooden table in the light blue kitchen. Each has a slice of golden apple cake on a small white plate in front of them, eating happily with small forks and bright smiles.",
+      "scene": "Miisu the white cat and Roosi the orange fox sit at the wooden table in the light blue kitchen. Each has a slice of golden apple cake on a small white plate in front of them, eating happily with small forks and bright smiles. Miisu is a single white cat in a green knitted sweater (no pinafore). Roosi is an orange fox with a bushy tail and a yellow scarf (no overalls). There are only these two characters in the picture. The picture fills the whole frame with no black bars.",
       "image": "page8.png",
       "location_id": "loc1"
     }
