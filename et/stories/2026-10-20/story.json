@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-20",
+  "language": "et",
+  "title": "SIIL SAMMI JA ORAV OLLE TEEVAD LAEVA",
+  "generatedAt": "2026-10-12T00:28:18.530Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SAMMI",
+      "type": "hedgehog",
+      "description": "Väike hall siil pehmete pruunide okastega, kandmas rohelist kootud salli ja kollaseid kummikuid. Suured uudishimulikud mustad silmad ja armas naeratus. Armas ja soe multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OLLE",
+      "type": "squirrel",
+      "description": "Väike oranž orav koheva sabaga, kandmas siniseid traksipükse. Rõõmsameelne näoilme, suured säravad silmad ja ümarad kõrvatutid. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Puidust tööriistakuur",
+      "description": "Cozy rustic wooden garden shed with warm wooden walls, a small wooden workbench on the left, a single window on the back wall showing red and yellow autumn leaves outside, wooden plank floor, warm natural lighting indoors. Clean cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Sügisene aed",
+      "description": "Sunny autumn garden with a large shallow rainwater puddle in the center on green grass, colorful red and yellow autumn leaves scattered on the ground, bright blue sky, cozy wooden garden fence in the background. Clean cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SAMMI JA OLLE ON KUURIS.",
+      "scene": "Siil Sammi wearing a green scarf and yellow boots, and Orav Olle in blue overalls stand together inside a cozy wooden garden shed. They are near a small wooden workbench. On the workbench are small wood scraps. Sammi and Olle look at each other with happy smiling expressions. Sunlight streams through the back window showing orange autumn leaves outside.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TEEVAD PUUST VÄIKESE LAEVA.",
+      "scene": "Siil Sammi gently shapes a small wooden toy boat body on the wooden workbench. Orav Olle stands beside him holding a smooth wooden stick, looking excited. The garden shed has warm wooden walls, the workbench, and a back window with autumn trees visible.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "OLLE PANEB LAEVALE KOLLASE PURJE.",
+      "scene": "Orav Olle carefully attaches a bright yellow autumn leaf as a sail to the stick mast on the small wooden toy boat resting on the workbench. Siil Sammi watches joyfully with hands clasped. The background shed remains identical with wooden walls and window.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SÕBRAD LÄHEVAD SUURE LOIGU JUURDE.",
+      "scene": "Siil Sammi and Orav Olle walk across the green grass in the sunny garden towards a large rainwater puddle. Siil Sammi carefully holds the little wooden boat with its yellow leaf sail in both hands. Colorful autumn leaves are scattered on the grass under a bright sky.",
+      "image": "page4.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SAMMI PANEB LAEVA VETTE UJUMA.",
+      "scene": "Siil Sammi kneels gently at the edge of the clear rainwater puddle and places the small wooden boat into the water. Orav Olle stands right beside him watching with big excited eyes. The yellow leaf sail stands upright on the floating toy boat.",
+      "image": "page5.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TUUL PUHUB OTSE PURJESSE.",
+      "scene": "A light autumn breeze blows across the rainwater puddle in the garden. The bright yellow leaf sail catches the wind, creating small ripples in the clear water. Siil Sammi and Orav Olle lean forward excitedly at the edge of the puddle, smiling happily.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LAEV UJUB KAUGELE ÜLE LOIGU.",
+      "scene": "The little wooden toy boat floats smoothly across to the middle of the rainwater puddle. Siil Sammi and Orav Olle walk alongside the puddle edge, cheering and waving their hands in excitement.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SAMMI JA OLLE ON VÄGA RÕÕMSAD.",
+      "scene": "Siil Sammi and Orav Olle high-five each other by the puddle edge in the sunny garden, jumping joyfully with big cheerful smiles. The small wooden boat with its yellow leaf sail rests at the far side of the clear puddle.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    }
+  ]
+}
