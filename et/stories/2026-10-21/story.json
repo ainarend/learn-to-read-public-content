@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-21",
+  "language": "et",
+  "title": "MIISU JA ROOSI KÜPSETAVAD KOOGI",
+  "generatedAt": "2026-10-12T00:36:17.996Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MIISU",
+      "type": "cat",
+      "description": "Väike valge kass roosa ninaga, kandmas rohelist kampsunit, suured uudishimulikud rohelised silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ROOSI",
+      "type": "fox",
+      "description": "Väike oranž rebane koheva sabaga, kandmas kollast salli, rõõmsameelne ja lahke näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Õdus köök",
+      "description": "Cozy kitchen with light blue painted walls, light wooden floor, single window on back wall showing yellow leaves and autumn rain outside, simple wooden kitchen table in center, warm lighted oven on right wall, warm cozy light from a ceiling lamp. Cute cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MIISU JA ROOSI ON SOOJAS KÖÖGIS.",
+      "scene": "Miisu the white cat in a green sweater and Roosi the orange fox in a yellow scarf stand together inside a cozy kitchen with light blue walls and a wooden floor. Sunlight and soft lamp light illuminate the room. Through the window on the back wall, yellow autumn leaves and light rain are visible. Miisu and Roosi look at each other with happy smiles.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NAD TAHAVAD KÜPSETADA MAGUSAT KOOGI.",
+      "scene": "Miisu the cat and Roosi the fox stand side by side at a simple wooden kitchen table in the light blue kitchen. On the wooden table sits a large blue mixing bowl and several red apples. Miisu points joyfully at the bowl while Roosi holds a small wooden spoon.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "MIISU PANEB KAUSSI PUNASED ÕUNAD.",
+      "scene": "Miisu the white cat gently places sliced red apples into the large blue mixing bowl on the wooden kitchen table. Roosi the orange fox stands next to her, holding the bowl steady and smiling happily. The light blue walls and autumn window remain consistent.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "ROOSI SEGAB TAIGNAT SUURE LUSIKAGA.",
+      "scene": "Roosi the orange fox holds a large wooden spoon with both paws, stirring cake batter inside the blue mixing bowl on the wooden table. Miisu the cat stands beside her, watching attentively with wide happy eyes.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD PANEVAD KOOGI SOOJA AHJU.",
+      "scene": "Miisu and Roosi together hold a round baking pan filled with batter and sliced apples, placing it into the open door of a warm, glowing oven on the right wall of the cozy kitchen.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KÖÖGIS LÕHNAB NÜÜD VÄGA HÄSTI.",
+      "scene": "The oven door is now closed with a glowing warmth inside. Miisu the cat and Roosi the fox sit contentedly on small wooden chairs near the kitchen table, closing their eyes with delighted smiles as they sniff the delicious aroma in the warm light blue kitchen.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SOE KOOK ON NÜÜD VALMIS.",
+      "scene": "Roosi the fox uses oven mitts to place a freshly baked, golden-brown apple cake onto the wooden kitchen table. A light, warm swirl of steam rises from the delicious cake. Miisu the cat claps her paws excitedly.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MIISU JA ROOSI SÖÖVAD KOOKI.",
+      "scene": "Miisu the white cat and Roosi the orange fox sit at the wooden table in the light blue kitchen. Each has a slice of golden apple cake on a small white plate in front of them, eating happily with small forks and bright smiles.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}

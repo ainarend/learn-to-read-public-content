@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-10-20",
+  "latestDate": "2026-10-21",
   "stories": [
+    {
+      "date": "2026-10-21",
+      "title": "MIISU JA ROOSI KÜPSETAVAD KOOGI",
+      "pageCount": 8,
+      "characters": [
+        "MIISU",
+        "ROOSI"
+      ]
+    },
     {
       "date": "2026-10-20",
       "title": "SIIL SAMMI JA ORAV OLLE TEEVAD LAEVA",
