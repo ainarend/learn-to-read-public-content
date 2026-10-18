@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-10-25",
+  "latestDate": "2026-10-27",
   "stories": [
+    {
+      "date": "2026-10-27",
+      "title": "LIISA JA TIIT TEEVAD SOOJA TEED",
+      "pageCount": 9,
+      "characters": [
+        "LIISA",
+        "TIIT"
+      ]
+    },
     {
       "date": "2026-10-25",
       "title": "SASS JA OTT LEIAVAD SEENI",

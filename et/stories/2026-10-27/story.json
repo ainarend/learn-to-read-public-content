@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-27",
+  "language": "et",
+  "title": "LIISA JA TIIT TEEVAD SOOJA TEED",
+  "generatedAt": "2026-10-18T23:04:12.220Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike inimene, armas 5-aastane tüdruk kollases kampsunis ja sinistes pükstes, pruunid patsid ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "TIIT",
+      "type": "human",
+      "description": "Väike inimene, armas 5-aastane poiss rohelises kampsunis ja hallides pükstes, lühikesed heledad juuksed ja rõõmus ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Soe köök",
+      "description": "Cozy kitchen with light wooden walls, warm wooden floor, single large window on back wall showing rainy autumn weather outside with falling yellow leaves. A round wooden table in the center with two small wooden chairs. Light blue kitchen counter against left wall. Warm cozy lighting inside contrasting with the grey rainy day outside. Clean, colorful, and simple cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ÕUES SADAB PALJU VIHMA.",
+      "scene": "Liisa and Tiit stand near the large window in a cozy kitchen, looking out at the heavy rain and falling yellow autumn leaves. Liisa wears a yellow sweater and blue pants. Tiit wears a green sweater and grey pants. Raindrops splash on the window glass outside. The room is brightly lit and warm inside.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "LIISA JA TIIT ON KÖÖGIS.",
+      "scene": "Liisa and Tiit are standing together in the cozy wooden kitchen next to the wooden table. Liisa smiles brightly and points toward the tea cups sitting on the table. Tiit looks cheerful and claps his hands gently.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "LAPSED TEEVAD SOOJA TEED.",
+      "scene": "Liisa stands by the wooden table carefully holding a teapot, pouring warm steaming tea into two ceramic mugs placed on the wooden table. Tiit stands next to her watching with a happy smile.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA PANEB TEESSE MAGUSAT METT.",
+      "scene": "Liisa uses a small spoon to drop golden honey from a honey jar into one of the steaming tea mugs on the wooden table. Warm steam rises gently from the cups. Tiit watches eagerly.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "TIIT PANEB TASSI PUNASE ÕUNA.",
+      "scene": "Tiit holds a small juicy red apple slice and carefully places it into his tea mug on the wooden table. Liisa sits on a small wooden chair smiling warmly at Tiit.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "SOE TEE LÕHNAB VÄGA HÄSTI.",
+      "scene": "Liisa and Tiit lean in close over the two steaming mugs of tea on the wooden table, closing their eyes with happy expressions as they smell the fragrant tea. Wisps of steam curl gently from the cups.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LAPSED JOOVAD SOOJA TEED.",
+      "scene": "Liisa and Tiit are both seated at the round wooden table, holding their warm tea mugs with both hands and taking careful, happy sips. The cozy kitchen background stays consistent with rainy window behind them.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD SÖÖVAD KA MAGUSAT KÜPSIST.",
+      "scene": "Liisa and Tiit sit at the table drinking tea, each holding a round tasty cookie in hand. A plate with a few remaining cookies sits between their tea mugs on the wooden table.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LIISA JA TIIT ON RÕÕMSAD.",
+      "scene": "Liisa and Tiit smile big and wave happily at the viewer, sitting warmly at the kitchen table with empty mugs and cookie crumbs. Outside the window, rain falls, but inside they are warm, comfy, and overjoyed.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
