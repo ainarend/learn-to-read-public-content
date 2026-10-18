@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-28",
+  "language": "et",
+  "title": "KATI JA PEETER VÄRVIVAD KÕRVITSAID",
+  "generatedAt": "2026-10-18T23:12:06.014Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KATI",
+      "type": "human",
+      "description": "Väike inimene, armas 5-aastane tüdruk tumepruunide juuste ja punase mütsiga, seljas kollane kampsun ja sinised püksid. Rõõmus ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, armas 6-aastane poiss blondide juustega, seljas roheline kampsun ja pruunid püksid, peas sinine müts. Naerusuine ja sõbralik näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "Sunny autumn garden with green grass, colorful red and orange leaves on trees in the background, a small wooden table in the center, warm autumn afternoon sunlight. Simple clean layout, cozy cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KATI JA PEETER ON AIAS.",
+      "scene": "Kati and Peeter stand in a sunny autumn garden. Kati is a 5-year-old girl wearing a yellow sweater, blue pants, and a red beanie. Peeter is a 6-year-old boy wearing a green sweater, brown pants, and a blue beanie. They are smiling at each other in front of a sturdy wooden table outdoors. Colorful autumn leaves cover the background trees. Warm sunlight. Cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON KAKS SUURT KÕRVITSAT.",
+      "scene": "Kati and Peeter stand next to the wooden table in the sunny autumn garden. On top of the table sit two large, smooth, orange unpainted pumpkins. Kati points happily at the pumpkins. Peeter looks at the pumpkins with excitement. Green grass and falling colorful autumn leaves are visible in the background.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "KATI VÕTAB PUNASE VÄRVI.",
+      "scene": "Kati sits on a low wooden bench by the table in the autumn garden, holding a small jar of bright red paint and a paintbrush. In front of her on the table is one big orange pumpkin. Peeter stands nearby watching her happily. Paint pots sit on the wooden table.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "PEETER VÕTAB KOLLASE VÄRVI.",
+      "scene": "Peeter sits next to Kati at the wooden table in the autumn garden, holding a paintbrush dipped in bright yellow paint and a small jar of yellow paint. In front of him is the second big orange pumpkin. Kati smiles and watches Peeter attentively.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "KATI MAALIB KÕRVITSALE NAERATUSE.",
+      "scene": "Kati carefully paints a big, happy, smiling mouth with red paint onto her orange pumpkin using her paintbrush. Peeter watches with a smile. The pumpkin sits on the wooden outdoor table surrounded by paint jars.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "PEETER MAALIB KÕRVITSALE TÄHED.",
+      "scene": "Peeter paints bright yellow stars onto his orange pumpkin with his paintbrush. Kati watches him joyfully. Both pumpkins sit on the wooden table in the garden; Kati's pumpkin has a cute red painted smile on it, while Peeter paints yellow stars on his.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KÕRVITSAD ON NÜÜD VÄRVILISED.",
+      "scene": "On the wooden table in the autumn garden sit the two finished pumpkins side-by-side: one pumpkin has a red painted smiling face, and the other pumpkin is covered in bright yellow painted stars. Kati and Peeter stand behind the table looking proudly at their painted creations.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KATI JA PEETER ON RÕÕMSAD.",
+      "scene": "Kati and Peeter stand side-by-side behind the table in the sunny autumn garden, waving happily with big smiles. The two painted pumpkins (one with a red smile, one with yellow stars) are displayed proudly on the table in front of them. Soft autumn leaves float down around them.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
