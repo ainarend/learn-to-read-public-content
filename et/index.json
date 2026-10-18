@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-10-24",
+  "latestDate": "2026-10-25",
   "stories": [
+    {
+      "date": "2026-10-25",
+      "title": "SASS JA OTT LEIAVAD SEENI",
+      "pageCount": 9,
+      "characters": [
+        "SIIL SASS",
+        "ORAV OTT"
+      ]
+    },
     {
       "date": "2026-10-24",
       "title": "KUSTI JA JUSSI LENNUTAVAD LOHET",

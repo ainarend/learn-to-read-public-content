@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-25",
+  "language": "et",
+  "title": "SASS JA OTT LEIAVAD SEENI",
+  "generatedAt": "2026-10-18T22:53:31.572Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SASS",
+      "type": "hedgehog",
+      "description": "Väike hall siil pehmete pruunide okastega, kandmas rohelist kootud salli, suurte uudishimulike silmade ja sõbraliku naeratusega. Armas ja soe multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike heledalt oranž orav koheva sabaga, kandmas kollast kootud mütsi, rõõmsameelne ja liikuv. Armas ja soe multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene mets",
+      "description": "A vibrant autumn forest with tall birch and pine trees, colorful yellow and orange leaves on the ground and branches, green moss patches on the forest floor, warm golden afternoon sunlight streaming through trees. Cozy children's book landscape illustration style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Metsamaja esine",
+      "description": "Outside of a small cozy wooden cottage located at the forest edge, yellow autumn leaves scattered on green grass, wooden porch steps, warm sunlight, gentle autumn atmosphere. Cozy children's book landscape illustration style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SASS JA OTT LÄHEVAD METSA.",
+      "scene": "Siil Sass (a small grey hedgehog wearing a green scarf) and Orav Ott (a small orange squirrel wearing a yellow hat) are walking together along a dirt path in a colorful autumn forest. Golden yellow leaves hang on the birch trees. Both characters are smiling and looking happy. Landscape orientation, clean cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "METSAS KUKUVAD KOLLASED LEHED.",
+      "scene": "In the sunny autumn forest, bright yellow birch leaves are falling gracefully around Siil Sass the hedgehog and Orav Ott the squirrel. Sass and Ott look up into the air with joy and wide open eyes. Landscape orientation, simple colorful cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "SASS VÕTAB SUURE KORVI.",
+      "scene": "Siil Sass the hedgehog wearing a green scarf picks up an empty brown woven wooden basket from a patch of green moss. Orav Ott the orange squirrel wearing a yellow hat stands beside him, looking curious and excited. Background shows colorful autumn forest. Landscape orientation.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "OTT LEIAB ILUSA SEENE.",
+      "scene": "Orav Ott the squirrel kneels happily on the mossy ground next to a fallen yellow leaf, pointing at a large brown mushroom with a white stem growing on the forest floor. Siil Sass the hedgehog approaches with his wooden basket, looking thrilled. Landscape orientation.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "SASS PANEB SEENE KORVI.",
+      "scene": "Siil Sass the hedgehog carefully places the brown mushroom inside his wooden woven basket. Orav Ott the squirrel stands beside him, clapping his small paws in celebration. Beautiful autumn forest background. Landscape orientation.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD LEIAVAD PALJU SEENI.",
+      "scene": "Siil Sass and Orav Ott are sitting on the forest moss surrounded by several neat brown mushrooms. Sass is holding the basket while Ott happily picks up another mushroom from the ground. Sunny forest setting with colorful leaves. Landscape orientation.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KORV ON NÜÜD TÄIS.",
+      "scene": "Siil Sass holds up the wooden woven basket, which is now completely full of fresh mushrooms. Orav Ott stands next to him, raising his hands in excitement and smiling broadly. Bright autumn lighting. Landscape orientation.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SASS JA OTT LÄHEVAD KOJU.",
+      "scene": "Siil Sass carrying the full mushroom basket and Orav Ott walk side by side down a path towards a cozy small wooden cottage at the forest edge. Yellow autumn leaves cover the ground. Sun is setting with a warm golden glow. Landscape orientation.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD ON VÄGA ÕNNELIKUD.",
+      "scene": "Siil Sass and Orav Ott stand on the wooden porch steps of their cozy forest cottage. The basket full of mushrooms sits between them on the step. Both characters are hugging gently and smiling happily at each other. Landscape orientation.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    }
+  ]
+}
