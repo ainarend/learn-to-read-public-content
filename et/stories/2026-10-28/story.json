@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "KATI",
       "type": "human",
-      "description": "Väike inimene, armas 5-aastane tüdruk tumepruunide juuste ja punase nokamütsiga, seljas kollane kapuutsiga lukuga jakk ja sinised püksid. Rõõmus ja uudishimulik näoilme. Armas multifilmistiil.",
+      "description": "Väike inimene, armas 5-aastane tüdruk lahtiste õlgadeni tumepruunide juustega (ilma patsideta), peas punane pesapallimüts sirge nokaga, seljas kollane kapuutsiga lukuga jakk, jalas pikad sinised teksapüksid ja pruunid kingad. Rõõmus ja uudishimulik näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
@@ -31,21 +31,21 @@
     {
       "pageNumber": 1,
       "text": "KATI JA PEETER ON AIAS.",
-      "scene": "Kati and Peeter stand in a sunny autumn garden. Kati is a 5-year-old girl wearing a yellow zip-up hooded jacket, blue pants, shoes, and a red baseball cap. Peeter is a 6-year-old boy wearing a green hoodie, brown pants, and a blue baseball cap. They are smiling at each other in front of a sturdy wooden table outdoors. Colorful autumn leaves cover the background trees. Warm sunlight. Cartoon style. The illustration fills the whole frame edge to edge, with no colored band or border at the bottom.",
+      "scene": "Kati and Peeter stand in a sunny autumn garden. Kati is a 5-year-old girl wearing a yellow zip-up hooded jacket, blue pants, shoes, and a red baseball cap. Peeter is a 6-year-old boy wearing a green hoodie, brown pants, and a blue baseball cap. They are smiling at each other in front of a sturdy wooden table outdoors. Colorful autumn leaves cover the background trees. Warm sunlight. Cartoon style. The illustration fills the whole frame edge to edge, with no colored band or border at the bottom. Kati has loose shoulder-length dark brown hair (no braids) and wears a red baseball cap with a stiff brim (not a knitted beanie), a yellow zip-up hooded jacket, long blue jeans and brown shoes (no skirt, no boots).",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "NEIL ON KAKS SUURT KÕRVITSAT.",
-      "scene": "Kati and Peeter stand next to the wooden table in the sunny autumn garden. On top of the table sit two large, smooth, orange unpainted pumpkins. Kati points happily at the pumpkins. Peeter looks at the pumpkins with excitement. Green grass and falling colorful autumn leaves are visible in the background. The illustration fills the whole frame edge to edge, with no colored band or border at the bottom.",
+      "scene": "Kati and Peeter stand next to the wooden table in the sunny autumn garden. On top of the table sit two large, smooth, orange unpainted pumpkins. Kati points happily at the pumpkins. Peeter looks at the pumpkins with excitement. Green grass and falling colorful autumn leaves are visible in the background. The illustration fills the whole frame edge to edge, with no colored band or border at the bottom. Kati has loose shoulder-length dark brown hair (no braids) and wears a red baseball cap with a stiff brim (not a knitted beanie), a yellow zip-up hooded jacket, long blue jeans and brown shoes (no skirt, no boots).",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "KATI VÕTAB PUNASE VÄRVI.",
-      "scene": "Kati sits on a low wooden bench beside (not on) the table in the autumn garden, holding a small jar of bright red paint and a paintbrush. In front of her on the table is one big orange pumpkin. Peeter stands nearby watching her happily. Paint pots sit on the wooden table. The illustration fills the whole frame edge to edge, with no colored band or border at the bottom.",
+      "scene": "Kati sits on a low wooden bench beside (not on) the table in the autumn garden, holding a small jar of bright red paint and a paintbrush. In front of her on the table is one big orange pumpkin. Peeter stands nearby watching her happily. Paint pots sit on the wooden table. The illustration fills the whole frame edge to edge, with no colored band or border at the bottom. Kati has loose shoulder-length dark brown hair (no braids) and wears a red baseball cap with a stiff brim (not a knitted beanie), a yellow zip-up hooded jacket, long blue jeans and brown shoes (no skirt, no boots).",
       "image": "page3.png",
       "location_id": "loc1"
     },
@@ -66,7 +66,7 @@
     {
       "pageNumber": 6,
       "text": "PEETER MAALIB KÕRVITSALE TÄHED.",
-      "scene": "Peeter paints bright yellow stars onto his orange pumpkin with a paintbrush dipped in yellow paint. Kati watches him joyfully. Both pumpkins sit on the wooden table in the garden; Kati's pumpkin has a cute red painted smile on it, while Peeter paints yellow stars on his.",
+      "scene": "Peeter paints bright yellow stars onto his orange pumpkin with a paintbrush dipped in yellow paint. Kati watches him joyfully. Both pumpkins sit on the wooden table in the garden; Kati's pumpkin has a cute red painted smile on it, while Peeter paints yellow stars on his. Kati has loose shoulder-length dark brown hair (no braids) and wears a red baseball cap with a stiff brim (not a knitted beanie), a yellow zip-up hooded jacket, long blue jeans and brown shoes (no skirt, no boots).",
       "image": "page6.png",
       "location_id": "loc1"
     },
