@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "SIIL SASS",
       "type": "hedgehog",
-      "description": "Väike hall siil pehmete pruunide okastega, kandmas rohelist kootud salli, suurte uudishimulike silmade ja sõbraliku naeratusega. Armas ja soe multifilmistiil.",
+      "description": "Väike hall siil pehmete pruunide okastega, kandmas rohelist kootud kampsunit, suurte uudishimulike silmade ja sõbraliku naeratusega. Armas ja soe multifilmistiil.",
       "image": "char1.png"
     },
     {
@@ -37,7 +37,7 @@
     {
       "pageNumber": 1,
       "text": "SASS JA OTT LÄHEVAD METSA.",
-      "scene": "Siil Sass (a small grey hedgehog wearing a green scarf) and Orav Ott (a small orange squirrel wearing a yellow hat) are walking together along a dirt path in a colorful autumn forest. Golden yellow leaves hang on the birch trees. Both characters are smiling and looking happy. Landscape orientation, clean cartoon style.",
+      "scene": "Siil Sass (a small grey hedgehog wearing a green knitted sweater) and Orav Ott (a small orange squirrel wearing a yellow hat) are walking together along a dirt path in a colorful autumn forest. Golden yellow leaves hang on the birch trees. Both characters are smiling and looking happy. Landscape orientation, clean cartoon style.",
       "image": "page1.png",
       "location_id": "loc1"
     },
@@ -51,7 +51,7 @@
     {
       "pageNumber": 3,
       "text": "SASS VÕTAB SUURE KORVI.",
-      "scene": "Siil Sass the hedgehog wearing a green scarf picks up an empty brown woven wooden basket from a patch of green moss. Orav Ott the orange squirrel wearing a yellow hat stands beside him, looking curious and excited. Background shows colorful autumn forest. Landscape orientation.",
+      "scene": "Siil Sass the hedgehog wearing a green knitted sweater (no scarf) picks up an empty brown woven wooden basket from a patch of green moss. Orav Ott the orange squirrel wearing a yellow hat stands beside him, looking curious and excited. Background shows colorful autumn forest. Landscape orientation.",
       "image": "page3.png",
       "location_id": "loc1"
     },
