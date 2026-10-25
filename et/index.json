@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-11-04",
+  "latestDate": "2026-11-05",
   "stories": [
+    {
+      "date": "2026-11-05",
+      "title": "MUKI JA KISSI MÄNGIVAD LEHTEDEGA",
+      "pageCount": 8,
+      "characters": [
+        "KOER MUKI",
+        "KASS KISSI"
+      ]
+    },
     {
       "date": "2026-11-04",
       "title": "MARI JA PEETER KÜPSETAVAD KOOKI",
