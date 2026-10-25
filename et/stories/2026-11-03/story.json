@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-03",
+  "language": "et",
+  "title": "SIIL SAMI JA ORAV OTT LENNUTAVAD LOHET",
+  "generatedAt": "2026-10-25T23:26:26.258Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SAMI",
+      "type": "hedgehog",
+      "description": "Väike hall siil pehmete pruunide okastega, kandmas kollast kootud salli, suured armsad nööpsilmad ja rõõmus näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike oranž orav koheva sabaga, kandmas siniseid traksipükse, suurte uudishimulike silmade ja sõbraliku naeratusega. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene mäehari",
+      "description": "A grassy autumn hill under a cool blue sky with light fluffy clouds. Colorful trees with orange, yellow, and red leaves line the background below the hill. Green and golden grass on the ground, with a few fallen leaves scattered around. Bright daytime natural outdoor light. Simple clean cartoon background, cozy and friendly style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIIL SAMI JA ORAV OTT ON MÄEL.",
+      "scene": "Siil Sami and Orav Ott stand together on top of a grassy autumn hill. Sami is a small grey hedgehog wearing a yellow knitted scarf. Ott is a small orange squirrel with a fluffy tail wearing blue overalls. Green and golden grass underfoot with scattered colorful autumn leaves. Colorful trees in the distant background. They look out at the landscape with cheerful expressions. Warm autumn daylight.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "TUUL PUHUB SÜGISEL VÄGA TUGEVALT.",
+      "scene": "Siil Sami and Orav Ott stand on the same grassy autumn hill. Strong gusts of wind make Sami's yellow scarf and Ott's fluffy tail flutter in the breeze. A few colorful leaves fly through the air. Both characters hold onto their scarf and fur playfully, smiling warmly at each other.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "OTT TOOB VÄLJA PUNASE LOHE.",
+      "scene": "On the grassy autumn hill, Orav Ott pulls a bright red diamond-shaped kite with a long colorful ribbon tail out of a backpack. Siil Sami stands next to Ott, looking at the red kite with excited wide eyes. The hill, sky, and colorful background trees remain identical.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SAMI AITAB NÖÖRI LAHTI KERIDA.",
+      "scene": "On the grassy hill, Siil Sami holds a wooden spool unrolling a white string attached to the red kite. Orav Ott holds the red kite up high in his hands, getting ready to launch it into the wind. Both look eager and excited.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "LOHI LENDAB TUULEGA KÕRGELE TAEVASSE.",
+      "scene": "On the grassy hill, the bright red kite soars high into the bright blue sky, its long ribbon tail streaming in the wind. Orav Ott and Siil Sami stand below on the hill, looking up into the sky at the flying kite with huge happy smiles.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "SAMI JA OTT HOIAVAD NÖÖRIST.",
+      "scene": "Siil Sami and Orav Ott stand side by side on the grassy hill, holding the kite string together with both hands. High above in the sky, the red kite flies steadily. Both friends look proud and happy as they hold the line together.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LOHI TEEB TAEVAS ILUSA TIIRU.",
+      "scene": "The red kite makes a smooth circular loop high up in the blue sky against soft clouds. Below on the hill, Siil Sami and Orav Ott point up at the looping red kite, cheering with joy.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MÕLEMAD SÕBRAD NAERAVAD RÕÕMSALT KOOS.",
+      "scene": "Siil Sami and Orav Ott stand together on the autumn hill, clapping their hands and laughing happily as they watch the red kite dance in the wind. The background features warm sunlight on golden grass and colorful trees.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "NAD PANEVAD LOHE NÜÜD KOKKU.",
+      "scene": "The red kite has landed gently on the grassy ground. Siil Sami sits on the grass neatly winding the string back onto the wooden spool, while Orav Ott gently folds the red kite. Both have happy and satisfied smiles.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SAMI JA OTT ON VÄGA ÕNNELIKUD.",
+      "scene": "Siil Sami and Orav Ott stand side by side on top of the grassy hill, giving each other a friendly hug. Ott carries the folded red kite under his arm. Soft sunset light illuminates the grassy hill and colorful trees in gentle autumn hues.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}

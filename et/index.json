@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-11-02",
+  "latestDate": "2026-11-03",
   "stories": [
+    {
+      "date": "2026-11-03",
+      "title": "SIIL SAMI JA ORAV OTT LENNUTAVAD LOHET",
+      "pageCount": 10,
+      "characters": [
+        "SIIL SAMI",
+        "ORAV OTT"
+      ]
+    },
     {
       "date": "2026-11-02",
       "title": "SÄMMI JA OTT TEEVAD LATERNA",
