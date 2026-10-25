@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-04",
+  "language": "et",
+  "title": "MARI JA PEETER KÜPSETAVAD KOOKI",
+  "generatedAt": "2026-10-25T23:33:39.229Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MARI",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane tüdruk heledate lühikeste juuste ja kollase kampsuniga, rõõmsameelne ilme, suured pruunid silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane poiss tumedate lühikeste juuste ja rohelise pusa-ga, naerulsui ja uudishimulik. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Kodu köök",
+      "description": "Cozy warm kitchen with light blue walls, light wooden floor, single square window on the back wall showing grey rainy autumn weather outside, central wooden table, yellow cabinets on the right side wall, soft warm indoor illumination. Clean and simple children's book style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ÕUES SAJAB PALJU VIHMA.",
+      "scene": "Mari and Peeter stand next to each other at a square wooden window in a cozy kitchen. Outside the window, dark autumn rain is falling on distant trees. Mari wears a yellow sweater and Peeter wears a green sweatshirt. Both children look outside with cozy, relaxed expressions. The kitchen has light blue walls and a warm atmosphere.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "MARI JA PEETER TAHAVAD KOOKI.",
+      "scene": "Mari and Peeter stand inside the cozy kitchen near the central wooden table. Mari rubs her belly happily and Peeter points to the kitchen table with an excited smile. Light blue walls, light wooden floor, and yellow cabinets on the right wall are visible.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "PEETER TOOB LAUALE PUNASED ÕUNAD.",
+      "scene": "Peeter carries a small wooden bowl full of shiny red autumn apples and places it carefully on the wooden table in the center of the kitchen. Mari stands beside the table, clapping her hands joyfully. The bright window in the background shows rain outside.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MARI LÕIKAB ÕUNAD VÄIKESTEKS TÜKKIDEKS.",
+      "scene": "Mari sits at the wooden table in the cozy kitchen, using a kid-safe wooden toy knife to slice a red apple on a wooden chopping board. Small apple slices sit on the board. Peeter sits next to her, watching curiously with a smile.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PEETER SEGAB TAIGNAT SUURES KAUSIS.",
+      "scene": "Peeter holds a wooden spoon and carefully stirs smooth yellow cake dough in a large blue mixing bowl placed on the wooden table. Mari pours the sliced red apples from the chopping board into the bowl. Both children look focused and happy.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD PANEVAD KOOGI SOOJA AHJU.",
+      "scene": "Mari holds a round baking tin containing the apple cake batter. Peeter stands nearby helping her place the baking tin inside the open warm stove/oven under the yellow kitchen cabinets. The kitchen is cozy and bright.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KOOK LÕHNAB AHJUS VÄGA HÄSTI.",
+      "scene": "Mari and Peeter squat happily near the closed oven door in the kitchen. Swirls of pleasant warm steam/aroma rise from the baking cake inside the oven window. Both children are smiling and taking deep breaths of the delicious scent.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MARI JA PEETER SÖÖVAD KOOKI.",
+      "scene": "Mari and Peeter sit side-by-side at the wooden kitchen table. On the table sits a fully baked, golden-brown apple cake on a plate. Each child holds a small slice of warm cake on a small saucer, taking a bite and smiling joyfully. Rainy autumn window in background.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
