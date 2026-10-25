@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-11-01",
+  "latestDate": "2026-11-02",
   "stories": [
+    {
+      "date": "2026-11-02",
+      "title": "SÄMMI JA OTT TEEVAD LATERNA",
+      "pageCount": 9,
+      "characters": [
+        "SÄMMI",
+        "OTT"
+      ]
+    },
     {
       "date": "2026-11-01",
       "title": "MIA JA KARL MÄNGIVAD LEHTEDEGA",

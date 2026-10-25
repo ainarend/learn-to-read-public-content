@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-02",
+  "language": "et",
+  "title": "SÄMMI JA OTT TEEVAD LATERNA",
+  "generatedAt": "2026-10-25T23:17:24.498Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SÄMMI",
+      "type": "hedgehog",
+      "description": "Väike pruun siil pehmete okastega, seljas roheline kampsun, suured mustad silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "OTT",
+      "type": "squirrel",
+      "description": "Väike oranž orav koheva sabaga, kandmas kollast salli, uudishimulikud rõõmsad silmad ja armas näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Soe puumaja tuba",
+      "description": "Cozy rustic cottage living room with warm wooden walls and a dark wooden floor. A small wooden table stands in the center with two tiny wooden chairs. A large window on the back wall shows a dark cozy autumn evening outside. On the left wall is a small warm fireplace. Warm soft indoor lighting. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SÄMMI JA OTT ON TOAS.",
+      "scene": "Sämmi the small brown hedgehog wearing a green sweater and Ott the small orange squirrel wearing a yellow scarf are sitting together at a small wooden table inside a cozy room. The room has rustic wooden walls, a dark wooden floor, and a large window showing a twilight autumn evening outside. There is a small warm fireplace on the left wall. Sämmi and Ott are looking at each other happily.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES ON TUME SÜGISÕHTU.",
+      "scene": "Sämmi the small brown hedgehog wearing a green sweater and Ott the small orange squirrel wearing a yellow scarf are standing by the large window in the cozy room, looking outside. Outside the window, it is a dark blue autumn evening with distant silhouette trees. Inside, the rustic wooden room is warm and cozy with light from a small fireplace on the left wall.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "OTT VÕTAB KOLLASE PABERI.",
+      "scene": "Ott the small orange squirrel wearing a yellow scarf is sitting at the central wooden table and picking up a bright yellow sheet of paper. Sämmi the small brown hedgehog in a green sweater watches happily from across the table. The rustic wooden room with warm lighting, dark floor, and fireplace remains unchanged.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SÄMMI JOONISTAB PABERILE TÄHED.",
+      "scene": "Sämmi the small brown hedgehog wearing a green sweater is holding an orange crayon and carefully drawing small cute star shapes on the yellow paper on the wooden table. Ott the small orange squirrel wearing a yellow scarf leans over the table, watching with a joyful smile.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD TEEVAD KOOS ILUSA LATERNA.",
+      "scene": "Sämmi the brown hedgehog and Ott the orange squirrel work together at the wooden table, folding the yellow star-patterned paper into a cylindrical paper lantern. The handmade paper lantern sits on the table between them. Both characters look proud and delighted.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "OTT PANEB LATERNA SISSE KÜÜNLA.",
+      "scene": "Ott the small orange squirrel carefully places a small glowing tea-light candle inside the finished yellow paper lantern on the wooden table. Sämmi the hedgehog watches with excitement, clapping his small paws happily.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VÄIKE KÜÜNAL PÕLEB SOOJALT.",
+      "scene": "The finished yellow paper lantern with star drawings sits glowing warmly on the wooden table, casting a soft warm light. Sämmi the small brown hedgehog and Ott the small orange squirrel lean close, gazing softly at the glowing lantern with joyful expressions.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LATERNA VALGUS SÄRAB AKNAL.",
+      "scene": "The glowing yellow paper lantern now sits on the wooden windowsill of the large window, shining brightly against the dark autumn night outside. Sämmi the hedgehog and Ott the squirrel stand next to the windowsill, looking happily at their glowing lantern.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SÄMMI JA OTT ON RÕÕMSAD.",
+      "scene": "Sämmi the small brown hedgehog wearing a green sweater and Ott the small orange squirrel wearing a yellow scarf sit side by side on small wooden chairs near the window sill, smiling warmly at each other beside the softly glowing paper lantern. The room is filled with a cozy, peaceful autumn evening atmosphere.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
