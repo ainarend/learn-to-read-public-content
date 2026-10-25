@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-10-28",
+  "latestDate": "2026-11-01",
   "stories": [
+    {
+      "date": "2026-11-01",
+      "title": "MIA JA KARL MÄNGIVAD LEHTEDEGA",
+      "pageCount": 9,
+      "characters": [
+        "MIA",
+        "KARL"
+      ]
+    },
     {
       "date": "2026-10-28",
       "title": "KATI JA PEETER VÄRVIVAD KÕRVITSAID",

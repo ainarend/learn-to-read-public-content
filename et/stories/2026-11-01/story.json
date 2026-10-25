@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-01",
+  "language": "et",
+  "title": "MIA JA KARL MÄNGIVAD LEHTEDEGA",
+  "generatedAt": "2026-10-25T23:08:51.151Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MIA",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane rõõmsameelne tüdruk tumedate juuste, kollase sügisjope, hallide pükste ja rohelise mütsiga. Armas ja multifilmilik välimus.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KARL",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane uudishimulik poiss pruunide lühikeste juuste, sinise sügisjope, tumesiniste pükste ja punaste kummikutega. Armas ja multifilmilik välimus.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "Cozy autumn garden with green grass partially covered in colorful yellow and orange fallen leaves. Cozy wooden house visible in the background with beige wooden walls and brown roof. Autumn maple trees with colorful foliage around the perimeter. Crisp blue autumn sky with soft white clouds. Bright and sunny afternoon light. Simple cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MIA JA KARL ON AIAS.",
+      "scene": "Mia, a young girl in a yellow autumn jacket and green beanie, and Karl, a young boy in a blue autumn jacket and red boots, are standing together on a green lawn in a sunny garden. Bright yellow and orange leaves are scattered on the grass around them. In the background stands a cozy wooden house. Mia and Karl are smiling at each other. Simple landscape view.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "AIAS ON PALJU KOLLASEID LEHTI.",
+      "scene": "Mia in her yellow jacket and Karl in his blue jacket look down happily at the ground, pointing at many colorful yellow, red, and orange leaves scattered across the green grass. Large colorful maple trees stand surrounding the cozy garden, gently dropping a few leaves into the air.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "KARL VÕTAB SUURE REHA.",
+      "scene": "Karl in his blue jacket and red boots is holding a bright orange rake with both hands, lifting it up enthusiastically. Mia in her yellow jacket stands beside him, clapping her hands with a bright smile. Fallen leaves cover the lawn around them in the sunny garden.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MIA REHITSEB LEHED KOKKU.",
+      "scene": "Mia in her yellow coat holds a small light blue rake and carefully rakes the bright yellow and orange leaves into a small pile on the green grass. Karl stands nearby holding his orange rake, watching her with a happy smile. The sunny wooden house is visible in the background.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIA TEEB SUURE LEHEHUNNIKU.",
+      "scene": "Mia and Karl stand side-by-side behind a huge, tall, clean pile of bright yellow and orange leaves in the garden. Karl leans his rake against a nearby tree. Mia smiles proudly with her hands on her hips, admiring the big colorful leaf pile on the lawn.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KARL HÜPPAB LEHTEDE SISSE.",
+      "scene": "Karl is mid-air, jumping happily right into the giant pile of yellow leaves. Leaf particles fly up around him in a fun, safe, playful display. Mia stands to the side, laughing and watching Karl splash into the leaf pile.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "MIA HÜPPAB KOOS KARLIGA.",
+      "scene": "Both Mia and Karl are sitting inside the fluffy pile of bright autumn leaves, laughing joyfully with leaves resting on their heads and shoulders. Yellow leaves flutter gently around them in the sunny afternoon light.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LAPSED TEEVAD LEHTEDEST PESA.",
+      "scene": "Mia and Karl are sitting cozy inside a ring-shaped nest of gathered colorful leaves on the grass. They are shaping leaves around themselves like a soft cozy cushion, both beaming with delight.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KOOS ON NII LÕBUS.",
+      "scene": "Mia and Karl sit together in their soft autumn leaf nest, waving happily towards the camera. The sunny garden, colorful trees, and cozy wooden house surround them under a bright blue autumn sky.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
