@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-10",
+  "language": "et",
+  "title": "SIMMO JA HELLA VÄIKE PAAT",
+  "generatedAt": "2026-11-02T00:28:38.369Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SIMMO",
+      "type": "hedgehog",
+      "description": "Väike armsa näoga hall siil pehmete okaste ja musta ninaotsaga, kandmas erksat kollast vihmamantlit. Armas ja sõbralik multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "HIIR HELLA",
+      "type": "mouse",
+      "description": "Väike helehall hiir suurte ümarate kõrvade ja pikliku sabaga, kandmas punaseid kummikuid ja roosat vihmamantlit. Armas ja lõbus multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed lompidega",
+      "description": "Autumn garden on a rainy day. Green grass covered with colorful red, orange, and yellow autumn leaves. A large clear rainwater puddle in the center of the garden. Background features a simple wooden fence and colorful autumn trees with bright foliage. Soft rain falling in the background. Cozy, friendly lighting despite the rain. Landscape view in simple clean cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIIL SIMMO JA HIIR HELLA ON AIAS.",
+      "scene": "Siil Simmo (wearing a bright yellow raincoat) and Hiir Hella (wearing a pink raincoat and red boots) stand together in a grassy autumn garden. Bright red and yellow autumn leaves are scattered on the grass. Gentle rain is falling around them. Simple wooden fence and colourful autumn trees in the background. Cartoon style, cheerful mood.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "VÄLJAS SAJAB SÜGISEST VIHMA.",
+      "scene": "Siil Simmo and Hiir Hella stand in the same autumn garden looking up at the gentle raindrops falling from the sky. Water droplets twinkle in the air. The green grass is covered with colorful autumn leaves. Wooden garden fence and trees in background.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "AIAS ON SUUR LOMP.",
+      "scene": "Siil Simmo and Hiir Hella stand beside a large, clear rainwater puddle in the center of the garden. Ripples form on the water surface as raindrops hit it. Fallen leaves float around the edge of the puddle. Same garden setting with green grass, autumn leaves, and wooden fence.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SIMMO TEEB PABERIST PAADI.",
+      "scene": "Siil Simmo sits on the grass near the rainwater puddle, carefully folding a simple white paper boat with his paws. Hiir Hella stands beside him, watching with interest and holding a bright red umbrella. Rainy autumn garden background.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "HELLA PANEB PAADI LOMPI.",
+      "scene": "Hiir Hella kneels by the rainwater puddle and gently places the small white paper boat into the water. Siil Simmo watches next to her with a big smile. Rain drops fall softly into the puddle in the colorful autumn garden.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "VÄIKE PAAT UJUB VEE PEAL.",
+      "scene": "The small white paper boat floats smoothly across the clear rainwater puddle. Siil Simmo and Hiir Hella lean forward with wide open happy eyes, watching the boat float. Grass, autumn leaves, and wooden fence in the background.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SIMMO JA HELLA PLAKSUTAVAD KÄSI.",
+      "scene": "Siil Simmo and Hiir Hella clap their hands joyfully next to the rainwater puddle as the white paper boat continues to float gently. Bright, joyful facial expressions. Rain drops continue to fall around them in the autumn garden.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SÕBRAD MÄNGIVAD RÕÕMSALT KOOS.",
+      "scene": "Siil Simmo and Hiir Hella jump happily side by side near the rainwater puddle, smiling broadly. The paper boat rests safely in the puddle. Warm, cheerful atmosphere in the rainy autumn garden setting.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
