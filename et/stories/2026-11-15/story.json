@@ -8,14 +8,14 @@
       "id": "char1",
       "name": "ANNI",
       "type": "human",
-      "description": "Väike inimene, umbes 5-aastane armas tüdruk, kelmikate blondide patside ja rohelise kampsuniga. Sõbralik naeratus ja uudishimulikud silmad. Armas multifilmistiil.",
+      "description": "Väike inimene, umbes 5-aastane armas tüdruk, kelmikate blondide patside ja rohelise kleidiga. Sõbralik naeratus ja uudishimulikud silmad. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
       "name": "MIHKEL",
       "type": "human",
-      "description": "Väike inimene, umbes 6-aastane poiss, pruunide lühikeste juuste ja sinise triibulise kampsuniga. Rõõmsameelne näoilme. Armas multifilmistiil.",
+      "description": "Väike inimene, umbes 6-aastane poiss, pruunide lühikeste juuste ja siniste traksipükste ja triibulise särgiga. Rõõmsameelne näoilme. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
@@ -31,70 +31,70 @@
     {
       "pageNumber": 1,
       "text": "ANNI JA MIHKEL ON KÖÖGIS.",
-      "scene": "Anni (a little girl with blond pigtails in a green sweater) and Mihkel (a little boy with brown hair in a blue striped sweater) are standing happily in the cozy kitchen near the wooden table. Warm sunlight comes through the window showing orange autumn leaves outside. The kitchen has yellow walls, a wooden floor, and a white oven on the right.",
+      "scene": "Anni (a little girl with blond pigtails in a green sweater) and Mihkel (a little boy with brown hair in a blue striped sweater) are standing happily in the cozy kitchen near the wooden table. Warm sunlight comes through the window showing orange autumn leaves outside. The kitchen has yellow walls, a wooden floor, and a white oven on the right. Anni: girl with blond pigtails wearing a green dress. Mihkel: boy with short brown hair wearing blue overalls over a striped shirt. The cake is baked in one round cake tin. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "NEIL ON PALJU PUNASEID ÕUNU.",
-      "scene": "Anni and Mihkel stand at the wooden table in the cozy kitchen. On the wooden table sits a large bowl filled to the brim with bright red autumn apples. Mihkel points happily at the apples while Anni smiles broadly. Yellow walls and window with autumn trees in background.",
+      "scene": "Anni and Mihkel stand at the wooden table in the cozy kitchen. On the wooden table sits a large bowl filled to the brim with bright red autumn apples. Mihkel points happily at the apples while Anni smiles broadly. Yellow walls and window with autumn trees in background. Anni: girl with blond pigtails wearing a green dress. Mihkel: boy with short brown hair wearing blue overalls over a striped shirt. The cake is baked in one round cake tin. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "ANNI PESEB ÕUNAD PUHTAKS.",
-      "scene": "Anni stands by the kitchen sink next to the counter, carefully washing bright red apples under running water. A basket of clean red apples rests on the wooden table nearby. Mihkel stands next to her watching with a big smile. Same yellow walls and cozy kitchen setting.",
+      "scene": "Anni stands by the kitchen sink next to the counter, carefully washing bright red apples under running water. A basket of clean red apples rests on the wooden table nearby. Mihkel stands next to her watching with a big smile. Same yellow walls and cozy kitchen setting. Anni: girl with blond pigtails wearing a green dress. Mihkel: boy with short brown hair wearing blue overalls over a striped shirt. The cake is baked in one round cake tin. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "MIHKEL SEGAB TAIGNAT SUURES KAUSIS.",
-      "scene": "Mihkel stands at the wooden table holding a wooden spoon and stirring cake batter in a large blue mixing bowl. Anni stands beside him holding a plate of clean red apples, watching him enthusiastically. The kitchen layout, yellow walls, and window view remain identical.",
+      "scene": "Mihkel stands at the wooden table holding a wooden spoon and stirring cake batter in a large blue mixing bowl. Anni stands beside him holding a plate of clean red apples, watching him enthusiastically. The kitchen layout, yellow walls, and window view remain identical. Anni: girl with blond pigtails wearing a green dress. Mihkel: boy with short brown hair wearing blue overalls over a striped shirt. The cake is baked in one round cake tin. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "ANNI PANEB ÕUNATÜKID TAIGNA SISSE.",
-      "scene": "Anni carefully drops fresh red apple slices into the blue mixing bowl on the wooden table. Mihkel holds the bowl steady with both hands and smiles excitedly. Cozy yellow kitchen with sunlight coming through the window.",
+      "scene": "Anni carefully drops fresh red apple slices into the yellow cake batter in the blue mixing bowl on the wooden table. Mihkel holds the bowl steady with both hands and smiles excitedly. Cozy yellow kitchen with sunlight coming through the window. Anni: girl with blond pigtails wearing a green dress. Mihkel: boy with short brown hair wearing blue overalls over a striped shirt. The cake is baked in one round cake tin. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "LAPSED PANEVAD KOOGI AHJU.",
-      "scene": "Anni and Mihkel together hold a baking dish with prepared cake batter and place it carefully into the opened white oven on the right side of the kitchen. They are smiling with excited expressions.",
+      "scene": "Anni and Mihkel together hold one single round cake tin filled with raw yellow cake batter and apple slices, and slide it carefully into the opened white oven. Only one cake tin in the picture. The oven is on the right side of the kitchen. They are smiling with excited expressions. Anni: girl with blond pigtails wearing a green dress. Mihkel: boy with short brown hair wearing blue overalls over a striped shirt. The cake is baked in one round cake tin. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
       "text": "MAITSEV KOOK KÜPSEB AHJUS.",
-      "scene": "The oven door is closed, showing a golden cake baking inside behind the clear glass door. Anni and Mihkel sit side by side on small wooden stools in front of the table, looking at the oven with eager, joyful expressions.",
+      "scene": "The oven door is closed, showing a golden cake baking inside behind the clear glass door. Anni and Mihkel sit side by side on small wooden stools in front of the table, turned toward the oven and looking at it with eager, joyful expressions. Anni: girl with blond pigtails wearing a green dress. Mihkel: boy with short brown hair wearing blue overalls over a striped shirt. The cake is baked in one round cake tin. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
       "text": "KÖÖK TÄITUB HEA LÕHNAGA.",
-      "scene": "Anni and Mihkel take a deep breath with closed eyes and huge happy smiles, enjoying the delicious aroma filling the kitchen. Gentle decorative swirl lines suggest wonderful cake aroma in the warm yellow kitchen.",
+      "scene": "Anni and Mihkel take a deep breath with closed eyes and huge happy smiles, enjoying the delicious aroma filling the kitchen. Gentle decorative swirl lines suggest wonderful cake aroma in the warm yellow kitchen. Anni: girl with blond pigtails wearing a green dress. Mihkel: boy with short brown hair wearing blue overalls over a striped shirt. The cake is baked in one round cake tin. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
       "text": "SOE KOOK ON VALMIS.",
-      "scene": "A freshly baked, steaming golden apple cake sits on a ceramic platter on the central wooden table. Anni and Mihkel stand beside the table clapping their hands with pure delight in the bright kitchen.",
+      "scene": "A freshly baked round golden apple cake topped with apple slices (no whole apples) sits on a ceramic platter on the central wooden table. Anni and Mihkel stand beside the table clapping their hands with pure delight in the bright kitchen. Anni: girl with blond pigtails wearing a green dress. Mihkel: boy with short brown hair wearing blue overalls over a striped shirt. The cake is baked in one round cake tin. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
       "text": "ANNI JA MIHKEL SÖÖVAD KOOKI.",
-      "scene": "Anni and Mihkel sit comfortably at the wooden kitchen table, each holding a slice of warm apple cake on a small plate and taking a delicious bite. Both children look completely happy and satisfied. Warm sunlight streams through the window.",
+      "scene": "Anni and Mihkel sit comfortably at the wooden kitchen table, each holding a slice of warm apple cake on a small plate and taking a delicious bite. Both children look completely happy and satisfied. Warm sunlight streams through the window. Anni: girl with blond pigtails wearing a green dress. Mihkel: boy with short brown hair wearing blue overalls over a striped shirt. The cake is baked in one round cake tin. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page10.png",
       "location_id": "loc1"
     }
