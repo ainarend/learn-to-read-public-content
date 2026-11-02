@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "SIIL SAMI",
       "type": "hedgehog",
-      "description": "Väike hall siil pehmete pruunide okastega, kandmas kollast kootud salli, suured armsad nööpsilmad ja rõõmus näoilme. Armas multifilmistiil.",
+      "description": "Väike hall siil pehmete pruunide okastega (okkad on pruunid, mitte roosad), kandmas kollast kootud salli, suured armsad nööpsilmad ja rõõmus näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
@@ -31,70 +31,70 @@
     {
       "pageNumber": 1,
       "text": "SIIL SAMI JA ORAV OTT ON MÄEL.",
-      "scene": "Siil Sami and Orav Ott stand together on top of a grassy autumn hill. Sami is a small grey hedgehog wearing a yellow knitted scarf. Ott is a small orange squirrel with a fluffy tail wearing blue overalls. Green and golden grass underfoot with scattered colorful autumn leaves. Colorful trees in the distant background. They look out at the landscape with cheerful expressions. Warm autumn daylight.",
+      "scene": "Siil Sami and Orav Ott stand together on top of a grassy autumn hill. Sami is a small grey hedgehog wearing a yellow knitted scarf. Ott is a small orange squirrel with a fluffy tail wearing blue overalls. Green and golden grass underfoot with scattered colorful autumn leaves. Colorful trees in the distant background. They look out at the landscape with cheerful expressions. Warm autumn daylight. Sami: grey hedgehog with brown quills (not pink), yellow knitted scarf. Ott: orange squirrel with one single fluffy tail, blue overalls worn directly on his fur with no shirt or sleeves underneath. The kite is a solid red diamond-shaped kite (a filled rhombus, not a ring or hoop) with a long rainbow ribbon tail. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "TUUL PUHUB SÜGISEL VÄGA TUGEVALT.",
-      "scene": "Siil Sami and Orav Ott stand on the same grassy autumn hill. Strong gusts of wind make Sami's yellow scarf and Ott's fluffy tail flutter in the breeze. A few colorful leaves fly through the air. Both characters hold onto their scarf and fur playfully, smiling warmly at each other.",
+      "scene": "Siil Sami and Orav Ott stand on the same grassy autumn hill. Strong gusts of wind make Sami's yellow scarf and Ott's fluffy tail flutter in the breeze. A few colorful leaves fly through the air. Both characters hold onto their scarf and fur playfully, smiling warmly at each other. Sami: grey hedgehog with brown quills (not pink), yellow knitted scarf. Ott: orange squirrel with one single fluffy tail, blue overalls worn directly on his fur with no shirt or sleeves underneath. The kite is a solid red diamond-shaped kite (a filled rhombus, not a ring or hoop) with a long rainbow ribbon tail. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "OTT TOOB VÄLJA PUNASE LOHE.",
-      "scene": "On the grassy autumn hill, Orav Ott pulls a bright red diamond-shaped kite with a long colorful ribbon tail out of a backpack. Siil Sami stands next to Ott, looking at the red kite with excited wide eyes. The hill, sky, and colorful background trees remain identical.",
+      "scene": "On the grassy autumn hill, Orav Ott pulls a bright red diamond-shaped kite with a long colorful ribbon tail out of a small backpack on the grass. The kite is still in his paws on the ground, not flying. Siil Sami stands next to Ott, looking at the red kite with excited wide eyes. The hill, sky, and colorful background trees remain identical. Sami: grey hedgehog with brown quills (not pink), yellow knitted scarf. Ott: orange squirrel with one single fluffy tail, blue overalls worn directly on his fur with no shirt or sleeves underneath. The kite is a solid red diamond-shaped kite (a filled rhombus, not a ring or hoop) with a long rainbow ribbon tail. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "SAMI AITAB NÖÖRI LAHTI KERIDA.",
-      "scene": "On the grassy hill, Siil Sami holds a wooden spool unrolling a white string attached to the red kite. Orav Ott holds the red kite up high in his hands, getting ready to launch it into the wind. Both look eager and excited.",
+      "scene": "On the grassy hill, Siil Sami holds a wooden spool unrolling a white string attached to the red kite. Orav Ott holds the red kite up high in his hands, getting ready to launch it into the wind. Both look eager and excited. Sami: grey hedgehog with brown quills (not pink), yellow knitted scarf. Ott: orange squirrel with one single fluffy tail, blue overalls worn directly on his fur with no shirt or sleeves underneath. The kite is a solid red diamond-shaped kite (a filled rhombus, not a ring or hoop) with a long rainbow ribbon tail. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "LOHI LENDAB TUULEGA KÕRGELE TAEVASSE.",
-      "scene": "On the grassy hill, the bright red kite soars high into the bright blue sky, its long ribbon tail streaming in the wind. Orav Ott and Siil Sami stand below on the hill, looking up into the sky at the flying kite with huge happy smiles.",
+      "scene": "On the grassy hill, the bright red kite soars high into the bright blue sky, its long ribbon tail streaming in the wind. Orav Ott and Siil Sami stand below on the hill, looking up into the sky at the flying kite with huge happy smiles. Sami: grey hedgehog with brown quills (not pink), yellow knitted scarf. Ott: orange squirrel with one single fluffy tail, blue overalls worn directly on his fur with no shirt or sleeves underneath. The kite is a solid red diamond-shaped kite (a filled rhombus, not a ring or hoop) with a long rainbow ribbon tail. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "SAMI JA OTT HOIAVAD NÖÖRIST.",
-      "scene": "Siil Sami and Orav Ott stand side by side on the grassy hill, holding the kite string together with both hands. High above in the sky, the red kite flies steadily. Both friends look proud and happy as they hold the line together.",
+      "scene": "Siil Sami and Orav Ott stand side by side on the grassy hill, both gripping the same kite string with their paws, Sami in front and Ott behind him. High above in the sky, the red kite flies steadily. Both friends look proud and happy as they hold the line together. Sami: grey hedgehog with brown quills (not pink), yellow knitted scarf. Ott: orange squirrel with one single fluffy tail, blue overalls worn directly on his fur with no shirt or sleeves underneath. The kite is a solid red diamond-shaped kite (a filled rhombus, not a ring or hoop) with a long rainbow ribbon tail. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
       "text": "LOHI TEEB TAEVAS ILUSA TIIRU.",
-      "scene": "The red kite makes a smooth circular loop high up in the blue sky against soft clouds. Below on the hill, Siil Sami and Orav Ott point up at the looping red kite, cheering with joy.",
+      "scene": "The red kite makes a smooth circular loop high up in the blue sky against soft clouds. Below on the hill, Siil Sami and Orav Ott point up at the looping red kite, cheering with joy. Sami: grey hedgehog with brown quills (not pink), yellow knitted scarf. Ott: orange squirrel with one single fluffy tail, blue overalls worn directly on his fur with no shirt or sleeves underneath. The kite is a solid red diamond-shaped kite (a filled rhombus, not a ring or hoop) with a long rainbow ribbon tail. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
       "text": "MÕLEMAD SÕBRAD NAERAVAD RÕÕMSALT KOOS.",
-      "scene": "Siil Sami and Orav Ott stand together on the autumn hill, clapping their hands and laughing happily as they watch the red kite dance in the wind. The background features warm sunlight on golden grass and colorful trees.",
+      "scene": "Siil Sami and Orav Ott stand together on the autumn hill, laughing happily as they watch the red kite dance in the wind. Ott holds the kite string in one paw. The background features warm sunlight on golden grass and colorful trees. Sami: grey hedgehog with brown quills (not pink), yellow knitted scarf. Ott: orange squirrel with one single fluffy tail, blue overalls worn directly on his fur with no shirt or sleeves underneath. The kite is a solid red diamond-shaped kite (a filled rhombus, not a ring or hoop) with a long rainbow ribbon tail. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
       "text": "NAD PANEVAD LOHE NÜÜD KOKKU.",
-      "scene": "The red kite has landed gently on the grassy ground. Siil Sami sits on the grass neatly winding the string back onto the wooden spool, while Orav Ott gently folds the red kite. Both have happy and satisfied smiles.",
+      "scene": "The red kite has landed gently on the grassy ground. Siil Sami sits on the grass neatly winding the string back onto the wooden spool, while Orav Ott gently folds the red kite. Both have happy and satisfied smiles. Sami: grey hedgehog with brown quills (not pink), yellow knitted scarf. Ott: orange squirrel with one single fluffy tail, blue overalls worn directly on his fur with no shirt or sleeves underneath. The kite is a solid red diamond-shaped kite (a filled rhombus, not a ring or hoop) with a long rainbow ribbon tail. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page9.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 10,
       "text": "SAMI JA OTT ON VÄGA ÕNNELIKUD.",
-      "scene": "Siil Sami and Orav Ott stand side by side on top of the grassy hill, giving each other a friendly hug. Ott carries the folded red kite under his arm. Soft sunset light illuminates the grassy hill and colorful trees in gentle autumn hues.",
+      "scene": "Siil Sami and Orav Ott stand side by side on top of the grassy hill, giving each other a friendly hug. Ott holds the folded red kite under his arm. Soft sunset light illuminates the grassy hill and colorful trees in gentle autumn hues. Sami: grey hedgehog with brown quills (not pink), yellow knitted scarf. Ott: orange squirrel with one single fluffy tail, blue overalls worn directly on his fur with no shirt or sleeves underneath. The kite is a solid red diamond-shaped kite (a filled rhombus, not a ring or hoop) with a long rainbow ribbon tail. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page10.png",
       "location_id": "loc1"
     }
