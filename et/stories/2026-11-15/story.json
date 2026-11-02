@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-15",
+  "language": "et",
+  "title": "ANNI JA MIHKEL KÜPSETAVAD ÕUNAKOOKI",
+  "generatedAt": "2026-11-02T01:10:28.131Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ANNI",
+      "type": "human",
+      "description": "Väike inimene, umbes 5-aastane armas tüdruk, kelmikate blondide patside ja rohelise kampsuniga. Sõbralik naeratus ja uudishimulikud silmad. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "MIHKEL",
+      "type": "human",
+      "description": "Väike inimene, umbes 6-aastane poiss, pruunide lühikeste juuste ja sinise triibulise kampsuniga. Rõõmsameelne näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Soe köök",
+      "description": "Cozy autumn kitchen with soft warm yellow walls, wooden floor, a single rectangular window on the back wall showing orange autumn leaves outside. In the center is a sturdy light wooden kitchen table. A simple white oven and counter are on the right side. Warm sunlight streams through the window. Clean, simple, cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ANNI JA MIHKEL ON KÖÖGIS.",
+      "scene": "Anni (a little girl with blond pigtails in a green sweater) and Mihkel (a little boy with brown hair in a blue striped sweater) are standing happily in the cozy kitchen near the wooden table. Warm sunlight comes through the window showing orange autumn leaves outside. The kitchen has yellow walls, a wooden floor, and a white oven on the right.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "NEIL ON PALJU PUNASEID ÕUNU.",
+      "scene": "Anni and Mihkel stand at the wooden table in the cozy kitchen. On the wooden table sits a large bowl filled to the brim with bright red autumn apples. Mihkel points happily at the apples while Anni smiles broadly. Yellow walls and window with autumn trees in background.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "ANNI PESEB ÕUNAD PUHTAKS.",
+      "scene": "Anni stands by the kitchen sink next to the counter, carefully washing bright red apples under running water. A basket of clean red apples rests on the wooden table nearby. Mihkel stands next to her watching with a big smile. Same yellow walls and cozy kitchen setting.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MIHKEL SEGAB TAIGNAT SUURES KAUSSIS.",
+      "scene": "Mihkel stands at the wooden table holding a wooden spoon and stirring cake batter in a large blue mixing bowl. Anni stands beside him holding a plate of clean red apples, watching him enthusiastically. The kitchen layout, yellow walls, and window view remain identical.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "ANNI PANEB ÕUNATÜKID TAIGNA SISSE.",
+      "scene": "Anni carefully drops fresh red apple slices into the blue mixing bowl on the wooden table. Mihkel holds the bowl steady with both hands and smiles excitedly. Cozy yellow kitchen with sunlight coming through the window.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LAPSED PANEVAD KOOGI AHJU.",
+      "scene": "Anni and Mihkel together hold a baking dish with prepared cake batter and place it carefully into the opened white oven on the right side of the kitchen. They are smiling with excited expressions.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "MAITSEV KOOK KÜPSEB AHJUS.",
+      "scene": "The oven door is closed, showing a golden cake baking inside behind the clear glass door. Anni and Mihkel sit side by side on small wooden stools in front of the table, looking at the oven with eager, joyful expressions.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KÖÖK TÄITUB HEA LÕHNAGA.",
+      "scene": "Anni and Mihkel take a deep breath with closed eyes and huge happy smiles, enjoying the delicious aroma filling the kitchen. Gentle decorative swirl lines suggest wonderful cake aroma in the warm yellow kitchen.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SOE KOOK ON VALMIS.",
+      "scene": "A freshly baked, steaming golden apple cake sits on a ceramic platter on the central wooden table. Anni and Mihkel stand beside the table clapping their hands with pure delight in the bright kitchen.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "ANNI JA MIHKEL SÖÖVAD KOOKI.",
+      "scene": "Anni and Mihkel sit comfortably at the wooden kitchen table, each holding a slice of warm apple cake on a small plate and taking a delicious bite. Both children look completely happy and satisfied. Warm sunlight streams through the window.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
