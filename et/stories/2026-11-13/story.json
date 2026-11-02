@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
   "language": "et",
-  "title": "PEETER JA LIISA MÄNGIVAD LEHEDEGA",
+  "title": "PEETER JA LIISA MÄNGIVAD LEHTEDEGA",
   "generatedAt": "2026-11-02T00:52:28.686Z",
   "characters": [
     {
@@ -65,14 +65,14 @@
     },
     {
       "pageNumber": 6,
-      "text": "PEETER HÜPPAB LEHEDE SISSE.",
+      "text": "PEETER HÜPPAB LEHTEDE SISSE.",
       "scene": "Peeter jumps with wide arms mid-air into the center of the giant leaf pile, splashing colorful autumn leaves into the air. Liisa watches with excitement and laughter. Sunny garden background with oak tree and wooden fence.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
-      "text": "LIISA HÜPPAB SAMUTI LEHEDE SISSE.",
+      "text": "LIISA HÜPPAB SAMUTI LEHTEDE SISSE.",
       "scene": "Liisa leaps into the huge leaf pile right alongside Peeter. Leaves flutter everywhere in the air around both children as they play happily. Bright garden setting with lawn and fence.",
       "image": "page7.png",
       "location_id": "loc1"
