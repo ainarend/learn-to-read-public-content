@@ -8,14 +8,14 @@
       "id": "char1",
       "name": "MARI",
       "type": "human",
-      "description": "Väike inimene, umbes 5-aastane tüdruk heledate lühikeste juuste ja kollase pluusi ja rohelise traksikleidiga, rõõmsameelne ilme, suured pruunid silmad. Armas multifilmistiil.",
+      "description": "Väike inimene, umbes 5-aastane tüdruk heledate lühikeste juuste ja kollase särgi ja rohelise kleidiga, rõõmsameelne ilme, suured pruunid silmad. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
       "name": "PEETER",
       "type": "human",
-      "description": "Väike inimene, umbes 6-aastane poiss tumedate lühikeste juuste ja rohelise kapuutsiga pusaga, naerulsui ja uudishimulik. Armas multifilmistiil.",
+      "description": "Väike inimene, umbes 6-aastane poiss tumedate lühikeste juuste ja rohelise pusaga, naerulsui ja uudishimulik. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
@@ -31,56 +31,56 @@
     {
       "pageNumber": 1,
       "text": "ÕUES SAJAB PALJU VIHMA.",
-      "scene": "Mari and Peeter stand next to each other at a square wooden window in a cozy kitchen. Outside the window, dark autumn rain is falling on distant trees. Mari wears a yellow shirt with a green pinafore dress and Peeter wears a green sweatshirt. Both children look outside with cozy, relaxed expressions. The kitchen has light blue walls and a warm atmosphere. Mari: girl with short light blonde hair and a yellow hair clip, yellow short-sleeved shirt under a green pinafore dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
+      "scene": "Mari and Peeter stand next to each other at a square wooden window in a cozy kitchen. Outside the window, dark autumn rain is falling on distant trees. Mari wears a yellow shirt and a green dress and Peeter wears a green sweatshirt. Both children look outside with cozy, relaxed expressions. The kitchen has light blue walls and a warm atmosphere. Mari: girl with short light blonde hair and a yellow hair clip, wearing a yellow shirt and a green dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "MARI JA PEETER TAHAVAD KOOKI.",
-      "scene": "Mari and Peeter stand inside the cozy kitchen near the central wooden table. Mari rubs her belly happily and Peeter points to the kitchen table with an excited smile. Light blue walls, light wooden floor, and yellow cabinets on the right wall are visible. Mari: girl with short light blonde hair and a yellow hair clip, yellow short-sleeved shirt under a green pinafore dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
+      "scene": "Mari and Peeter stand inside the cozy kitchen near the central wooden table. Mari rubs her belly happily and Peeter points to the kitchen table with an excited smile. Light blue walls, light wooden floor, and yellow cabinets on the right wall are visible. Mari: girl with short light blonde hair and a yellow hair clip, wearing a yellow shirt and a green dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "PEETER TOOB LAUALE PUNASED ÕUNAD.",
-      "scene": "Peeter carries a small wooden bowl full of shiny red autumn apples and places it carefully on the wooden table in the center of the kitchen. Mari stands beside the table, clapping her hands joyfully. The bright window in the background shows rain outside. Mari: girl with short light blonde hair and a yellow hair clip, yellow short-sleeved shirt under a green pinafore dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
+      "scene": "Peeter carries a small wooden bowl full of shiny red autumn apples and places it carefully on the wooden table in the center of the kitchen. Mari stands beside the table, clapping her hands joyfully. The bright window in the background shows rain outside. Mari: girl with short light blonde hair and a yellow hair clip, wearing a yellow shirt and a green dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "MARI LÕIKAB ÕUNAD VÄIKESTEKS TÜKKIDEKS.",
-      "scene": "Mari sits at the wooden table in the cozy kitchen, using a blunt toy knife made entirely of light wood (no metal blade) to slice a red apple on a wooden chopping board. Small apple slices sit on the board. Peeter sits next to her, watching curiously with a smile. Mari: girl with short light blonde hair and a yellow hair clip, yellow short-sleeved shirt under a green pinafore dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
+      "scene": "Mari sits at the wooden table in the cozy kitchen, using a blunt toy knife made entirely of light wood (no metal blade) to slice a red apple on a wooden chopping board. Small apple slices sit on the board. Peeter sits next to her, watching curiously with a smile. Mari: girl with short light blonde hair and a yellow hair clip, wearing a yellow shirt and a green dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "PEETER SEGAB TAIGNAT SUURES KAUSIS.",
-      "scene": "Peeter holds a wooden spoon and carefully stirs smooth yellow cake dough in a large blue mixing bowl placed on the wooden table. Mari pours the sliced red apples from the chopping board into the bowl. Both children look focused and happy. Mari: girl with short light blonde hair and a yellow hair clip, yellow short-sleeved shirt under a green pinafore dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
+      "scene": "Peeter holds a wooden spoon and carefully stirs smooth yellow cake dough in a large blue mixing bowl placed on the wooden table. Mari pours the sliced red apples from the chopping board into the bowl. Both children look focused and happy. Mari: girl with short light blonde hair and a yellow hair clip, wearing a yellow shirt and a green dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "NAD PANEVAD KOOGI SOOJA AHJU.",
-      "scene": "Mari and Peeter together hold one single round baking tin filled with raw pale cake batter and apple pieces, and slide it into the open oven under the yellow kitchen cabinets. There is only one baking tin in the picture. The kitchen is cozy and bright. Mari: girl with short light blonde hair and a yellow hair clip, yellow short-sleeved shirt under a green pinafore dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
+      "scene": "Mari and Peeter together hold one single round baking tin filled with raw pale cake batter and apple pieces, and slide it into the open oven under the yellow kitchen cabinets. There is only one baking tin in the picture. The kitchen is cozy and bright. Mari: girl with short light blonde hair and a yellow hair clip, wearing a yellow shirt and a green dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
       "text": "KOOK LÕHNAB AHJUS VÄGA HÄSTI.",
-      "scene": "Mari and Peeter squat happily right in front of the closed oven door in the kitchen. A few soft swirls of warm aroma rise from the top of the oven (not from the children's mouths). Both children are smiling and taking deep breaths of the delicious scent. Mari: girl with short light blonde hair and a yellow hair clip, yellow short-sleeved shirt under a green pinafore dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
+      "scene": "Mari and Peeter squat happily right in front of the closed oven door in the kitchen. A few soft swirls of warm aroma rise from the top of the oven (not from the children's mouths). Both children are smiling and taking deep breaths of the delicious scent. Mari: girl with short light blonde hair and a yellow hair clip, wearing a yellow shirt and a green dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
       "text": "MARI JA PEETER SÖÖVAD KOOKI.",
-      "scene": "Mari and Peeter sit side-by-side at the wooden kitchen table. On the table sits a fully baked, golden-brown apple cake on a plate. Each child holds a small slice of warm cake on a small saucer, taking a bite and smiling joyfully. Rainy autumn window in background. Mari: girl with short light blonde hair and a yellow hair clip, yellow short-sleeved shirt under a green pinafore dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
+      "scene": "Mari and Peeter sit side-by-side at the wooden kitchen table. On the table sits a fully baked, golden-brown apple cake on a plate. Each child holds a small slice of warm cake on a small saucer, taking a bite and smiling joyfully. Rainy autumn window in background. Mari: girl with short light blonde hair and a yellow hair clip, wearing a yellow shirt and a green dress. Peeter: boy with short black hair, green hooded sweatshirt, dark green trousers. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page8.png",
       "location_id": "loc1"
     }
