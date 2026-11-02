@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-11-12",
+  "latestDate": "2026-11-13",
   "stories": [
+    {
+      "date": "2026-11-13",
+      "title": "PEETER JA LIISA MÄNGIVAD LEHEDEGA",
+      "pageCount": 8,
+      "characters": [
+        "PEETER",
+        "LIISA"
+      ]
+    },
     {
       "date": "2026-11-12",
       "title": "KUSTI JA KITI LÕBUS VIHMAPÄEV",
