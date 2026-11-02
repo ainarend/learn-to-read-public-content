@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-11-11",
+  "latestDate": "2026-11-12",
   "stories": [
+    {
+      "date": "2026-11-12",
+      "title": "KUSTI JA KITI LÕBUS VIHMAPÄEV",
+      "pageCount": 10,
+      "characters": [
+        "KUSTI",
+        "KITI"
+      ]
+    },
     {
       "date": "2026-11-11",
       "title": "ORAV OTT JA KARU KATI TEEVAD SUPPI",

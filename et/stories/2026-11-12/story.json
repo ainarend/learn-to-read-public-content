@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-12",
+  "language": "et",
+  "title": "KUSTI JA KITI LÕBUS VIHMAPÄEV",
+  "generatedAt": "2026-11-02T00:45:23.348Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KUSTI",
+      "type": "dog",
+      "description": "Väike valge koer pruunide kõrvadega, kandes kollast vihmamantlit ja kollaseid kummikuid. Suured rõõmsad silmad ja kohev saba. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KITI",
+      "type": "cat",
+      "description": "Väike hall triibuline kass suurte roheliste silmadega, kandes roosat vihmamantlit ja hoides punast vihmavarju. Sõbralik ja lõbus näoilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Vihmane aed",
+      "description": "A cozy autumn garden with green grass sprinkled with yellow and orange fallen leaves. A simple brown wooden fence lines the background. A large shallow rainwater puddle is in the center of the grass. Gentle rain drops fall from soft blue-grey sky. Cartoon style, bright cheerful colors.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "KOER KUSTI JA KASS KITI ON AIAS.",
+      "scene": "Kusti, a small white dog with brown ears wearing a yellow raincoat and yellow rubber boots, stands in the green garden next to Kiti, a small grey striped cat wearing a pink raincoat. Gentle rain drops fall in the garden around them. Colorful autumn leaves lie on the grass near a wooden fence.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES SAJAB SOOJA VIHMA.",
+      "scene": "Kusti the white dog and Kiti the grey cat stand together in the garden, looking up happily at the gentle raindrops falling from the sky. Kusti wears his yellow raincoat and yellow boots. Kiti wears her pink raincoat. Raindrops ripple on the green grass dotted with yellow autumn leaves.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "KUSTI VÕTAB KOLLASED KUMMIKUD.",
+      "scene": "Kusti the white dog is putting on bright yellow rubber boots while sitting on the green garden grass. Kiti the cat stands nearby in her pink raincoat, watching him with a cheerful smile. Gentle raindrops fall around them in the autumn garden.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KITI VÕTAB PUNASE VIHMAVARJU.",
+      "scene": "Kiti the grey cat holds open a bright red umbrella over her head while standing in the rainy garden. Kusti the white dog in his yellow raincoat and yellow boots stands next to her, looking happily at the umbrella.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD OTSIVAD AIAS SUURT LOMPI.",
+      "scene": "Kusti the white dog in his yellow raincoat and boots and Kiti the grey cat holding her red umbrella are walking together across the garden grass, looking down to search for water puddles among the scattered autumn leaves.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KUSTI HÜPPAB SUURDE LOMPI.",
+      "scene": "Kusti the white dog jumps high in the air with both feet into a big water puddle in the middle of the garden grass, causing bright water drops to splash around. Kiti the grey cat stands nearby holding her red umbrella, watching excitedly.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KITI HÜPPAB KA LOMPI.",
+      "scene": "Kiti the grey cat leaps playfully into the same large water puddle right next to Kusti the white dog, holding her red umbrella high. Water splashes around both of them on the garden grass.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "VESI PRITSIB IGALE POOLE.",
+      "scene": "Water droplets splash upward high around Kusti the white dog and Kiti the grey cat as they both bounce in the puddle together. Bright water splashes fly playfully into the air around them in the rainy garden.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "KUSTI JA KITI NAERAVAD RÕÕMSALT.",
+      "scene": "Kusti the white dog and Kiti the grey cat stand together in the puddle, smiling and laughing joyfully. Kiti holds her red umbrella up and Kusti wags his tail in excitement amidst the soft rain.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 10,
+      "text": "SÕBRAD NAUDIVAD LÕBUSAT VIHMAPÄEVA.",
+      "scene": "Kusti the white dog and Kiti the grey cat walk side by side happily through the rainy garden under the red umbrella, splashing gently through puddles with big cheerful smiles.",
+      "image": "page10.png",
+      "location_id": "loc1"
+    }
+  ]
+}
