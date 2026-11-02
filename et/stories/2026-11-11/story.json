@@ -8,14 +8,14 @@
       "id": "char1",
       "name": "ORAV OTT",
       "type": "squirrel",
-      "description": "Väike oranž orav suure koheva sabaga, kandmas rohelist kampsunit, suured uudishimulikud silmarõõmsad silmad ja sõbralik näoilme. Armas multifilmistiil.",
+      "description": "Väike oranž orav suure koheva sabaga, kandmas rohelist kootud kampsunit, suured uudishimulikud rõõmsad silmad ja sõbralik näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
       "name": "KARU KATI",
       "type": "bear",
-      "description": "Suur pehme pruun karu kollases põlles, soe ja sõbralik naeratus, ümarad kõrvad. Armas multifilmistiil.",
+      "description": "Suur pehme pruuni karvaga karu (mitte roosa), ees kollane põll, soe ja sõbralik naeratus, ümarad kõrvad. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
@@ -23,7 +23,7 @@
     {
       "id": "loc1",
       "name": "Õdus köök",
-      "description": "Cozy children's book kitchen with light blue wooden walls, light wooden floor, single square window on the back wall showing autumn rain drops and falling yellow leaves outside, round wooden dining table in center, red cooking pot on table, wooden cabinets along left wall, warm lighting. Cartoon style.",
+      "description": "Cozy children's book kitchen with light blue wooden walls, light wooden floor, single square window on the back wall showing autumn rain drops and falling yellow leaves outside, round wooden dining table in center, red cooking pot standing directly on the table top (no stove or burner on the table), wooden cabinets along left wall, warm lighting. Cartoon style.",
       "image": "loc1.png"
     }
   ],
@@ -31,56 +31,56 @@
     {
       "pageNumber": 1,
       "text": "OTT JA KATI ON SOOJAS KÖÖGIS.",
-      "scene": "In a cozy kitchen with light blue wooden walls and a square window showing autumn rain outside, Orav Ott (a small orange squirrel in a green sweater) and Karu Kati (a friendly brown bear in a yellow apron) are standing together next to a wooden dining table. Warm lighting fills the room. Cartoon style, landscape orientation.",
+      "scene": "In a cozy kitchen with light blue wooden walls and a square window showing autumn rain outside, Orav Ott (a small orange squirrel in a green sweater) and Karu Kati (a friendly brown bear in a yellow apron) are standing together next to a wooden dining table. Warm lighting fills the room. Cartoon style, landscape orientation. Ott: small orange squirrel wearing a green knitted sweater (not a raincoat, no hood). Kati: big BROWN bear (brown fur, not pink) wearing a yellow apron. The red pot stands directly on the wooden table top, with no stove or burner on the table. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "NAD TEEVAD TÄNA SOOJA SUPPI.",
-      "scene": "Inside the cozy light blue kitchen, Orav Ott (orange squirrel in green sweater) and Karu Kati (brown bear in yellow apron) stand behind the round wooden table. On the table sits a shiny red cooking pot. Kati points happily at the pot while Ott smiles excitedly. The rain falls outside the window. Cartoon style, landscape orientation.",
+      "scene": "Inside the cozy light blue kitchen, Orav Ott (orange squirrel in green sweater) and Karu Kati (brown bear in yellow apron) stand behind the round wooden table. On the table sits a shiny red cooking pot. Kati points happily at the pot while Ott smiles excitedly. The rain falls outside the window. Cartoon style, landscape orientation. Ott: small orange squirrel wearing a green knitted sweater (not a raincoat, no hood). Kati: big BROWN bear (brown fur, not pink) wearing a yellow apron. The red pot stands directly on the wooden table top, with no stove or burner on the table. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "OTT LÕIKAB LAUAL KOLLAST PORGANDIT.",
-      "scene": "At the round wooden table in the light blue kitchen, Orav Ott (small orange squirrel in green sweater) is sitting on a small stool, carefully holding a toy wooden knife and slicing a bright orange-yellow carrot on a wooden chopping board. Karu Kati watches warmly beside him. Cartoon style, landscape orientation.",
+      "scene": "At the round wooden table in the light blue kitchen, Orav Ott (small orange squirrel in green sweater) is sitting on a small stool, carefully holding a toy wooden knife and slicing a bright orange-yellow carrot on a wooden chopping board. Karu Kati watches warmly beside him. Cartoon style, landscape orientation. Ott: small orange squirrel wearing a green knitted sweater (not a raincoat, no hood). Kati: big BROWN bear (brown fur, not pink) wearing a yellow apron. The red pot stands directly on the wooden table top, with no stove or burner on the table. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "KATI PANEB PORGANDI SUURDE POTTI.",
-      "scene": "In the cozy kitchen, Karu Kati (brown bear in yellow apron) carefully drops sliced carrot pieces into the large red cooking pot on the round wooden table. Orav Ott (orange squirrel in green sweater) stands next to the pot, watching happily. Cartoon style, landscape orientation.",
+      "scene": "In the cozy kitchen, Karu Kati (brown bear in yellow apron) carefully drops sliced carrot pieces into the large red cooking pot on the round wooden table. Orav Ott (orange squirrel in green sweater) stands next to the pot, watching happily. Cartoon style, landscape orientation. Ott: small orange squirrel wearing a green knitted sweater (not a raincoat, no hood). Kati: big BROWN bear (brown fur, not pink) wearing a yellow apron. The red pot stands directly on the wooden table top, with no stove or burner on the table. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "OTT VISKAB POTTI ROHELISED HERNEED.",
-      "scene": "In the cozy kitchen, Orav Ott (orange squirrel in green sweater) holds a small bowl of round green peas and tosses them into the red cooking pot on the wooden table. Karu Kati smiles and claps her paws softly. Cartoon style, landscape orientation.",
+      "scene": "In the cozy kitchen, Orav Ott (orange squirrel in green sweater) holds a small bowl of round green peas and tosses them into the red cooking pot on the wooden table. Karu Kati smiles and claps her paws softly. Cartoon style, landscape orientation. Ott: small orange squirrel wearing a green knitted sweater (not a raincoat, no hood). Kati: big BROWN bear (brown fur, not pink) wearing a yellow apron. The red pot stands directly on the wooden table top, with no stove or burner on the table. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "KATI SEGAB SUPPI SUURE LUSIKAGA.",
-      "scene": "In the light blue kitchen, Karu Kati (brown bear in yellow apron) holds a big wooden spoon and gently stirs the colorful vegetable soup inside the red pot on the wooden table. Warm steam rises softly from the pot. Orav Ott looks on with delight. Cartoon style, landscape orientation.",
+      "scene": "In the light blue kitchen, Karu Kati (brown bear in yellow apron) holds a big wooden spoon and gently stirs the colorful vegetable soup inside the red pot on the wooden table. Warm steam rises softly from the pot. Orav Ott looks on with delight. Cartoon style, landscape orientation. Ott: small orange squirrel wearing a green knitted sweater (not a raincoat, no hood). Kati: big BROWN bear (brown fur, not pink) wearing a yellow apron. The red pot stands directly on the wooden table top, with no stove or burner on the table. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
       "text": "OTT JA KATI SÖÖVAD SOOJA SUPPI.",
-      "scene": "In the cozy kitchen, Orav Ott and Karu Kati are sitting happily at the wooden table. Each has a small bowl of warm vegetable soup in front of them and holds a small spoon, eating tasty soup together. The rain trickles on the window outside. Cartoon style, landscape orientation.",
+      "scene": "In the cozy kitchen, Orav Ott and Karu Kati are sitting happily at the wooden table. Each has a small bowl of warm vegetable soup in front of them and holds a small spoon, eating tasty soup together. The rain trickles on the window outside. Cartoon style, landscape orientation. Ott: small orange squirrel wearing a green knitted sweater (not a raincoat, no hood). Kati: big BROWN bear (brown fur, not pink) wearing a yellow apron. The red pot stands directly on the wooden table top, with no stove or burner on the table. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
       "text": "MÕLEMAD SÕBRAD ON NÜÜD RÕÕMSAD.",
-      "scene": "In the cozy kitchen, Orav Ott and Karu Kati sit side by side at the table with empty bowls, tummy full, holding hands and smiling brightly at each other with happy expressions. The red pot sits empty on the table. Cartoon style, landscape orientation.",
+      "scene": "In the cozy kitchen, Orav Ott and Karu Kati sit side by side at the table with empty bowls, tummy full, holding hands and smiling brightly at each other with happy expressions. The empty red pot stands on the same wooden table between them. Cartoon style, landscape orientation. Ott: small orange squirrel wearing a green knitted sweater (not a raincoat, no hood). Kati: big BROWN bear (brown fur, not pink) wearing a yellow apron. The red pot stands directly on the wooden table top, with no stove or burner on the table. The illustration fills the whole frame edge to edge, no band, strip or empty area at the bottom.",
       "image": "page8.png",
       "location_id": "loc1"
     }
