@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-11-05",
+  "latestDate": "2026-11-09",
   "stories": [
+    {
+      "date": "2026-11-09",
+      "title": "JUKU JA LIISA TEEVAD SÖÖGIMAJA",
+      "pageCount": 9,
+      "characters": [
+        "JUKU",
+        "LIISA"
+      ]
+    },
     {
       "date": "2026-11-05",
       "title": "MUKI JA KISSI MÄNGIVAD LEHTEDEGA",
