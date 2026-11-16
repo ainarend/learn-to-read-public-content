@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-27",
+  "language": "et",
+  "title": "JUKU JA ANNI EHITAVAD TORNI",
+  "generatedAt": "2026-11-16T01:31:02.637Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "JUKU",
+      "type": "human",
+      "description": "Väike inimene, poiss Juku tumepruunide lühikeste juustega, seljas roheline kampsun ja sinised püksid, sõbralik ja rõõmsameelne ilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ANNI",
+      "type": "human",
+      "description": "Väike inimene, tüdruk Anni heledate patsidega, seljas punane kampsun ja kollased püksid, uudishimulikud silmad ja rõõmus naeratus. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Laste tuba",
+      "description": "Cozy children's playroom with light blue walls, light wooden floor, single large window on back wall showing raindrops falling outside, soft round woven rug in the middle of the room, plain walls with warm light streaming inside. Simple cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ÕUES SAJAB KÜLMA VIHMA.",
+      "scene": "Inside the cozy playroom with light blue walls and wooden floor. Raindrops fall visible outside the window. Juku, a small boy in a green sweater and blue pants, and Anni, a small girl with blonde pigtails in a red sweater, stand near the window looking outside with gentle smiles.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "JUKU JA ANNI ON TOAS.",
+      "scene": "Inside the cozy playroom with light blue walls and wooden floor. Juku and Anni sit together on the soft round woven rug in the center of the room. A wooden box full of colorful large toy blocks (red, yellow, blue, green) sits on the floor between them. Rain is visible outside the window.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD EHITAVAD SUURT TORNI.",
+      "scene": "Inside the cozy playroom with light blue walls and wooden floor. Juku and Anni sit on the round rug and begin stacking colorful wooden blocks on the floor. Juku carefully places a block on top of a small base. Anni reaches into the wooden block box smiling excitedly.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "JUKU PANEB PUNASE KLOTSI.",
+      "scene": "Inside the cozy playroom with light blue walls and wooden floor. Juku carefully places a bright red wooden block onto a small tower of four colorful blocks on the round rug. Anni sits beside him on the floor, holding a yellow block and watching intently with a happy smile.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "ANNI PANEB KOLLASE KLOTSI.",
+      "scene": "Inside the cozy playroom with light blue walls and wooden floor. Anni carefully adds a bright yellow block onto the growing colorful block tower on the round rug. Juku kneels next to her, watching happily with wide excited eyes.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "TORN KASVAB VÄGA KÕRGEKS.",
+      "scene": "Inside the cozy playroom with light blue walls and wooden floor. Juku stands up on his knees to reach higher, adding a green block to the now tall wooden tower on the round rug. Anni sits on the floor looking up at the high tower with wide eyes and joy.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "ANNI PANEB TORNILE KATUSE.",
+      "scene": "Inside the cozy playroom with light blue walls and wooden floor. Anni reaches up carefully to place a triangle-shaped blue roof block on top of the tall colorful tower on the round rug. Juku stands beside her watching happily with raised hands.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KÕRGE TORN ON VALMIS.",
+      "scene": "Inside the cozy playroom with light blue walls and wooden floor. A tall, beautiful, finished block tower crowned with a triangular blue roof stands sturdy in the middle of the round rug. Juku and Anni stand next to it admiring their tower with big proud smiles.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "JUKU JA ANNI PLAKSUTAVAD.",
+      "scene": "Inside the cozy playroom with light blue walls and wooden floor. Juku and Anni are happily clapping their hands together while standing beside the tall completed wooden block tower on the soft round rug. Both children are laughing with bright joyful expressions.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
