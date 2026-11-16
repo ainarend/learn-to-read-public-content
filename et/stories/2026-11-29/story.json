@@ -51,8 +51,8 @@
     },
     {
       "pageNumber": 4,
-      "text": "SASS PANEB KÄBI KÜLGE LEHE.",
-      "scene": "Siil Sass sits on the forest ground by the puddle and pushes the stem of a bright yellow leaf into the top of the pinecone to make a sail. The pinecone is still in his hands, not in the water. Orav Ott sits on the ground next to Sass, watching with a smile. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
+      "text": "OTT PANEB KÄBI KÜLGE LEHE.",
+      "scene": "Orav Ott kneels on the mossy ground by the puddle and pushes the stem of a bright yellow leaf into the top of the big pinecone to make a sail, holding it up in his paws. Siil Sass sits next to him, watching with a smile. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page4.png",
       "location_id": "loc1"
     },
@@ -65,8 +65,8 @@
     },
     {
       "pageNumber": 6,
-      "text": "OTT TÕSTAB PAADI SUURDE LOMPI.",
-      "scene": "Orav Ott, the orange squirrel with the blue scarf, kneels at the edge of the rainwater puddle and lowers the little pinecone boat with its yellow leaf sail onto the calm water with both paws. Siil Sass kneels next to him, watching as the boat starts to float. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
+      "text": "SASS TÕSTAB PAADI SUURDE LOMPI.",
+      "scene": "Siil Sass crouches at the edge of the rainwater puddle and lowers the little pinecone boat with its yellow leaf sail onto the calm water. Orav Ott sits next to him, watching happily as the boat starts to float. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page6.png",
       "location_id": "loc1"
     },
