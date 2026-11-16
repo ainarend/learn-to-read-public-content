@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-11-24",
+  "latestDate": "2026-11-25",
   "stories": [
+    {
+      "date": "2026-11-25",
+      "title": "PEETER JA LIISA EHITAVAD TELGI",
+      "pageCount": 8,
+      "characters": [
+        "PEETER",
+        "LIISA"
+      ]
+    },
     {
       "date": "2026-11-24",
       "title": "KUSTI JA MIINA MÄNGIVAD LEHTEDEGA",
