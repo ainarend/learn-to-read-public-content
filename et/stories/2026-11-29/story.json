@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "SIIL SASS",
       "type": "hedgehog",
-      "description": "Väike hall siil pehmete okastega, seljas kollane kampsun, suured mustad nööpsilmad ja rõõmus naeratus. Armas multifilmistiil.",
+      "description": "Väike hall siil pehmete okastega, kandmas kollast kootud kampsunit (yellow knitted sweater, no backpack), suured mustad nööpsilmad ja rõõmus naeratus. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
@@ -31,63 +31,63 @@
     {
       "pageNumber": 1,
       "text": "SIIL SASS JA ORAV OTT ON METSAS.",
-      "scene": "Siil Sass (a cute little gray hedgehog in a yellow sweater) and Orav Ott (a cute fluffy orange squirrel with a blue scarf) stand together on a dirt path in an autumn forest. Bright yellow and orange leaves carpet the ground around them. Tall pine trees surround the scene. Both characters look cheerful and friendly.",
+      "scene": "Siil Sass (a cute little gray hedgehog in a yellow sweater) and Orav Ott (a cute fluffy orange squirrel with a blue scarf) stand together on a dirt path in an autumn forest. Bright yellow and orange leaves carpet the ground around them. Tall pine trees surround the scene. Both characters look cheerful and friendly. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "VIHM TEEB MAALE SUURE LOMBI.",
-      "scene": "Siil Sass and Orav Ott stand near a large, smooth rainwater puddle that has formed on the dirt path in the autumn forest. Sass points excitedly at the clear puddle. Ott smiles widely. Yellow leaves float near the edge of the puddle.",
+      "scene": "Siil Sass and Orav Ott stand near a large, smooth rainwater puddle that has formed on the dirt path in the autumn forest. Sass points excitedly at the clear puddle. Ott smiles widely. Yellow leaves float near the edge of the puddle. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "OTT LEIAB MAAST SUURE KÄBI.",
-      "scene": "Orav Ott kneels on the mossy forest path by the puddle, holding up a large brown pinecone with both hands to show Siil Sass. Siil Sass stands beside Ott, looking at the pinecone with happy curiosity.",
+      "scene": "Orav Ott kneels on the mossy forest path by the puddle, holding up a large brown pinecone with both hands to show Siil Sass. Siil Sass stands beside Ott, looking at the pinecone with happy curiosity. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "SASS PANEB KÄBI KÜLGE LEHE.",
-      "scene": "Siil Sass carefully attaches a bright yellow leaf to the top of the pinecone, turning it into a toy boat sail. Orav Ott sits on the ground next to Sass, watching attentively with a smile.",
+      "scene": "Siil Sass sits on the forest ground by the puddle and pushes the stem of a bright yellow leaf into the top of the pinecone to make a sail. The pinecone is still in his hands, not in the water. Orav Ott sits on the ground next to Sass, watching with a smile. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "VALMIS SAAB ARMAS VÄIKE PAAT.",
-      "scene": "Siil Sass holds up the completed tiny pinecone boat with its yellow leaf sail for both of them to see. Orav Ott claps his hands in delight. Both friends look proud and happy beside the big forest puddle.",
+      "scene": "Siil Sass holds up the completed tiny pinecone boat with its yellow leaf sail for both of them to see. Orav Ott claps his hands in delight. Both friends look proud and happy beside the big forest puddle. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "OTT TÕSTAB PAADI SUURDE LOMPI.",
-      "scene": "Orav Ott carefully lowers the little pinecone boat onto the calm water of the rainwater puddle. Siil Sass kneels at the edge of the puddle watching intently as the boat starts to float.",
+      "scene": "Orav Ott, the orange squirrel with the blue scarf, kneels at the edge of the rainwater puddle and lowers the little pinecone boat with its yellow leaf sail onto the calm water with both paws. Siil Sass kneels next to him, watching as the boat starts to float. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
       "text": "SASS PUHUB PAADILE TUULT.",
-      "scene": "Siil Sass bends down near the water surface and gently blows on the yellow leaf sail. Little ripples spread across the puddle as the pinecone boat glides forward smoothly. Orav Ott watches with excitement.",
+      "scene": "Siil Sass bends down near the water surface and gently blows on the yellow leaf sail. Little ripples spread across the puddle as the pinecone boat glides forward smoothly. Orav Ott watches with excitement. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
       "text": "VÄIKE PAAT UJUB KIIRESTI KAUGELE.",
-      "scene": "The little pinecone boat sails across the puddle toward the opposite side. Siil Sass and Orav Ott stand side-by-side at the water edge, waving their hands happily as the boat floats away.",
+      "scene": "The little pinecone boat sails across the puddle toward the opposite side. Siil Sass and Orav Ott stand side-by-side at the water edge, waving their hands happily as the boat floats away. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page8.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 9,
       "text": "SASS JA OTT ON VÄGA ÕNNELIKUD.",
-      "scene": "Siil Sass and Orav Ott hold hands and cheer joyfully next to the rainwater puddle in the glowing autumn forest. The pinecone boat floats peacefully nearby on the water.",
+      "scene": "Siil Sass and Orav Ott hold hands and cheer joyfully next to the rainwater puddle in the glowing autumn forest. The pinecone boat floats peacefully nearby on the water. Sass is a small grey hedgehog in a yellow knitted sweater (no backpack). Ott is an orange squirrel with a blue scarf. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page9.png",
       "location_id": "loc1"
     }
