@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-23",
+  "language": "et",
+  "title": "OTT JA KITI UJUTAVAD PABERPAATE",
+  "generatedAt": "2026-11-16T00:53:36.615Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "OTT",
+      "type": "squirrel",
+      "description": "Väike oranž orav koheva sabaga, kandmas rohelist kampsunit, suured uudishimulikud silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KITI",
+      "type": "cat",
+      "description": "Väike valge kass hallide tähnikestega, kandmas kollast vihmajopet, rõõmsameelne ilme ja pikad vurrud. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Cozy playroom",
+      "description": "Cozy playroom with warm orange painted walls, light wooden floor, single large window on the back wall showing rainfall and autumn trees outside. A small low wooden crafts table with simple stools in center. Warm sunlight mixed with rainy light. Simple clean cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Rainy garden",
+      "description": "A cheerful autumn garden path with a large clear water puddle in the middle of the gravel path. Bright yellow and orange fallen leaves scattered around edges. Soft autumn trees in background, gentle rain misting. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "OTT JA KITI VAATAVAD VIHMA.",
+      "scene": "Ott the squirrel in a green sweater and Kiti the white cat in a yellow rain jacket stand side-by-side in the playroom next to a large window, looking out with excited expressions at the falling rain outside. The playroom has orange walls, wooden floor, and a small crafts table in the background.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES SAJAB SOOJA VIHMA.",
+      "scene": "Ott the squirrel and Kiti the white cat are still standing together at the large playroom window, looking closely at raindrops clinging to the window glass with bright smile expressions. Orange walls and wooden floor remain identical.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "OTT VÕTAB VÄRVILIST PABERIT.",
+      "scene": "Ott the squirrel sits at the small wooden crafts table in the orange playroom, picking up bright blue and red sheets of paper from a neat pile. Kiti the white cat sits on a stool next to him at the table, leaning forward with curious happy eyes.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KITI VOLTIB PABERIST PAADI.",
+      "scene": "Kiti the white cat carefully folds a sheet of blue craft paper into a neat paper boat at the wooden crafts table. Ott the squirrel sits beside her, holding a finished red paper boat proudly with a happy smile. Orange walls and wooden floor.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD TEEVAD KAKS ILUSAT PAATI.",
+      "scene": "Ott the squirrel and Kiti the white cat sit together at the wooden table in the orange playroom, happily holding up two completed paper boats (one red, one blue) toward the viewer, grinning widely.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "SÕBRAD LÄHEVAD NÜÜD ÕUE.",
+      "scene": "Ott the squirrel in his green sweater holding his red paper boat, and Kiti the white cat in her yellow rain jacket holding her blue paper boat, walk outside onto the autumn garden path together. Soft rain falls around them.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "AIAS ON SUUR VIHMALOMP.",
+      "scene": "Ott the squirrel and Kiti the white cat stand on the garden path, looking down in delight at a large, clear water puddle reflecting the sky. Scattered orange leaves lie around the puddle.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "NAD PANEVAD PAADID VEELE.",
+      "scene": "Ott the squirrel and Kiti the white cat kneel carefully at the edge of the large puddle, placing their red and blue paper boats gently onto the water's surface.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "VÄRVILISED PAADID UJUVAD KAUGELE.",
+      "scene": "The red and blue paper boats float gently across the water puddle. Ott the squirrel and Kiti the white cat stand at the edge of the puddle, waving cheerfully at the floating paper boats.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "OTT JA KITI ON VÄGA ÕNNELIKUD.",
+      "scene": "Ott the squirrel and Kiti the white cat stand together side-by-side near the puddle in the garden, cheering and holding hands with huge joyful smiles. Autumn leaves around them on the path.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

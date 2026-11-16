@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-11-15",
+  "latestDate": "2026-11-23",
   "stories": [
+    {
+      "date": "2026-11-23",
+      "title": "OTT JA KITI UJUTAVAD PABERPAATE",
+      "pageCount": 10,
+      "characters": [
+        "OTT",
+        "KITI"
+      ]
+    },
     {
       "date": "2026-11-15",
       "title": "ANNI JA MIHKEL KÜPSETAVAD ÕUNAKOOKI",
