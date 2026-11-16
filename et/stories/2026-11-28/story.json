@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-28",
+  "language": "et",
+  "title": "MIINA JA OLLI REHITSEVAD LEHTI",
+  "generatedAt": "2026-11-16T01:40:25.979Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MIINA",
+      "type": "mouse",
+      "description": "Väike hall hiir suurte ümarate kõrvadega, kandmas kollast villast kampsunit ja punaseid pükse, armas uudishimulik näoilme ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "OLLI",
+      "type": "squirrel",
+      "description": "Väike oranž orav koheva sabaga, kandmas rohelist vesti ja siniseid pükse, rõõmsameelne ilme ja püstised kõrvatutid. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Sügisene aed",
+      "description": "Sunny autumn backyard garden with green grass partially covered in bright yellow and orange fallen leaves. A wooden cozy fence in the background, a large maple tree on the right with golden leaves. Warm afternoon autumn sunlight. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Soe elutuba",
+      "description": "Cozy indoor wooden cottage living room with warm light blue walls, wooden floor, small wooden tea table in center with tea cups, single window on back wall showing yellow autumn tree leaves outside. Cozy atmosphere, bright cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MIINA JA OLLI ON AIAS.",
+      "scene": "Miina the small grey mouse wearing a yellow sweater and Olli the orange squirrel wearing a green vest stand together in a bright autumn garden with green grass covered in scattered yellow maple leaves. In the background there is a wooden fence and a large golden maple tree. Both characters are looking around happily.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "AIAS ON PALJU KOLLASEID LEHTI.",
+      "scene": "Miina the grey mouse and Olli the orange squirrel look at the ground in awe. The garden grass is thickly covered with bright golden and orange autumn leaves falling softly from the big maple tree. Sunbeams shine gently on the colorful yard.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "MIINA VÕTAB VÄIKESE KOLLASE REHA.",
+      "scene": "Miina the grey mouse happily holds a small yellow children's leaf rake in her hands, holding it upright ready to work. Olli the squirrel stands next to her, smiling and pointing toward the leaves on the grass.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "OLLI REHITSEB SUURE LEHEHUNNIKU.",
+      "scene": "Olli the orange squirrel uses a red rake to gather leaves into a massive, neat pile of golden maple leaves on the grass. Miina stands nearby with her small yellow rake, sweeping the last few leaves onto the big leaf pile.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIINA HÜPPAB OTSE LEHTEDE SISSE.",
+      "scene": "Miina the grey mouse is captured mid-air, jumping happily right into the giant pile of yellow autumn leaves. Olli watches her with wide excited eyes and a big grin.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "OLLI HÜPPAB KA SUURDE HUNNIKUSSE.",
+      "scene": "Olli the orange squirrel jumps joyfully into the large leaf pile next to Miina. Both characters are sitting inside the deep pile of golden autumn leaves, laughing together.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "KOLLASED LEHED LENDAVAD KÕRGELE ÕHKU.",
+      "scene": "Miina the mouse and Olli the squirrel throw handfuls of bright yellow leaves into the air. Colorful autumn leaves fly high in the sky around them like confetti, creating a magical playful scene.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "SÕBRAD JOOVAD MAJAS SOOJA TEED.",
+      "scene": "Inside the cozy wooden cottage room with warm blue walls, Miina the grey mouse and Olli the orange squirrel sit on wooden chairs at a round table. They are holding warm steaming cups of tea, smiling at each other. Outside the single window, the colorful garden can be seen.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    }
+  ]
+}
