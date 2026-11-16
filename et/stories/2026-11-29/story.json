@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-29",
+  "language": "et",
+  "title": "SASS JA OTT UJUTAVAD PAATI",
+  "generatedAt": "2026-11-16T01:48:35.224Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "SIIL SASS",
+      "type": "hedgehog",
+      "description": "Väike hall siil pehmete okastega, seljas kollane kampsun, suured mustad nööpsilmad ja rõõmus naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike kohev oranž orav suure sabaga, kaelas sinine sall, sõbralikud uudishimulikud silmad ja naeratav nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Metsarada ja suur lomp",
+      "description": "A cozy autumn forest path surrounded by tall pine trees and mossy ground covered with colorful autumn leaves. A large clean rainwater puddle sits on the dirt path. Warm soft daylight filters through the autumn trees. Cute cartoon children's book background.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "SIIL SASS JA ORAV OTT ON METSAS.",
+      "scene": "Siil Sass (a cute little gray hedgehog in a yellow sweater) and Orav Ott (a cute fluffy orange squirrel with a blue scarf) stand together on a dirt path in an autumn forest. Bright yellow and orange leaves carpet the ground around them. Tall pine trees surround the scene. Both characters look cheerful and friendly.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "VIHM TEEB MAALE SUURE LOMBI.",
+      "scene": "Siil Sass and Orav Ott stand near a large, smooth rainwater puddle that has formed on the dirt path in the autumn forest. Sass points excitedly at the clear puddle. Ott smiles widely. Yellow leaves float near the edge of the puddle.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "OTT LEIAB MAAST SUURE KÄBI.",
+      "scene": "Orav Ott kneels on the mossy forest path by the puddle, holding up a large brown pinecone with both hands to show Siil Sass. Siil Sass stands beside Ott, looking at the pinecone with happy curiosity.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "SASS PANEB KÄBI KÜLGE LEHE.",
+      "scene": "Siil Sass carefully attaches a bright yellow leaf to the top of the pinecone, turning it into a toy boat sail. Orav Ott sits on the ground next to Sass, watching attentively with a smile.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "VALMIS SAAB ARMAS VÄIKE PAAT.",
+      "scene": "Siil Sass holds up the completed tiny pinecone boat with its yellow leaf sail for both of them to see. Orav Ott claps his hands in delight. Both friends look proud and happy beside the big forest puddle.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "OTT TÕSTAB PAADI SUURDE LOMPI.",
+      "scene": "Orav Ott carefully lowers the little pinecone boat onto the calm water of the rainwater puddle. Siil Sass kneels at the edge of the puddle watching intently as the boat starts to float.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "SASS PUHUB PAADILE TUULT.",
+      "scene": "Siil Sass bends down near the water surface and gently blows on the yellow leaf sail. Little ripples spread across the puddle as the pinecone boat glides forward smoothly. Orav Ott watches with excitement.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "VÄIKE PAAT UJUB KIIRESTI KAUGELE.",
+      "scene": "The little pinecone boat sails across the puddle toward the opposite side. Siil Sass and Orav Ott stand side-by-side at the water edge, waving their hands happily as the boat floats away.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 9,
+      "text": "SASS JA OTT ON VÄGA ÕNNELIKUD.",
+      "scene": "Siil Sass and Orav Ott hold hands and cheer joyfully next to the rainwater puddle in the glowing autumn forest. The pinecone boat floats peacefully nearby on the water.",
+      "image": "page9.png",
+      "location_id": "loc1"
+    }
+  ]
+}
