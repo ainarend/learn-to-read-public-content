@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "ORAV KUSTI",
       "type": "squirrel",
-      "description": "Väike oranž orav koheva sabaga, kandmas heledat rohelist kampsunit. Temal on suured pruunid silmad ja rõõmus näoilme. Armas multifilmistiil.",
+      "description": "Väike oranž orav koheva sabaga, seljas heleroheline pikkade varrukatega kootud kampsun (light green knitted sweater, not a collar). Temal on suured pruunid silmad ja rõõmus näoilme. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
@@ -31,56 +31,56 @@
     {
       "pageNumber": 1,
       "text": "ORAV KUSTI JA HIIR MIINA ON AIAS.",
-      "scene": "Orav Kusti (orange squirrel in green sweater) and Hiir Miina (grey mouse in yellow scarf and red pants) stand together in the middle of a sunny autumn garden. They are smiling and looking around at the colorful trees.",
+      "scene": "Orav Kusti (orange squirrel in green sweater) and Hiir Miina (grey mouse in yellow scarf and red pants) stand together in the middle of a sunny autumn garden. They are smiling and looking around at the colorful trees. Kusti is an orange squirrel in a light green knitted long-sleeved sweater. Miina is a small grey mouse in a yellow scarf and red pants. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
-      "text": "AIAS SADAB KOLLASEID LEHTI.",
-      "scene": "Orav Kusti and Hiir Miina stand in the garden looking up in delight as bright yellow and orange leaves gently float down from the trees.",
+      "text": "AIAS SAJAB KOLLASEID LEHTI.",
+      "scene": "Orav Kusti and Hiir Miina stand in the garden looking up in delight as bright yellow and orange leaves gently float down from the trees. Kusti is an orange squirrel in a light green knitted long-sleeved sweater. Miina is a small grey mouse in a yellow scarf and red pants. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "KUSTI TOOB VÄIKESE REHA.",
-      "scene": "Orav Kusti walks happily across the garden grass carrying a small green toy rake. Hiir Miina stands nearby watching him with interest.",
+      "scene": "Orav Kusti walks happily across the garden grass carrying a small green toy rake. Hiir Miina stands nearby watching him with interest. Kusti is an orange squirrel in a light green knitted long-sleeved sweater. Miina is a small grey mouse in a yellow scarf and red pants. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "MIINA KOGUB PUNASEID LEHTI.",
-      "scene": "Hiir Miina kneels on the grass, gathering bright red autumn leaves with her hands into a pile. Orav Kusti stands beside her raking more leaves towards her with his green toy rake.",
+      "scene": "Hiir Miina kneels on the grass, gathering bright red autumn leaves with her hands into a pile. Orav Kusti stands beside her raking more leaves towards her with his green toy rake. Kusti is an orange squirrel in a light green knitted long-sleeved sweater. Miina is a small grey mouse in a yellow scarf and red pants. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "NAD TEEVAD SUURE LEHEKUHJA.",
-      "scene": "Orav Kusti and Hiir Miina stand proudly next to a large, tall pile of gathered red, yellow, and orange autumn leaves on the green grass.",
+      "scene": "Orav Kusti and Hiir Miina stand proudly next to a large, tall pile of gathered red, yellow, and orange autumn leaves on the green grass. Kusti is an orange squirrel in a light green knitted long-sleeved sweater. Miina is a small grey mouse in a yellow scarf and red pants. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "KUSTI HÜPPAB LEHTEDE SISSE.",
-      "scene": "Orav Kusti leaps excitedly through the air, diving right into the middle of the big colorful leaf pile. Hiir Miina watches him happily with arms outstretched.",
+      "scene": "Orav Kusti leaps excitedly through the air, diving right into the middle of the big colorful leaf pile. Hiir Miina watches him happily with arms outstretched. Kusti is an orange squirrel in a light green knitted long-sleeved sweater. Miina is a small grey mouse in a yellow scarf and red pants. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
       "text": "MIINA HÜPPAB SAMUTI KUHJA.",
-      "scene": "Hiir Miina jumps enthusiastically into the leaf pile alongside Orav Kusti. Leaves scatter and fly up into the air around both happy friends.",
+      "scene": "Hiir Miina, the small grey mouse, is the one jumping: she is mid-air, leaping happily into the big leaf pile. Orav Kusti already sits inside the leaf pile with leaves on his head, laughing and looking up at her. Leaves scatter and fly up around them. Kusti is an orange squirrel in a light green knitted long-sleeved sweater. Miina is a small grey mouse in a yellow scarf and red pants. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
       "text": "KUSTI JA MIINA ON RÕÕMSAD.",
-      "scene": "Orav Kusti and Hiir Miina sit side by side inside the scattered leaf pile, resting happily with leaves on their heads, laughing together under the bright autumn sky.",
+      "scene": "Orav Kusti and Hiir Miina sit side by side inside the scattered leaf pile, resting happily with leaves on their heads, laughing together under the bright autumn sky. Kusti is an orange squirrel in a light green knitted long-sleeved sweater. Miina is a small grey mouse in a yellow scarf and red pants. The picture fills the whole frame, no band or stripe at the bottom.",
       "image": "page8.png",
       "location_id": "loc1"
     }
