@@ -1,0 +1,94 @@
+{
+  "date": "2026-12-05",
+  "language": "et",
+  "title": "MUKI JA KIKI TOIDAVAD LINDE",
+  "generatedAt": "2026-11-23T02:09:19.325Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KOER MUKI",
+      "type": "dog",
+      "description": "Väike valge koer pruunide laikudega, kandmas sinist kootud mütsi ja punast salli, suured rõõmsad silmad ja sõbralik naeratus. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KASS KIKI",
+      "type": "cat",
+      "description": "Väike triibuline hall kass suurte roheliste silmadega, kandmas kollast kootud kampsunit, uudishimulik ja armas ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Soe tuba",
+      "description": "Cozy children's room with warm orange walls, light wooden floor, a large clear window on the back wall showing a snowy garden outside, a small wooden table in the center. Sunlight warming the room. Cartoon style.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Lumine aed",
+      "description": "Snowy winter garden with deep white snow on the ground, a single apple tree with snowy branches in the center, yellow house exterior wall visible in the background, soft winter sunlight. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MUKI JA KIKI VAATAVAD AKNAST VÄLJA.",
+      "scene": "Indoors in a cozy room with orange walls and light wooden floors. Muki the white dog (wearing a blue hat and red scarf) and Kiki the grey cat (wearing a yellow sweater) stand side by side at a large glass window, looking outside and smiling.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "AKNA TAGA ON PALJU LUND.",
+      "scene": "Close view near the window inside the cozy orange-walled room. Outside the window glass, snowflakes fall onto the white snowy garden and tree branches. Muki the white dog and Kiki the grey cat look out with big curious eyes.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "VÄIKE LIND OTSIB LUMELT SÖÖKI.",
+      "scene": "Muki the white dog and Kiki the grey cat press gently against the window glass, looking down outside. On the snow outside, a tiny cute brown bird is hopping on the ground searching for food.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KIKI VÕTAB VÄIKESE LINNUMAJA.",
+      "scene": "Inside the cozy orange room, Kiki the grey cat stands at the wooden table, holding up a small cute wooden birdhouse in her paws. Muki the white dog stands next to her, looking happily at the birdhouse.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MUKI PANEB MAJJA MAITSVAID SEEMNEID.",
+      "scene": "Inside the cozy room, the small wooden birdhouse sits on the wooden table. Muki the white dog carefully pours sunflower seeds from a small bag into the birdhouse opening. Kiki the grey cat holds the birdhouse steady and smiles.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "NAD VIIVAD LINNUMAJA ÕUE PUULE.",
+      "scene": "Outside in the snowy garden with deep snow. Muki the white dog and Kiki the cat stand by the snowy apple tree. Muki reaches up carefully to hang the small wooden birdhouse onto a low tree branch.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "VÄIKE LIND LENDAB SEEMNEID SÖÖMA.",
+      "scene": "Outside in the snowy garden. The small brown bird flies down and sits happily inside the wooden birdhouse hanging on the tree branch, pecking at the seeds. Muki and Kiki stand nearby in the snow watching softly.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MUKI JA KIKI ON VÄGA RÕÕMSAD.",
+      "scene": "Outside in the snowy garden under the tree. Muki the white dog and Kiki the grey cat stand side by side, hugging lightly and waving happily to the reader. In the background on the tree branch, the birdhouse with the little bird inside is visible.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    }
+  ]
+}

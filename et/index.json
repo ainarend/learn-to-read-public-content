@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-12-04",
+  "latestDate": "2026-12-05",
   "stories": [
+    {
+      "date": "2026-12-05",
+      "title": "MUKI JA KIKI TOIDAVAD LINDE",
+      "pageCount": 8,
+      "characters": [
+        "KOER MUKI",
+        "KASS KIKI"
+      ]
+    },
     {
       "date": "2026-12-04",
       "title": "MIKK JA ANNA TEEVAD PIPARKOOKE",
