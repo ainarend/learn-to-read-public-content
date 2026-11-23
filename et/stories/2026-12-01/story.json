@@ -8,7 +8,7 @@
       "id": "char1",
       "name": "PEETER",
       "type": "human",
-      "description": "Väike poiss lühikeste pruunide juuste ja suurtie siniste silmadega. Tuppa on tal seljas roheline kampsun ja tumedad püksid. Õues on tal seljas sinine talvejope, kollane müts ja kollased kindad. Armas multifilmistiil, sõbralik ja naeratav näoilme.",
+      "description": "Väike poiss lühikeste pruunide juuste ja suurte siniste silmadega. Tuppa on tal seljas roheline kampsun ja tumedad püksid. Õues on tal seljas sinine talvejope, kollane müts ja kollased kindad. Armas multifilmistiil, sõbralik ja naeratav näoilme.",
       "image": "char1.png"
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "pageNumber": 5,
-      "text": "PEETER PANEB SEEMNED MAJJA.",
+      "text": "PEETER PANEB SEEMNED LINNUMAJJA.",
       "scene": "Inside the room at the wooden table, Peeter carefully places the seeds into a small wooden birdhouse sitting on the table. Liisa smiles warmly as she watches Peeter put the seeds inside the little wooden house.",
       "image": "page5.png",
       "location_id": "loc1"
