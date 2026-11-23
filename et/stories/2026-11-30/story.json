@@ -8,14 +8,14 @@
       "id": "char1",
       "name": "KASS KITI",
       "type": "cat",
-      "description": "Väike valge kass kollase kampsuniga, suurte roheliste silmadega ja sõbraliku naeratusega. Armas multifilmistiil.",
+      "description": "Väike valge kass suurte roheliste silmadega, seljas kollane pikkade varrukatega kampsun (yellow long-sleeved sweater), ilma lehvideta. Sõbralik naeratus. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
       "name": "KOER MUKU",
       "type": "dog",
-      "description": "Väike pruun koer sinise kampsuniga, pikkade pehmete kõrvadega ja lõbusa ilmega. Armas multifilmistiil.",
+      "description": "Väike pruun koer pikkade pehmete kõrvadega, seljas sinine pikkade varrukatega kampsun (blue long-sleeved sweater). Lõbus ilme. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
@@ -31,56 +31,56 @@
     {
       "pageNumber": 1,
       "text": "ÕUES SAJAB PALJU VIHMA.",
-      "scene": "Inside the cozy kitchen with light blue walls and wooden floor. Kass Kiti, a small white cat in a yellow sweater, and Koer Muku, a small brown dog in a blue sweater, stand side-by-side near the window, looking out together at the autumn rain falling on colorful leaves outside. Peaceful indoor mood.",
+      "scene": "Inside the cozy kitchen with light blue walls and wooden floor. Kass Kiti, a small white cat in a yellow sweater, and Koer Muku, a small brown dog in a blue sweater, stand side-by-side near the window, looking out together at the autumn rain falling on colorful leaves outside. Peaceful indoor mood. Kass Kiti: small white cat, yellow long-sleeved sweater, no bows. Koer Muku: small brown dog with long soft ears, blue long-sleeved sweater, nothing on his back. The teapot is a round red ceramic teapot with a side handle and a spout. The picture fills the whole frame, no band at the bottom.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "KITI JA MUKU ON TOAS.",
-      "scene": "Inside the warm kitchen with light blue walls and wooden floor. Kass Kiti (the white cat in a yellow sweater) and Koer Muku (the brown dog in a blue sweater) are standing by a wooden table, smiling at each other. On the wooden table sit an empty red teapot and two empty colorful ceramic mugs. The window in the background shows rain outside.",
+      "scene": "Inside the warm kitchen with light blue walls and wooden floor. Kass Kiti (the white cat in a yellow sweater) and Koer Muku (the brown dog in a blue sweater) are standing by a wooden table, smiling at each other. On the wooden table sit an empty red teapot and two empty colorful ceramic mugs. The window in the background shows rain outside. Kass Kiti: small white cat, yellow long-sleeved sweater, no bows. Koer Muku: small brown dog with long soft ears, blue long-sleeved sweater, nothing on his back. The teapot is a round red ceramic teapot with a side handle and a spout. The picture fills the whole frame, no band at the bottom.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "NAD TEEVAD SOOJA TEED.",
-      "scene": "Kass Kiti and Koer Muku stand happily at the wooden kitchen table. Kass Kiti points eagerly to a small bowl filled with bright red berries. Koer Muku holds the red teapot on the wooden table. Warm and cheerful atmosphere in the blue-walled room.",
+      "scene": "Kass Kiti and Koer Muku stand happily at the wooden kitchen table. Kass Kiti points eagerly to a small bowl filled with bright red berries. Koer Muku holds the red teapot on the wooden table. Warm and cheerful atmosphere in the blue-walled room. Kass Kiti: small white cat, yellow long-sleeved sweater, no bows. Koer Muku: small brown dog with long soft ears, blue long-sleeved sweater, nothing on his back. The teapot is a round red ceramic teapot with a side handle and a spout. The picture fills the whole frame, no band at the bottom.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "KITI PANEB POTTI PUNASEID MARJU.",
-      "scene": "Kass Kiti (the white cat in a yellow sweater) carefully drops bright red berries from a small bowl into the red teapot on the wooden table. Koer Muku (the brown dog in a blue sweater) watches excitedly next to her. Blue kitchen walls, wooden floor.",
+      "scene": "Kass Kiti carefully drops bright red berries from a small bowl into the open top of the round red teapot on the wooden table (the berries go into the teapot, not into a bowl). Koer Muku watches excitedly next to her. Blue kitchen walls, wooden floor. Kass Kiti: small white cat, yellow long-sleeved sweater, no bows. Koer Muku: small brown dog with long soft ears, blue long-sleeved sweater, nothing on his back. The teapot is a round red ceramic teapot with a side handle and a spout. The picture fills the whole frame, no band at the bottom.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "MUKU VALAB POTTI PUHAST VETT.",
-      "scene": "Koer Muku (the brown dog in a blue sweater) gently pours fresh clear water from a small glass pitcher into the red teapot on the wooden table. Kass Kiti (the white cat in a yellow sweater) claps her paws joyfully while watching. Warm lighting in the light blue kitchen.",
+      "scene": "Koer Muku gently pours fresh clear water from a small glass pitcher into the open top of the round red teapot on the wooden table (the water goes into the teapot, not into a glass). Kass Kiti claps her paws joyfully while watching. Warm lighting in the light blue kitchen. Kass Kiti: small white cat, yellow long-sleeved sweater, no bows. Koer Muku: small brown dog with long soft ears, blue long-sleeved sweater, nothing on his back. The teapot is a round red ceramic teapot with a side handle and a spout. The picture fills the whole frame, no band at the bottom.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "MAGUS TEE LÕHNAB VÄGA HÄSTI.",
-      "scene": "Light warm steam curls upward from the spout of the red teapot sitting on the wooden table. Kass Kiti and Koer Muku lean slightly over the table with closed eyes and big smiles, happily smelling the fruity scent of the warm tea. Light blue walls, cozy kitchen environment.",
+      "scene": "Light warm steam curls upward from the spout of the red teapot sitting on the wooden table. Kass Kiti and Koer Muku lean slightly over the table with closed eyes and big smiles, happily smelling the fruity scent of the warm tea. Light blue walls, cozy kitchen environment. Kass Kiti: small white cat, yellow long-sleeved sweater, no bows. Koer Muku: small brown dog with long soft ears, blue long-sleeved sweater, nothing on his back. The teapot is a round red ceramic teapot with a side handle and a spout. The picture fills the whole frame, no band at the bottom.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
       "text": "NAD JOOVAD TASSIDEST SOOJA TEED.",
-      "scene": "Kass Kiti and Koer Muku sit comfortably on chairs at the wooden kitchen table. Each character holds a warm ceramic mug with both paws, taking pleasant sips of warm tea. The red teapot rests on the table between them. Friendly, contented smiles.",
+      "scene": "Kass Kiti and Koer Muku sit comfortably on chairs at the wooden kitchen table. Each character holds a warm ceramic mug with both paws, taking pleasant sips of warm tea. The red teapot rests on the table between them. Friendly, contented smiles. Kass Kiti: small white cat, yellow long-sleeved sweater, no bows. Koer Muku: small brown dog with long soft ears, blue long-sleeved sweater, nothing on his back. The teapot is a round red ceramic teapot with a side handle and a spout. The picture fills the whole frame, no band at the bottom.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
       "text": "KITI JA MUKU ON VÄGA RÕÕMSAD.",
-      "scene": "Kass Kiti and Koer Muku sit side-by-side at the wooden kitchen table, waving happily towards the viewer with joy. The mugs and red teapot sit neatly on the table. Rain falls outside the window in the background, but the light blue kitchen inside is bright, warm, and joyful.",
+      "scene": "Kass Kiti and Koer Muku sit side-by-side at the wooden kitchen table, waving happily towards the viewer with joy. The mugs and red teapot sit neatly on the table. Rain falls outside the window in the background, but the light blue kitchen inside is bright, warm, and joyful. Kass Kiti: small white cat, yellow long-sleeved sweater, no bows. Koer Muku: small brown dog with long soft ears, blue long-sleeved sweater, nothing on his back. The teapot is a round red ceramic teapot with a side handle and a spout. The picture fills the whole frame, no band at the bottom.",
       "image": "page8.png",
       "location_id": "loc1"
     }
