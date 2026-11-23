@@ -1,0 +1,88 @@
+{
+  "date": "2026-12-04",
+  "language": "et",
+  "title": "MIKK JA ANNA TEEVAD PIPARKOOKE",
+  "generatedAt": "2026-11-23T02:02:00.477Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "MIKK",
+      "type": "human",
+      "description": "Väike inimene (poiss) kollase kampsuni ja tumedate lühikeste juustega, rõõmus näoilme, punased põsed. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "ANNA",
+      "type": "human",
+      "description": "Väike inimene (tüdruk) punase kampsuni ja kahe pruuni patsiga, sõbralik ja naerul nägu. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Kodune köök",
+      "description": "Cozy home kitchen with light blue walls, wooden floor, red kitchen cabinets on the right side, and a sturdy wooden table in the center. A square window on the back wall shows falling snow outside. Warm indoor light, clean cozy atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "MIKK JA ANNA ON KÖÖGIS.",
+      "scene": "Mikk (a small boy in a yellow sweater) and Anna (a small girl in a red sweater with braids) stand together in a cozy kitchen next to a wooden table. They are smiling at each other. The kitchen has light blue walls, red cabinets, and a window in the back showing soft snow outside. Warm indoor lighting, landscape composition, cute cartoon style.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "AKNA TAGA SAJAB LUND.",
+      "scene": "Anna and Mikk stand by the square window on the back wall of the blue kitchen, looking outside with happy expressions. Outside the window, soft white snowflakes fall from the sky. The kitchen table is in the foreground. Bright warm lighting inside. Cartoon style.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "ANNA RULLIB PRUUNI TAIGNAT.",
+      "scene": "Anna stands at the wooden table in the light blue kitchen, holding a wooden rolling pin with both hands and rolling out smooth brown gingerbread dough. Mikk stands beside her watching happily. Flour is sprinkled lightly on the wooden table. Red cabinets are visible on the right wall. Cartoon style.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "MIKK VAJUTAB TAIGNASSE TÄHED.",
+      "scene": "Mikk leans over the wooden table holding a star-shaped metal cookie cutter, pressing star shapes into the rolled-out brown dough. Anna smiles while watching him. The kitchen has blue walls, wooden floor, and a warm atmosphere. Cartoon style.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "NAD PANEVAD PIPARKOOGID AHJU.",
+      "scene": "Mikk and Anna together carefully place a baking tray full of star-shaped unbaked gingerbread cookies into a warm oven built into the red kitchen cabinets. Both kids look excited and proud. Light blue background walls. Cartoon style.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "KÖÖK TÄITUB HEA LÕHNAGA.",
+      "scene": "Mikk and Anna sit together at the wooden kitchen table, sniffing the air happily as warm steam with small cartoon scent swirls floats out from the oven. They look delighted. Falling snow is visible through the window behind them. Cartoon style.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "ANNA JA MIKK SÖÖVAD PIPARKOOKE.",
+      "scene": "Anna and Mikk are sitting at the wooden table in the blue kitchen, holding fresh golden-brown star cookies in their hands and taking a bite. A plate with remaining star cookies sits between them on the table. Both look very happy. Cartoon style.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "MÕLEMAD LAPSED ON RÕÕMSAD.",
+      "scene": "Mikk and Anna stand side-by-side in front of the kitchen window, holding hands and waving cheerfully to the viewer with giant smiles. The cozy kitchen has warm light, blue walls, and snowy scenery outside the window. Satisfying and happy ending. Cartoon style.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
