@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-30",
+  "language": "et",
+  "title": "KITI JA MUKU TEEVAD TEED",
+  "generatedAt": "2026-11-23T01:31:01.261Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "KASS KITI",
+      "type": "cat",
+      "description": "Väike valge kass kollase kampsuniga, suurte roheliste silmadega ja sõbraliku naeratusega. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "KOER MUKU",
+      "type": "dog",
+      "description": "Väike pruun koer sinise kampsuniga, pikkade pehmete kõrvadega ja lõbusa ilmega. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Õdus köök",
+      "description": "Cozy children's kitchen with light blue walls, wooden floor, single square window on back wall showing rainy autumn foliage outside, small wooden table with two chairs, wooden counter. Warm indoor lighting, cheerful and clean atmosphere. Cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ÕUES SAJAB PALJU VIHMA.",
+      "scene": "Inside the cozy kitchen with light blue walls and wooden floor. Kass Kiti, a small white cat in a yellow sweater, and Koer Muku, a small brown dog in a blue sweater, stand side-by-side near the window, looking out together at the autumn rain falling on colorful leaves outside. Peaceful indoor mood.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "KITI JA MUKU ON TOAS.",
+      "scene": "Inside the warm kitchen with light blue walls and wooden floor. Kass Kiti (the white cat in a yellow sweater) and Koer Muku (the brown dog in a blue sweater) are standing by a wooden table, smiling at each other. On the wooden table sit an empty red teapot and two empty colorful ceramic mugs. The window in the background shows rain outside.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD SOOJA TEED.",
+      "scene": "Kass Kiti and Koer Muku stand happily at the wooden kitchen table. Kass Kiti points eagerly to a small bowl filled with bright red berries. Koer Muku holds the red teapot on the wooden table. Warm and cheerful atmosphere in the blue-walled room.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "KITI PANEB POTTI PUNASEID MARJU.",
+      "scene": "Kass Kiti (the white cat in a yellow sweater) carefully drops bright red berries from a small bowl into the red teapot on the wooden table. Koer Muku (the brown dog in a blue sweater) watches excitedly next to her. Blue kitchen walls, wooden floor.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MUKU VALAB POTTI PUHAST VETT.",
+      "scene": "Koer Muku (the brown dog in a blue sweater) gently pours fresh clear water from a small glass pitcher into the red teapot on the wooden table. Kass Kiti (the white cat in a yellow sweater) claps her paws joyfully while watching. Warm lighting in the light blue kitchen.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "MAGUS TEE LÕHNAB VÄGA HÄSTI.",
+      "scene": "Light warm steam curls upward from the spout of the red teapot sitting on the wooden table. Kass Kiti and Koer Muku lean slightly over the table with closed eyes and big smiles, happily smelling the fruity scent of the warm tea. Light blue walls, cozy kitchen environment.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD JOOVAD TASSIDEST SOOJA TEED.",
+      "scene": "Kass Kiti and Koer Muku sit comfortably on chairs at the wooden kitchen table. Each character holds a warm ceramic mug with both paws, taking pleasant sips of warm tea. The red teapot rests on the table between them. Friendly, contented smiles.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "KITI JA MUKU ON VÄGA RÕÕMSAD.",
+      "scene": "Kass Kiti and Koer Muku sit side-by-side at the wooden kitchen table, waving happily towards the viewer with joy. The mugs and red teapot sit neatly on the table. Rain falls outside the window in the background, but the light blue kitchen inside is bright, warm, and joyful.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
