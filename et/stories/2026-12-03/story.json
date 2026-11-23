@@ -1,0 +1,88 @@
+{
+  "date": "2026-12-03",
+  "language": "et",
+  "title": "ORAV OTT JA HIIR MIMI TEEVAD LUMELATERNA",
+  "generatedAt": "2026-11-23T01:54:44.964Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "ORAV OTT",
+      "type": "squirrel",
+      "description": "Väike oranž orav koheva saba ja tuttvate kõrvadega, kandmas rohelist mütsi ja kollast salli, sõbralik ja uudishimulik näoilme. Armas multifilmistiil.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "HIIR MIMI",
+      "type": "mouse",
+      "description": "Väike hall hiir suurte ümarate kõrvadega, kandmas punast kootud kampsunit, rõõmsameelne ilme. Armas multifilmistiil.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Lumine aed videvikus",
+      "description": "A cozy snowy garden at twilight. Deep fresh snow on the ground, a dark wooden garden fence in the background, a pine tree on the left, and a warm glowing cozy wooden house visible in the soft background. Twilight sky with soft blue and warm orange tones. Cute children's book cartoon style.",
+      "image": "loc1.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "OTT JA MIMI ON AIAS.",
+      "scene": "Ott the squirrel wearing a green hat and yellow scarf, and Mimi the mouse wearing a red sweater, stand together in a snowy garden at twilight. Snow covers the ground. Behind them is a wooden fence and a snow-covered pine tree. They are smiling happily. Cozy winter evening atmosphere.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "ÕUES ON PALJU VALGET LUND.",
+      "scene": "Ott the squirrel and Mimi the mouse look around the snowy garden, pointing excitedly at the deep fluffy white snow. Ott wears a green hat and yellow scarf, Mimi wears a red sweater. The background features a wooden fence and soft twilight sky.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "NAD TEEVAD VÄIKESEID LUMEPALLE.",
+      "scene": "Ott the squirrel and Mimi the mouse are kneeling in the snow. Ott is rolling a small round snowball between his paws. Mimi is rolling another small snowball on the ground. A neat pile of small round snowballs is sitting on the snow next to them.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "OTT PANEB PALLID RINGI.",
+      "scene": "Ott the squirrel carefully places the small round snowballs in a circle on the ground in the snowy garden. Mimi the mouse holds another snowball, ready to hand it to Ott. The circular base of a snow lantern is visible on the snow.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "MIMI TEEB LUMETORNI.",
+      "scene": "Mimi the mouse stacks snowballs higher to build a pyramid dome shape, while Ott the squirrel holds the side steady. They are building a hollow snow lantern structure together in the snow.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "OTT PANEB KÜÜNLA LATERNASSE.",
+      "scene": "Ott the squirrel gently places a tiny lighted electric tea candle inside the hollow snow lantern through a small opening. Mimi the mouse watches closely with a happy smile. Twilight atmosphere in the snowy garden.",
+      "image": "page6.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 7,
+      "text": "LUMELATERN SÄRAB SOOJALT.",
+      "scene": "The finished snow lantern built of snowballs glows warmly with bright orange light from inside, illuminating the surrounding white snow in the dusk. Ott the squirrel and Mimi the mouse sit right next to it, admiring the warm glow.",
+      "image": "page7.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 8,
+      "text": "OTT JA MIMI ON RÕÕMSAD.",
+      "scene": "Ott the squirrel and Mimi the mouse sit side by side in the snow next to the brightly glowing snow lantern, cheering and smiling at each other. Soft twilight winter evening with snow-covered pine tree and fence in the background.",
+      "image": "page8.png",
+      "location_id": "loc1"
+    }
+  ]
+}
