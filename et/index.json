@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-12-01",
+  "latestDate": "2026-12-02",
   "stories": [
+    {
+      "date": "2026-12-02",
+      "title": "KALLE JA RIIN SÕIDAVAD KELGUGA",
+      "pageCount": 8,
+      "characters": [
+        "KARU KALLE",
+        "REBANE RIIN"
+      ]
+    },
     {
       "date": "2026-12-01",
       "title": "PEETER JA LIISA TOIDAVAD LINDE",
