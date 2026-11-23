@@ -8,14 +8,14 @@
       "id": "char1",
       "name": "KARU KALLE",
       "type": "bear",
-      "description": "Väike pruun karu koheva karva ja ümarate kõrvadega, kandmas siniseid kindaid ja kollast triibulist salli. Sõbralik ja rõõmus näoilme, suured mustad silmad. Armas multifilmistiil.",
+      "description": "Väike pruun karu koheva karva ja ümarate kõrvadega, kaelas kollane triibuline sall ja käes sinised kindad, muid riideid pole. Sõbralik ja rõõmus näoilme, suured mustad silmad. Armas multifilmistiil.",
       "image": "char1.png"
     },
     {
       "id": "char2",
       "name": "REBANE RIIN",
       "type": "fox",
-      "description": "Väike oranž rebane koheva valge otsaga saba ja teravate kõrvadega, kandmas rohelist mütsi ja rohelisi kindaid. Naeratav ja energiline näoilme. Armas multifilmistiil.",
+      "description": "Väike oranž rebane koheva valge otsaga saba ja teravate kõrvadega, peas roheline kootud müts ja käes rohelised kindad, muid riideid pole. Naeratav ja energiline näoilme. Armas multifilmistiil.",
       "image": "char2.png"
     }
   ],
@@ -31,56 +31,56 @@
     {
       "pageNumber": 1,
       "text": "KALLE JA RIIN ON VALGES METSAS.",
-      "scene": "Karu Kalle (cute brown bear in yellow striped scarf and blue mittens) and Rebane Riin (cute orange fox in green hat and green mittens) standing side-by-side in a beautiful snowy pine forest, smiling warmly at each other. Soft sunlight filters through snowy trees. Landscape composition.",
+      "scene": "Karu Kalle (cute brown bear in yellow striped scarf and blue mittens) and Rebane Riin (cute orange fox in green hat and green mittens) standing side-by-side in a beautiful snowy pine forest, smiling warmly at each other. Soft sunlight filters through snowy trees. Landscape composition. Karu Kalle: brown bear with a round bear tail, yellow striped scarf, blue mittens, no shirt, no trousers. Rebane Riin: orange fox with a white-tipped fox tail, green knitted hat, green mittens, no shirt, no trousers. The picture fills the whole frame, no band at the bottom.",
       "image": "page1.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 2,
       "text": "KALLE VÕTAB SUURE PUNASE KELGU.",
-      "scene": "Karu Kalle pulls a bright red wooden sled out from behind a snowy evergreen bush. Rebane Riin stands nearby, clapping her green-gloved hands with excitement. The snowy forest background stays consistent.",
+      "scene": "Karu Kalle pulls a bright red wooden sled out from behind a snowy evergreen bush. Rebane Riin stands nearby, clapping her green-gloved hands with excitement. The snowy forest background stays consistent. Karu Kalle: brown bear with a round bear tail, yellow striped scarf, blue mittens, no shirt, no trousers. Rebane Riin: orange fox with a white-tipped fox tail, green knitted hat, green mittens, no shirt, no trousers. The picture fills the whole frame, no band at the bottom.",
       "image": "page2.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 3,
       "text": "NAD KÕNNIVAD SUURE MÄE OTSA.",
-      "scene": "Karu Kalle pulls the red wooden sled up a gentle snowy hill, while Rebane Riin walks right next to him helping push. Small cute footprints stretch behind them in the white snow.",
+      "scene": "Karu Kalle pulls the red wooden sled up a gentle snowy hill, while Rebane Riin walks right next to him helping push. Small cute footprints stretch behind them in the white snow. Karu Kalle: brown bear with a round bear tail, yellow striped scarf, blue mittens, no shirt, no trousers. Rebane Riin: orange fox with a white-tipped fox tail, green knitted hat, green mittens, no shirt, no trousers. The picture fills the whole frame, no band at the bottom.",
       "image": "page3.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 4,
       "text": "RIIN ISTUB KELGU PEALE.",
-      "scene": "At the top of the snowy hill, Rebane Riin is happily seated at the front of the red wooden sled, holding its steering rope. Karu Kalle stands right beside the sled ready to climb on.",
+      "scene": "At the top of the snowy hill, Rebane Riin is happily seated at the front of the red wooden sled, holding its steering rope. Karu Kalle stands right beside the sled ready to climb on. Karu Kalle: brown bear with a round bear tail, yellow striped scarf, blue mittens, no shirt, no trousers. Rebane Riin: orange fox with a white-tipped fox tail, green knitted hat, green mittens, no shirt, no trousers. The picture fills the whole frame, no band at the bottom.",
       "image": "page4.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 5,
       "text": "KALLE ISTUB RIINU TAHA.",
-      "scene": "Karu Kalle sits down on the red wooden sled directly behind Rebane Riin. Both characters look forward down the hill with joyful, excited expressions, ready to slide.",
+      "scene": "On the red wooden sled at the top of the snowy hill: Rebane Riin the fox sits in FRONT holding the rope, and Karu Kalle the bear sits BEHIND her. Both characters look forward down the hill with joyful, excited expressions, ready to slide. Karu Kalle: brown bear with a round bear tail, yellow striped scarf, blue mittens, no shirt, no trousers. Rebane Riin: orange fox with a white-tipped fox tail, green knitted hat, green mittens, no shirt, no trousers. The picture fills the whole frame, no band at the bottom.",
       "image": "page5.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 6,
       "text": "NAD SÕIDAVAD KIIRESTI MÄEST ALLA.",
-      "scene": "Karu Kalle and Rebane Riin slide fast down the snowy hill on their bright red sled. Gentle snow splashes up around the sled. Their scarves flutter slightly, and both characters are laughing happily.",
+      "scene": "Karu Kalle and Rebane Riin slide fast down the snowy hill on their bright red sled. Gentle snow splashes up around the sled. Their scarves flutter slightly, and both characters are laughing happily. Karu Kalle: brown bear with a round bear tail, yellow striped scarf, blue mittens, no shirt, no trousers. Rebane Riin: orange fox with a white-tipped fox tail, green knitted hat, green mittens, no shirt, no trousers. The picture fills the whole frame, no band at the bottom.",
       "image": "page6.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 7,
       "text": "KELK PEATUB PEHME LUME SEES.",
-      "scene": "At the bottom of the hill, the red sled comes to a smooth, safe stop in a soft drift of fluffy white snow. Karu Kalle and Rebane Riin remain seated on the sled, laughing with pure delight.",
+      "scene": "At the bottom of the hill, the red sled comes to a smooth, safe stop in a soft drift of fluffy white snow. Karu Kalle and Rebane Riin remain seated on the sled, laughing with pure delight. Karu Kalle: brown bear with a round bear tail, yellow striped scarf, blue mittens, no shirt, no trousers. Rebane Riin: orange fox with a white-tipped fox tail, green knitted hat, green mittens, no shirt, no trousers. The picture fills the whole frame, no band at the bottom.",
       "image": "page7.png",
       "location_id": "loc1"
     },
     {
       "pageNumber": 8,
       "text": "KALLE JA RIIN RÕÕMUSTAVAD KOOS.",
-      "scene": "Karu Kalle and Rebane Riin stand next to their red wooden sled at the foot of the hill, cheering with arms raised high in happiness. Beautiful bright winter lighting with gentle snowy pines in the background.",
+      "scene": "Karu Kalle and Rebane Riin stand next to their red wooden sled at the foot of the hill, cheering with arms raised high in happiness. Beautiful bright winter lighting with gentle snowy pines in the background. Karu Kalle: brown bear with a round bear tail, yellow striped scarf, blue mittens, no shirt, no trousers. Rebane Riin: orange fox with a white-tipped fox tail, green knitted hat, green mittens, no shirt, no trousers. The picture fills the whole frame, no band at the bottom.",
       "image": "page8.png",
       "location_id": "loc1"
     }
