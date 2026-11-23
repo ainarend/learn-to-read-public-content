@@ -1,0 +1,108 @@
+{
+  "date": "2026-12-01",
+  "language": "et",
+  "title": "PEETER JA LIISA TOIDAVAD LINDE",
+  "generatedAt": "2026-11-23T01:40:37.150Z",
+  "characters": [
+    {
+      "id": "char1",
+      "name": "PEETER",
+      "type": "human",
+      "description": "Väike poiss lühikeste pruunide juuste ja suurtie siniste silmadega. Tuppa on tal seljas roheline kampsun ja tumedad püksid. Õues on tal seljas sinine talvejope, kollane müts ja kollased kindad. Armas multifilmistiil, sõbralik ja naeratav näoilme.",
+      "image": "char1.png"
+    },
+    {
+      "id": "char2",
+      "name": "LIISA",
+      "type": "human",
+      "description": "Väike tüdruk kahe heleda patsiga ja pruunide silmadega. Tuppa on tal seljas punane kampsun ja hallid püksid. Õues on tal seljas punane talvejope, roosa müts ja roosa sall. Armas multifilmistiil, rõõmus ja uudishimulik näoilme.",
+      "image": "char2.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc1",
+      "name": "Mõnus soe tuba",
+      "description": "Cozy room with light yellow walls, wooden floor, a large glass window on the back wall showing snowy trees outside. A round wooden table stands in the center of the room. Warm sunny light streams through the window. Simple cartoon style with clean background.",
+      "image": "loc1.png"
+    },
+    {
+      "id": "loc2",
+      "name": "Lumine aed",
+      "description": "Snowy backyard garden with soft deep white snow on the ground, several snow-draped pine and birch trees. Clear bright blue winter sky overhead. In the background, a cozy small wooden house with a snow-covered roof is visible. Cartoon style.",
+      "image": "loc2.png"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "ÕUES ON PALJU LUND.",
+      "scene": "View from inside a warm cozy room looking out a large window at a beautiful winter landscape. Outside, deep white snow covers the ground and pine trees. Light yellow walls and warm sunlight fill the room. Simple landscape view through the window.",
+      "image": "page1.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 2,
+      "text": "PEETER JA LIISA VAATAVAD AKNAST.",
+      "scene": "Peeter (a small boy in a green sweater) and Liisa (a small girl with blonde pigtails in a red sweater) stand next to each other by the large window, looking outside at the snowy garden with happy curious expressions. The room has yellow walls and wooden floor.",
+      "image": "page2.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 3,
+      "text": "VÄIKESED LINNUD ON NÄLJASED.",
+      "scene": "Through the room window, two small round cute winter birds (titmice with yellow bellies) are sitting on a snow-covered tree branch outside, looking fluffily cold and searching for food. Peeter and Liisa watch them closely from inside the warm yellow room.",
+      "image": "page3.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 4,
+      "text": "LIISA VÕTAB KAUSIST SEEMNEID.",
+      "scene": "Inside the cozy room, Liisa stands at a wooden table holding a handful of sunflower seeds taken from a small clay bowl on the table. Peeter stands beside her watching happily. The room has yellow walls and warm sunlight.",
+      "image": "page4.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 5,
+      "text": "PEETER PANEB SEEMNED MAJJA.",
+      "scene": "Inside the room at the wooden table, Peeter carefully places the seeds into a small wooden birdhouse sitting on the table. Liisa smiles warmly as she watches Peeter put the seeds inside the little wooden house.",
+      "image": "page5.png",
+      "location_id": "loc1"
+    },
+    {
+      "pageNumber": 6,
+      "text": "LAPSED VIIVAD LINNUMAJA ÕUE.",
+      "scene": "Outside in the snowy garden with deep white snow. Peeter is wearing a blue winter jacket and yellow hat, carefully carrying the small wooden birdhouse with both hands. Liisa is wearing a red winter jacket and pink hat, walking happily beside him.",
+      "image": "page6.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 7,
+      "text": "NAD RIPUTAVAD MAJA PUU KÜLGE.",
+      "scene": "In the snowy garden, Peeter reaches up carefully to hang the small wooden birdhouse onto a snow-covered tree branch. Liisa stands next to him helping and pointing at the branch with a big happy smile. Soft white snow on the ground.",
+      "image": "page7.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 8,
+      "text": "LINNUD LENDAVAD RÕÕMSALT SÖÖMA.",
+      "scene": "In the snowy garden, two cute little yellow-breasted birds fly down happily from the sky toward the newly hung wooden birdhouse on the tree. Peeter and Liisa stand nearby in their winter coats, watching delightedly.",
+      "image": "page8.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 9,
+      "text": "LINNUD LAULAVAD ILUSAT LAULU.",
+      "scene": "In the snowy garden, two cute little birds sit on the small wooden birdhouse, eating seeds and chirping joyfully with open beaks. Peeter and Liisa stand together under the tree, smiling widely and listening to the birds.",
+      "image": "page9.png",
+      "location_id": "loc2"
+    },
+    {
+      "pageNumber": 10,
+      "text": "PEETER JA LIISA ON RÕÕMSAD.",
+      "scene": "In the snowy garden, Peeter and Liisa hold hands and smile happily at the viewer, with the birdhouse full of feeding little birds hanging on the snow-draped tree behind them. Bright cheerful winter sun overhead.",
+      "image": "page10.png",
+      "location_id": "loc2"
+    }
+  ]
+}

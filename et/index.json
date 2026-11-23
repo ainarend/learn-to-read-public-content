@@ -1,7 +1,16 @@
 {
   "language": "et",
-  "latestDate": "2026-11-30",
+  "latestDate": "2026-12-01",
   "stories": [
+    {
+      "date": "2026-12-01",
+      "title": "PEETER JA LIISA TOIDAVAD LINDE",
+      "pageCount": 10,
+      "characters": [
+        "PEETER",
+        "LIISA"
+      ]
+    },
     {
       "date": "2026-11-30",
       "title": "KITI JA MUKU TEEVAD TEED",
